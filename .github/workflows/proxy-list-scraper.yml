@@ -39,8 +39,8 @@ jobs:
           
       - name: Commit files
         run: |
-          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git config --local user.name "Proxy Scraper Bot"
+          git config --local user.email "60120589+caliwyr@users.noreply.github.com"
+          git config --local user.name "Caliwyr"
           git add -A
           git commit -m "Update Proxies (`date '+%F %H:%M %Z'`)" -a
           git branch -u origin/master
