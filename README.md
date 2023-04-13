@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|378|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|378|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|378|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|338|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|338|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|338|
 
 ## Sources
 
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|157.90.153.104|8888|Germany|Falkenstein|Hetzner Online GmbH|
-|2|20.210.38.220|3129|Japan|Tokyo|Microsoft Corporation|
-|3|20.210.34.43|3129|Japan|Tokyo|Microsoft Corporation|
-|4|5.78.65.102|8080|United States|Portland|Hetzner Online GmbH|
+|1|20.210.27.99|3129|Japan|Tokyo|Microsoft Corporation|
+|2|157.90.153.104|8888|Germany|Falkenstein|Hetzner Online GmbH|
+|3|20.210.26.15|3129|Japan|Tokyo|Microsoft Corporation|
+|4|91.107.227.164|8080|Germany|Frankfurt Am Main|Hetzner Online AG|
 |5|20.210.37.125|3129|Japan|Tokyo|Microsoft Corporation|
-|6|5.78.75.64|8080|United States|Portland|Hetzner Online GmbH|
-|7|157.90.169.85|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|8|95.217.3.133|8080|Finland|Helsinki|Hetzner Online GmbH|
-|9|20.210.27.99|3129|Japan|Tokyo|Microsoft Corporation|
-|10|65.109.233.198|8080|Finland|Helsinki|Hetzner Online GmbH|
-|11|5.78.78.180|8080|United States|Portland|Hetzner Online GmbH|
-|12|95.216.150.236|8080|Finland|Helsinki|Hetzner Online GmbH|
-|13|5.78.65.23|8080|United States|Portland|Hetzner Online GmbH|
-|14|20.210.26.15|3129|Japan|Tokyo|Microsoft Corporation|
-|15|5.78.75.64|8080|United States|Portland|Hetzner Online GmbH|
-|16|88.99.38.93|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|17|5.78.65.23|8080|United States|Portland|Hetzner Online GmbH|
+|6|65.108.157.140|8080|Finland|Helsinki|Hetzner Online GmbH|
+|7|5.78.75.64|8080|United States|Portland|Hetzner Online GmbH|
+|8|99.45.137.21|3128|United States|Miami|AT&T Services, Inc.|
+|9|20.210.27.159|3129|Japan|Tokyo|Microsoft Corporation|
+|10|88.99.38.93|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|11|5.78.65.23|8080|United States|Portland|Hetzner Online GmbH|
+|12|167.71.205.47|8080|Singapore|Singapore|DigitalOcean, LLC|
+|13|20.210.38.220|3129|Japan|Tokyo|Microsoft Corporation|
+|14|95.217.3.133|8080|Finland|Helsinki|Hetzner Online GmbH|
+|15|20.210.34.121|3129|Japan|Tokyo|Microsoft Corporation|
+|16|20.210.34.43|3129|Japan|Tokyo|Microsoft Corporation|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |18|20.210.25.252|3129|Japan|Tokyo|Microsoft Corporation|
-|19|5.78.65.102|8080|United States|Portland|Hetzner Online GmbH|
-|20|167.71.205.47|8080|Singapore|Singapore|DigitalOcean, LLC|
+|19|65.108.62.123|8080|Finland|Helsinki|Hetzner Online GmbH|
+|20|8.219.176.202|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 
 
 
