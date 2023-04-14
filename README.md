@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|378|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|378|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|378|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|321|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|321|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|321|
 
 ## Sources
 
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.69.79.158|8443|United States|Quincy|Microsoft Corporation|
-|2|187.130.139.197|8080|Mexico|Mazatlán|Uninet S.A. de C.V.|
-|3|5.78.65.172|8080|United States|Portland|Hetzner Online GmbH|
-|4|43.157.66.170|8080|Germany|Frankfurt|Shenzhen Tencent Computer Systems Company Limited|
-|5|162.55.47.78|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|6|5.78.88.216|8080|United States|Portland|Hetzner Online GmbH|
-|7|8.218.239.151|3128|Hong Kong|Central|Alibaba (US) Technology Co., Ltd.|
-|8|5.78.80.94|8080|United States|Portland|Hetzner Online GmbH|
-|9|5.78.96.253|8080|United States|Portland|Hetzner Online GmbH|
-|10|23.88.63.221|8080|Germany|Gunzenhausen|Hetzner Online GmbH|
-|11|5.78.76.117|8080|United States|Portland|Hetzner Online GmbH|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|101.101.210.167|3128|South Korea|Seongnam-si|NBP|
-|14|51.159.36.88|29652|France|Paris|SCALEWAY|
-|15|5.78.88.216|8080|United States|Portland|Hetzner Online GmbH|
-|16|5.78.98.68|8080|United States|Portland|Hetzner Online GmbH|
-|17|189.90.241.194|8080|Brazil|Joao Monlevade|Companhia Itabirana Telecomunicações Ltda|
-|18|5.78.80.94|8080|United States|Portland|Hetzner Online GmbH|
-|19|20.99.187.69|8443|United States|Quincy|Microsoft Corporation|
-|20|135.181.104.247|8080|Finland|Helsinki|Hetzner Online GmbH|
+|1|43.157.66.170|8080|Germany|Frankfurt|Shenzhen Tencent Computer Systems Company Limited|
+|2|5.78.80.94|8080|United States|Portland|Hetzner Online GmbH|
+|3|5.78.98.68|8080|United States|Portland|Hetzner Online GmbH|
+|4|5.78.80.94|8080|United States|Portland|Hetzner Online GmbH|
+|5|5.78.65.172|8080|United States|Portland|Hetzner Online GmbH|
+|6|5.78.76.117|8080|United States|Portland|Hetzner Online GmbH|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|5.78.65.172|8080|United States|Portland|Hetzner Online GmbH|
+|9|5.78.88.216|8080|United States|Portland|Hetzner Online GmbH|
+|10|5.78.96.253|8080|United States|Portland|Hetzner Online GmbH|
+|11|51.159.36.88|29652|France|Paris|SCALEWAY|
+|12|61.28.233.217|3128|Vietnam|Ho Chi Minh City|Vinadata broadcast via vinagame AS Number|
+|13|5.78.98.68|8080|United States|Portland|Hetzner Online GmbH|
+|14|5.78.96.253|8080|United States|Portland|Hetzner Online GmbH|
+|15|101.101.210.167|3128|South Korea|Seongnam-si|NBP|
+|16|5.78.76.117|8080|United States|Portland|Hetzner Online GmbH|
+|17|115.85.181.194|3128|South Korea|Seongnam-si|NBP|
+|18|34.66.5.144|8888|United States|Council Bluffs|Google LLC|
+|19|5.78.92.68|50001|United States|Portland|Hetzner Online GmbH|
+|20|162.55.47.78|8080|Germany|Falkenstein|Hetzner Online GmbH|
 
 
 
