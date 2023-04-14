@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **6048** proxies at the latest update. Usable proxies are below.
+> Scraper found **5966** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|416|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|416|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|416|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|375|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|375|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|375|
 
 ## Sources
 
@@ -37,7 +37,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1483|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1401|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|854|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2628|✅|
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.172.199.88|8080|Japan|Gifu|KITAGATA|
-|2|8.219.176.202|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|8.218.239.151|3128|Hong Kong|Central|Alibaba (US) Technology Co., Ltd.|
-|4|5.78.76.214|8080|United States|Portland|Hetzner Online GmbH|
-|5|115.144.101.201|10001|South Korea|Gangdong-gu|Korea Telecom|
-|6|64.225.8.192|80|United States|Clifton|DigitalOcean, LLC|
-|7|51.159.115.233|3128|France|Paris|SCALEWAY|
-|8|65.108.230.239|42899|Finland|Helsinki|Hetzner Online GmbH|
-|9|103.69.108.78|8191|Philippines|Santiago|CITI Cableworld Inc.|
-|10|178.216.249.130|8080|Iran|Tehran|Asiatech Data Transmission company|
-|11|152.67.10.190|8100|India|Mumbai|Oracle Corporation|
-|12|45.229.205.235|55551|Argentina|Avellaneda|Visio RED SRL|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|14|103.83.179.106|8181|Indonesia|Tangerang|PT SOLUSI TRIMEGAH PERSADA|
-|15|3.122.1.31|8080|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|16|103.176.96.136|8082|Indonesia|Purwakarta|PT Global Sarana Elektronika|
-|17|45.229.205.234|55551|Argentina|Avellaneda|Visio RED SRL|
+|1|115.144.102.39|10080|South Korea|Gangdong-gu|Korea Telecom|
+|2|210.172.199.88|8080|Japan|Gifu|KITAGATA|
+|3|115.144.101.201|10001|South Korea|Gangdong-gu|Korea Telecom|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|5.78.76.214|8080|United States|Portland|Hetzner Online GmbH|
+|6|23.88.46.48|8080|Germany|Gunzenhausen|Hetzner Online GmbH|
+|7|8.219.176.202|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|20.99.187.69|8443|United States|Quincy|Microsoft Corporation|
+|9|20.69.79.158|8443|United States|Quincy|Microsoft Corporation|
+|10|64.225.8.82|9985|United States|Clifton|DigitalOcean, LLC|
+|11|103.69.108.78|8191|Philippines|Santiago|CITI Cableworld Inc.|
+|12|103.102.176.42|3128|Indonesia|Bandung|Winet Media Persada|
+|13|103.92.26.190|4002|Vietnam|Ho Chi Minh City|TLSOFT|
+|14|103.169.19.130|8080|Indonesia|Sleman|PT Aplikanusa Lintasarta|
+|15|102.130.192.231|8080|Angola|Luanda|Finstar - Sociedade de Investimento e Participacoes S.A|
+|16|45.166.144.5|999|Chile|Santiago|Fullsolution S.P.A.|
+|17|20.69.79.158|8443|United States|Quincy|Microsoft Corporation|
 |18|183.221.242.111|8443|China|Mianyang|China Mobile|
-|19|179.48.191.2|8088|Brazil|Goiânia|Libre Telecom Eireli|
-|20|103.78.242.176|2019|Malaysia|Malacca|Light Cloud|
+|19|51.159.115.233|3128|France|Paris|SCALEWAY|
+|20|212.174.55.151|8080|Turkey|Istanbul|TurkTelecom|
 
 
 
