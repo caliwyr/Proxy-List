@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|326|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|326|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|326|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|292|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|292|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|292|
 
 ## Sources
 
@@ -48,25 +48,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
-|2|64.225.8.82|9992|United States|Clifton|DigitalOcean, LLC|
-|3|43.156.100.152|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|47.244.32.96|80|Hong Kong|Central|Alibaba.com LLC|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|167.71.205.47|8080|Singapore|Singapore|DigitalOcean, LLC|
-|7|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
-|8|128.140.10.178|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|9|158.69.53.132|9300|Canada|Montreal|OVH SAS|
-|10|103.121.149.69|8080|Indonesia|Jakarta|PT EMERIO INDONESIA|
-|11|8.219.176.202|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|61.28.233.217|3128|Vietnam|Ho Chi Minh City|Vinadata broadcast via vinagame AS Number|
-|13|43.229.149.154|8080|Thailand|Pak Kret|Siamdata Communication Co.|
-|14|45.229.205.12|55555|Argentina|Avellaneda|Visio RED SRL|
-|15|103.69.108.78|8191|Philippines|Santiago|CITI Cableworld Inc.|
-|16|5.78.42.62|50001|United States|Portland|Hetzner Online GmbH|
-|17|210.172.199.88|8080|Japan|Gifu|KITAGATA|
-|18|118.70.109.148|55443|Vietnam|Hanoi|FPT Telecom Company|
-|19|209.141.62.12|5555|United States|Las Vegas|FranTech Solutions|
-|20|149.255.39.225|8118|United States|Chicago|HIVELOCITY, Inc.|
+|2|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
+|3|152.228.206.188|80|France|Paris|OVH SAS|
+|4|8.219.176.202|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|43.229.149.154|8080|Thailand|Pak Kret|Siamdata Communication Co.|
+|6|65.108.245.144|8080|Finland|Helsinki|Hetzner Online GmbH|
+|7|192.154.253.67|8123|United States|Charlotte|Tier.Net Technologies LLC|
+|8|167.71.205.47|8080|Singapore|Singapore|DigitalOcean, LLC|
+|9|40.119.236.22|80|Singapore|Singapore|Microsoft Corporation|
+|10|3.89.73.90|8118|United States|Ashburn|Amazon Technologies Inc.|
+|11|187.130.139.197|8080|Mexico|Mazatlán|Uninet S.A. de C.V.|
+|12|157.245.222.183|80|United States|Clifton|DigitalOcean, LLC|
+|13|64.225.8.82|9995|United States|Clifton|DigitalOcean, LLC|
+|14|115.144.101.201|10001|South Korea|Gangdong-gu|Korea Telecom|
+|15|103.121.149.69|8080|Indonesia|Jakarta|PT EMERIO INDONESIA|
+|16|183.221.242.111|8443|China|Mianyang|China Mobile|
+|17|43.156.100.152|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|18|103.69.108.78|8191|Philippines|Santiago|CITI Cableworld Inc.|
+|19|81.12.44.197|3129|Iran|Tehran|RESPINA Networks|
+|20|5.78.44.6|8080|United States|Portland|Hetzner Online GmbH|
 
 
 
