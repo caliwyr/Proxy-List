@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|292|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|292|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|292|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|324|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|324|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|324|
 
 ## Sources
 
@@ -48,25 +48,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
-|2|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
-|3|152.228.206.188|80|France|Paris|OVH SAS|
+|2|8.218.239.151|3128|Hong Kong|Central|Alibaba (US) Technology Co., Ltd.|
+|3|43.229.149.154|8080|Thailand|Pak Kret|Siamdata Communication Co.|
 |4|8.219.176.202|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|43.229.149.154|8080|Thailand|Pak Kret|Siamdata Communication Co.|
-|6|65.108.245.144|8080|Finland|Helsinki|Hetzner Online GmbH|
-|7|192.154.253.67|8123|United States|Charlotte|Tier.Net Technologies LLC|
-|8|167.71.205.47|8080|Singapore|Singapore|DigitalOcean, LLC|
-|9|40.119.236.22|80|Singapore|Singapore|Microsoft Corporation|
-|10|3.89.73.90|8118|United States|Ashburn|Amazon Technologies Inc.|
-|11|187.130.139.197|8080|Mexico|Mazatlán|Uninet S.A. de C.V.|
-|12|157.245.222.183|80|United States|Clifton|DigitalOcean, LLC|
-|13|64.225.8.82|9995|United States|Clifton|DigitalOcean, LLC|
-|14|115.144.101.201|10001|South Korea|Gangdong-gu|Korea Telecom|
-|15|103.121.149.69|8080|Indonesia|Jakarta|PT EMERIO INDONESIA|
-|16|183.221.242.111|8443|China|Mianyang|China Mobile|
-|17|43.156.100.152|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|18|103.69.108.78|8191|Philippines|Santiago|CITI Cableworld Inc.|
-|19|81.12.44.197|3129|Iran|Tehran|RESPINA Networks|
-|20|5.78.44.6|8080|United States|Portland|Hetzner Online GmbH|
+|5|167.71.205.47|8080|Singapore|Singapore|DigitalOcean, LLC|
+|6|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
+|7|51.75.6.247|3128|France|Gravelines|OVH SAS|
+|8|65.108.245.144|8080|Finland|Helsinki|Hetzner Online GmbH|
+|9|5.78.42.62|50001|United States|Portland|Hetzner Online GmbH|
+|10|43.156.100.152|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|11|157.245.222.183|80|United States|Clifton|DigitalOcean, LLC|
+|12|158.69.71.245|9300|Canada|Montreal|OVH SAS|
+|13|115.144.101.201|10001|South Korea|Gangdong-gu|Korea Telecom|
+|14|40.119.236.22|80|Singapore|Singapore|Microsoft Corporation|
+|15|187.130.139.197|8080|Mexico|Mazatlán|Uninet S.A. de C.V.|
+|16|80.14.219.107|3128|France|Livry-Gargan|France Telecom|
+|17|102.39.84.10|8080|South Africa|Queensburgh|Vox Telecom|
+|18|143.198.182.218|80|United States|North Bergen|DigitalOcean, LLC|
+|19|185.15.172.212|3128|Russia|Moscow|SafeData LLC|
+|20|183.221.242.111|8443|China|Mianyang|China Mobile|
 
 
 
