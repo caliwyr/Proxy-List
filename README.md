@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|458|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|458|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|458|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|469|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|469|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|469|
 
 ## Sources
 
@@ -48,25 +48,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|100.21.80.30|80|United States|Portland|Amazon.com, Inc.|
-|2|82.66.18.27|8080|France|Bordeaux|Proxad / Free SAS|
-|3|210.172.199.88|8080|Japan|Gifu|KITAGATA|
-|4|61.28.233.217|3128|Vietnam|Ho Chi Minh City|Vinadata broadcast via vinagame AS Number|
-|5|100.21.80.30|80|United States|Portland|Amazon.com, Inc.|
-|6|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|7|43.156.100.152|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|103.69.108.78|8191|Philippines|Santiago|CITI Cableworld Inc.|
-|10|8.219.176.202|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|189.223.215.147|999|Mexico|Ensenada|Uninet S.A. de C.V.|
-|12|103.121.149.69|8080|Indonesia|Jakarta|PT EMERIO INDONESIA|
-|13|152.228.206.188|80|France|Paris|OVH SAS|
-|14|183.88.212.184|8080|Thailand|Pluak Daeng|Triple T Broadband Public Company Limited|
-|15|45.61.187.67|4008|United States|Miami|FranTech Solutions|
-|16|43.229.148.70|8080|Thailand|Pak Kret|Siamdata Communication Co.|
-|17|103.211.26.222|8181|Indonesia|Madiun|PT Olean Permata Telematika|
-|18|103.169.254.164|8061|Indonesia|Banyuwangi|PT Master Star Network|
-|19|101.255.164.50|3129|Indonesia|Bekasi|PT Remala Abadi|
-|20|5.78.73.197|8080|United States|Portland|Hetzner Online GmbH|
+|2|18.232.159.169|8118|United States|Ashburn|Amazon.com, Inc.|
+|3|100.21.80.30|80|United States|Portland|Amazon.com, Inc.|
+|4|8.219.176.202|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|18.232.159.169|8118|United States|Ashburn|Amazon.com, Inc.|
+|6|24.164.58.61|32650|United States|Riverview|Charter Communications|
+|7|8.218.239.151|3128|Hong Kong|Central|Alibaba (US) Technology Co., Ltd.|
+|8|159.203.104.153|8200|United States|Clifton|DigitalOcean, LLC|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|34.233.119.103|80|United States|Ashburn|Amazon.com, Inc.|
+|11|43.229.148.70|8080|Thailand|Pak Kret|Siamdata Communication Co.|
+|12|210.172.199.88|8080|Japan|Gifu|KITAGATA|
+|13|40.119.236.22|80|Singapore|Singapore|Microsoft Corporation|
+|14|34.233.119.103|80|United States|Ashburn|Amazon.com, Inc.|
+|15|43.156.100.152|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|16|80.106.247.145|53410|Greece|Chalcis|Ote SA (Hellenic Telecommunications Organisation)|
+|17|103.121.149.69|8080|Indonesia|Jakarta|PT EMERIO INDONESIA|
+|18|41.220.114.154|8080|Kenya|Nairobi|COMMSOL|
+|19|103.75.197.16|3128|Germany|Frankfurt am Main|BitCommand LLC|
+|20|35.227.57.1|3128|United States|North Charleston|Google LLC|
 
 
 
