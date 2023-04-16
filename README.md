@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **6076** proxies at the latest update. Usable proxies are below.
+> Scraper found **6096** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|455|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|455|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|455|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|490|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|490|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|490|
 
 ## Sources
 
@@ -37,7 +37,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1221|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1241|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|875|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2897|✅|
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
-|2|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
-|3|167.71.205.47|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|8.219.176.202|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|5.78.100.184|8080|United States|Portland|Hetzner Online GmbH|
-|7|5.78.88.247|8080|United States|Portland|Hetzner Online GmbH|
+|1|179.96.28.58|80|Brazil|Alexania|G8 NETWORKS LTDA|
+|2|167.71.205.47|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|4|45.136.58.22|8888|Kazakhstan|Oral|Megahost Kazakhstan TOO|
+|5|51.75.7.244|3128|France|Gravelines|OVH SAS|
+|6|5.78.88.247|8080|United States|Portland|Hetzner Online GmbH|
+|7|8.219.176.202|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |8|5.78.73.197|8080|United States|Portland|Hetzner Online GmbH|
-|9|5.78.65.163|8080|United States|Portland|Hetzner Online GmbH|
-|10|143.198.182.218|80|United States|North Bergen|DigitalOcean, LLC|
-|11|210.172.199.88|8080|Japan|Gifu|KITAGATA|
-|12|8.218.239.151|3128|Hong Kong|Central|Alibaba (US) Technology Co., Ltd.|
-|13|176.99.2.43|1081|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
-|14|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|15|43.229.148.70|8080|Thailand|Pak Kret|Siamdata Communication Co.|
-|16|40.119.236.22|80|Singapore|Singapore|Microsoft Corporation|
-|17|194.135.247.250|8080|Russia|Moscow|Moscow Local Telephone Network (OAO MGTS)|
-|18|103.69.108.78|8191|Philippines|Santiago|CITI Cableworld Inc.|
-|19|115.144.102.39|10080|South Korea|Gangdong-gu|Korea Telecom|
-|20|103.83.179.106|8181|Indonesia|Tangerang|PT SOLUSI TRIMEGAH PERSADA|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|5.78.65.163|8080|United States|Portland|Hetzner Online GmbH|
+|11|5.78.100.184|8080|United States|Portland|Hetzner Online GmbH|
+|12|209.141.62.12|5555|United States|Las Vegas|FranTech Solutions|
+|13|171.101.130.126|8080|Thailand|Udon Thani|True Internet Corporation CO. Ltd.|
+|14|192.109.244.221|8080|Poland|Lodz|IWACOM Sp. z o.o.|
+|15|5.78.99.255|50001|United States|Portland|Hetzner Online GmbH|
+|16|152.228.206.188|80|France|Paris|OVH SAS|
+|17|45.79.24.54|8080|United States|Richardson|Akamai Technologies, Inc.|
+|18|194.135.247.250|8080|Russia|Moscow|Moscow Local Telephone Network (OAO MGTS)|
+|19|51.75.5.148|3128|France|Gravelines|OVH SAS|
+|20|43.156.100.152|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 
 
 
