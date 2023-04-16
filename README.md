@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **6447** proxies at the latest update. Usable proxies are below.
+> Scraper found **6449** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -37,7 +37,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1399|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1401|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|959|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3006|✅|
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|192.109.244.221|8080|Poland|Lodz|IWACOM Sp. z o.o.|
-|2|51.79.64.240|8080|Canada|Beauharnois|OVH SAS|
-|3|179.96.28.58|80|Brazil|Alexania|G8 NETWORKS LTDA|
-|4|183.82.100.253|3128|India|Hyderabad|Beam Telecom Pvt Ltd|
-|5|8.219.176.202|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|40.119.236.22|80|Singapore|Singapore|Microsoft Corporation|
-|8|103.69.108.78|8191|Philippines|Santiago|CITI Cableworld Inc.|
-|9|115.144.102.39|10080|South Korea|Gangdong-gu|Korea Telecom|
-|10|5.161.110.95|50001|United States|Ashburn|Hetzner Online GmbH|
-|11|43.229.148.70|8080|Thailand|Pak Kret|Siamdata Communication Co.|
-|12|45.239.123.18|999|Chile|Santiago|Sociedad Pirque NET Limitada|
-|13|180.178.188.126|8080|Pakistan|Lahore|KK Networks (Pvt.) Limited|
-|14|103.75.199.142|8080|Germany|Frankfurt am Main|BitCommand LLC|
-|15|187.19.166.107|20183|Brazil|Pereiro|Brisanet Servicos De Telecomunicacoes Ltda|
-|16|5.78.73.197|8080|United States|Portland|Hetzner Online GmbH|
-|17|110.34.3.229|3128|Nepal|Kathmandu|SUBISU C7|
-|18|5.78.88.247|8080|United States|Portland|Hetzner Online GmbH|
-|19|71.19.248.67|8001|Canada|Vancouver|eSecureData|
-|20|103.169.43.235|55443|Indonesia|Gunungsitoli|PT Digital Gemilang Solusi|
+|1|34.233.119.103|80|United States|Ashburn|Amazon.com, Inc.|
+|2|34.233.119.103|80|United States|Ashburn|Amazon.com, Inc.|
+|3|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|51.75.5.151|3128|France|Gravelines|OVH SAS|
+|6|179.96.28.58|80|Brazil|Alexania|G8 NETWORKS LTDA|
+|7|139.255.198.189|80|Indonesia|Jakarta|PT. First Media, Tbk|
+|8|43.229.148.70|8080|Thailand|Pak Kret|Siamdata Communication Co.|
+|9|110.168.255.170|8118|Thailand|Bangkok|TRUENET|
+|10|103.69.108.78|8191|Philippines|Santiago|CITI Cableworld Inc.|
+|11|8.219.176.202|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|5.78.73.197|8080|United States|Portland|Hetzner Online GmbH|
+|13|210.172.199.88|8080|Japan|Gifu|KITAGATA|
+|14|5.78.88.247|8080|United States|Portland|Hetzner Online GmbH|
+|15|40.119.236.22|80|Singapore|Singapore|Microsoft Corporation|
+|16|5.78.65.163|8080|United States|Portland|Hetzner Online GmbH|
+|17|5.78.100.184|8080|United States|Portland|Hetzner Online GmbH|
+|18|202.72.220.83|8080|Indonesia|Jakarta|PT ARTHA TELEKOMINDO|
+|19|184.105.182.254|3128|United States|Gilroy|Hurricane Electric LLC|
+|20|43.156.100.152|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 
 
 
