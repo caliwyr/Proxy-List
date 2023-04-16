@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **6694** proxies at the latest update. Usable proxies are below.
+> Scraper found **6614** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|328|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|328|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|328|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|629|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|629|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|629|
 
 ## Sources
 
@@ -37,7 +37,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1658|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1578|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1023|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2930|✅|
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|5.78.100.184|8080|United States|Portland|Hetzner Online GmbH|
-|2|5.78.65.163|8080|United States|Portland|Hetzner Online GmbH|
-|3|5.78.100.184|8080|United States|Portland|Hetzner Online GmbH|
-|4|5.78.65.163|8080|United States|Portland|Hetzner Online GmbH|
-|5|135.181.207.246|8080|Finland|Helsinki|Hetzner Online GmbH|
-|6|115.144.102.39|10080|South Korea|Gangdong-gu|Korea Telecom|
-|7|210.172.199.88|8080|Japan|Gifu|KITAGATA|
+|1|5.78.92.68|50001|United States|Portland|Hetzner Online GmbH|
+|2|5.78.100.184|8080|United States|Portland|Hetzner Online GmbH|
+|3|135.181.207.246|8080|Finland|Helsinki|Hetzner Online GmbH|
+|4|51.79.50.31|9300|Canada|Beauharnois|OVH SAS|
+|5|5.78.65.163|8080|United States|Portland|Hetzner Online GmbH|
+|6|54.196.191.168|8118|United States|Ashburn|Amazon.com, Inc.|
+|7|143.198.182.218|80|United States|North Bergen|DigitalOcean, LLC|
 |8|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
-|9|167.71.205.47|8080|Singapore|Singapore|DigitalOcean, LLC|
-|10|152.67.10.190|8100|India|Mumbai|Oracle Corporation|
-|11|54.196.191.168|8118|United States|Ashburn|Amazon.com, Inc.|
+|9|5.78.100.184|8080|United States|Portland|Hetzner Online GmbH|
+|10|5.78.65.163|8080|United States|Portland|Hetzner Online GmbH|
+|11|8.218.239.151|3128|Hong Kong|Central|Alibaba (US) Technology Co., Ltd.|
 |12|8.219.176.202|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|43.229.148.70|8080|Thailand|Pak Kret|Siamdata Communication Co.|
-|14|177.130.104.106|33333|Brazil|Presidente Venceslau|FIT Telecom Eireli|
-|15|103.147.247.15|3127|Indonesia|Tangerang|PLBNET|
-|16|103.121.149.69|8080|Indonesia|Jakarta|PT EMERIO INDONESIA|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|18|103.176.116.166|83|India|Murshidabad|Gbpl Global Broadband Private Limited|
+|13|210.172.199.88|8080|Japan|Gifu|KITAGATA|
+|14|167.71.205.47|8080|Singapore|Singapore|DigitalOcean, LLC|
+|15|103.121.149.69|8080|Indonesia|Jakarta|PT EMERIO INDONESIA|
+|16|85.192.165.18|8080|Russia|Orenburg|Orenburg branch office of VolgaTelecom company|
+|17|152.67.10.190|8100|India|Mumbai|Oracle Corporation|
+|18|115.144.102.39|10080|South Korea|Gangdong-gu|Korea Telecom|
 |19|5.78.86.194|8080|United States|Portland|Hetzner Online GmbH|
-|20|103.118.33.170|8080|Australia|Brisbane|TechPath Pty Ltd|
+|20|193.106.138.52|3128|Ukraine|Kyiv|PJSC Industrial Media Network|
 
 
 
