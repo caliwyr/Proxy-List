@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **6134** proxies at the latest update. Usable proxies are below.
+> Scraper found **6258** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|468|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|468|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|468|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|526|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|526|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|526|
 
 ## Sources
 
@@ -37,9 +37,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1372|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1414|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|833|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|915|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2846|✅|
 
 
@@ -51,22 +51,22 @@ Click the file format that you want and copy the URL.
 |2|100.21.80.30|80|United States|Portland|Amazon.com, Inc.|
 |3|81.200.157.9|8090|Poland|Warsaw|Artnet Sp. z o.o.|
 |4|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
-|5|210.172.199.88|8080|Japan|Gifu|KITAGATA|
-|6|100.21.80.30|80|United States|Portland|Amazon.com, Inc.|
-|7|45.136.58.22|8888|Kazakhstan|Oral|Megahost Kazakhstan TOO|
-|8|157.245.27.9|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|152.228.206.188|80|France|Paris|OVH SAS|
-|10|103.69.108.78|8191|Philippines|Santiago|CITI Cableworld Inc.|
-|11|45.79.24.54|8080|United States|Richardson|Akamai Technologies, Inc.|
-|12|43.156.100.152|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|13|159.138.130.126|8999|Hong Kong|Hong Kong|Huawei International Pte. Ltd.|
-|14|8.219.176.202|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|15|37.120.192.154|8080|Netherlands|Amsterdam|M247 Europe SRL|
-|16|64.225.4.12|9976|United States|Clifton|DigitalOcean, LLC|
-|17|23.132.185.101|53128|Norway|Sandefjord|Joseph Farnell|
-|18|192.154.253.67|8123|United States|Charlotte|Tier.Net Technologies LLC|
-|19|38.83.74.2|443|United States|Miami|Cogent Communications|
-|20|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
+|5|157.245.27.9|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|6|45.79.24.54|8080|United States|Richardson|Akamai Technologies, Inc.|
+|7|209.222.98.213|55909|United States|Folcroft|ReliableSite.Net LLC|
+|8|100.21.80.30|80|United States|Portland|Amazon.com, Inc.|
+|9|80.14.219.107|3128|France|Livry-Gargan|France Telecom|
+|10|192.154.253.67|8123|United States|Charlotte|Tier.Net Technologies LLC|
+|11|43.156.100.152|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|12|81.12.44.197|3129|Iran|Tehran|RESPINA Networks|
+|13|64.225.4.12|9960|United States|Clifton|DigitalOcean, LLC|
+|14|43.229.148.70|8080|Thailand|Pak Kret|Siamdata Communication Co.|
+|15|103.69.108.78|8191|Philippines|Santiago|CITI Cableworld Inc.|
+|16|37.120.192.154|8080|Netherlands|Amsterdam|M247 Europe SRL|
+|17|210.172.199.88|8080|Japan|Gifu|KITAGATA|
+|18|185.15.172.212|3128|Russia|Moscow|SafeData LLC|
+|19|115.144.101.201|10001|South Korea|Gangdong-gu|Korea Telecom|
+|20|45.5.147.21|8090|Brazil|Alexandria|J P Targino Serviços de Cominicação Multimidia|
 
 
 
