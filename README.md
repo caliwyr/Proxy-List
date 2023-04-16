@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|568|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|568|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|568|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|546|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|546|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|546|
 
 ## Sources
 
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|179.96.28.58|80|Brazil|Alexania|G8 NETWORKS LTDA|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|80.14.219.107|3128|France|Livry-Gargan|France Telecom|
-|4|43.229.148.70|8080|Thailand|Pak Kret|Siamdata Communication Co.|
-|5|40.119.236.22|80|Singapore|Singapore|Microsoft Corporation|
-|6|8.219.176.202|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|180.178.188.126|8080|Pakistan|Lahore|KK Networks (Pvt.) Limited|
-|8|102.130.192.231|8080|Angola|Luanda|Finstar - Sociedade de Investimento e Participacoes S.A|
-|9|45.224.22.117|999|Ecuador|Riobamba|Nedetel S.A.|
-|10|43.156.100.152|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|11|5.78.73.197|8080|United States|Portland|Hetzner Online GmbH|
-|12|64.27.27.104|9090|United States|Irvine|Multacom Corporation|
-|13|173.213.96.179|8111|United States|Phoenix|Eonix Corporation|
-|14|5.78.88.247|8080|United States|Portland|Hetzner Online GmbH|
-|15|110.34.3.229|3128|Nepal|Kathmandu|SUBISU C7|
-|16|5.78.65.163|8080|United States|Portland|Hetzner Online GmbH|
-|17|5.78.100.184|8080|United States|Portland|Hetzner Online GmbH|
-|18|103.46.8.46|8181|Indonesia|Malang|PT JARINGANKU SARANA NUSANTARA|
-|19|157.90.164.50|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|20|192.154.253.67|8123|United States|Charlotte|Tier.Net Technologies LLC|
+|1|192.109.244.221|8080|Poland|Lodz|IWACOM Sp. z o.o.|
+|2|51.79.64.240|8080|Canada|Beauharnois|OVH SAS|
+|3|179.96.28.58|80|Brazil|Alexania|G8 NETWORKS LTDA|
+|4|183.82.100.253|3128|India|Hyderabad|Beam Telecom Pvt Ltd|
+|5|8.219.176.202|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|40.119.236.22|80|Singapore|Singapore|Microsoft Corporation|
+|8|103.69.108.78|8191|Philippines|Santiago|CITI Cableworld Inc.|
+|9|115.144.102.39|10080|South Korea|Gangdong-gu|Korea Telecom|
+|10|5.161.110.95|50001|United States|Ashburn|Hetzner Online GmbH|
+|11|43.229.148.70|8080|Thailand|Pak Kret|Siamdata Communication Co.|
+|12|45.239.123.18|999|Chile|Santiago|Sociedad Pirque NET Limitada|
+|13|180.178.188.126|8080|Pakistan|Lahore|KK Networks (Pvt.) Limited|
+|14|103.75.199.142|8080|Germany|Frankfurt am Main|BitCommand LLC|
+|15|187.19.166.107|20183|Brazil|Pereiro|Brisanet Servicos De Telecomunicacoes Ltda|
+|16|5.78.73.197|8080|United States|Portland|Hetzner Online GmbH|
+|17|110.34.3.229|3128|Nepal|Kathmandu|SUBISU C7|
+|18|5.78.88.247|8080|United States|Portland|Hetzner Online GmbH|
+|19|71.19.248.67|8001|Canada|Vancouver|eSecureData|
+|20|103.169.43.235|55443|Indonesia|Gunungsitoli|PT Digital Gemilang Solusi|
 
 
 
