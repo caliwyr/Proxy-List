@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **6319** proxies at the latest update. Usable proxies are below.
+> Scraper found **6342** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|437|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|437|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|437|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|423|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|423|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|423|
 
 ## Sources
 
@@ -37,9 +37,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1323|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1367|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1006|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|985|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2907|✅|
 
 
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|187.130.139.197|8080|Mexico|Mazatlán|Uninet S.A. de C.V.|
+|1|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
 |2|100.21.80.30|80|United States|Portland|Amazon.com, Inc.|
-|3|167.235.35.185|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|4|100.21.80.30|80|United States|Portland|Amazon.com, Inc.|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|40.119.236.22|80|Singapore|Singapore|Microsoft Corporation|
-|7|51.79.50.31|9300|Canada|Beauharnois|OVH SAS|
-|8|8.219.176.202|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|210.172.199.88|8080|Japan|Gifu|KITAGATA|
-|10|103.121.149.69|8080|Indonesia|Jakarta|PT EMERIO INDONESIA|
-|11|43.156.100.152|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|64.225.4.12|9979|United States|Clifton|DigitalOcean, LLC|
+|4|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
+|5|167.99.238.124|80|United States|North Bergen|DigitalOcean, LLC|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|100.21.80.30|80|United States|Portland|Amazon.com, Inc.|
+|8|34.207.96.203|8118|United States|Ashburn|Amazon.com, Inc.|
+|9|40.119.236.22|80|Singapore|Singapore|Microsoft Corporation|
+|10|210.172.199.88|8080|Japan|Gifu|KITAGATA|
+|11|8.219.176.202|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |12|179.96.28.58|80|Brazil|Alexania|G8 NETWORKS LTDA|
-|13|190.162.209.249|8080|Chile|La Florida|VTR BANDA ANCHA S.A.|
-|14|93.185.74.214|8088|Kazakhstan|Astana|JSC "KazTransCom"|
-|15|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
-|16|44.56.0.1|8118|United States|Level Corner|University of California, San Diego|
-|17|64.225.8.82|9987|United States|Clifton|DigitalOcean, LLC|
-|18|63.239.220.109|8080|United States|Okeechobee|CenturyLink Communications, LLC|
-|19|176.193.12.144|55443|Russia|Moscow|Net By Net Holding LLC|
-|20|103.156.15.68|8080|Indonesia|VILLA PERMATA HIJAU|PT Lintas Jaringan Nusantara|
+|13|45.235.123.26|999|Paraguay|Ciudad del Este|Cenmont S.A|
+|14|43.156.100.152|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|15|115.144.101.201|10001|South Korea|Gangdong-gu|Korea Telecom|
+|16|152.228.206.188|80|France|Paris|OVH SAS|
+|17|103.156.15.68|8080|Indonesia|VILLA PERMATA HIJAU|PT Lintas Jaringan Nusantara|
+|18|103.121.149.69|8080|Indonesia|Jakarta|PT EMERIO INDONESIA|
+|19|64.225.4.29|9499|United States|Clifton|DigitalOcean, LLC|
+|20|5.161.180.82|50001|United States|Ashburn|Hetzner Online GmbH|
 
 
 
