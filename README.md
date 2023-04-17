@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **6512** proxies at the latest update. Usable proxies are below.
+> Scraper found **6505** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|553|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|553|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|553|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|366|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|366|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|366|
 
 ## Sources
 
@@ -37,9 +37,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1639|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1627|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1047|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1052|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2743|✅|
 
 
@@ -48,25 +48,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
-|2|152.228.206.188|80|France|Paris|OVH SAS|
-|3|157.245.27.9|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|4|102.165.4.52|8001|United States|Ashburn|Tier.Net Technologies LLC|
-|5|100.21.80.30|80|United States|Portland|Amazon.com, Inc.|
-|6|158.69.71.245|9300|Canada|Montreal|OVH SAS|
-|7|45.136.58.51|8888|Kazakhstan|Oral|Megahost Kazakhstan TOO|
-|8|210.172.199.88|8080|Japan|Gifu|KITAGATA|
-|9|8.219.176.202|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
-|11|115.144.101.201|10001|South Korea|Gangdong-gu|Korea Telecom|
-|12|51.159.0.236|3128|France|Paris|SCALEWAY|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|14|164.68.123.119|9300|Germany|Nuremberg|Contabo GmbH|
-|15|34.66.5.144|8888|United States|Council Bluffs|Google LLC|
-|16|134.209.102.107|8080|Singapore|Singapore|DigitalOcean, LLC|
+|2|187.130.139.197|8080|Mexico|Mazatlán|Uninet S.A. de C.V.|
+|3|192.154.253.67|8123|United States|Charlotte|Tier.Net Technologies LLC|
+|4|40.119.236.22|80|Singapore|Singapore|Microsoft Corporation|
+|5|172.105.42.20|3132|India|Mumbai|Akamai Technologies|
+|6|8.219.176.202|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|152.228.206.188|80|France|Paris|OVH SAS|
+|8|51.159.115.233|3128|France|Paris|SCALEWAY|
+|9|100.21.80.30|80|United States|Portland|Amazon.com, Inc.|
+|10|24.164.58.61|32650|United States|Riverview|Charter Communications|
+|11|138.117.85.161|8080|Colombia|Pitalito|Sinergy Soluciones Integrales|
+|12|116.104.238.212|4007|Vietnam|Thanh Xuan|Viettel Corporation|
+|13|123.182.59.142|8089|China|Zhangjiakou|Chinanet|
+|14|117.69.236.61|8089|China|Rongcheng|Chinanet|
+|15|45.61.187.67|4007|United States|Miami|FranTech Solutions|
+|16|172.104.44.165|3128|Singapore|Singapore|Akamai Technologies|
 |17|100.21.80.30|80|United States|Portland|Amazon.com, Inc.|
-|18|167.99.238.124|80|United States|North Bergen|DigitalOcean, LLC|
-|19|102.165.4.52|8001|United States|Ashburn|Tier.Net Technologies LLC|
-|20|40.119.236.22|80|Singapore|Singapore|Microsoft Corporation|
+|18|186.159.6.164|1994|Colombia|Medellín|Edatel S.a. E.S.P|
+|19|103.121.149.69|8080|Indonesia|Jakarta|PT EMERIO INDONESIA|
+|20|177.23.12.221|8080|Brazil|Tres de Maio|Sulnet Telecom|
 
 
 
