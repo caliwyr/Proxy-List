@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|388|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|388|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|388|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|403|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|403|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|403|
 
 ## Sources
 
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.172.199.88|8080|Japan|Gifu|KITAGATA|
-|2|100.21.80.30|80|United States|Portland|Amazon.com, Inc.|
+|1|100.21.80.30|80|United States|Portland|Amazon.com, Inc.|
+|2|167.99.238.124|80|United States|North Bergen|DigitalOcean, LLC|
 |3|179.96.28.58|80|Brazil|Alexania|G8 NETWORKS LTDA|
 |4|100.21.80.30|80|United States|Portland|Amazon.com, Inc.|
-|5|183.88.199.212|8080|Thailand|Si Maha Phot|Triple T Broadband Public Company Limited|
-|6|40.119.236.22|80|Singapore|Singapore|Microsoft Corporation|
-|7|43.156.100.152|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|8|185.15.172.212|3128|Russia|Moscow|SafeData LLC|
-|9|115.144.101.201|10001|South Korea|Gangdong-gu|Korea Telecom|
-|10|8.219.176.202|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|115.144.102.39|10080|South Korea|Gangdong-gu|Korea Telecom|
-|12|216.215.123.174|8080|United States|Houston|Logix|
-|13|81.12.44.197|3129|Iran|Tehran|RESPINA Networks|
-|14|76.181.157.122|32650|United States|Byesville|Charter Communications Inc|
-|15|192.154.253.67|8123|United States|Charlotte|Tier.Net Technologies LLC|
-|16|174.138.184.82|45523|United States|Secaucus|Interserver, Inc|
-|17|100.21.80.30|80|United States|Portland|Amazon.com, Inc.|
-|18|71.19.248.67|8001|Canada|Vancouver|eSecureData|
-|19|210.172.199.88|8080|Japan|Gifu|KITAGATA|
-|20|185.135.157.89|8080|Netherlands|Amsterdam|Diva-C OOO|
+|5|119.8.120.4|80|Hong Kong|Hong Kong|Huawei International Pte. LTD|
+|6|183.88.199.212|8080|Thailand|Si Maha Phot|Triple T Broadband Public Company Limited|
+|7|193.187.111.173|3129|United States|Ashburn|Cox Communications Inc.|
+|8|77.52.178.157|8087|Ukraine|Kyiv|UMC|
+|9|152.228.206.188|80|France|Paris|OVH SAS|
+|10|103.69.108.78|8191|Philippines|Santiago|CITI Cableworld Inc.|
+|11|43.156.100.152|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|12|8.219.176.202|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|185.252.29.210|8090|Iran|Tehran|Shabakeh Ertebatat Artak Towseeh LTD|
+|14|47.244.32.96|80|Hong Kong|Central|Alibaba.com LLC|
+|15|71.19.248.67|8001|Canada|Vancouver|eSecureData|
+|16|115.144.101.201|10001|South Korea|Gangdong-gu|Korea Telecom|
+|17|176.193.12.144|55443|Russia|Moscow|Net By Net Holding LLC|
+|18|193.187.111.232|3129|United States|Ashburn|Cox Communications Inc.|
+|19|174.138.184.82|45523|United States|Secaucus|Interserver, Inc|
+|20|100.21.80.30|80|United States|Portland|Amazon.com, Inc.|
 
 
 
