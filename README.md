@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **5962** proxies at the latest update. Usable proxies are below.
+> Scraper found **5759** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|333|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|333|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|333|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|270|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|270|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|270|
 
 ## Sources
 
@@ -37,9 +37,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1329|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1204|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|831|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|753|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2719|✅|
 
 
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
+|1|100.21.80.30|80|United States|Portland|Amazon.com, Inc.|
 |2|100.21.80.30|80|United States|Portland|Amazon.com, Inc.|
-|3|152.228.206.188|80|France|Paris|OVH SAS|
-|4|164.68.123.119|9300|Germany|Nuremberg|Contabo GmbH|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
 |5|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
-|6|100.21.80.30|80|United States|Portland|Amazon.com, Inc.|
-|7|40.119.236.22|80|Singapore|Singapore|Microsoft Corporation|
-|8|85.196.179.34|8080|Bulgaria|Sofia|Mobiltel BNG|
-|9|82.66.18.27|8080|France|Bordeaux|Proxad / Free SAS|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|51.79.50.31|9300|Canada|Beauharnois|OVH SAS|
-|12|102.130.192.231|8080|Angola|Luanda|Finstar - Sociedade de Investimento e Participacoes S.A|
-|13|43.156.100.152|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|14|201.229.250.21|8080|Dominican Republic|Santo Domingo Este|Compañía Dominicana de Teléfonos S. A.|
-|15|179.51.125.154|999|Colombia|Tocancipa|HV TELEVISION S.A.S|
-|16|8.219.176.202|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|17|187.72.98.136|8080|Brazil|Betim|ALGAR TELECOM S/A|
-|18|168.205.37.4|8080|Brazil|Petrolina|WANTEL TECNOLOGIA LTDA. ­ EPP|
-|19|103.69.108.78|8191|Philippines|Santiago|CITI Cableworld Inc.|
-|20|43.229.148.70|8080|Thailand|Pak Kret|Siamdata Communication Co.|
+|6|8.219.176.202|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|201.229.250.21|8080|Dominican Republic|Santo Domingo Este|Compañía Dominicana de Teléfonos S. A.|
+|8|103.171.183.201|8181|Indonesia|Cideng|PT Hayat Teknologi Informatika|
+|9|168.205.37.4|8080|Brazil|Petrolina|WANTEL TECNOLOGIA LTDA. ­ EPP|
+|10|200.25.254.193|54240|Colombia|Neiva|Andinet ON Line|
+|11|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|12|188.163.170.130|41209|Ukraine|Lviv|Kyivstar UA|
+|13|176.100.216.154|8087|Russia|Orekhovo-Zuyevo|Telecom-Uslugi|
+|14|100.21.80.30|80|United States|Portland|Amazon.com, Inc.|
+|15|177.105.232.114|8080|Brazil|Paracatu|Internet Pinheirense Ltda - ME|
+|16|100.21.80.30|80|United States|Portland|Amazon.com, Inc.|
+|17|116.105.25.124|11001|Vietnam|Liên Chiểu|Viettel Corporation|
+|18|142.132.239.210|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|19|5.78.45.87|8080|United States|Portland|Hetzner Online GmbH|
+|20|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
 
 
 
