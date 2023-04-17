@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **5982** proxies at the latest update. Usable proxies are below.
+> Scraper found **5926** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|416|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|416|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|416|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|357|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|357|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|357|
 
 ## Sources
 
@@ -37,7 +37,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1267|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1211|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|869|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2763|✅|
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|100.21.80.30|80|United States|Portland|Amazon.com, Inc.|
-|2|103.200.30.106|8080|Hong Kong|Hong Kong|CLOUDIE|
-|3|8.219.176.202|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|5.78.45.87|8080|United States|Portland|Hetzner Online GmbH|
+|1|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
+|2|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
+|3|159.138.130.126|8999|Hong Kong|Hong Kong|Huawei International Pte. Ltd.|
+|4|100.21.80.30|80|United States|Portland|Amazon.com, Inc.|
 |5|100.21.80.30|80|United States|Portland|Amazon.com, Inc.|
-|6|5.78.99.255|50001|United States|Portland|Hetzner Online GmbH|
-|7|119.8.120.4|80|Hong Kong|Hong Kong|Huawei International Pte. LTD|
+|6|5.161.180.82|50001|United States|Ashburn|Hetzner Online GmbH|
+|7|118.174.53.136|8080|Thailand|Udon Thani|TOT Public Company Limited|
 |8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|80.14.219.107|3128|France|Livry-Gargan|France Telecom|
-|10|103.106.77.14|8080|Indonesia|Jakarta|PT Quantum Tera Multimedia|
-|11|210.172.199.88|8080|Japan|Gifu|KITAGATA|
-|12|138.201.111.171|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|13|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
-|14|115.144.101.201|10001|South Korea|Gangdong-gu|Korea Telecom|
-|15|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
-|16|94.232.11.178|46449|Russia|Moscow|MEGAFON-AS|
-|17|202.165.47.90|55443|Indonesia|Jakarta|Circlecom|
-|18|210.61.216.63|60808|Taiwan|New Taipei|Chunghwa Telecom Co., Ltd.|
-|19|64.227.23.88|8118|United States|North Bergen|DigitalOcean, LLC|
-|20|103.162.62.41|8080|Indonesia|Yogyakarta|PT Ring Media Nusantara|
+|9|103.106.77.14|8080|Indonesia|Jakarta|PT Quantum Tera Multimedia|
+|10|51.79.50.22|9300|Canada|Beauharnois|OVH SAS|
+|11|186.225.19.57|8080|Brazil|Jundiaí|76 TELECOMUNICAÇÃO LTDA|
+|12|5.78.45.87|8080|United States|Portland|Hetzner Online GmbH|
+|13|188.187.189.216|3128|Russia|Yoshkar-Ola|JSC "ER-Telecom Holding"|
+|14|178.210.51.118|8080|Russia|Voronezh|JSC KVANT-TELEKOM|
+|15|188.132.221.24|8080|Turkey|Istanbul|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|16|41.216.186.145|8080|Indonesia|Jakarta|FASTHOSTING|
+|17|103.93.34.17|8999|Bangladesh|Kaliakair|Apple Communication Ltd.|
+|18|185.19.4.22|3128|Ukraine|Poltava|Triolan|
+|19|80.14.219.107|3128|France|Livry-Gargan|France Telecom|
+|20|114.7.27.98|8080|Indonesia|Balikpapan|PT. INDOSAT Tbk|
 
 
 
