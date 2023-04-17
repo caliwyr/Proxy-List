@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **5845** proxies at the latest update. Usable proxies are below.
+> Scraper found **5872** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|328|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|328|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|328|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|305|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|305|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|305|
 
 ## Sources
 
@@ -37,9 +37,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1180|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1239|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|863|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|831|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2719|✅|
 
 
@@ -49,24 +49,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|100.21.80.30|80|United States|Portland|Amazon.com, Inc.|
 |2|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
-|3|8.218.239.151|3128|Hong Kong|Central|Alibaba (US) Technology Co., Ltd.|
-|4|187.130.139.197|8080|Mexico|Mazatlán|Uninet S.A. de C.V.|
-|5|100.21.80.30|80|United States|Portland|Amazon.com, Inc.|
-|6|43.156.100.152|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|7|40.119.236.22|80|Singapore|Singapore|Microsoft Corporation|
-|8|82.66.18.27|8080|France|Bordeaux|Proxad / Free SAS|
-|9|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
-|10|81.12.44.197|3129|Iran|Tehran|RESPINA Networks|
-|11|51.79.50.31|9300|Canada|Beauharnois|OVH SAS|
-|12|179.51.125.154|999|Colombia|Tocancipa|HV TELEVISION S.A.S|
-|13|201.229.250.21|8080|Dominican Republic|Santo Domingo Este|Compañía Dominicana de Teléfonos S. A.|
-|14|168.205.37.4|8080|Brazil|Petrolina|WANTEL TECNOLOGIA LTDA. ­ EPP|
-|15|164.68.123.119|9300|Germany|Nuremberg|Contabo GmbH|
-|16|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|17|158.69.72.138|9300|Canada|Montreal|OVH SAS|
-|18|143.198.182.218|80|United States|North Bergen|DigitalOcean, LLC|
-|19|105.29.164.174|8080|Kenya|Nairobi|SEACOM Limited|
-|20|115.144.102.39|10080|South Korea|Gangdong-gu|Korea Telecom|
+|3|162.218.120.131|8888|United States|Dallas|QuadraNet|
+|4|204.2.218.145|8080|United States|Calhoun|North Georgia Network Cooperative, Inc.|
+|5|107.161.95.41|8888|United States|Los Angeles|QuadraNet Enterprises LLC|
+|6|8.218.239.151|3128|Hong Kong|Central|Alibaba (US) Technology Co., Ltd.|
+|7|107.161.95.237|8888|United States|Los Angeles|QuadraNet Enterprises LLC|
+|8|107.161.95.199|8888|United States|Los Angeles|QuadraNet Enterprises LLC|
+|9|107.161.95.209|8888|United States|Los Angeles|QuadraNet Enterprises LLC|
+|10|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
+|11|100.21.80.30|80|United States|Portland|Amazon.com, Inc.|
+|12|107.161.95.41|8888|United States|Los Angeles|QuadraNet Enterprises LLC|
+|13|107.161.95.209|8888|United States|Los Angeles|QuadraNet Enterprises LLC|
+|14|107.161.95.237|8888|United States|Los Angeles|QuadraNet Enterprises LLC|
+|15|162.218.120.131|8888|United States|Dallas|QuadraNet|
+|16|204.2.218.145|8080|United States|Calhoun|North Georgia Network Cooperative, Inc.|
+|17|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
+|18|40.119.236.22|80|Singapore|Singapore|Microsoft Corporation|
+|19|103.69.108.78|8191|Philippines|Santiago|CITI Cableworld Inc.|
+|20|138.122.155.204|8080|Brazil|Foz do Iguaçu|New Oeste Telecom do Brasil - LTDA ME|
 
 
 
