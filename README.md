@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **6203** proxies at the latest update. Usable proxies are below.
+> Scraper found **6094** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|387|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|387|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|387|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|372|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|372|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|372|
 
 ## Sources
 
@@ -37,7 +37,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1346|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1237|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|978|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2796|✅|
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|100.21.80.30|80|United States|Portland|Amazon.com, Inc.|
-|2|43.153.48.181|20002|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|3|8.219.176.202|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
-|5|204.2.218.145|8080|United States|Calhoun|North Georgia Network Cooperative, Inc.|
+|1|102.165.4.52|8001|United States|Ashburn|Tier.Net Technologies LLC|
+|2|100.21.80.30|80|United States|Portland|Amazon.com, Inc.|
+|3|152.228.206.188|80|France|Paris|OVH SAS|
+|4|115.144.101.201|10001|South Korea|Gangdong-gu|Korea Telecom|
+|5|40.119.236.22|80|Singapore|Singapore|Microsoft Corporation|
 |6|102.165.4.52|8001|United States|Ashburn|Tier.Net Technologies LLC|
-|7|47.244.32.96|80|Hong Kong|Central|Alibaba.com LLC|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|129.154.225.163|8100|India|Mumbai|Oracle Corporation|
-|10|40.119.236.22|80|Singapore|Singapore|Microsoft Corporation|
-|11|152.228.206.188|80|France|Paris|OVH SAS|
-|12|157.245.27.9|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|43.153.48.181|20002|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|14|158.69.71.245|9300|Canada|Montreal|OVH SAS|
-|15|45.136.58.51|8888|Kazakhstan|Oral|Megahost Kazakhstan TOO|
-|16|51.159.115.233|3128|France|Paris|SCALEWAY|
-|17|100.21.80.30|80|United States|Portland|Amazon.com, Inc.|
-|18|2.56.62.76|3128|Turkey|Bursa|Yesilbir Bilisim Teknolojileri Bilgisayar Yayincilik Sanayi ve Ticaret Ltd. Sti|
-|19|161.97.97.155|3128|Germany|Nuremberg|Contabo GmbH|
-|20|204.2.218.145|8080|United States|Calhoun|North Georgia Network Cooperative, Inc.|
+|7|100.21.80.30|80|United States|Portland|Amazon.com, Inc.|
+|8|161.97.97.155|3128|Germany|Nuremberg|Contabo GmbH|
+|9|167.172.238.15|9988|United States|Clifton|DigitalOcean, LLC|
+|10|45.136.58.51|8888|Kazakhstan|Oral|Megahost Kazakhstan TOO|
+|11|61.28.233.217|3128|Vietnam|Ho Chi Minh City|Vinadata broadcast via vinagame AS Number|
+|12|103.52.213.131|80|Indonesia|South Tangerang|Kementerian Lingkungan Hidup|
+|13|216.169.73.65|34679|United States|Marysvale|South Central Communications, Inc.|
+|14|8.219.176.202|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|15|164.68.123.119|9300|Germany|Nuremberg|Contabo GmbH|
+|16|197.232.36.85|41890|Kenya|Nairobi|Jamii Telecommunications Limited|
+|17|129.154.225.163|8100|India|Mumbai|Oracle Corporation|
+|18|185.15.172.212|3128|Russia|Moscow|SafeData LLC|
+|19|115.144.102.39|10080|South Korea|Gangdong-gu|Korea Telecom|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 
 
 
