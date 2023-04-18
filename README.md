@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **6262** proxies at the latest update. Usable proxies are below.
+> Scraper found **6007** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|407|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|407|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|407|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|436|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|436|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|436|
 
 ## Sources
 
@@ -36,8 +36,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1173|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1218|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|820|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2886|✅|
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
-|2|35.238.50.230|3128|United States|Council Bluffs|Google LLC|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|5.78.64.160|8080|United States|Portland|Hetzner Online GmbH|
-|5|210.172.199.88|8080|Japan|Gifu|KITAGATA|
-|6|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
-|7|40.119.236.22|80|Singapore|Singapore|Microsoft Corporation|
-|8|164.155.254.23|8888|United States|Chicago|Aodao Inc|
-|9|103.163.134.4|8181|Indonesia|Plataran|PROVITEL|
-|10|100.21.80.30|443|United States|Portland|Amazon.com, Inc.|
-|11|103.122.65.12|1111|Indonesia|Banjar Paangkelod|PT. Jinom Network Indonesia|
-|12|8.219.176.202|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|100.21.80.30|443|United States|Portland|Amazon.com, Inc.|
-|14|24.192.227.234|8080|United States|Albion|WideOpenWest Finance LLC|
-|15|175.101.85.1|8080|India|Vijayawada|ExcellMedia Pvt Ltd|
-|16|81.12.44.197|3129|Iran|Tehran|RESPINA Networks|
-|17|5.161.110.95|50001|United States|Ashburn|Hetzner Online GmbH|
-|18|181.113.225.178|80|Ecuador|Guayaquil|Corporacion Nacional De Telecomunicaciones - CNT EP|
-|19|61.28.233.217|3128|Vietnam|Ho Chi Minh City|Vinadata broadcast via vinagame AS Number|
-|20|200.25.254.193|54240|Colombia|Neiva|Andinet ON Line|
+|1|5.161.110.95|50001|United States|Ashburn|Hetzner Online GmbH|
+|2|100.21.80.30|443|United States|Portland|Amazon.com, Inc.|
+|3|158.69.53.98|9300|Canada|Montreal|OVH SAS|
+|4|210.172.199.88|8080|Japan|Gifu|KITAGATA|
+|5|8.219.176.202|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|204.2.218.145|8080|United States|Calhoun|North Georgia Network Cooperative, Inc.|
+|7|35.238.50.230|3128|United States|Council Bluffs|Google LLC|
+|8|135.181.137.85|3128|Finland|Helsinki|Hetzner Online GmbH|
+|9|5.78.64.160|8080|United States|Portland|Hetzner Online GmbH|
+|10|115.144.102.39|10080|South Korea|Gangdong-gu|Korea Telecom|
+|11|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
+|12|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
+|13|210.186.107.228|8083|Malaysia|Johor Bahru|ADSL Streamyx Telekom Malaysia|
+|14|100.21.80.30|443|United States|Portland|Amazon.com, Inc.|
+|15|186.251.123.100|8080|Brazil|Sertanopolis|N G B Pires & CIA LTDA|
+|16|51.159.0.236|3128|France|Paris|SCALEWAY|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|18|5.161.110.95|50001|United States|Ashburn|Hetzner Online GmbH|
+|19|103.124.137.203|8080|Indonesia|Boro|Global Media Data Prima|
+|20|103.122.65.12|1111|Indonesia|Banjar Paangkelod|PT. Jinom Network Indonesia|
 
 
 
