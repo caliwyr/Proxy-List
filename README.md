@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **6396** proxies at the latest update. Usable proxies are below.
+> Scraper found **6395** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|422|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|422|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|422|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|391|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|391|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|391|
 
 ## Sources
 
@@ -37,9 +37,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1326|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1366|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|820|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|779|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2867|✅|
 
 
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.172.199.88|8080|Japan|Gifu|KITAGATA|
-|2|47.74.34.81|1111|Japan|Tokyo|Alibaba.com LLC|
-|3|164.155.254.23|8888|United States|Chicago|Aodao Inc|
-|4|8.218.239.151|3128|Hong Kong|Central|Alibaba (US) Technology Co., Ltd.|
-|5|210.186.107.228|8083|Malaysia|Johor Bahru|ADSL Streamyx Telekom Malaysia|
-|6|146.190.80.98|8080|Singapore|Singapore|DigitalOcean, LLC|
-|7|212.46.230.102|6969|Russia|Moscow|PJSC "Vimpelcom"|
-|8|212.24.102.167|3128|Lithuania|Vilnius|UAB "Interneto vizija"|
-|9|190.61.97.229|999|Guatemala|Guatemala City|UFINET Guatemala S. A|
-|10|158.69.158.107|8050|Canada|Montreal|OVH Hosting|
-|11|201.182.251.142|999|Colombia|Pasto|SP SISTEMAS PALACIOS LTDA|
-|12|103.168.44.41|9191|Indonesia|Semarang|PT CYB Media Group|
-|13|79.137.20.39|11211|France|Gravelines|OVH SAS|
-|14|200.110.105.72|999|Mexico|Rio Grande|Wistarip S De RL De CV|
-|15|103.111.118.68|1080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
-|16|45.79.122.208|3128|India|Mumbai|Akamai Technologies, Inc.|
-|17|192.154.253.67|8123|United States|Charlotte|Tier.Net Technologies LLC|
-|18|64.225.4.81|9976|United States|Clifton|DigitalOcean, LLC|
-|19|45.189.112.225|999|Ecuador|Milagro|Anibal Humberto Enriquez Moncayo(Comunicate)|
-|20|204.199.174.5|999|Peru|Arequipa|Fiberred Sociedad Anonima Cerrada|
+|1|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|2|8.219.176.202|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|102.165.4.52|8001|United States|Ashburn|Tier.Net Technologies LLC|
+|4|210.186.107.228|8083|Malaysia|Johor Bahru|ADSL Streamyx Telekom Malaysia|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|192.154.253.67|8123|United States|Charlotte|Tier.Net Technologies LLC|
+|7|115.144.101.201|10001|South Korea|Gangdong-gu|Korea Telecom|
+|8|45.61.187.67|4002|United States|Miami|FranTech Solutions|
+|9|102.165.4.52|8001|United States|Ashburn|Tier.Net Technologies LLC|
+|10|187.19.203.64|8080|Brazil|Sao Paulo do Potengi|Brisanet Servicos De Telecomunicacoes Ltda|
+|11|38.44.237.50|999|Peru|Lima|Latin Cable|
+|12|103.144.38.78|8080|Indonesia|Batam|BIG|
+|13|51.79.50.22|9300|Canada|Beauharnois|OVH SAS|
+|14|43.156.100.152|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|15|103.164.222.82|3128|Indonesia|Jati Padang|PT iForte Global Internet|
+|16|94.231.192.125|8080|Turkey|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|17|125.129.141.87|443|South Korea|Eunpyeong-gu|Korea Telecom|
+|18|78.46.197.191|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|19|12.88.29.66|9080|United States|Pauls Valley|AT&T Services, Inc.|
+|20|203.142.77.226|8080|Indonesia|Jakarta|BIZNET|
 
 
 
