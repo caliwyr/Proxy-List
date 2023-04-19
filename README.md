@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **5984** proxies at the latest update. Usable proxies are below.
+> Scraper found **6029** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|365|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|365|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|365|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|384|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|384|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|384|
 
 ## Sources
 
@@ -37,9 +37,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1178|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1171|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|664|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|716|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2759|✅|
 
 
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|68.132.12.228|8888|United States|Staten Island|Verizon Communications|
-|2|5.78.87.47|8080|United States|Portland|Hetzner Online GmbH|
-|3|124.156.139.46|4780|Hong Kong|Central|Tencent Cloud Computing (Beijing) Co|
-|4|20.113.45.50|80|Germany|Frankfurt am Main|Microsoft Corporation|
-|5|152.228.206.188|80|France|Paris|OVH SAS|
+|1|5.161.110.95|50001|United States|Ashburn|Hetzner Online GmbH|
+|2|68.132.12.228|8888|United States|Staten Island|Verizon Communications|
+|3|5.78.87.47|8080|United States|Portland|Hetzner Online GmbH|
+|4|152.67.10.190|8100|India|Mumbai|Oracle Corporation|
+|5|68.132.12.228|8888|United States|Staten Island|Verizon Communications|
 |6|5.78.87.47|8080|United States|Portland|Hetzner Online GmbH|
-|7|8.218.239.151|3128|Hong Kong|Central|Alibaba (US) Technology Co., Ltd.|
-|8|5.161.180.82|50001|United States|Ashburn|Hetzner Online GmbH|
-|9|115.144.102.39|10080|South Korea|Gangdong-gu|Korea Telecom|
-|10|65.108.230.238|45977|Finland|Helsinki|Hetzner Online GmbH|
-|11|157.245.27.9|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|43.134.211.34|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|13|40.119.236.22|80|Singapore|Singapore|Microsoft Corporation|
-|14|159.138.130.126|8999|Hong Kong|Hong Kong|Huawei International Pte. Ltd.|
-|15|51.159.0.236|3128|France|Paris|SCALEWAY|
-|16|43.156.100.152|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|17|103.69.108.78|8191|Philippines|Santiago|CITI Cableworld Inc.|
-|18|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|65.108.230.238|45977|Finland|Helsinki|Hetzner Online GmbH|
+|8|40.119.236.22|80|Singapore|Singapore|Microsoft Corporation|
+|9|80.91.125.238|8089|Albania|Tirana|Abissnet ISP|
+|10|115.144.102.39|10080|South Korea|Gangdong-gu|Korea Telecom|
+|11|103.69.108.78|8191|Philippines|Santiago|CITI Cableworld Inc.|
+|12|8.219.176.202|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|81.12.44.197|3129|Iran|Tehran|RESPINA Networks|
+|14|37.120.192.154|8080|Netherlands|Amsterdam|M247 Europe SRL|
+|15|45.162.135.201|999|Chile|Santiago|Grupo Noredzone ISP SPA|
+|16|5.161.180.82|50001|United States|Ashburn|Hetzner Online GmbH|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|18|43.156.100.152|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 |19|12.218.209.130|53281|United States|Los Angeles|AT&T Services, Inc.|
-|20|217.251.108.48|8080|Germany|Siegsdorf|Deutsche Telekom AG|
+|20|103.122.64.234|3125|Indonesia|Kranjibulak|PT. Jinom Network Indonesia|
 
 
 
