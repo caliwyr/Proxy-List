@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **6477** proxies at the latest update. Usable proxies are below.
+> Scraper found **6588** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|507|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|507|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|507|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|544|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|544|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|544|
 
 ## Sources
 
@@ -37,7 +37,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1328|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1439|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|930|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2836|✅|
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|132.248.205.70|8080|Mexico|Iztapalapa|Universidad Nacional Autonoma de Mexico|
+|1|5.159.100.224|8080|Russia|St Petersburg|OOO "Network of data-centers "Selectel"|
 |2|5.78.44.63|8080|United States|Portland|Hetzner Online GmbH|
-|3|147.135.41.112|3128|United States|Reston|OVH US LLC|
-|4|40.119.236.22|80|Singapore|Singapore|Microsoft Corporation|
-|5|45.5.116.139|999|Guatemala|Guatemala City|Inversiones Grajeda Andrade S.A|
-|6|148.251.123.98|7777|Germany|Sangerhausen|Hetzner Online GmbH|
-|7|187.62.64.157|45005|Brazil|Aracaju|GN TELECOM|
-|8|8.219.176.202|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|43.134.211.34|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|10|5.78.99.5|8080|United States|Portland|Hetzner Online GmbH|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|43.159.46.237|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|13|40.119.236.22|80|Singapore|Singapore|Microsoft Corporation|
-|14|188.132.221.24|8080|Turkey|Istanbul|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|15|201.229.250.21|8080|Dominican Republic|Santo Domingo Este|Compañía Dominicana de Teléfonos S. A.|
-|16|186.3.85.136|999|Ecuador|Hacienda El Triunfo|Telconet S.A|
-|17|157.230.34.219|3128|Singapore|Singapore|DigitalOcean, LLC|
-|18|194.124.37.99|8080|Turkey|Antalya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|19|45.70.236.195|999|Ecuador|Catarama|Nedetel S.A.|
-|20|143.198.182.218|80|United States|North Bergen|DigitalOcean, LLC|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|132.248.205.70|8080|Mexico|Iztapalapa|Universidad Nacional Autonoma de Mexico|
+|5|5.78.99.5|8080|United States|Portland|Hetzner Online GmbH|
+|6|5.78.98.89|8080|United States|Portland|Hetzner Online GmbH|
+|7|167.235.143.162|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|8|40.119.236.22|80|Singapore|Singapore|Microsoft Corporation|
+|9|113.53.60.101|8080|Thailand|Si Racha|TOT Public Company Limited|
+|10|107.172.219.197|9741|United States|Upland|ColoCrossing|
+|11|167.99.116.111|8000|United States|Clifton|DigitalOcean, LLC|
+|12|183.221.242.111|8443|China|Mianyang|China Mobile|
+|13|157.230.34.219|3128|Singapore|Singapore|DigitalOcean, LLC|
+|14|66.113.3.30|4480|United States|Colorado Springs|StratusIQ|
+|15|147.135.41.112|3128|United States|Reston|OVH US LLC|
+|16|51.68.220.201|8080|United Kingdom|London|OVH SAS|
+|17|181.191.94.126|8999|Brazil|Teresina|Fernanda Danielly Sousa Almeida - Me|
+|18|103.169.19.130|8080|Indonesia|Sleman|PT Aplikanusa Lintasarta|
+|19|183.221.242.107|8443|China|Mianyang|China Mobile|
+|20|8.219.176.202|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 
 
 
