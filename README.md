@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **6289** proxies at the latest update. Usable proxies are below.
+> Scraper found **6407** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|451|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|451|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|451|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|533|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|533|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|533|
 
 ## Sources
 
@@ -37,7 +37,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1368|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1486|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|959|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2879|✅|
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|132.248.205.70|8080|Mexico|Iztapalapa|Universidad Nacional Autonoma de Mexico|
-|2|176.126.83.185|3128|Italy|Florence|Seflow S.N.C. Di Marco Brame' & C.|
-|3|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
-|4|65.108.150.74|8080|Finland|Helsinki|Hetzner Online GmbH|
-|5|8.219.176.202|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|113.178.36.98|8080|Vietnam|Hanoi|VNPT|
-|7|164.155.254.23|8888|United States|Chicago|Aodao Inc|
-|8|5.78.100.184|8080|United States|Portland|Hetzner Online GmbH|
-|9|43.156.100.152|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|10|152.32.68.171|65535|Philippines|Mandaluyong City|Converge ICT Solution Inc|
-|11|51.159.0.236|3128|France|Paris|SCALEWAY|
-|12|164.155.254.23|8888|United States|Chicago|Aodao Inc|
-|13|167.99.116.111|8000|United States|Clifton|DigitalOcean, LLC|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|15|77.77.64.116|3128|Iran|Tehran|Rayaneh Danesh Golestan Complex P.J.S. Co|
-|16|5.78.101.27|8080|United States|Portland|Hetzner Online GmbH|
-|17|154.16.168.87|3128|United States|Bend|Tier.Net Technologies LLC|
-|18|154.204.58.155|8090|Hong Kong|Hong Kong|Sondercloud Limited|
-|19|103.173.139.11|8080|Indonesia|Banjarnegara|PT Serayu Multi Connection|
-|20|5.78.92.68|50001|United States|Portland|Hetzner Online GmbH|
+|1|152.228.206.188|80|France|Paris|OVH SAS|
+|2|43.134.211.34|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|3|132.248.205.70|8080|Mexico|Iztapalapa|Universidad Nacional Autonoma de Mexico|
+|4|47.244.32.96|80|Hong Kong|Central|Alibaba.com LLC|
+|5|5.78.100.184|8080|United States|Portland|Hetzner Online GmbH|
+|6|65.108.150.74|8080|Finland|Helsinki|Hetzner Online GmbH|
+|7|5.78.101.27|8080|United States|Portland|Hetzner Online GmbH|
+|8|154.16.168.87|3128|United States|Bend|Tier.Net Technologies LLC|
+|9|109.194.101.128|3128|Russia|Yoshkar-Ola|CJSC "ER-Telecom Holding" Yoshkar-Ola branch|
+|10|51.159.0.236|3128|France|Paris|SCALEWAY|
+|11|8.219.176.202|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|76.181.157.122|32650|United States|Byesville|Charter Communications Inc|
+|13|103.69.108.78|8191|Philippines|Santiago|CITI Cableworld Inc.|
+|14|164.155.254.23|8888|United States|Chicago|Aodao Inc|
+|15|43.156.100.152|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|16|40.119.236.22|80|Singapore|Singapore|Microsoft Corporation|
+|17|200.32.51.179|8080|Argentina|Catamarca|Telefonica de Argentina|
+|18|201.229.250.21|8080|Dominican Republic|Santo Domingo Este|Compañía Dominicana de Teléfonos S. A.|
+|19|115.127.94.18|32650|Bangladesh|Dhaka|BRACNet Limited|
+|20|76.181.159.53|32650|United States|Byesville|Charter Communications Inc|
 
 
 
