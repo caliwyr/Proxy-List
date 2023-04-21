@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **6247** proxies at the latest update. Usable proxies are below.
+> Scraper found **6238** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|657|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|657|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|657|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|331|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|331|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|331|
 
 ## Sources
 
@@ -37,7 +37,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1300|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1291|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1075|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2789|✅|
@@ -48,25 +48,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
-|2|51.91.118.79|8080|France|Strasbourg|OVH SAS|
-|3|8.218.239.151|3128|Hong Kong|Central|Alibaba (US) Technology Co., Ltd.|
-|4|20.3.76.94|8080|United States|Quincy|Microsoft Corporation|
-|5|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|6|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
-|7|150.109.150.22|8080|Hong Kong|Central|Aceville Pte.ltd|
-|8|43.135.13.39|8080|Hong Kong|Central|ACEVILLEPTELTD-SG|
-|9|104.171.160.191|3128|United States|Ashburn|Sneaker Server|
-|10|213.83.46.204|3128|Germany|Frankfurt am Main|Plus.line AG|
-|11|162.251.61.230|3128|United States|Chicago|GTHost|
-|12|104.171.160.197|3128|United States|Ashburn|Sneaker Server|
-|13|43.153.122.18|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|14|20.121.242.93|3128|United States|Boydton|Microsoft Corporation|
-|15|170.39.195.202|3128|United States|Ashburn|Rackdog, LLC|
-|16|5.78.98.255|8080|United States|Portland|Hetzner Online GmbH|
-|17|5.78.73.181|8080|United States|Portland|Hetzner Online GmbH|
-|18|5.78.97.37|8080|United States|Portland|Hetzner Online GmbH|
-|19|104.171.160.138|3128|United States|Ashburn|Sneaker Server|
-|20|146.190.216.70|8080|United States|North Bergen|DigitalOcean, LLC|
+|2|8.218.239.151|3128|Hong Kong|Central|Alibaba (US) Technology Co., Ltd.|
+|3|150.109.150.22|8080|Hong Kong|Central|Aceville Pte.ltd|
+|4|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|5|20.3.76.94|8080|United States|Quincy|Microsoft Corporation|
+|6|129.226.169.77|8080|Hong Kong|Central|Tencent Cloud Computing (Beijing) Co|
+|7|115.144.102.39|10080|South Korea|Gangdong-gu|Korea Telecom|
+|8|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
+|9|43.135.13.39|8080|Hong Kong|Central|ACEVILLEPTELTD-SG|
+|10|5.78.76.125|8080|United States|Portland|Hetzner Online GmbH|
+|11|198.58.112.107|8080|United States|Richardson|Akamai Technologies, Inc.|
+|12|5.78.98.255|8080|United States|Portland|Hetzner Online GmbH|
+|13|5.78.96.235|8080|United States|Portland|Hetzner Online GmbH|
+|14|115.144.101.201|10001|South Korea|Gangdong-gu|Korea Telecom|
+|15|20.3.76.94|8080|United States|Quincy|Microsoft Corporation|
+|16|20.121.242.93|3128|United States|Boydton|Microsoft Corporation|
+|17|104.171.160.191|3128|United States|Ashburn|Sneaker Server|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|19|104.171.160.197|3128|United States|Ashburn|Sneaker Server|
+|20|43.153.122.18|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
 
 
 
