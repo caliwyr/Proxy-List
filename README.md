@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **6481** proxies at the latest update. Usable proxies are below.
+> Scraper found **6901** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|366|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|366|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|366|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|700|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|700|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|700|
 
 ## Sources
 
@@ -36,37 +36,37 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1432|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1482|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1020|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2946|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3016|✅|
 
 
 ## Sample Proxies With Geolocation Info
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.121.242.93|3128|United States|Boydton|Microsoft Corporation|
-|2|104.171.160.138|3128|United States|Ashburn|Sneaker Server|
-|3|208.82.63.6|3128|United States|Ashburn|Bernardi Sounds|
-|4|43.135.13.39|8080|Hong Kong|Central|ACEVILLEPTELTD-SG|
-|5|64.225.4.29|9864|United States|Clifton|DigitalOcean, LLC|
-|6|8.219.176.202|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
-|8|13.212.131.211|3128|Singapore|Singapore|Amazon Technologies Inc.|
-|9|150.109.150.22|8080|Hong Kong|Central|Aceville Pte.ltd|
-|10|149.255.39.225|8118|United States|Chicago|HIVELOCITY, Inc.|
+|1|20.3.76.94|8080|United States|Quincy|Microsoft Corporation|
+|2|68.132.12.228|8888|United States|Staten Island|Verizon Communications|
+|3|104.171.160.138|3128|United States|Ashburn|Sneaker Server|
+|4|208.82.63.6|3128|United States|Ashburn|Bernardi Sounds|
+|5|20.121.242.93|3128|United States|Boydton|Microsoft Corporation|
+|6|13.212.131.211|3128|Singapore|Singapore|Amazon Technologies Inc.|
+|7|208.82.63.6|3128|United States|Ashburn|Bernardi Sounds|
+|8|167.99.116.111|8000|United States|Clifton|DigitalOcean, LLC|
+|9|129.226.169.77|8080|Hong Kong|Central|Tencent Cloud Computing (Beijing) Co|
+|10|68.132.12.228|8888|United States|Staten Island|Verizon Communications|
 |11|43.134.211.34|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|12|124.156.139.46|4780|Hong Kong|Central|Tencent Cloud Computing (Beijing) Co|
-|13|158.69.53.98|9300|Canada|Montreal|OVH SAS|
-|14|45.136.58.51|8888|Kazakhstan|Oral|Megahost Kazakhstan TOO|
-|15|208.82.63.6|3128|United States|Ashburn|Bernardi Sounds|
-|16|103.121.149.69|8080|Indonesia|Jakarta|PT EMERIO INDONESIA|
-|17|68.132.12.228|8888|United States|Staten Island|Verizon Communications|
-|18|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
-|19|154.204.58.155|8090|Hong Kong|Hong Kong|Sondercloud Limited|
-|20|104.171.160.138|3128|United States|Ashburn|Sneaker Server|
+|12|150.109.150.22|8080|Hong Kong|Central|Aceville Pte.ltd|
+|13|104.171.160.138|3128|United States|Ashburn|Sneaker Server|
+|14|43.135.13.39|8080|Hong Kong|Central|ACEVILLEPTELTD-SG|
+|15|20.121.242.93|3128|United States|Boydton|Microsoft Corporation|
+|16|103.69.108.78|8191|Philippines|Santiago|CITI Cableworld Inc.|
+|17|167.99.116.111|8000|United States|Clifton|DigitalOcean, LLC|
+|18|8.219.249.172|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|19|20.3.76.94|8080|United States|Quincy|Microsoft Corporation|
+|20|40.119.236.22|80|Singapore|Singapore|Microsoft Corporation|
 
 
 
