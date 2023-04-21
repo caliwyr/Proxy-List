@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **6476** proxies at the latest update. Usable proxies are below.
+> Scraper found **6599** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|620|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|620|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|620|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|684|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|684|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|684|
 
 ## Sources
 
@@ -36,8 +36,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1499|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1322|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1061|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2833|✅|
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|170.39.195.202|3128|United States|Ashburn|Rackdog, LLC|
-|2|208.82.63.6|3128|United States|Ashburn|Bernardi Sounds|
+|1|5.161.44.221|1234|United States|Ashburn|Hetzner Online GmbH|
+|2|170.39.195.202|3128|United States|Ashburn|Rackdog, LLC|
 |3|104.171.160.138|3128|United States|Ashburn|Sneaker Server|
-|4|3.134.109.60|3128|United States|Dublin|Amazon.com, Inc.|
-|5|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|6|20.121.242.93|3128|United States|Boydton|Microsoft Corporation|
-|7|152.228.206.188|80|France|Paris|OVH SAS|
-|8|20.3.76.94|8080|United States|Quincy|Microsoft Corporation|
-|9|5.161.44.221|1234|United States|Ashburn|Hetzner Online GmbH|
-|10|136.243.55.199|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|11|5.161.44.221|1234|United States|Ashburn|Hetzner Online GmbH|
-|12|8.219.249.172|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|104.171.160.138|3128|United States|Ashburn|Sneaker Server|
-|14|208.82.63.6|3128|United States|Ashburn|Bernardi Sounds|
-|15|8.219.176.202|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|16|65.109.0.130|8080|Finland|Helsinki|Hetzner Online GmbH|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|18|5.161.217.202|3128|United States|Ashburn|Hetzner Online GmbH|
-|19|20.3.76.94|8080|United States|Quincy|Microsoft Corporation|
-|20|51.91.118.79|8080|France|Strasbourg|OVH SAS|
+|4|208.82.63.6|3128|United States|Ashburn|Bernardi Sounds|
+|5|82.66.18.27|8080|France|Bordeaux|Proxad / Free SAS|
+|6|3.134.109.60|3128|United States|Dublin|Amazon.com, Inc.|
+|7|20.121.242.93|3128|United States|Boydton|Microsoft Corporation|
+|8|150.109.150.22|8080|Hong Kong|Central|Aceville Pte.ltd|
+|9|3.134.109.60|3128|United States|Dublin|Amazon.com, Inc.|
+|10|13.212.131.211|3128|Singapore|Singapore|Amazon Technologies Inc.|
+|11|58.27.197.2|8080|Pakistan|Lahore|Wateen Telecom Limited|
+|12|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|13|129.226.169.77|8080|Hong Kong|Central|Tencent Cloud Computing (Beijing) Co|
+|14|170.39.195.202|3128|United States|Ashburn|Rackdog, LLC|
+|15|181.78.23.170|999|Colombia|Barranquilla|IFX Networks Argentina S.R.L|
+|16|103.92.26.190|4002|Vietnam|Ho Chi Minh City|TLSOFT|
+|17|20.3.76.94|8080|United States|Quincy|Microsoft Corporation|
+|18|8.219.249.172|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|19|14.32.161.114|8080|South Korea|Gangbuk-gu|Korea Telecom|
+|20|158.101.93.164|8080|Japan|Tokyo|Oracle Corporation|
 
 
 
