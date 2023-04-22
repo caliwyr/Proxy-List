@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **6694** proxies at the latest update. Usable proxies are below.
+> Scraper found **6938** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|483|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|483|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|483|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|645|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|645|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|645|
 
 ## Sources
 
@@ -36,8 +36,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1451|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1395|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1091|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3069|✅|
@@ -48,25 +48,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|104.171.160.138|3128|United States|Ashburn|Sneaker Server|
-|2|40.119.236.22|80|Singapore|Singapore|Microsoft Corporation|
-|3|135.181.137.85|3128|Finland|Helsinki|Hetzner Online GmbH|
-|4|8.219.176.202|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
-|6|68.132.12.228|8888|United States|Staten Island|Verizon Communications|
-|7|20.121.242.93|3128|United States|Boydton|Microsoft Corporation|
-|8|193.107.104.57|3128|Ukraine|Vinnytsia|Stasishen Aleksandr Afanasiyovich|
-|9|103.121.149.69|8080|Indonesia|Jakarta|PT EMERIO INDONESIA|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|115.144.101.201|10001|South Korea|Gangdong-gu|Korea Telecom|
-|12|20.121.242.93|3128|United States|Boydton|Microsoft Corporation|
-|13|107.152.42.160|8080|United States|Chicago|tzulo, inc.|
-|14|104.171.160.138|3128|United States|Ashburn|Sneaker Server|
+|2|20.3.76.94|8080|United States|Quincy|Microsoft Corporation|
+|3|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
+|4|193.107.104.57|3128|Ukraine|Vinnytsia|Stasishen Aleksandr Afanasiyovich|
+|5|68.132.12.228|8888|United States|Staten Island|Verizon Communications|
+|6|13.212.131.211|3128|Singapore|Singapore|Amazon Technologies Inc.|
+|7|8.219.176.202|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|104.171.160.138|3128|United States|Ashburn|Sneaker Server|
+|9|20.121.242.93|3128|United States|Boydton|Microsoft Corporation|
+|10|20.121.242.93|3128|United States|Boydton|Microsoft Corporation|
+|11|3.1.51.149|3128|Singapore|Singapore|Amazon Technologies Inc.|
+|12|107.152.42.160|8080|United States|Chicago|tzulo, inc.|
+|13|20.3.76.94|8080|United States|Quincy|Microsoft Corporation|
+|14|167.99.116.111|8000|United States|Clifton|DigitalOcean, LLC|
 |15|107.152.42.160|8080|United States|Chicago|tzulo, inc.|
-|16|3.1.51.149|3128|Singapore|Singapore|Amazon Technologies Inc.|
-|17|158.69.27.94|9300|Canada|Montreal|OVH SAS|
-|18|200.25.254.193|54240|Colombia|Neiva|Andinet ON Line|
-|19|68.132.12.228|8888|United States|Staten Island|Verizon Communications|
-|20|103.92.26.190|4002|Vietnam|Ho Chi Minh City|TLSOFT|
+|16|167.99.116.111|8000|United States|Clifton|DigitalOcean, LLC|
+|17|103.92.26.190|4002|Vietnam|Ho Chi Minh City|TLSOFT|
+|18|4.16.68.158|443|United States|Charlotte|Level 3 Communications, Inc.|
+|19|68.183.185.62|80|Singapore|Singapore|DigitalOcean, LLC|
+|20|139.190.235.84|8080|Pakistan|Karachi|Redtone Telecommunications Pakistan (Private) Limited|
 
 
 
