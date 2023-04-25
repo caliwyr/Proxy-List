@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **5330** proxies at the latest update. Usable proxies are below.
+> Scraper found **5324** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|283|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|283|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|283|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|269|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|269|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|269|
 
 ## Sources
 
@@ -37,7 +37,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1067|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1061|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|588|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2592|✅|
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|204.2.218.145|8080|United States|Calhoun|North Georgia Network Cooperative, Inc.|
-|2|35.247.249.71|3129|Brazil|Sao Paulo|Google LLC|
-|3|62.210.209.223|3128|France|Paris|Online S.A.S.|
-|4|148.251.123.98|7777|Germany|Sangerhausen|Hetzner Online GmbH|
-|5|91.107.211.49|8080|Germany|Frankfurt Am Main|Hetzner Online AG|
-|6|195.201.234.72|8080|Germany|Gunzenhausen|Hetzner Online GmbH|
-|7|91.107.207.116|8080|Germany|Frankfurt Am Main|Hetzner Online AG|
-|8|20.113.45.50|80|Germany|Frankfurt am Main|Microsoft Corporation|
-|9|210.172.199.88|8080|Japan|Gifu|KITAGATA|
-|10|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|11|193.190.127.247|3128|Belgium|Olen|BELNET|
-|12|154.70.107.81|3128|Cameroon|Douala|MTN Network Solutions (Cameroon)|
-|13|204.2.218.145|8080|United States|Calhoun|North Georgia Network Cooperative, Inc.|
-|14|74.249.8.183|3128|United States|Boydton|Microsoft Corporation|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|16|35.247.218.230|3129|Brazil|Sao Paulo|Google LLC|
-|17|186.101.84.214|999|Ecuador|Simon Bolivar|Telconet S.A|
-|18|201.91.82.155|3128|Brazil|São Paulo|Vivo|
-|19|74.249.8.183|3128|United States|Boydton|Microsoft Corporation|
-|20|185.16.61.36|45212|Germany|Karlsruhe|netcup GmbH|
+|1|35.247.249.71|3129|Brazil|Sao Paulo|Google LLC|
+|2|40.119.236.22|80|Singapore|Singapore|Microsoft Corporation|
+|3|94.23.1.178|3128|France|Roubaix|OVH ISP|
+|4|20.113.45.50|80|Germany|Frankfurt am Main|Microsoft Corporation|
+|5|62.210.209.223|3128|France|Paris|Online S.A.S.|
+|6|68.132.12.228|8888|United States|Staten Island|Verizon Communications|
+|7|154.70.107.81|3128|Cameroon|Douala|MTN Network Solutions (Cameroon)|
+|8|148.251.123.98|7777|Germany|Sangerhausen|Hetzner Online GmbH|
+|9|35.247.234.213|3129|Brazil|Sao Paulo|Google LLC|
+|10|74.249.8.183|3128|United States|Boydton|Microsoft Corporation|
+|11|35.247.230.245|3129|Brazil|Sao Paulo|Google LLC|
+|12|91.107.207.116|8080|Germany|Frankfurt Am Main|Hetzner Online AG|
+|13|193.190.127.247|3128|Belgium|Olen|BELNET|
+|14|91.107.211.49|8080|Germany|Frankfurt Am Main|Hetzner Online AG|
+|15|73.242.86.12|8118|United States|Minnetonka|Comcast Cable Communications|
+|16|49.12.209.36|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|17|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|18|74.249.8.183|3128|United States|Boydton|Microsoft Corporation|
+|19|35.247.204.82|3129|Brazil|Sao Paulo|Google LLC|
+|20|201.6.117.108|8082|Brazil|São Paulo|Claro NXT Telecomunicacoes Ltda|
 
 
 
