@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **6130** proxies at the latest update. Usable proxies are below.
+> Scraper found **6189** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|487|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|487|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|487|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|451|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|451|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|451|
 
 ## Sources
 
@@ -37,7 +37,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1280|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1339|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|700|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2767|✅|
@@ -49,24 +49,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|204.2.218.145|8080|United States|Calhoun|North Georgia Network Cooperative, Inc.|
 |2|20.69.79.158|8443|United States|Quincy|Microsoft Corporation|
-|3|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
-|4|35.247.237.218|3129|Brazil|Sao Paulo|Google LLC|
-|5|51.159.0.236|3128|France|Paris|SCALEWAY|
-|6|210.172.199.88|8080|Japan|Gifu|KITAGATA|
-|7|35.247.237.131|3129|Brazil|Sao Paulo|Google LLC|
-|8|35.247.240.117|3129|Brazil|Sao Paulo|Google LLC|
-|9|3.10.224.252|3128|United Kingdom|London|Amazon Technologies Inc.|
-|10|35.247.197.18|3129|Brazil|Sao Paulo|Google LLC|
-|11|35.247.219.133|3129|Brazil|Sao Paulo|Google LLC|
-|12|35.247.213.229|3129|Brazil|Sao Paulo|Google LLC|
-|13|65.109.137.178|8080|Finland|Helsinki|Hetzner Online GmbH|
-|14|95.217.5.249|8080|Finland|Helsinki|Hetzner Online GmbH|
-|15|40.119.236.22|80|Singapore|Singapore|Microsoft Corporation|
-|16|204.2.218.145|8080|United States|Calhoun|North Georgia Network Cooperative, Inc.|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|18|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
-|19|35.247.221.112|3129|Brazil|Sao Paulo|Google LLC|
-|20|20.99.187.69|8443|United States|Quincy|Microsoft Corporation|
+|3|20.99.187.69|8443|United States|Quincy|Microsoft Corporation|
+|4|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
+|5|35.247.249.71|3129|Brazil|Sao Paulo|Google LLC|
+|6|35.247.230.245|3129|Brazil|Sao Paulo|Google LLC|
+|7|35.247.197.18|3129|Brazil|Sao Paulo|Google LLC|
+|8|40.119.236.22|80|Singapore|Singapore|Microsoft Corporation|
+|9|35.247.245.218|3129|Brazil|Sao Paulo|Google LLC|
+|10|95.217.5.249|8080|Finland|Helsinki|Hetzner Online GmbH|
+|11|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
+|12|210.172.199.88|8080|Japan|Gifu|KITAGATA|
+|13|35.247.199.47|3129|Brazil|Sao Paulo|Google LLC|
+|14|35.247.209.139|3129|Brazil|Sao Paulo|Google LLC|
+|15|35.247.197.252|3129|Brazil|Sao Paulo|Google LLC|
+|16|35.247.218.230|3129|Brazil|Sao Paulo|Google LLC|
+|17|35.247.228.137|3129|Brazil|Sao Paulo|Google LLC|
+|18|35.247.213.229|3129|Brazil|Sao Paulo|Google LLC|
+|19|35.247.237.131|3129|Brazil|Sao Paulo|Google LLC|
+|20|159.89.132.167|8989|United States|Santa Clara|DigitalOcean, LLC|
 
 
 
