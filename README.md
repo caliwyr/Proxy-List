@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **5436** proxies at the latest update. Usable proxies are below.
+> Scraper found **5763** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|317|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|317|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|317|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|312|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|312|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|312|
 
 ## Sources
 
@@ -36,10 +36,10 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1137|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1112|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|624|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|676|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2592|✅|
 
 
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.247.197.252|3129|Brazil|Sao Paulo|Google LLC|
-|2|35.247.228.137|3129|Brazil|Sao Paulo|Google LLC|
-|3|20.69.79.158|8443|United States|Quincy|Microsoft Corporation|
-|4|35.247.240.206|3129|Brazil|Sao Paulo|Google LLC|
-|5|20.99.187.69|8443|United States|Quincy|Microsoft Corporation|
-|6|94.23.1.178|3128|France|Roubaix|OVH ISP|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|190.210.223.90|8080|Argentina|Buenos Aires|NSS S.A.|
-|9|74.249.8.183|3128|United States|Boydton|Microsoft Corporation|
-|10|49.12.209.36|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|11|35.247.255.188|3129|Brazil|Sao Paulo|Google LLC|
-|12|110.78.152.56|8080|Thailand|Nakhon Pathom|CAT-BB|
-|13|148.251.123.98|7777|Germany|Sangerhausen|Hetzner Online GmbH|
-|14|91.107.211.49|8080|Germany|Frankfurt Am Main|Hetzner Online AG|
-|15|91.107.207.116|8080|Germany|Frankfurt Am Main|Hetzner Online AG|
-|16|62.210.209.223|3128|France|Paris|Online S.A.S.|
-|17|35.247.218.230|3129|Brazil|Sao Paulo|Google LLC|
-|18|20.113.45.50|80|Germany|Frankfurt am Main|Microsoft Corporation|
-|19|74.249.8.183|3128|United States|Boydton|Microsoft Corporation|
-|20|35.247.249.71|3129|Brazil|Sao Paulo|Google LLC|
+|1|20.69.79.158|8443|United States|Quincy|Microsoft Corporation|
+|2|35.247.213.138|3129|Brazil|Sao Paulo|Google LLC|
+|3|35.247.254.240|3129|Brazil|Sao Paulo|Google LLC|
+|4|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
+|5|35.247.242.101|3129|Brazil|Sao Paulo|Google LLC|
+|6|35.247.218.29|3129|Brazil|Sao Paulo|Google LLC|
+|7|35.247.248.104|3129|Brazil|Sao Paulo|Google LLC|
+|8|74.249.8.183|3128|United States|Boydton|Microsoft Corporation|
+|9|35.247.198.196|3129|Brazil|Sao Paulo|Google LLC|
+|10|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
+|11|185.16.61.36|45212|Germany|Karlsruhe|netcup GmbH|
+|12|158.69.53.98|9300|Canada|Montreal|OVH SAS|
+|13|68.132.12.228|8888|United States|Staten Island|Verizon Communications|
+|14|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|16|103.131.19.30|1080|Indonesia|Jember|Global Media Inti Semesta|
+|17|46.23.58.44|8081|Czechia|Horsovsky Tyn|MAXTEL s.r.o. 1|
+|18|68.132.12.228|8888|United States|Staten Island|Verizon Communications|
+|19|219.92.205.90|8080|Malaysia|Kuala Lumpur|TMnet|
+|20|51.68.97.175|22560|France|Strasbourg|OVH SAS|
 
 
 
