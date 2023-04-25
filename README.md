@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **6856** proxies at the latest update. Usable proxies are below.
+> Scraper found **6919** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|692|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|692|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|692|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|611|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|611|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|611|
 
 ## Sources
 
@@ -37,7 +37,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1551|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1614|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|881|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3041|✅|
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|107.152.42.73|8080|United States|Chicago|tzulo, inc.|
-|2|107.152.36.113|8080|United States|Chicago|tzulo, inc.|
-|3|35.247.232.115|3129|Brazil|Sao Paulo|Google LLC|
-|4|162.212.154.249|8080|United States|Chicago|tzulo, inc.|
-|5|3.8.40.61|3128|United Kingdom|London|Amazon Technologies Inc.|
-|6|35.247.209.65|3129|Brazil|Sao Paulo|Google LLC|
-|7|35.247.209.139|3129|Brazil|Sao Paulo|Google LLC|
-|8|35.247.229.47|3129|Brazil|Sao Paulo|Google LLC|
-|9|51.159.0.236|3128|France|Paris|SCALEWAY|
-|10|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
-|11|137.74.167.5|9898|France|Gravelines|OVH SAS|
-|12|162.212.154.249|8080|United States|Chicago|tzulo, inc.|
-|13|107.152.42.73|8080|United States|Chicago|tzulo, inc.|
-|14|35.247.247.141|3129|Brazil|Sao Paulo|Google LLC|
-|15|35.247.243.5|3129|Brazil|Sao Paulo|Google LLC|
-|16|66.228.53.77|8080|United States|Richardson|Akamai Technologies, Inc.|
-|17|107.152.32.30|8080|United States|Chicago|tzulo, inc.|
-|18|201.229.250.21|8080|Dominican Republic|Santo Domingo Este|Compañía Dominicana de Teléfonos S. A.|
-|19|35.247.249.107|3129|Brazil|Sao Paulo|Google LLC|
-|20|35.247.213.138|3129|Brazil|Sao Paulo|Google LLC|
+|1|35.247.246.188|3129|Brazil|Sao Paulo|Google LLC|
+|2|157.245.27.9|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|3|13.57.183.148|3128|United States|San Jose|Amazon.com, Inc.|
+|4|3.8.200.113|3128|United Kingdom|London|Amazon Technologies Inc.|
+|5|107.152.36.113|8080|United States|Chicago|tzulo, inc.|
+|6|3.8.40.61|3128|United Kingdom|London|Amazon Technologies Inc.|
+|7|35.247.223.9|3129|Brazil|Sao Paulo|Google LLC|
+|8|35.247.204.80|3129|Brazil|Sao Paulo|Google LLC|
+|9|35.247.199.47|3129|Brazil|Sao Paulo|Google LLC|
+|10|107.152.42.73|8080|United States|Chicago|tzulo, inc.|
+|11|35.247.209.139|3129|Brazil|Sao Paulo|Google LLC|
+|12|35.247.240.117|3129|Brazil|Sao Paulo|Google LLC|
+|13|162.212.154.249|8080|United States|Chicago|tzulo, inc.|
+|14|35.247.213.138|3129|Brazil|Sao Paulo|Google LLC|
+|15|107.152.32.30|8080|United States|Chicago|tzulo, inc.|
+|16|40.119.236.22|80|Singapore|Singapore|Microsoft Corporation|
+|17|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
+|18|107.152.36.113|8080|United States|Chicago|tzulo, inc.|
+|19|162.212.154.249|8080|United States|Chicago|tzulo, inc.|
+|20|66.228.53.77|8080|United States|Richardson|Akamai Technologies, Inc.|
 
 
 
