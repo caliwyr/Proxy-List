@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **5956** proxies at the latest update. Usable proxies are below.
+> Scraper found **6052** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|531|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|531|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|531|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|504|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|504|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|504|
 
 ## Sources
 
@@ -37,7 +37,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1503|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1599|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|749|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2621|✅|
@@ -48,25 +48,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
-|2|35.247.245.218|3129|Brazil|Sao Paulo|Google LLC|
-|3|144.126.141.115|1010|United States|St Louis|Contabo Inc.|
-|4|35.247.249.71|3129|Brazil|Sao Paulo|Google LLC|
-|5|35.247.228.137|3129|Brazil|Sao Paulo|Google LLC|
-|6|35.247.240.117|3129|Brazil|Sao Paulo|Google LLC|
+|2|20.99.187.69|8443|United States|Quincy|Microsoft Corporation|
+|3|210.172.199.88|8080|Japan|Gifu|KITAGATA|
+|4|144.126.141.115|1010|United States|St Louis|Contabo Inc.|
+|5|35.247.219.61|3129|Brazil|Sao Paulo|Google LLC|
+|6|204.2.218.145|8080|United States|Calhoun|North Georgia Network Cooperative, Inc.|
 |7|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
-|8|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|9|20.99.187.69|8443|United States|Quincy|Microsoft Corporation|
-|10|144.126.141.115|1010|United States|St Louis|Contabo Inc.|
-|11|20.99.187.69|8443|United States|Quincy|Microsoft Corporation|
-|12|35.247.223.9|3129|Brazil|Sao Paulo|Google LLC|
-|13|157.245.27.9|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|14|20.69.79.158|8443|United States|Quincy|Microsoft Corporation|
-|15|198.27.74.6|9300|Canada|Beauharnois|OVH SAS|
-|16|35.247.240.206|3129|Brazil|Sao Paulo|Google LLC|
-|17|35.247.236.135|3129|Brazil|Sao Paulo|Google LLC|
-|18|35.247.218.29|3129|Brazil|Sao Paulo|Google LLC|
-|19|129.154.225.163|8100|India|Mumbai|Oracle Corporation|
-|20|51.79.50.31|9300|Canada|Beauharnois|OVH SAS|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|78.138.98.115|3128|France|Strasbourg|Host Europe GmbH|
+|10|94.247.208.4|8123|Russia|Moscow|Singer-Computer Ltd.|
+|11|35.247.218.29|3129|Brazil|Sao Paulo|Google LLC|
+|12|35.247.197.18|3129|Brazil|Sao Paulo|Google LLC|
+|13|204.2.218.145|8080|United States|Calhoun|North Georgia Network Cooperative, Inc.|
+|14|35.247.248.104|3129|Brazil|Sao Paulo|Google LLC|
+|15|107.172.219.197|9741|United States|Upland|ColoCrossing|
+|16|20.69.79.158|8443|United States|Quincy|Microsoft Corporation|
+|17|144.126.141.115|1010|United States|St Louis|Contabo Inc.|
+|18|178.128.124.66|8080|Singapore|Singapore|DigitalOcean, LLC|
+|19|158.69.53.98|9300|Canada|Montreal|OVH SAS|
+|20|5.161.110.95|50001|United States|Ashburn|Hetzner Online GmbH|
 
 
 
