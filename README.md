@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **5865** proxies at the latest update. Usable proxies are below.
+> Scraper found **5523** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -36,8 +36,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1052|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1010|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|660|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2770|✅|
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.247.249.215|3129|Brazil|Sao Paulo|Google LLC|
-|2|35.247.205.198|3129|Brazil|Sao Paulo|Google LLC|
-|3|27.54.96.11|18081|Japan|Kirishima Shi|Minamikyusyu CableTV Net Inc.|
-|4|35.247.221.112|3129|Brazil|Sao Paulo|Google LLC|
-|5|144.126.141.115|1010|United States|St Louis|Contabo Inc.|
-|6|175.196.125.203|80|South Korea|Gangdong-gu|Korea Telecom|
-|7|181.205.44.219|8080|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
-|8|158.69.71.245|9300|Canada|Montreal|OVH SAS|
-|9|68.132.12.228|8888|United States|Staten Island|Verizon Communications|
-|10|35.247.229.47|3129|Brazil|Sao Paulo|Google LLC|
+|1|5.78.42.238|8080|United States|Portland|Hetzner Online GmbH|
+|2|35.247.204.80|3129|Brazil|Sao Paulo|Google LLC|
+|3|35.247.208.123|3129|Brazil|Sao Paulo|Google LLC|
+|4|35.247.229.47|3129|Brazil|Sao Paulo|Google LLC|
+|5|204.2.218.145|8080|United States|Calhoun|North Georgia Network Cooperative, Inc.|
+|6|35.247.248.45|3129|Brazil|Sao Paulo|Google LLC|
+|7|95.85.24.83|8118|Netherlands|Amsterdam|DigitalOcean, LLC|
+|8|3.139.99.154|3128|United States|Dublin|Amazon.com, Inc.|
+|9|35.247.223.9|3129|Brazil|Sao Paulo|Google LLC|
+|10|35.247.198.196|3129|Brazil|Sao Paulo|Google LLC|
 |11|115.144.101.201|10001|South Korea|Gangdong-gu|Korea Telecom|
-|12|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
-|13|35.247.208.123|3129|Brazil|Sao Paulo|Google LLC|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|15|87.103.133.243|4444|Russia|Irkutsk|SIBNET-IRKUTSK|
-|16|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|17|201.229.250.21|8080|Dominican Republic|Santo Domingo Este|Compañía Dominicana de Teléfonos S. A.|
-|18|190.63.35.30|9812|Ecuador|Ambato|CONECEL|
-|19|51.195.246.56|1080|United Kingdom|Purfleet|OVH|
-|20|210.172.199.88|8080|Japan|Gifu|KITAGATA|
+|12|135.181.114.87|33820|Finland|Helsinki|Hetzner Online GmbH|
+|13|144.126.141.115|1010|United States|St Louis|Contabo Inc.|
+|14|5.78.42.238|8080|United States|Portland|Hetzner Online GmbH|
+|15|3.139.99.154|3128|United States|Dublin|Amazon.com, Inc.|
+|16|103.69.108.78|8191|Philippines|Santiago|CITI Cableworld Inc.|
+|17|185.16.61.36|45212|Germany|Karlsruhe|netcup GmbH|
+|18|201.229.250.21|8080|Dominican Republic|Santo Domingo Este|Compañía Dominicana de Teléfonos S. A.|
+|19|115.144.102.39|10080|South Korea|Gangdong-gu|Korea Telecom|
+|20|198.44.191.226|45787|Japan|Tokyo|Zenlayer Inc|
 
 
 
