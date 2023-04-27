@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **6202** proxies at the latest update. Usable proxies are below.
+> Scraper found **6191** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|469|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|469|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|469|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|512|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|512|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|512|
 
 ## Sources
 
@@ -37,9 +37,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1416|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1450|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|812|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|767|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2891|✅|
 
 
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|107.152.33.110|8080|United States|Chicago|tzulo, inc.|
-|2|107.152.33.219|8080|United States|Chicago|tzulo, inc.|
-|3|35.247.198.196|3129|Brazil|Sao Paulo|Google LLC|
-|4|62.210.209.223|3128|France|Paris|Online S.A.S.|
-|5|35.247.240.206|3129|Brazil|Sao Paulo|Google LLC|
-|6|64.225.105.92|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|7|35.247.249.71|3129|Brazil|Sao Paulo|Google LLC|
-|8|35.247.255.188|3129|Brazil|Sao Paulo|Google LLC|
-|9|204.2.218.145|8080|United States|Calhoun|North Georgia Network Cooperative, Inc.|
-|10|35.247.254.240|3129|Brazil|Sao Paulo|Google LLC|
-|11|205.213.80.8|8009|United States|Siren|WiscNet|
-|12|205.213.80.8|8009|United States|Siren|WiscNet|
-|13|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
-|14|14.37.44.69|8080|South Korea|Seo-gu|Korea Telecom|
-|15|20.69.79.158|8443|United States|Quincy|Microsoft Corporation|
-|16|46.29.165.166|8123|Russia|Moscow|BNET|
-|17|107.152.33.219|8080|United States|Chicago|tzulo, inc.|
-|18|107.152.33.110|8080|United States|Chicago|tzulo, inc.|
-|19|46.209.106.202|3128|Iran|Tehran|Respina|
-|20|35.247.249.215|3129|Brazil|Sao Paulo|Google LLC|
+|1|20.69.79.158|8443|United States|Quincy|Microsoft Corporation|
+|2|62.210.209.223|3128|France|Paris|Online S.A.S.|
+|3|107.152.33.110|8080|United States|Chicago|tzulo, inc.|
+|4|64.225.105.92|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|5|35.247.205.198|3129|Brazil|Sao Paulo|Google LLC|
+|6|107.152.33.219|8080|United States|Chicago|tzulo, inc.|
+|7|35.247.199.47|3129|Brazil|Sao Paulo|Google LLC|
+|8|35.247.240.206|3129|Brazil|Sao Paulo|Google LLC|
+|9|107.152.33.219|8080|United States|Chicago|tzulo, inc.|
+|10|144.126.141.115|1010|United States|St Louis|Contabo Inc.|
+|11|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
+|12|20.99.187.69|8443|United States|Quincy|Microsoft Corporation|
+|13|107.152.33.110|8080|United States|Chicago|tzulo, inc.|
+|14|27.54.96.11|18081|Japan|Kirishima Shi|Minamikyusyu CableTV Net Inc.|
+|15|2.179.193.146|80|Iran|Juybar|Iran Telecommunication Company PJS|
+|16|86.98.1.105|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
+|17|20.69.79.158|8443|United States|Quincy|Microsoft Corporation|
+|18|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|19|158.69.71.245|9300|Canada|Montreal|OVH SAS|
+|20|35.247.248.104|3129|Brazil|Sao Paulo|Google LLC|
 
 
 
