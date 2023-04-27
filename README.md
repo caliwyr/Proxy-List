@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **5076** proxies at the latest update. Usable proxies are below.
+> Scraper found **5179** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|278|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|278|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|278|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|293|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|293|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|293|
 
 ## Sources
 
@@ -37,7 +37,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|796|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|899|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|524|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2673|✅|
@@ -48,25 +48,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|204.2.218.145|8080|United States|Calhoun|North Georgia Network Cooperative, Inc.|
-|2|35.247.198.109|3129|Brazil|Sao Paulo|Google LLC|
-|3|162.55.191.29|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|2|144.126.141.115|1010|United States|St Louis|Contabo Inc.|
+|3|204.2.218.145|8080|United States|Calhoun|North Georgia Network Cooperative, Inc.|
 |4|144.126.141.115|1010|United States|St Louis|Contabo Inc.|
-|5|35.247.228.137|3129|Brazil|Sao Paulo|Google LLC|
-|6|35.247.246.188|3129|Brazil|Sao Paulo|Google LLC|
-|7|20.93.42.101|8080|Ireland|Dublin|Microsoft Corporation|
-|8|144.126.141.115|1010|United States|St Louis|Contabo Inc.|
-|9|35.247.205.198|3129|Brazil|Sao Paulo|Google LLC|
-|10|204.2.218.145|8080|United States|Calhoun|North Georgia Network Cooperative, Inc.|
-|11|35.247.247.141|3129|Brazil|Sao Paulo|Google LLC|
-|12|51.68.97.175|22560|France|Strasbourg|OVH SAS|
-|13|35.247.199.249|3129|Brazil|Sao Paulo|Google LLC|
-|14|200.25.254.193|54240|Colombia|Neiva|Andinet ON Line|
-|15|185.16.61.36|45212|Germany|Karlsruhe|netcup GmbH|
-|16|136.243.55.199|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|17|43.228.85.144|8080|Thailand|Pak Kret|Siamdata Communication Co.|
-|18|20.69.79.158|8443|United States|Quincy|Microsoft Corporation|
-|19|115.144.102.39|10080|South Korea|Gangdong-gu|Korea Telecom|
-|20|5.78.79.84|8080|United States|Portland|Hetzner Online GmbH|
+|5|35.247.232.115|3129|Brazil|Sao Paulo|Google LLC|
+|6|144.126.141.115|1010|United States|St Louis|Contabo Inc.|
+|7|143.42.192.103|8080|Germany|Frankfurt am Main|Akamai Technologies, Inc.|
+|8|190.26.201.194|8080|Colombia|Bogotá|ETB - Colombia|
+|9|194.213.18.81|50098|United States|Ashburn|Clouvider Limited|
+|10|86.98.1.105|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
+|11|65.108.48.232|8080|Finland|Helsinki|Hetzner Online GmbH|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|35.247.248.45|3129|Brazil|Sao Paulo|Google LLC|
+|14|51.68.97.175|22560|France|Strasbourg|OVH SAS|
+|15|45.79.122.208|3128|India|Mumbai|Akamai Technologies, Inc.|
+|16|68.183.185.62|80|Singapore|Singapore|DigitalOcean, LLC|
+|17|103.155.62.173|8080|Pakistan|Lahore|KK Networks (Pvt) Ltd.|
+|18|35.247.240.117|3129|Brazil|Sao Paulo|Google LLC|
+|19|194.213.18.81|50098|United States|Ashburn|Clouvider Limited|
+|20|190.110.35.18|999|Dominican Republic|Santiago de los Caballeros|WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L|
 
 
 
