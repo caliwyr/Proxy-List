@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **5789** proxies at the latest update. Usable proxies are below.
+> Scraper found **5791** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -37,9 +37,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1098|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1116|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|654|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|638|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2654|✅|
 
 
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|205.213.80.8|8009|United States|Siren|WiscNet|
-|2|68.132.12.228|8888|United States|Staten Island|Verizon Communications|
-|3|161.97.97.155|3128|Germany|Nuremberg|Contabo GmbH|
+|1|68.132.12.228|8888|United States|Staten Island|Verizon Communications|
+|2|35.247.209.65|3129|Brazil|Sao Paulo|Google LLC|
+|3|68.132.12.228|8888|United States|Staten Island|Verizon Communications|
 |4|95.217.132.4|8080|Finland|Helsinki|Hetzner Online GmbH|
-|5|35.247.228.52|3129|Brazil|Sao Paulo|Google LLC|
-|6|35.247.223.9|3129|Brazil|Sao Paulo|Google LLC|
-|7|68.132.12.228|8888|United States|Staten Island|Verizon Communications|
-|8|51.161.118.103|8118|Canada|Beauharnois|OVH SAS|
-|9|190.242.157.235|6969|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|10|205.213.80.8|8009|United States|Siren|WiscNet|
-|11|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
-|12|12.88.29.66|9080|United States|Pauls Valley|AT&T Services, Inc.|
-|13|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
-|14|61.28.233.217|3128|Vietnam|Ho Chi Minh City|Vinadata broadcast via vinagame AS Number|
-|15|35.247.244.162|3129|Brazil|Sao Paulo|Google LLC|
-|16|35.247.247.141|3129|Brazil|Sao Paulo|Google LLC|
-|17|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
-|18|103.69.108.78|8191|Philippines|Santiago|CITI Cableworld Inc.|
-|19|122.3.45.26|8082|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
-|20|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
+|5|35.247.244.162|3129|Brazil|Sao Paulo|Google LLC|
+|6|35.247.241.193|3129|Brazil|Sao Paulo|Google LLC|
+|7|204.2.218.145|8080|United States|Calhoun|North Georgia Network Cooperative, Inc.|
+|8|35.247.223.9|3129|Brazil|Sao Paulo|Google LLC|
+|9|82.66.210.159|8118|France|Paris|Proxad / Free SAS|
+|10|35.247.237.131|3129|Brazil|Sao Paulo|Google LLC|
+|11|35.247.224.13|3129|Brazil|Sao Paulo|Google LLC|
+|12|115.144.101.201|10001|South Korea|Gangdong-gu|Korea Telecom|
+|13|103.69.108.78|8191|Philippines|Santiago|CITI Cableworld Inc.|
+|14|181.129.1.226|999|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|15|45.142.122.27|55555|Russia|Moscow|AEZA GROUP Ltd|
+|16|200.25.254.193|54240|Colombia|Neiva|Andinet ON Line|
+|17|101.255.117.134|8080|Indonesia|Bekasi|PT Remala Abadi|
+|18|161.97.97.155|3128|Germany|Nuremberg|Contabo GmbH|
+|19|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
+|20|20.93.42.101|8080|Ireland|Dublin|Microsoft Corporation|
 
 
 
