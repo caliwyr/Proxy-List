@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **5632** proxies at the latest update. Usable proxies are below.
+> Scraper found **5612** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|321|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|321|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|321|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|329|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|329|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|329|
 
 ## Sources
 
@@ -37,7 +37,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1060|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1040|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|690|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2799|✅|
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
+|1|35.247.197.18|3129|Brazil|Sao Paulo|Google LLC|
 |2|20.69.79.158|8443|United States|Quincy|Microsoft Corporation|
-|3|35.247.205.199|3129|Brazil|Sao Paulo|Google LLC|
-|4|205.213.80.8|8009|United States|Siren|WiscNet|
-|5|20.99.187.69|8443|United States|Quincy|Microsoft Corporation|
-|6|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
-|7|35.247.199.249|3129|Brazil|Sao Paulo|Google LLC|
+|3|20.99.187.69|8443|United States|Quincy|Microsoft Corporation|
+|4|35.247.237.131|3129|Brazil|Sao Paulo|Google LLC|
+|5|205.213.80.8|8009|United States|Siren|WiscNet|
+|6|35.247.243.35|3129|Brazil|Sao Paulo|Google LLC|
+|7|165.227.81.188|9969|United States|North Bergen|DigitalOcean, LLC|
 |8|205.213.80.8|8009|United States|Siren|WiscNet|
-|9|40.119.236.22|80|Singapore|Singapore|Microsoft Corporation|
-|10|181.129.1.229|999|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|13|154.12.236.116|8888|United States|New York|Contabo Inc.|
-|14|200.25.254.193|54240|Colombia|Neiva|Andinet ON Line|
-|15|41.60.237.73|8080|Kenya|Nairobi|Maintainer Liquid Telecommunications Operations Limited|
-|16|103.69.108.78|8191|Philippines|Santiago|CITI Cableworld Inc.|
-|17|43.156.100.152|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|18|104.37.102.181|8181|United States|Attica|ALTIUS Broadband, LLC|
-|19|41.60.233.96|8080|Kenya|Nairobi|Maintainer Liquid Telecommunications Operations Limited|
-|20|103.144.221.218|8080|Indonesia|Gandul|PT. Indonesia Comnets Plus|
+|9|35.247.219.133|3129|Brazil|Sao Paulo|Google LLC|
+|10|35.247.209.139|3129|Brazil|Sao Paulo|Google LLC|
+|11|181.129.1.229|999|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|12|35.247.254.240|3129|Brazil|Sao Paulo|Google LLC|
+|13|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
+|14|51.159.0.236|3128|France|Paris|SCALEWAY|
+|15|103.129.92.95|9995|Indonesia|Malang|PT. Eka Mas Republik|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|17|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
+|18|154.12.236.116|8888|United States|New York|Contabo Inc.|
+|19|35.247.218.71|3129|Brazil|Sao Paulo|Google LLC|
+|20|138.0.123.241|999|Chile|Santa Cruz|Austro Internet S.A.|
 
 
 
