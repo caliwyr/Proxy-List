@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **5925** proxies at the latest update. Usable proxies are below.
+> Scraper found **6000** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|362|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|362|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|362|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|392|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|392|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|392|
 
 ## Sources
 
@@ -37,7 +37,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1240|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1315|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|624|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2678|✅|
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|204.2.218.145|8080|United States|Calhoun|North Georgia Network Cooperative, Inc.|
-|2|157.245.27.9|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|3|35.247.255.188|3129|Brazil|Sao Paulo|Google LLC|
-|4|40.119.236.22|80|Singapore|Singapore|Microsoft Corporation|
-|5|35.247.232.115|3129|Brazil|Sao Paulo|Google LLC|
-|6|43.134.211.34|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|7|167.172.238.15|9973|United States|Clifton|DigitalOcean, LLC|
-|8|35.247.197.36|3129|Brazil|Sao Paulo|Google LLC|
-|9|35.247.248.45|3129|Brazil|Sao Paulo|Google LLC|
-|10|35.247.199.249|3129|Brazil|Sao Paulo|Google LLC|
+|1|35.247.232.115|3129|Brazil|Sao Paulo|Google LLC|
+|2|35.247.205.198|3129|Brazil|Sao Paulo|Google LLC|
+|3|35.247.198.109|3129|Brazil|Sao Paulo|Google LLC|
+|4|35.247.227.219|3129|Brazil|Sao Paulo|Google LLC|
+|5|35.247.236.15|3129|Brazil|Sao Paulo|Google LLC|
+|6|20.99.187.69|8443|United States|Quincy|Microsoft Corporation|
+|7|35.247.254.240|3129|Brazil|Sao Paulo|Google LLC|
+|8|35.247.218.71|3129|Brazil|Sao Paulo|Google LLC|
+|9|35.247.197.36|3129|Brazil|Sao Paulo|Google LLC|
+|10|204.2.218.145|8080|United States|Calhoun|North Georgia Network Cooperative, Inc.|
 |11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|204.2.218.145|8080|United States|Calhoun|North Georgia Network Cooperative, Inc.|
-|13|167.172.238.15|9973|United States|Clifton|DigitalOcean, LLC|
-|14|35.247.227.219|3129|Brazil|Sao Paulo|Google LLC|
-|15|51.158.62.124|39727|France|Paris|SCALEWAY|
-|16|103.69.108.78|8191|Philippines|Santiago|CITI Cableworld Inc.|
-|17|43.156.100.152|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|18|152.228.206.188|80|France|Paris|OVH SAS|
-|19|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
-|20|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
+|12|103.144.221.218|8080|Indonesia|Gandul|PT. Indonesia Comnets Plus|
+|13|35.247.214.238|3129|Brazil|Sao Paulo|Google LLC|
+|14|20.99.187.69|8443|United States|Quincy|Microsoft Corporation|
+|15|43.156.100.152|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|16|185.16.61.36|45212|Germany|Karlsruhe|netcup GmbH|
+|17|201.229.250.21|8080|Dominican Republic|Santo Domingo Este|Compañía Dominicana de Teléfonos S. A.|
+|18|185.93.73.41|8080|Poland|Czluchow|Przedsiebiorstwo Handlowo Uslugowe " Kamdex" Grzegorz Sztuczka|
+|19|103.69.108.78|8191|Philippines|Santiago|CITI Cableworld Inc.|
+|20|61.28.233.217|3128|Vietnam|Ho Chi Minh City|Vinadata broadcast via vinagame AS Number|
 
 
 
