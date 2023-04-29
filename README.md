@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **7930** proxies at the latest update. Usable proxies are below.
+> Scraper found **8367** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|875|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|875|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|875|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|704|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|704|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|704|
 
 ## Sources
 
@@ -36,8 +36,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1957|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|2094|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1404|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3486|✅|
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.247.230.245|3129|Brazil|Sao Paulo|Google LLC|
-|2|35.247.245.133|3129|Brazil|Sao Paulo|Google LLC|
-|3|35.247.228.52|3129|Brazil|Sao Paulo|Google LLC|
-|4|35.247.223.9|3129|Brazil|Sao Paulo|Google LLC|
-|5|35.247.248.45|3129|Brazil|Sao Paulo|Google LLC|
-|6|35.247.198.109|3129|Brazil|Sao Paulo|Google LLC|
-|7|35.247.199.47|3129|Brazil|Sao Paulo|Google LLC|
-|8|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
-|9|84.31.55.122|8118|Netherlands|Delft|ZIGGO|
+|1|35.247.228.52|3129|Brazil|Sao Paulo|Google LLC|
+|2|35.247.248.45|3129|Brazil|Sao Paulo|Google LLC|
+|3|35.247.230.245|3129|Brazil|Sao Paulo|Google LLC|
+|4|35.247.243.5|3129|Brazil|Sao Paulo|Google LLC|
+|5|181.129.43.3|8080|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|6|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|7|102.68.131.113|8080|Libya|Tripoli|LTT Autonomous System|
+|8|51.68.140.229|8080|Poland|Warsaw|OVH SAS|
+|9|131.255.137.201|80|Peru|Lima|Movilmax Telecom S.A|
 |10|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
-|11|35.247.248.46|3129|Brazil|Sao Paulo|Google LLC|
-|12|205.213.80.8|8009|United States|Siren|WiscNet|
-|13|35.247.240.117|3129|Brazil|Sao Paulo|Google LLC|
-|14|15.204.173.243|8118|United States|Reston|OVH SAS|
-|15|78.38.93.22|3128|Iran|Tehran|Iran Telecommunication Company PJS|
-|16|43.153.108.112|8888|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|17|34.94.155.70|8585|United States|Los Angeles|Google LLC|
-|18|34.94.76.240|8585|United States|Los Angeles|Google LLC|
-|19|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|20|20.69.79.158|8443|United States|Quincy|Microsoft Corporation|
+|11|45.136.58.51|8888|Kazakhstan|Oral|Megahost Kazakhstan TOO|
+|12|35.247.242.101|3129|Brazil|Sao Paulo|Google LLC|
+|13|35.247.249.215|3129|Brazil|Sao Paulo|Google LLC|
+|14|24.164.58.61|32650|United States|Riverview|Charter Communications|
+|15|35.247.197.18|3129|Brazil|Sao Paulo|Google LLC|
+|16|40.119.236.22|80|Singapore|Singapore|Microsoft Corporation|
+|17|201.229.250.21|8080|Dominican Republic|Santo Domingo Este|Compañía Dominicana de Teléfonos S. A.|
+|18|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
+|19|115.144.102.39|10080|South Korea|Gangdong-gu|Korea Telecom|
+|20|115.144.101.201|10001|South Korea|Gangdong-gu|Korea Telecom|
 
 
 
