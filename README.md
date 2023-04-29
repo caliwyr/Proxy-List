@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **5834** proxies at the latest update. Usable proxies are below.
+> Scraper found **6145** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|333|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|333|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|333|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|322|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|322|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|322|
 
 ## Sources
 
@@ -36,8 +36,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1094|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1105|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|772|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2885|✅|
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|107.152.37.95|8080|United States|Chicago|tzulo, inc.|
+|1|35.247.209.139|3129|Brazil|Sao Paulo|Google LLC|
 |2|5.78.69.176|8080|United States|Portland|Hetzner Online GmbH|
-|3|107.152.36.113|8080|United States|Chicago|tzulo, inc.|
-|4|149.28.20.139|3128|Japan|Shinagawa|The Constant Company|
-|5|5.78.69.176|8080|United States|Portland|Hetzner Online GmbH|
-|6|157.245.27.9|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|7|107.152.37.95|8080|United States|Chicago|tzulo, inc.|
-|8|91.107.207.116|8080|Germany|Frankfurt Am Main|Hetzner Online AG|
-|9|107.152.36.113|8080|United States|Chicago|tzulo, inc.|
-|10|152.228.206.188|80|France|Paris|OVH SAS|
-|11|35.247.245.133|3129|Brazil|Sao Paulo|Google LLC|
-|12|107.152.42.73|8080|United States|Chicago|tzulo, inc.|
-|13|203.150.113.16|8080|Thailand|Vadhana|Internet Thailand Company Ltd.|
-|14|40.119.236.22|80|Singapore|Singapore|Microsoft Corporation|
-|15|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
-|16|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
-|17|43.156.100.152|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|18|101.109.63.24|8080|Thailand|Ban Laeng|TOT Public Company Limited|
-|19|115.144.102.39|10080|South Korea|Gangdong-gu|Korea Telecom|
-|20|158.69.53.98|9300|Canada|Montreal|OVH SAS|
+|3|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
+|4|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|5|35.247.242.101|3129|Brazil|Sao Paulo|Google LLC|
+|6|149.28.20.139|3128|Japan|Shinagawa|The Constant Company|
+|7|5.78.69.176|8080|United States|Portland|Hetzner Online GmbH|
+|8|107.152.37.95|8080|United States|Chicago|tzulo, inc.|
+|9|107.152.42.73|8080|United States|Chicago|tzulo, inc.|
+|10|91.107.207.116|8080|Germany|Frankfurt Am Main|Hetzner Online AG|
+|11|40.119.236.22|80|Singapore|Singapore|Microsoft Corporation|
+|12|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
+|13|107.152.37.95|8080|United States|Chicago|tzulo, inc.|
+|14|35.247.218.60|3129|Brazil|Sao Paulo|Google LLC|
+|15|107.152.42.73|8080|United States|Chicago|tzulo, inc.|
+|16|107.152.36.113|8080|United States|Chicago|tzulo, inc.|
+|17|35.247.241.193|3129|Brazil|Sao Paulo|Google LLC|
+|18|203.150.113.16|8080|Thailand|Vadhana|Internet Thailand Company Ltd.|
+|19|20.113.45.50|80|Germany|Frankfurt am Main|Microsoft Corporation|
+|20|107.152.36.113|8080|United States|Chicago|tzulo, inc.|
 
 
 
