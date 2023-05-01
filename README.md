@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **6527** proxies at the latest update. Usable proxies are below.
+> Scraper found **6522** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|648|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|648|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|648|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|426|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|426|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|426|
 
 ## Sources
 
@@ -37,7 +37,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1565|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1560|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|936|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2943|✅|
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|204.2.218.145|8080|United States|Calhoun|North Georgia Network Cooperative, Inc.|
-|2|35.247.227.219|3129|Brazil|Sao Paulo|Google LLC|
-|3|194.213.18.81|50098|United States|Ashburn|Clouvider Limited|
-|4|35.247.246.246|3129|Brazil|Sao Paulo|Google LLC|
-|5|35.247.195.26|3129|Brazil|Sao Paulo|Google LLC|
-|6|20.93.42.101|8080|Ireland|Dublin|Microsoft Corporation|
-|7|35.247.236.135|3129|Brazil|Sao Paulo|Google LLC|
-|8|35.247.249.71|3129|Brazil|Sao Paulo|Google LLC|
-|9|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|10|35.247.204.143|3129|Brazil|Sao Paulo|Google LLC|
-|11|204.2.218.145|8080|United States|Calhoun|North Georgia Network Cooperative, Inc.|
-|12|20.231.66.54|3128|United States|Boydton|Microsoft Corporation|
-|13|194.213.18.81|50098|United States|Ashburn|Clouvider Limited|
-|14|35.247.219.133|3129|Brazil|Sao Paulo|Google LLC|
-|15|35.247.246.228|3129|Brazil|Sao Paulo|Google LLC|
-|16|35.247.193.135|3129|Brazil|Sao Paulo|Google LLC|
-|17|179.96.28.58|80|Brazil|Alexania|G8 NETWORKS LTDA|
-|18|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
-|19|158.69.53.98|9300|Canada|Montreal|OVH SAS|
-|20|35.247.248.46|3129|Brazil|Sao Paulo|Google LLC|
+|1|192.227.128.179|8080|United States|Buffalo|ColoCrossing|
+|2|35.247.255.188|3129|Brazil|Sao Paulo|Google LLC|
+|3|115.144.102.39|10080|South Korea|Gangdong-gu|Korea Telecom|
+|4|20.93.42.101|8080|Ireland|Dublin|Microsoft Corporation|
+|5|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
+|6|179.96.28.58|80|Brazil|Alexania|G8 NETWORKS LTDA|
+|7|35.247.219.133|3129|Brazil|Sao Paulo|Google LLC|
+|8|35.247.204.143|3129|Brazil|Sao Paulo|Google LLC|
+|9|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|10|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
+|11|36.93.2.50|8080|Indonesia|Jakarta|Telekomunikasi Indonesia|
+|12|77.231.220.221|8118|Spain|Barcelona|Vodafone Espana, S.A.U.|
+|13|167.99.116.111|8001|United States|Clifton|DigitalOcean, LLC|
+|14|35.247.237.131|3129|Brazil|Sao Paulo|Google LLC|
+|15|61.28.233.217|3128|Vietnam|Ho Chi Minh City|Vinadata broadcast via vinagame AS Number|
+|16|35.247.249.71|3129|Brazil|Sao Paulo|Google LLC|
+|17|113.160.166.196|4007|Vietnam|Thai Nguyen|VietNam Post and Telecom Corporation|
+|18|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
+|19|181.191.226.69|999|Venezuela|Maturín|MANGO NETWORK, C. A. MANGONET, C. A|
+|20|51.79.50.31|9300|Canada|Beauharnois|OVH SAS|
 
 
 
