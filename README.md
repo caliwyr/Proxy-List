@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **8085** proxies at the latest update. Usable proxies are below.
+> Scraper found **7770** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|167|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|167|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|167|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|159|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|159|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|159|
 
 ## Sources
 
@@ -36,8 +36,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|2307|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|2292|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1079|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3316|✅|
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.174.217.113|8585|United States|Dallas|Google LLC|
-|2|34.162.134.198|8585|United States|Columbus|Google LLC|
-|3|96.95.164.41|3128|United States|Deep River|Comcast Cable Communications, LLC|
-|4|34.213.191.165|3128|United States|Portland|Amazon.com, Inc.|
-|5|35.247.204.143|3129|Brazil|Sao Paulo|Google LLC|
-|6|65.21.182.108|8080|Finland|Helsinki|Hetzner Online GmbH|
-|7|35.247.243.5|3129|Brazil|Sao Paulo|Google LLC|
-|8|167.99.238.124|80|United States|North Bergen|DigitalOcean, LLC|
-|9|185.93.73.41|8080|Poland|Czluchow|Przedsiebiorstwo Handlowo Uslugowe " Kamdex" Grzegorz Sztuczka|
-|10|34.174.217.113|8585|United States|Dallas|Google LLC|
-|11|20.93.42.101|8080|Ireland|Dublin|Microsoft Corporation|
-|12|103.143.197.19|8080|Indonesia|Semarang|JERNIHNETWORK|
+|1|34.174.31.150|8585|United States|Dallas|Google LLC|
+|2|167.99.238.124|80|United States|North Bergen|DigitalOcean, LLC|
+|3|34.162.53.12|8585|United States|Columbus|Google LLC|
+|4|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|5|65.21.182.108|8080|Finland|Helsinki|Hetzner Online GmbH|
+|6|20.93.42.101|8080|Ireland|Dublin|Microsoft Corporation|
+|7|34.174.31.150|8585|United States|Dallas|Google LLC|
+|8|34.162.158.227|8585|United States|Columbus|Google LLC|
+|9|159.89.132.167|8989|United States|Santa Clara|DigitalOcean, LLC|
+|10|109.194.101.128|3128|Russia|Yoshkar-Ola|CJSC "ER-Telecom Holding" Yoshkar-Ola branch|
+|11|185.200.37.98|8080|Turkey|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|12|167.99.238.124|80|United States|North Bergen|DigitalOcean, LLC|
 |13|3.121.126.244|3128|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|14|157.90.236.24|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|15|167.99.238.124|80|United States|North Bergen|DigitalOcean, LLC|
-|16|96.95.164.41|3128|United States|Deep River|Comcast Cable Communications, LLC|
-|17|34.213.191.165|3128|United States|Portland|Amazon.com, Inc.|
-|18|34.162.134.198|8585|United States|Columbus|Google LLC|
-|19|157.245.27.9|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|20|5.161.110.95|50272|United States|Ashburn|Hetzner Online GmbH|
+|14|34.162.158.227|8585|United States|Columbus|Google LLC|
+|15|157.245.27.9|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|16|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
+|17|34.162.53.12|8585|United States|Columbus|Google LLC|
+|18|157.90.236.24|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|19|45.174.240.197|999|Mexico|Campeche|Sistemas Y Soluciones De Campeche SAS De CV|
+|20|115.144.102.39|10080|South Korea|Gangdong-gu|Korea Telecom|
 
 
 
