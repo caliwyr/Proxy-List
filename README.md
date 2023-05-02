@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **8258** proxies at the latest update. Usable proxies are below.
+> Scraper found **8453** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|331|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|331|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|331|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|853|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|853|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|853|
 
 ## Sources
 
@@ -36,10 +36,10 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|2095|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|2055|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1408|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1343|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3672|✅|
 
 
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.99.187.69|8443|United States|Quincy|Microsoft Corporation|
-|2|34.162.134.229|8585|United States|Columbus|Google LLC|
-|3|34.106.176.108|8585|United States|Salt Lake City|Google LLC|
-|4|35.247.193.135|3129|Brazil|Sao Paulo|Google LLC|
-|5|35.247.214.238|3129|Brazil|Sao Paulo|Google LLC|
-|6|35.247.239.13|3129|Brazil|Sao Paulo|Google LLC|
-|7|34.116.206.5|8585|Poland|Warsaw|Google LLC|
-|8|35.247.228.52|3129|Brazil|Sao Paulo|Google LLC|
-|9|35.247.249.215|3129|Brazil|Sao Paulo|Google LLC|
-|10|61.28.233.217|3128|Vietnam|Ho Chi Minh City|Vinadata broadcast via vinagame AS Number|
-|11|35.247.243.231|3129|Brazil|Sao Paulo|Google LLC|
-|12|136.243.55.199|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|13|65.108.150.74|8080|Finland|Helsinki|Hetzner Online GmbH|
-|14|129.154.225.163|8100|India|Mumbai|Oracle Corporation|
-|15|35.247.234.213|3129|Brazil|Sao Paulo|Google LLC|
-|16|34.106.218.182|8585|United States|Salt Lake City|Google LLC|
-|17|34.106.55.134|8585|United States|Salt Lake City|Google LLC|
-|18|34.106.176.108|8585|United States|Salt Lake City|Google LLC|
-|19|35.247.227.122|3129|Brazil|Sao Paulo|Google LLC|
-|20|34.85.155.125|8585|United States|Washington|Google LLC|
+|1|35.247.240.47|3129|Brazil|Sao Paulo|Google LLC|
+|2|65.109.235.123|8080|Finland|Helsinki|Hetzner Online GmbH|
+|3|91.107.211.49|8080|Germany|Frankfurt Am Main|Hetzner Online AG|
+|4|68.183.185.62|80|Singapore|Singapore|DigitalOcean, LLC|
+|5|49.12.106.252|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|6|35.247.242.101|3129|Brazil|Sao Paulo|Google LLC|
+|7|34.106.8.233|8585|United States|Salt Lake City|Google LLC|
+|8|152.67.10.190|8100|India|Mumbai|Oracle Corporation|
+|9|201.229.250.21|8080|Dominican Republic|Santo Domingo Este|Compañía Dominicana de Teléfonos S. A.|
+|10|95.217.132.31|8080|Finland|Helsinki|Hetzner Online GmbH|
+|11|5.78.102.209|8080|United States|Portland|Hetzner Online GmbH|
+|12|50.235.149.74|8080|United States|Taylor|Comcast Cable Communications, LLC|
+|13|34.94.84.36|8585|United States|Los Angeles|Google LLC|
+|14|34.106.107.95|8585|United States|Salt Lake City|Google LLC|
+|15|65.109.160.122|8080|Finland|Helsinki|Hetzner Online GmbH|
+|16|174.138.167.180|8888|United States|Phoenix|Secured Servers LLC|
+|17|61.28.233.217|3128|Vietnam|Ho Chi Minh City|Vinadata broadcast via vinagame AS Number|
+|18|179.49.113.230|999|Honduras|Nueva Ocotepeque|Asociacion De Servicio De Internet S. De RL|
+|19|190.109.16.145|999|Colombia|Ibague|Columbus Networks Colombia|
+|20|58.147.187.46|3125|Indonesia|Kuningan Barat|PT. Transhybrid Communication|
 
 
 
