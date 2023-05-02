@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **8150** proxies at the latest update. Usable proxies are below.
+> Scraper found **8674** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|816|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|816|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|816|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|425|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|425|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|425|
 
 ## Sources
 
@@ -36,10 +36,10 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|2186|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|2376|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1295|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1329|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3586|✅|
 
 
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.162.126.108|8585|United States|Columbus|Google LLC|
-|2|34.116.198.216|8585|Poland|Warsaw|Google LLC|
-|3|35.247.245.218|3129|Brazil|Sao Paulo|Google LLC|
-|4|34.162.126.108|8585|United States|Columbus|Google LLC|
-|5|115.144.102.39|10080|South Korea|Gangdong-gu|Korea Telecom|
-|6|34.116.214.16|8585|Poland|Warsaw|Google LLC|
-|7|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
-|8|181.129.1.227|999|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
-|9|61.29.96.146|80|Australia|Melbourne|AAPT Limited|
-|10|216.215.123.174|8080|United States|Houston|Logix|
-|11|35.247.204.70|3129|Brazil|Sao Paulo|Google LLC|
-|12|109.122.208.210|3128|Netherlands|Naaldwijk|WorldStream B.V.|
-|13|200.105.215.22|33630|Bolivia|La Paz|AXS Bolivia S. A.|
-|14|115.144.101.201|10001|South Korea|Gangdong-gu|Korea Telecom|
-|15|192.227.128.179|8080|United States|Buffalo|ColoCrossing|
-|16|182.253.70.66|3127|Indonesia|Surabaya|BIZNET|
-|17|103.155.62.173|8080|Pakistan|Lahore|KK Networks (Pvt) Ltd.|
-|18|129.226.223.229|8089|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|19|201.219.247.34|999|Colombia|Miranda|Consulnetwork Ltda|
-|20|190.119.81.84|999|Peru|La Victoria|America Movil Peru S.A.C.|
+|1|34.106.94.207|8585|United States|Salt Lake City|Google LLC|
+|2|34.102.89.137|8585|United States|Los Angeles|Google LLC|
+|3|18.236.231.198|3128|United States|Portland|Amazon.com, Inc.|
+|4|34.162.22.142|8585|United States|Columbus|Google LLC|
+|5|34.86.232.116|8585|United States|Washington|Google LLC|
+|6|35.247.219.188|3129|Brazil|Sao Paulo|Google LLC|
+|7|35.247.223.51|3129|Brazil|Sao Paulo|Google LLC|
+|8|34.106.137.29|8585|United States|Salt Lake City|Google LLC|
+|9|34.106.212.240|8585|United States|Salt Lake City|Google LLC|
+|10|115.144.101.201|10001|South Korea|Gangdong-gu|Korea Telecom|
+|11|34.118.70.79|8585|Poland|Warsaw|Google LLC|
+|12|34.174.204.44|8585|United States|Dallas|Google LLC|
+|13|34.162.58.61|8585|United States|Columbus|Google LLC|
+|14|34.118.5.245|8585|Poland|Warsaw|Google LLC|
+|15|34.174.0.66|8585|United States|Dallas|Google LLC|
+|16|35.247.208.207|3129|Brazil|Sao Paulo|Google LLC|
+|17|34.125.183.193|8585|United States|Las Vegas|Google LLC|
+|18|135.181.88.74|8080|Finland|Helsinki|Hetzner Online GmbH|
+|19|34.106.94.207|8585|United States|Salt Lake City|Google LLC|
+|20|67.73.245.220|999|Colombia|Puerto Wilches|Level 3 Communications, Inc.|
 
 
 
