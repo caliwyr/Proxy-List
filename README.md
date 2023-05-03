@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|312|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|312|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|312|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|487|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|487|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|487|
 
 ## Sources
 
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|40.76.245.70|8080|United States|Boydton|Microsoft Corporation|
-|2|5.161.141.247|8080|United States|Ashburn|Hetzner Online GmbH|
+|1|5.161.141.247|8080|United States|Ashburn|Hetzner Online GmbH|
+|2|205.213.80.8|8009|United States|Siren|WiscNet|
 |3|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
-|4|34.211.49.214|3128|United States|Portland|Amazon.com, Inc.|
-|5|94.103.97.61|8080|Switzerland|Belmont-sur-Lausanne|OpenBusiness Ltd / SwissCenter / SwissLink|
-|6|35.247.223.51|3129|Brazil|Sao Paulo|Google LLC|
-|7|35.247.218.29|3129|Brazil|Sao Paulo|Google LLC|
-|8|35.247.197.36|3129|Brazil|Sao Paulo|Google LLC|
-|9|35.199.81.56|3129|Brazil|Sao Paulo|Google LLC|
-|10|34.95.206.0|3129|Brazil|Sao Paulo|Google LLC|
-|11|40.76.245.70|8080|United States|Boydton|Microsoft Corporation|
-|12|51.79.50.31|9300|Canada|Beauharnois|OVH SAS|
-|13|35.198.16.85|3129|Brazil|Sao Paulo|Google LLC|
-|14|43.156.100.152|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|15|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
-|16|35.198.63.23|3129|Brazil|Sao Paulo|Google LLC|
-|17|34.211.49.214|3128|United States|Portland|Amazon.com, Inc.|
-|18|205.213.80.8|8009|United States|Siren|WiscNet|
-|19|5.161.141.247|8080|United States|Ashburn|Hetzner Online GmbH|
-|20|185.202.113.34|8080|Germany|Frankfurt am Main|BitCommand LLC|
+|4|35.198.57.230|3129|Brazil|Sao Paulo|Google LLC|
+|5|35.247.249.215|3129|Brazil|Sao Paulo|Google LLC|
+|6|94.103.97.61|8080|Switzerland|Belmont-sur-Lausanne|OpenBusiness Ltd / SwissCenter / SwissLink|
+|7|40.76.245.70|8080|United States|Boydton|Microsoft Corporation|
+|8|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
+|9|5.161.141.247|8080|United States|Ashburn|Hetzner Online GmbH|
+|10|205.213.80.8|8009|United States|Siren|WiscNet|
+|11|35.198.29.141|3129|Brazil|Sao Paulo|Google LLC|
+|12|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|13|34.151.225.79|3129|Brazil|Sao Paulo|Google LLC|
+|14|204.2.218.145|8080|United States|Calhoun|North Georgia Network Cooperative, Inc.|
+|15|40.76.245.70|8080|United States|Boydton|Microsoft Corporation|
+|16|35.247.243.5|3129|Brazil|Sao Paulo|Google LLC|
+|17|51.79.50.22|9300|Canada|Beauharnois|OVH SAS|
+|18|181.189.135.90|8080|Guatemala|Guatemala City|Comcel Guatemala S.A.|
+|19|34.95.198.251|3129|Brazil|Sao Paulo|Google LLC|
+|20|35.199.76.117|3129|Brazil|Sao Paulo|Google LLC|
 
 
 
