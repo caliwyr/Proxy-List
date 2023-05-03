@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **7058** proxies at the latest update. Usable proxies are below.
+> Scraper found **6979** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|375|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|375|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|375|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|609|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|609|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|609|
 
 ## Sources
 
@@ -37,7 +37,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1675|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1596|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|948|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3052|✅|
@@ -48,25 +48,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|18.223.126.75|3128|United States|Dublin|Amazon.com, Inc.|
-|2|139.162.67.39|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|3|103.42.180.209|45787|United States|Los Angeles|Zenlayer Inc|
-|4|20.99.187.69|8443|United States|Quincy|Microsoft Corporation|
-|5|3.8.146.255|3128|United Kingdom|London|Amazon Technologies Inc.|
-|6|20.93.42.101|8080|Ireland|Dublin|Microsoft Corporation|
-|7|18.223.126.75|3128|United States|Dublin|Amazon.com, Inc.|
-|8|35.180.19.189|3128|France|Paris|Amazon Technologies Inc.|
+|2|3.8.146.255|3128|United Kingdom|London|Amazon Technologies Inc.|
+|3|108.143.124.3|3128|Netherlands|Amsterdam|Microsoft Corporation|
+|4|35.198.44.184|3129|Brazil|Sao Paulo|Google LLC|
+|5|139.162.67.39|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|6|35.247.232.115|3129|Brazil|Sao Paulo|Google LLC|
+|7|40.76.245.70|8080|United States|Boydton|Microsoft Corporation|
+|8|157.245.27.9|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |9|179.96.28.58|80|Brazil|Alexania|G8 NETWORKS LTDA|
-|10|35.247.234.213|3129|Brazil|Sao Paulo|Google LLC|
-|11|18.130.232.153|3128|United Kingdom|London|Amazon Technologies Inc.|
-|12|35.247.197.36|3129|Brazil|Sao Paulo|Google LLC|
-|13|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
-|14|18.130.75.115|3128|United Kingdom|London|Amazon Technologies Inc.|
-|15|35.247.234.177|3129|Brazil|Sao Paulo|Google LLC|
-|16|157.245.27.9|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|17|13.211.140.42|3128|Australia|Sydney|Amazon Technologies Inc.|
-|18|103.118.42.253|81|Hong Kong|Ha Kwai Chung|Clayer Limited|
-|19|125.213.216.202|8080|Afghanistan|Kabul|Io-Global Services Pvt. Ltd.|
-|20|35.247.214.238|3129|Brazil|Sao Paulo|Google LLC|
+|10|209.97.173.78|4444|Singapore|Singapore|DigitalOcean, LLC|
+|11|35.247.197.36|3129|Brazil|Sao Paulo|Google LLC|
+|12|35.247.193.135|3129|Brazil|Sao Paulo|Google LLC|
+|13|20.93.42.101|8080|Ireland|Dublin|Microsoft Corporation|
+|14|35.247.234.177|3129|Brazil|Sao Paulo|Google LLC|
+|15|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
+|16|40.76.245.70|8080|United States|Boydton|Microsoft Corporation|
+|17|35.247.255.188|3129|Brazil|Sao Paulo|Google LLC|
+|18|18.223.126.75|3128|United States|Dublin|Amazon.com, Inc.|
+|19|35.247.243.231|3129|Brazil|Sao Paulo|Google LLC|
+|20|35.247.241.193|3129|Brazil|Sao Paulo|Google LLC|
 
 
 
