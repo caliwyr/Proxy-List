@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|184|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|184|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|184|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|293|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|293|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|293|
 
 ## Sources
 
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|185.149.23.121|443|United States|Los Angeles|DediPath|
-|2|35.247.255.13|3129|Brazil|Sao Paulo|Google LLC|
-|3|35.247.217.99|3129|Brazil|Sao Paulo|Google LLC|
-|4|35.247.244.93|3129|Brazil|Sao Paulo|Google LLC|
-|5|35.247.240.117|3129|Brazil|Sao Paulo|Google LLC|
-|6|35.247.198.109|3129|Brazil|Sao Paulo|Google LLC|
-|7|34.95.198.241|3129|Brazil|Sao Paulo|Google LLC|
-|8|34.95.201.131|3129|Brazil|Sao Paulo|Google LLC|
-|9|34.151.243.198|3129|Brazil|Sao Paulo|Google LLC|
-|10|3.8.160.197|3128|United Kingdom|London|Amazon Technologies Inc.|
-|11|35.198.31.254|3129|Brazil|Sao Paulo|Google LLC|
-|12|34.95.190.245|3129|Brazil|Sao Paulo|Google LLC|
-|13|35.198.27.116|3129|Brazil|Sao Paulo|Google LLC|
-|14|34.95.198.251|3129|Brazil|Sao Paulo|Google LLC|
-|15|35.198.55.231|3129|Brazil|Sao Paulo|Google LLC|
-|16|34.95.207.20|3129|Brazil|Sao Paulo|Google LLC|
-|17|35.247.245.23|3129|Brazil|Sao Paulo|Google LLC|
-|18|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|19|34.95.190.6|3129|Brazil|Sao Paulo|Google LLC|
-|20|34.151.236.74|3129|Brazil|Sao Paulo|Google LLC|
+|1|35.247.243.5|3129|Brazil|Sao Paulo|Google LLC|
+|2|181.189.135.90|8080|Guatemala|Guatemala City|Comcel Guatemala S.A.|
+|3|54.183.131.55|3128|United States|San Jose|Amazon.com, Inc.|
+|4|94.103.97.61|8080|Switzerland|Belmont-sur-Lausanne|OpenBusiness Ltd / SwissCenter / SwissLink|
+|5|34.151.224.57|3129|Brazil|Sao Paulo|Google LLC|
+|6|35.199.83.153|3129|Brazil|Sao Paulo|Google LLC|
+|7|3.8.160.197|3128|United Kingdom|London|Amazon Technologies Inc.|
+|8|35.199.81.56|3129|Brazil|Sao Paulo|Google LLC|
+|9|34.219.86.50|3128|United States|Portland|Amazon.com, Inc.|
+|10|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|11|205.213.80.8|8009|United States|Siren|WiscNet|
+|12|35.247.244.93|3129|Brazil|Sao Paulo|Google LLC|
+|13|103.42.28.74|45787|Japan|Tokyo|Zenlayer Inc|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|15|152.67.10.190|8100|India|Mumbai|Oracle Corporation|
+|16|34.95.197.9|3129|Brazil|Sao Paulo|Google LLC|
+|17|35.198.57.230|3129|Brazil|Sao Paulo|Google LLC|
+|18|34.151.236.26|3129|Brazil|Sao Paulo|Google LLC|
+|19|158.69.71.245|9300|Canada|Montreal|OVH SAS|
+|20|35.199.84.22|3129|Brazil|Sao Paulo|Google LLC|
 
 
 
