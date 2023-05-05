@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **7610** proxies at the latest update. Usable proxies are below.
+> Scraper found **7274** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|501|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|501|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|501|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|427|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|427|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|427|
 
 ## Sources
 
@@ -36,10 +36,10 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1705|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1704|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1010|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|975|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3512|✅|
 
 
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.236.171.122|3128|United States|Ashburn|Amazon.com, Inc.|
-|2|34.221.43.193|3128|United States|Portland|Amazon.com, Inc.|
-|3|3.8.48.127|3128|United Kingdom|London|Amazon Technologies Inc.|
-|4|3.8.210.49|3128|United Kingdom|London|Amazon Technologies Inc.|
-|5|3.8.156.11|3128|United Kingdom|London|Amazon Technologies Inc.|
+|1|158.69.73.79|9300|Canada|Montreal|OVH SAS|
+|2|34.151.228.196|3129|Brazil|Sao Paulo|Google LLC|
+|3|213.241.205.2|8080|Russia|Rostov-on-Don|RTCOMM-YUG|
+|4|34.236.171.122|3128|United States|Ashburn|Amazon.com, Inc.|
+|5|35.199.82.243|3129|Brazil|Sao Paulo|Google LLC|
 |6|181.189.135.90|8080|Guatemala|Guatemala City|Comcel Guatemala S.A.|
-|7|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
-|8|35.247.248.46|3129|Brazil|Sao Paulo|Google LLC|
-|9|35.247.234.213|3129|Brazil|Sao Paulo|Google LLC|
-|10|51.79.50.22|9300|Canada|Beauharnois|OVH SAS|
-|11|35.247.218.29|3129|Brazil|Sao Paulo|Google LLC|
-|12|34.95.187.223|3129|Brazil|Sao Paulo|Google LLC|
-|13|35.247.209.139|3129|Brazil|Sao Paulo|Google LLC|
-|14|35.198.42.124|3129|Brazil|Sao Paulo|Google LLC|
-|15|35.247.236.15|3129|Brazil|Sao Paulo|Google LLC|
-|16|34.151.227.20|3129|Brazil|Sao Paulo|Google LLC|
-|17|65.21.49.164|8080|Finland|Helsinki|Hetzner Online GmbH|
-|18|35.198.44.184|3129|Brazil|Sao Paulo|Google LLC|
-|19|61.28.233.217|3128|Vietnam|Ho Chi Minh City|Vinadata broadcast via vinagame AS Number|
-|20|43.156.100.152|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|7|35.198.47.85|3129|Brazil|Sao Paulo|Google LLC|
+|8|34.236.171.122|3128|United States|Ashburn|Amazon.com, Inc.|
+|9|3.8.48.127|3128|United Kingdom|London|Amazon Technologies Inc.|
+|10|35.198.50.181|3129|Brazil|Sao Paulo|Google LLC|
+|11|34.125.71.5|8585|United States|Las Vegas|Google LLC|
+|12|65.21.49.21|8080|Finland|Helsinki|Hetzner Online GmbH|
+|13|34.221.43.193|3128|United States|Portland|Amazon.com, Inc.|
+|14|34.95.189.235|3129|Brazil|Sao Paulo|Google LLC|
+|15|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
+|16|34.95.187.223|3129|Brazil|Sao Paulo|Google LLC|
+|17|3.8.156.11|3128|United Kingdom|London|Amazon Technologies Inc.|
+|18|35.198.16.85|3129|Brazil|Sao Paulo|Google LLC|
+|19|138.0.231.202|999|Honduras|Santa Rosa de Copán|Multicable De Honduras|
+|20|3.8.210.49|3128|United Kingdom|London|Amazon Technologies Inc.|
 
 
 
