@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **8237** proxies at the latest update. Usable proxies are below.
+> Scraper found **7252** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|927|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|927|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|927|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|389|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|389|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|389|
 
 ## Sources
 
@@ -36,8 +36,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|2811|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|2126|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1041|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3002|✅|
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.174.53.212|8585|United States|Dallas|Google LLC|
-|2|34.94.165.70|8585|United States|Los Angeles|Google LLC|
-|3|34.94.160.244|8585|United States|Los Angeles|Google LLC|
-|4|34.162.45.90|8585|United States|Columbus|Google LLC|
-|5|35.247.74.132|8585|United States|The Dalles|Google LLC|
-|6|34.118.117.254|8585|Poland|Warsaw|Google LLC|
-|7|34.162.198.150|8585|United States|Columbus|Google LLC|
-|8|34.125.31.144|8585|United States|Las Vegas|Google LLC|
-|9|34.106.245.96|8585|United States|Salt Lake City|Google LLC|
-|10|35.198.13.220|3129|Brazil|Sao Paulo|Google LLC|
-|11|34.162.222.171|8585|United States|Columbus|Google LLC|
-|12|34.174.71.88|8585|United States|Dallas|Google LLC|
-|13|35.178.123.33|3128|United Kingdom|London|Amazon Technologies Inc.|
-|14|136.243.55.199|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|15|65.21.186.173|3129|Finland|Helsinki|Hetzner Online GmbH|
-|16|66.70.178.214|9300|Canada|Beauharnois|OVH SAS|
-|17|34.125.137.121|8585|United States|Las Vegas|Google LLC|
-|18|34.106.86.33|8585|United States|Salt Lake City|Google LLC|
-|19|34.95.230.186|3129|Brazil|Sao Paulo|Google LLC|
-|20|34.174.71.88|8585|United States|Dallas|Google LLC|
+|1|34.220.126.182|3128|United States|Portland|Amazon.com, Inc.|
+|2|34.95.199.125|3129|Brazil|Sao Paulo|Google LLC|
+|3|34.95.163.147|3129|Brazil|Sao Paulo|Google LLC|
+|4|35.247.209.205|3129|Brazil|Sao Paulo|Google LLC|
+|5|35.247.241.115|3129|Brazil|Sao Paulo|Google LLC|
+|6|40.76.245.70|8080|United States|Boydton|Microsoft Corporation|
+|7|35.247.249.71|3129|Brazil|Sao Paulo|Google LLC|
+|8|34.151.224.57|3129|Brazil|Sao Paulo|Google LLC|
+|9|45.136.58.51|8888|Kazakhstan|Oral|Megahost Kazakhstan TOO|
+|10|34.151.215.95|3129|Brazil|Sao Paulo|Google LLC|
+|11|35.247.218.29|3129|Brazil|Sao Paulo|Google LLC|
+|12|34.95.168.190|3129|Brazil|Sao Paulo|Google LLC|
+|13|34.95.193.124|3129|Brazil|Sao Paulo|Google LLC|
+|14|34.118.110.232|8585|Poland|Warsaw|Google LLC|
+|15|34.151.234.30|3129|Brazil|Sao Paulo|Google LLC|
+|16|20.99.187.69|8443|United States|Quincy|Microsoft Corporation|
+|17|34.151.234.104|3129|Brazil|Sao Paulo|Google LLC|
+|18|34.220.126.182|3128|United States|Portland|Amazon.com, Inc.|
+|19|34.151.207.207|3129|Brazil|Sao Paulo|Google LLC|
+|20|34.95.199.125|3129|Brazil|Sao Paulo|Google LLC|
 
 
 
