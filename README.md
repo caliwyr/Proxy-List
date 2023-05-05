@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **7122** proxies at the latest update. Usable proxies are below.
+> Scraper found **7127** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|524|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|524|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|524|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|473|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|473|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|473|
 
 ## Sources
 
@@ -37,7 +37,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1446|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1451|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1081|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3512|✅|
@@ -49,24 +49,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|13.57.186.41|3128|United States|San Jose|Amazon.com, Inc.|
 |2|18.236.243.179|3128|United States|Portland|Amazon.com, Inc.|
-|3|115.144.102.39|10080|South Korea|Gangdong-gu|Korea Telecom|
-|4|18.228.154.140|3128|Brazil|São Paulo|Amazon Technologies Inc.|
-|5|40.76.245.70|8080|United States|Boydton|Microsoft Corporation|
-|6|115.144.101.201|10001|South Korea|Gangdong-gu|Korea Telecom|
-|7|34.95.187.223|3129|Brazil|Sao Paulo|Google LLC|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|95.217.8.160|8080|Finland|Helsinki|Hetzner Online GmbH|
-|10|35.198.56.75|3129|Brazil|Sao Paulo|Google LLC|
-|11|13.57.186.41|3128|United States|San Jose|Amazon.com, Inc.|
-|12|87.251.153.205|8080|Iran|Tehran|Iran Telecommunication Company PJS|
-|13|179.96.28.58|80|Brazil|Alexania|G8 NETWORKS LTDA|
-|14|40.76.245.70|8080|United States|Boydton|Microsoft Corporation|
-|15|35.199.81.56|3129|Brazil|Sao Paulo|Google LLC|
-|16|34.162.198.122|8585|United States|Columbus|Google LLC|
-|17|20.99.187.69|8443|United States|Quincy|Microsoft Corporation|
-|18|35.198.21.162|3129|Brazil|Sao Paulo|Google LLC|
-|19|34.151.236.26|3129|Brazil|Sao Paulo|Google LLC|
-|20|20.69.79.158|8443|United States|Quincy|Microsoft Corporation|
+|3|20.93.42.101|8080|Ireland|Dublin|Microsoft Corporation|
+|4|20.69.79.158|8443|United States|Quincy|Microsoft Corporation|
+|5|35.199.81.56|3129|Brazil|Sao Paulo|Google LLC|
+|6|20.99.187.69|8443|United States|Quincy|Microsoft Corporation|
+|7|34.95.177.90|3129|Brazil|Sao Paulo|Google LLC|
+|8|94.103.97.60|8080|Switzerland|Belmont-sur-Lausanne|OpenBusiness Ltd / SwissCenter / SwissLink|
+|9|87.251.153.205|8080|Iran|Tehran|Iran Telecommunication Company PJS|
+|10|40.76.245.70|8080|United States|Boydton|Microsoft Corporation|
+|11|34.151.228.25|3129|Brazil|Sao Paulo|Google LLC|
+|12|18.236.243.179|3128|United States|Portland|Amazon.com, Inc.|
+|13|18.228.154.140|3128|Brazil|São Paulo|Amazon Technologies Inc.|
+|14|35.247.249.215|3129|Brazil|Sao Paulo|Google LLC|
+|15|40.76.245.70|8080|United States|Boydton|Microsoft Corporation|
+|16|35.198.50.181|3129|Brazil|Sao Paulo|Google LLC|
+|17|20.69.79.158|8443|United States|Quincy|Microsoft Corporation|
+|18|13.57.186.41|3128|United States|San Jose|Amazon.com, Inc.|
+|19|20.99.187.69|8443|United States|Quincy|Microsoft Corporation|
+|20|35.198.56.75|3129|Brazil|Sao Paulo|Google LLC|
 
 
 
