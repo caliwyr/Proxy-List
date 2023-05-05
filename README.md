@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **7191** proxies at the latest update. Usable proxies are below.
+> Scraper found **7259** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|374|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|374|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|374|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|627|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|627|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|627|
 
 ## Sources
 
@@ -37,7 +37,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1471|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1539|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|825|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3512|✅|
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.73.215.158|8080|United States|North Charleston|Google LLC|
+|1|34.116.192.142|8585|Poland|Warsaw|Google LLC|
 |2|20.93.42.101|8080|Ireland|Dublin|Microsoft Corporation|
-|3|51.79.50.22|9300|Canada|Beauharnois|OVH SAS|
-|4|34.151.228.196|3129|Brazil|Sao Paulo|Google LLC|
-|5|35.198.5.86|3129|Brazil|Sao Paulo|Google LLC|
-|6|34.125.13.125|8585|United States|Las Vegas|Google LLC|
-|7|35.199.81.224|3129|Brazil|Sao Paulo|Google LLC|
-|8|213.241.205.2|8080|Russia|Rostov-on-Don|RTCOMM-YUG|
-|9|181.189.135.90|8080|Guatemala|Guatemala City|Comcel Guatemala S.A.|
-|10|186.121.235.220|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|11|35.247.248.45|3129|Brazil|Sao Paulo|Google LLC|
-|12|34.151.234.55|3129|Brazil|Sao Paulo|Google LLC|
-|13|34.73.215.158|8080|United States|North Charleston|Google LLC|
-|14|115.144.102.39|10080|South Korea|Gangdong-gu|Korea Telecom|
-|15|35.198.51.241|3129|Brazil|Sao Paulo|Google LLC|
-|16|35.247.197.18|3129|Brazil|Sao Paulo|Google LLC|
-|17|34.95.187.223|3129|Brazil|Sao Paulo|Google LLC|
-|18|131.196.254.101|3128|Mexico|Puebla City|Truxgo S. R.L. de C.V.|
-|19|35.198.9.82|3129|Brazil|Sao Paulo|Google LLC|
-|20|34.125.202.18|8585|United States|Las Vegas|Google LLC|
+|3|35.198.38.173|3129|Brazil|Sao Paulo|Google LLC|
+|4|94.103.97.61|8080|Switzerland|Belmont-sur-Lausanne|OpenBusiness Ltd / SwissCenter / SwissLink|
+|5|35.198.7.3|3129|Brazil|Sao Paulo|Google LLC|
+|6|34.151.245.107|3129|Brazil|Sao Paulo|Google LLC|
+|7|34.73.215.158|8080|United States|North Charleston|Google LLC|
+|8|34.151.231.78|3129|Brazil|Sao Paulo|Google LLC|
+|9|34.95.187.223|3129|Brazil|Sao Paulo|Google LLC|
+|10|35.198.16.85|3129|Brazil|Sao Paulo|Google LLC|
+|11|34.151.243.210|3129|Brazil|Sao Paulo|Google LLC|
+|12|35.247.197.36|3129|Brazil|Sao Paulo|Google LLC|
+|13|35.198.51.241|3129|Brazil|Sao Paulo|Google LLC|
+|14|34.95.176.173|3129|Brazil|Sao Paulo|Google LLC|
+|15|34.95.174.37|3129|Brazil|Sao Paulo|Google LLC|
+|16|34.73.215.158|8080|United States|North Charleston|Google LLC|
+|17|35.198.5.86|3129|Brazil|Sao Paulo|Google LLC|
+|18|34.95.189.169|3129|Brazil|Sao Paulo|Google LLC|
+|19|158.69.71.245|9300|Canada|Montreal|OVH SAS|
+|20|181.189.135.90|8080|Guatemala|Guatemala City|Comcel Guatemala S.A.|
 
 
 
