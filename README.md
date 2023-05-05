@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **7126** proxies at the latest update. Usable proxies are below.
+> Scraper found **6819** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|686|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|686|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|686|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|758|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|758|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|758|
 
 ## Sources
 
@@ -36,37 +36,37 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1433|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1865|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|869|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3441|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3002|✅|
 
 
 ## Sample Proxies With Geolocation Info
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|40.76.245.70|8080|United States|Boydton|Microsoft Corporation|
-|2|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
-|3|35.247.209.139|3129|Brazil|Sao Paulo|Google LLC|
-|4|35.198.16.85|3129|Brazil|Sao Paulo|Google LLC|
-|5|35.198.13.220|3129|Brazil|Sao Paulo|Google LLC|
-|6|107.152.35.64|8080|United States|Chicago|tzulo, inc.|
-|7|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
-|8|157.245.27.9|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|181.189.135.90|8080|Guatemala|Guatemala City|Comcel Guatemala S.A.|
-|10|40.76.245.70|8080|United States|Boydton|Microsoft Corporation|
-|11|107.152.35.64|8080|United States|Chicago|tzulo, inc.|
-|12|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
-|13|95.216.186.95|8080|Finland|Helsinki|Hetzner Online GmbH|
-|14|35.198.60.146|3129|Brazil|Sao Paulo|Google LLC|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|16|35.198.37.50|3129|Brazil|Sao Paulo|Google LLC|
-|17|34.95.205.168|3129|Brazil|Sao Paulo|Google LLC|
-|18|34.95.155.201|3129|Brazil|Sao Paulo|Google LLC|
-|19|85.25.4.27|8646|France|Strasbourg|Host Europe GmbH|
-|20|58.69.201.220|8080|Philippines|Mandaluyong City|Philippine Long Distance Telephone Co.|
+|1|34.94.165.70|8585|United States|Los Angeles|Google LLC|
+|2|34.174.134.214|8585|United States|Dallas|Google LLC|
+|3|35.245.24.108|8585|United States|Washington|Google LLC|
+|4|34.168.32.197|8585|United States|The Dalles|Google LLC|
+|5|34.148.67.228|8585|United States|North Charleston|Google LLC|
+|6|34.162.190.6|8585|United States|Columbus|Google LLC|
+|7|34.162.180.48|8585|United States|Columbus|Google LLC|
+|8|34.106.83.217|8585|United States|Salt Lake City|Google LLC|
+|9|34.162.250.104|8585|United States|Columbus|Google LLC|
+|10|139.178.66.232|443|United States|Parsippany|PACKET-HOST|
+|11|194.213.18.81|50098|United States|Ashburn|Clouvider Limited|
+|12|61.28.233.217|3128|Vietnam|Ho Chi Minh City|Vinadata broadcast via vinagame AS Number|
+|13|40.76.245.70|8080|United States|Boydton|Microsoft Corporation|
+|14|34.162.45.90|8585|United States|Columbus|Google LLC|
+|15|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
+|16|35.245.24.108|8585|United States|Washington|Google LLC|
+|17|34.106.203.145|8585|United States|Salt Lake City|Google LLC|
+|18|34.145.139.127|8585|United States|Washington|Google LLC|
+|19|34.106.83.217|8585|United States|Salt Lake City|Google LLC|
+|20|34.106.186.61|8585|United States|Salt Lake City|Google LLC|
 
 
 
