@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **6293** proxies at the latest update. Usable proxies are below.
+> Scraper found **6343** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|324|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|324|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|324|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|578|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|578|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|578|
 
 ## Sources
 
@@ -37,9 +37,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1256|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1371|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|768|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|703|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2886|✅|
 
 
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|181.189.135.90|8080|Guatemala|Guatemala City|Comcel Guatemala S.A.|
-|2|35.199.69.126|3129|Brazil|Sao Paulo|Google LLC|
-|3|35.247.209.139|3129|Brazil|Sao Paulo|Google LLC|
-|4|140.238.1.77|8080|South Korea|Seoul|Oracle Corporation|
-|5|35.198.38.173|3129|Brazil|Sao Paulo|Google LLC|
-|6|34.95.144.132|3129|Brazil|Sao Paulo|Google LLC|
-|7|34.151.219.100|3129|Brazil|Sao Paulo|Google LLC|
-|8|35.199.101.72|3129|Brazil|Sao Paulo|Google LLC|
-|9|139.178.66.232|443|United States|Parsippany|PACKET-HOST|
-|10|35.199.96.173|3129|Brazil|Sao Paulo|Google LLC|
+|1|139.178.66.232|443|United States|Parsippany|PACKET-HOST|
+|2|34.95.231.66|3129|Brazil|Sao Paulo|Google LLC|
+|3|34.95.253.212|3129|Brazil|Sao Paulo|Google LLC|
+|4|65.109.143.239|8080|Finland|Helsinki|Hetzner Online GmbH|
+|5|34.95.180.164|3129|Brazil|Sao Paulo|Google LLC|
+|6|34.95.228.197|3129|Brazil|Sao Paulo|Google LLC|
+|7|34.95.147.46|3129|Brazil|Sao Paulo|Google LLC|
+|8|34.95.214.235|3129|Brazil|Sao Paulo|Google LLC|
+|9|35.198.36.109|3129|Brazil|Sao Paulo|Google LLC|
+|10|35.198.17.213|3129|Brazil|Sao Paulo|Google LLC|
 |11|139.178.66.232|443|United States|Parsippany|PACKET-HOST|
-|12|34.95.231.66|3129|Brazil|Sao Paulo|Google LLC|
+|12|35.198.7.123|3129|Brazil|Sao Paulo|Google LLC|
 |13|35.199.80.36|3129|Brazil|Sao Paulo|Google LLC|
-|14|34.95.169.142|3129|Brazil|Sao Paulo|Google LLC|
-|15|34.151.214.113|3129|Brazil|Sao Paulo|Google LLC|
-|16|35.247.199.249|3129|Brazil|Sao Paulo|Google LLC|
-|17|192.227.128.179|8080|United States|Buffalo|ColoCrossing|
-|18|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|19|35.198.7.123|3129|Brazil|Sao Paulo|Google LLC|
-|20|35.198.26.92|3129|Brazil|Sao Paulo|Google LLC|
+|14|35.247.247.254|3129|Brazil|Sao Paulo|Google LLC|
+|15|34.95.250.176|3129|Brazil|Sao Paulo|Google LLC|
+|16|35.199.89.81|3129|Brazil|Sao Paulo|Google LLC|
+|17|34.151.219.100|3129|Brazil|Sao Paulo|Google LLC|
+|18|35.198.45.239|3129|Brazil|Sao Paulo|Google LLC|
+|19|35.247.240.117|3129|Brazil|Sao Paulo|Google LLC|
+|20|35.247.209.139|3129|Brazil|Sao Paulo|Google LLC|
 
 
 
