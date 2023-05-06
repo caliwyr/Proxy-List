@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **6164** proxies at the latest update. Usable proxies are below.
+> Scraper found **6816** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|635|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|635|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|635|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|507|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|507|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|507|
 
 ## Sources
 
@@ -37,7 +37,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1492|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|2144|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|703|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2886|✅|
@@ -48,25 +48,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.178.66.232|443|United States|Parsippany|PACKET-HOST|
-|2|35.198.39.90|3129|Brazil|Sao Paulo|Google LLC|
-|3|34.95.228.197|3129|Brazil|Sao Paulo|Google LLC|
-|4|34.95.214.235|3129|Brazil|Sao Paulo|Google LLC|
-|5|34.151.232.18|3129|Brazil|Sao Paulo|Google LLC|
-|6|35.198.17.213|3129|Brazil|Sao Paulo|Google LLC|
-|7|140.238.1.77|8080|South Korea|Seoul|Oracle Corporation|
-|8|34.95.253.212|3129|Brazil|Sao Paulo|Google LLC|
-|9|34.95.136.64|3129|Brazil|Sao Paulo|Google LLC|
-|10|35.198.7.123|3129|Brazil|Sao Paulo|Google LLC|
-|11|35.199.73.153|3129|Brazil|Sao Paulo|Google LLC|
-|12|139.178.66.232|443|United States|Parsippany|PACKET-HOST|
-|13|34.151.213.193|3129|Brazil|Sao Paulo|Google LLC|
-|14|35.199.81.236|3129|Brazil|Sao Paulo|Google LLC|
-|15|34.95.214.235|3129|Brazil|Sao Paulo|Google LLC|
-|16|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|17|35.199.89.81|3129|Brazil|Sao Paulo|Google LLC|
-|18|35.198.33.67|3129|Brazil|Sao Paulo|Google LLC|
-|19|34.95.189.235|3129|Brazil|Sao Paulo|Google LLC|
-|20|157.245.27.9|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|2|65.109.143.239|8080|Finland|Helsinki|Hetzner Online GmbH|
+|3|35.198.45.239|3129|Brazil|Sao Paulo|Google LLC|
+|4|35.198.39.90|3129|Brazil|Sao Paulo|Google LLC|
+|5|34.95.180.164|3129|Brazil|Sao Paulo|Google LLC|
+|6|35.198.36.109|3129|Brazil|Sao Paulo|Google LLC|
+|7|34.95.252.170|3129|Brazil|Sao Paulo|Google LLC|
+|8|35.247.240.117|3129|Brazil|Sao Paulo|Google LLC|
+|9|34.151.220.255|3129|Brazil|Sao Paulo|Google LLC|
+|10|35.198.17.213|3129|Brazil|Sao Paulo|Google LLC|
+|11|34.95.214.235|3129|Brazil|Sao Paulo|Google LLC|
+|12|34.151.234.104|3129|Brazil|Sao Paulo|Google LLC|
+|13|34.95.253.212|3129|Brazil|Sao Paulo|Google LLC|
+|14|34.145.64.212|8585|United States|The Dalles|Google LLC|
+|15|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
+|16|34.95.249.199|3129|Brazil|Sao Paulo|Google LLC|
+|17|140.238.1.77|8080|South Korea|Seoul|Oracle Corporation|
+|18|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
+|19|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|20|34.95.189.235|3129|Brazil|Sao Paulo|Google LLC|
 
 
 
