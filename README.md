@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **6785** proxies at the latest update. Usable proxies are below.
+> Scraper found **6550** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|626|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|626|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|626|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|542|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|542|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|542|
 
 ## Sources
 
@@ -37,10 +37,10 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1373|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1353|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|910|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3119|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2904|✅|
 
 
 ## Sample Proxies With Geolocation Info
@@ -49,24 +49,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|40.76.245.70|8080|United States|Boydton|Microsoft Corporation|
 |2|34.98.65.22|5222|United States|Kansas City|Google LLC|
-|3|35.177.192.162|3128|United Kingdom|London|Amazon Technologies Inc.|
-|4|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
-|5|5.78.96.111|8080|United States|Portland|Hetzner Online GmbH|
-|6|188.132.221.174|8080|Turkey|Istanbul|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|7|157.245.27.9|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|181.189.135.90|8080|Guatemala|Guatemala City|Comcel Guatemala S.A.|
-|9|52.59.215.221|3128|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|10|34.98.65.22|5222|United States|Kansas City|Google LLC|
-|11|40.76.245.70|8080|United States|Boydton|Microsoft Corporation|
-|12|5.78.96.111|8080|United States|Portland|Hetzner Online GmbH|
-|13|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
-|14|54.93.111.39|3128|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|15|135.181.255.176|8080|Finland|Helsinki|Hetzner Online GmbH|
-|16|103.92.26.190|4002|Vietnam|Ho Chi Minh City|TLSOFT|
-|17|51.159.0.236|3128|France|Paris|SCALEWAY|
-|18|109.194.101.128|3128|Russia|Yoshkar-Ola|CJSC "ER-Telecom Holding" Yoshkar-Ola branch|
-|19|40.119.236.22|80|Singapore|Singapore|Microsoft Corporation|
-|20|34.106.228.99|8585|United States|Salt Lake City|Google LLC|
+|3|181.189.135.90|8080|Guatemala|Guatemala City|Comcel Guatemala S.A.|
+|4|196.179.196.18|8080|Tunisia|El Fahs|ooredoo TN|
+|5|115.144.101.201|10001|South Korea|Gangdong-gu|Korea Telecom|
+|6|35.177.192.162|3128|United Kingdom|London|Amazon Technologies Inc.|
+|7|20.69.79.158|8443|United States|Quincy|Microsoft Corporation|
+|8|5.78.96.111|8080|United States|Portland|Hetzner Online GmbH|
+|9|40.119.236.22|80|Singapore|Singapore|Microsoft Corporation|
+|10|157.245.27.9|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|34.98.65.22|5222|United States|Kansas City|Google LLC|
+|12|186.121.235.220|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|13|34.82.237.139|8585|United States|The Dalles|Google LLC|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|15|34.106.228.99|8585|United States|Salt Lake City|Google LLC|
+|16|188.132.221.174|8080|Turkey|Istanbul|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|17|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
+|18|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
+|19|34.162.86.239|8585|United States|Columbus|Google LLC|
+|20|5.78.96.111|8080|United States|Portland|Hetzner Online GmbH|
 
 
 
