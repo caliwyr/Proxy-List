@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **7018** proxies at the latest update. Usable proxies are below.
+> Scraper found **7130** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|734|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|734|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|734|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|574|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|574|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|574|
 
 ## Sources
 
@@ -37,36 +37,36 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1627|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1752|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|876|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3132|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3119|✅|
 
 
 ## Sample Proxies With Geolocation Info
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|23.95.186.182|3128|United States|Washington|ColoCrossing|
-|2|34.116.166.72|8585|Poland|Warsaw|Google LLC|
-|3|65.21.146.223|8080|Finland|Helsinki|Hetzner Online GmbH|
-|4|95.217.131.11|8080|Finland|Helsinki|Hetzner Online GmbH|
-|5|65.108.254.14|8080|Finland|Helsinki|Hetzner Online GmbH|
-|6|181.189.135.90|8080|Guatemala|Guatemala City|Comcel Guatemala S.A.|
-|7|179.96.28.58|80|Brazil|Alexania|G8 NETWORKS LTDA|
-|8|157.245.27.9|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|81.12.44.197|3129|Iran|Tehran|RESPINA Networks|
-|10|112.118.206.145|8080|Hong Kong|Central|Hong Kong Telecommunications (HKT) Limited Mass Internet|
-|11|135.181.150.104|8080|Finland|Helsinki|Hetzner Online GmbH|
-|12|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
-|13|61.28.233.217|3128|Vietnam|Ho Chi Minh City|Vinadata broadcast via vinagame AS Number|
-|14|20.99.187.69|8443|United States|Quincy|Microsoft Corporation|
+|1|34.174.56.58|8585|United States|Dallas|Google LLC|
+|2|157.245.27.9|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|3|18.130.235.221|3128|United Kingdom|London|Amazon Technologies Inc.|
+|4|181.189.135.90|8080|Guatemala|Guatemala City|Comcel Guatemala S.A.|
+|5|23.95.186.182|3128|United States|Washington|ColoCrossing|
+|6|196.179.196.18|8080|Tunisia|El Fahs|ooredoo TN|
+|7|65.108.254.14|8080|Finland|Helsinki|Hetzner Online GmbH|
+|8|65.21.146.223|8080|Finland|Helsinki|Hetzner Online GmbH|
+|9|23.95.186.182|3128|United States|Washington|ColoCrossing|
+|10|34.174.56.58|8585|United States|Dallas|Google LLC|
+|11|13.234.67.88|3128|India|Mumbai|Amazon Technologies Inc.|
+|12|95.217.131.11|8080|Finland|Helsinki|Hetzner Online GmbH|
+|13|179.96.28.58|80|Brazil|Alexania|G8 NETWORKS LTDA|
+|14|112.118.206.145|8080|Hong Kong|Central|Hong Kong Telecommunications (HKT) Limited Mass Internet|
 |15|51.159.0.236|3128|France|Paris|SCALEWAY|
-|16|23.95.186.182|3128|United States|Washington|ColoCrossing|
-|17|20.69.79.158|8443|United States|Quincy|Microsoft Corporation|
-|18|152.67.10.190|8100|India|Mumbai|Oracle Corporation|
-|19|20.99.187.69|8443|United States|Quincy|Microsoft Corporation|
-|20|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|16|45.79.122.208|3128|India|Mumbai|Akamai Technologies, Inc.|
+|17|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
+|18|34.98.65.22|5222|United States|Kansas City|Google LLC|
+|19|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
+|20|119.42.115.129|3128|Thailand|Bangkok|CAT-BB|
 
 
 
