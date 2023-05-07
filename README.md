@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **5716** proxies at the latest update. Usable proxies are below.
+> Scraper found **5549** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|333|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|333|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|333|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|293|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|293|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|293|
 
 ## Sources
 
@@ -36,11 +36,11 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1034|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1088|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|795|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2504|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|702|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2676|✅|
 
 
 ## Sample Proxies With Geolocation Info
@@ -48,25 +48,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|34.98.65.22|5222|United States|Kansas City|Google LLC|
-|2|40.76.245.70|8080|United States|Boydton|Microsoft Corporation|
-|3|40.85.152.26|8080|United States|San Francisco|Microsoft Corporation|
-|4|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
-|5|20.69.79.158|8443|United States|Quincy|Microsoft Corporation|
-|6|20.99.187.69|8443|United States|Quincy|Microsoft Corporation|
-|7|103.92.26.190|4002|Vietnam|Ho Chi Minh City|TLSOFT|
-|8|40.85.152.26|8080|United States|San Francisco|Microsoft Corporation|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|112.118.206.145|8080|Hong Kong|Central|Hong Kong Telecommunications (HKT) Limited Mass Internet|
-|11|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
-|12|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|13|20.99.187.69|8443|United States|Quincy|Microsoft Corporation|
-|14|34.98.65.22|5222|United States|Kansas City|Google LLC|
-|15|20.69.79.158|8443|United States|Quincy|Microsoft Corporation|
-|16|40.119.236.22|80|Singapore|Singapore|Microsoft Corporation|
-|17|40.76.245.70|8080|United States|Boydton|Microsoft Corporation|
-|18|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
-|19|186.121.235.220|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|20|61.28.233.217|3128|Vietnam|Ho Chi Minh City|Vinadata broadcast via vinagame AS Number|
+|2|49.12.237.87|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|3|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
+|4|213.241.205.2|8080|Russia|Rostov-on-Don|RTCOMM-YUG|
+|5|40.85.152.26|8080|United States|San Francisco|Microsoft Corporation|
+|6|181.189.135.90|8080|Guatemala|Guatemala City|Comcel Guatemala S.A.|
+|7|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
+|8|34.98.65.22|5222|United States|Kansas City|Google LLC|
+|9|86.98.38.141|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
+|10|40.119.236.22|80|Singapore|Singapore|Microsoft Corporation|
+|11|213.151.79.84|8080|Czechia|Prague|Dial Telecom|
+|12|181.78.104.182|999|Guatemala|Guatemala City|Ufinet Panama S.A.|
+|13|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|14|115.144.101.201|10001|South Korea|Gangdong-gu|Korea Telecom|
+|15|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|17|61.29.96.146|80|Australia|Melbourne|AAPT Limited|
+|18|200.105.215.22|33630|Bolivia|La Paz|AXS Bolivia S. A.|
+|19|181.45.148.40|32650|Argentina|San Justo|Telecentro S.A.|
+|20|200.25.254.193|54240|Colombia|Neiva|Andinet ON Line|
 
 
 
