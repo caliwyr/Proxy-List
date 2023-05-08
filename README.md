@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **5834** proxies at the latest update. Usable proxies are below.
+> Scraper found **5532** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|374|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|374|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|374|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|170|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|170|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|170|
 
 ## Sources
 
@@ -36,37 +36,37 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1135|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1180|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|529|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2787|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2740|✅|
 
 
 ## Sample Proxies With Geolocation Info
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|15.237.115.34|3128|France|Paris|Amazon Technologies Inc.|
-|2|64.225.8.115|9996|United States|Clifton|DigitalOcean, LLC|
-|3|157.245.27.9|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|4|34.98.65.22|5222|United States|Kansas City|Google LLC|
-|5|20.99.187.69|8443|United States|Quincy|Microsoft Corporation|
-|6|152.67.10.190|8100|India|Mumbai|Oracle Corporation|
-|7|20.99.187.69|8443|United States|Quincy|Microsoft Corporation|
-|8|20.93.42.101|8080|Ireland|Dublin|Microsoft Corporation|
-|9|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
-|10|20.69.79.158|8443|United States|Quincy|Microsoft Corporation|
-|11|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
+|1|40.119.236.22|80|Singapore|Singapore|Microsoft Corporation|
+|2|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
+|3|201.229.250.21|8080|Dominican Republic|Santo Domingo Este|Compañía Dominicana de Teléfonos S. A.|
+|4|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
+|5|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
+|6|200.25.254.193|54240|Colombia|Neiva|Andinet ON Line|
+|7|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
+|8|103.215.207.54|83|India|Bhatapara|Foxtel Telecommunications Pvt. Ltd.|
+|9|200.105.215.22|33630|Bolivia|La Paz|AXS Bolivia S. A.|
+|10|159.89.19.189|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|142.132.233.188|8080|Germany|Falkenstein|Hetzner Online GmbH|
 |12|34.98.65.22|5222|United States|Kansas City|Google LLC|
-|13|115.240.80.172|3129|India|Mesra|Reliance Jio Infocomm Limited|
-|14|136.243.55.199|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|15|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
-|16|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|17|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
-|18|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
-|19|92.253.235.170|8082|Russia|Podolsk|Best Line Ltd.|
-|20|172.104.41.13|16379|Singapore|Singapore|Akamai Technologies|
+|13|95.217.132.31|8080|Finland|Helsinki|Hetzner Online GmbH|
+|14|128.140.60.27|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|15|172.105.35.55|8080|India|Mumbai|Akamai Technologies|
+|16|181.189.135.90|8080|Guatemala|Guatemala City|Comcel Guatemala S.A.|
+|17|142.132.233.188|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|18|41.60.232.164|8080|Kenya|Nairobi|Maintainer Liquid Telecommunications Operations Limited|
+|19|172.105.35.55|8080|India|Mumbai|Akamai Technologies|
+|20|111.225.152.211|8089|China|Gaocheng|Chinanet|
 
 
 
