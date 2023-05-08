@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|304|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|304|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|304|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|302|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|302|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|302|
 
 ## Sources
 
@@ -48,25 +48,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
-|2|34.98.65.22|5222|United States|Kansas City|Google LLC|
-|3|73.242.86.12|8118|United States|Minnetonka|Comcast Cable Communications|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|181.189.135.90|8080|Guatemala|Guatemala City|Comcel Guatemala S.A.|
-|6|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|7|186.121.235.220|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|8|2.187.216.28|8080|Iran|Urmia|Iran Telecommunication Company PJS|
-|9|20.99.187.69|8443|United States|Quincy|Microsoft Corporation|
-|10|119.8.120.4|80|Hong Kong|Hong Kong|Huawei International Pte. LTD|
-|11|65.109.86.182|33229|Finland|Helsinki|Hetzner Online GmbH|
-|12|5.161.110.95|50272|United States|Ashburn|Hetzner Online GmbH|
-|13|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
-|14|20.69.79.158|8443|United States|Quincy|Microsoft Corporation|
-|15|34.98.65.22|5222|United States|Kansas City|Google LLC|
-|16|20.99.187.69|8443|United States|Quincy|Microsoft Corporation|
-|17|64.225.4.81|9994|United States|Clifton|DigitalOcean, LLC|
-|18|20.69.79.158|8443|United States|Quincy|Microsoft Corporation|
-|19|41.186.44.106|3128|Rwanda|Kigali|MTN Rwandacell|
-|20|64.225.8.135|9991|United States|Clifton|DigitalOcean, LLC|
+|2|64.225.4.81|9995|United States|Clifton|DigitalOcean, LLC|
+|3|65.109.86.182|33229|Finland|Helsinki|Hetzner Online GmbH|
+|4|135.181.14.45|5959|Finland|Helsinki|Hetzner Online GmbH|
+|5|20.99.187.69|8443|United States|Quincy|Microsoft Corporation|
+|6|34.98.65.22|5222|United States|Kansas City|Google LLC|
+|7|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
+|8|176.95.54.202|83|Germany|Wirft|Vodafone GmbH|
+|9|206.189.230.151|3128|United States|North Bergen|DigitalOcean, LLC|
+|10|13.92.136.193|3128|United States|Boydton|Microsoft Corporation|
+|11|167.99.116.111|8001|United States|Clifton|DigitalOcean, LLC|
+|12|40.76.245.70|8080|United States|Boydton|Microsoft Corporation|
+|13|40.76.245.70|8080|United States|Boydton|Microsoft Corporation|
+|14|34.98.65.22|5222|United States|Kansas City|Google LLC|
+|15|187.94.16.59|39665|Brazil|Irece|Holistica Provedor Internet Ltda|
+|16|144.217.7.157|9300|Canada|Beauharnois|OVH SAS|
+|17|181.189.135.90|8080|Guatemala|Guatemala City|Comcel Guatemala S.A.|
+|18|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
+|19|186.121.235.220|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|20|213.241.205.2|8080|Russia|Rostov-on-Don|RTCOMM-YUG|
 
 
 
