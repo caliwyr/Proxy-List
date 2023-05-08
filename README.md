@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|280|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|280|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|280|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|279|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|279|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|279|
 
 ## Sources
 
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.98.65.22|5222|United States|Kansas City|Google LLC|
-|2|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
-|3|20.69.79.158|8443|United States|Quincy|Microsoft Corporation|
-|4|20.99.187.69|8443|United States|Quincy|Microsoft Corporation|
-|5|198.27.74.6|9300|Canada|Beauharnois|OVH SAS|
-|6|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|7|181.189.135.90|8080|Guatemala|Guatemala City|Comcel Guatemala S.A.|
-|8|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
-|9|176.95.54.202|83|Germany|Wirft|Vodafone GmbH|
-|10|51.159.0.236|3128|France|Paris|SCALEWAY|
-|11|186.121.235.220|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|12|20.69.79.158|8443|United States|Quincy|Microsoft Corporation|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|14|34.98.65.22|5222|United States|Kansas City|Google LLC|
-|15|13.92.136.193|3128|United States|Boydton|Microsoft Corporation|
-|16|20.99.187.69|8443|United States|Quincy|Microsoft Corporation|
-|17|45.190.170.254|999|Peru|Lima region|Softbutterfly SAC|
-|18|5.161.110.95|50001|United States|Ashburn|Hetzner Online GmbH|
-|19|200.105.215.22|33630|Bolivia|La Paz|AXS Bolivia S. A.|
-|20|159.89.128.130|8989|United States|Santa Clara|DigitalOcean, LLC|
+|1|40.76.245.70|8080|United States|Boydton|Microsoft Corporation|
+|2|204.2.218.145|8080|United States|Calhoun|NTT America, Inc.|
+|3|181.189.135.90|8080|Guatemala|Guatemala City|Comcel Guatemala S.A.|
+|4|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
+|5|34.98.65.22|5222|United States|Kansas City|Google LLC|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|158.69.71.245|9300|Canada|Montreal|OVH SAS|
+|8|20.69.79.158|8443|United States|Quincy|Microsoft Corporation|
+|9|204.2.218.145|8080|United States|Calhoun|NTT America, Inc.|
+|10|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
+|11|34.98.65.22|5222|United States|Kansas City|Google LLC|
+|12|158.69.73.79|9300|Canada|Montreal|OVH SAS|
+|13|135.181.14.45|5959|Finland|Helsinki|Hetzner Online GmbH|
+|14|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|15|40.76.245.70|8080|United States|Boydton|Microsoft Corporation|
+|16|13.92.136.193|3128|United States|Boydton|Microsoft Corporation|
+|17|37.120.192.154|8080|Netherlands|Amsterdam|M247 Europe SRL|
+|18|158.69.66.131|9300|Canada|Montreal|OVH SAS|
+|19|186.121.235.220|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|20|102.39.215.83|9090|South Africa|Cape Town|Vox Telecom|
 
 
 
