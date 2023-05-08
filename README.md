@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **5528** proxies at the latest update. Usable proxies are below.
+> Scraper found **5472** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|180|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|180|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|180|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|285|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|285|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|285|
 
 ## Sources
 
@@ -37,7 +37,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|883|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|827|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|581|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2681|✅|
@@ -48,25 +48,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|181.189.135.90|8080|Guatemala|Guatemala City|Comcel Guatemala S.A.|
-|2|194.5.64.23|3128|Turkey|Istanbul|Invermae Solutions SL|
-|3|20.69.79.158|8443|United States|Quincy|Microsoft Corporation|
-|4|135.181.14.45|5959|Finland|Helsinki|Hetzner Online GmbH|
-|5|49.50.174.37|3128|South Korea|Seongnam-si|NBP|
-|6|180.183.228.213|8080|Thailand|Chiang Mai|Triple T Broadband Public Company Limited|
-|7|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|8|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
-|9|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|10|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
-|11|201.229.250.21|8080|Dominican Republic|Santo Domingo Este|Compañía Dominicana de Teléfonos S. A.|
-|12|5.78.42.109|8080|United States|Portland|Hetzner Online GmbH|
-|13|40.76.245.70|8080|United States|Boydton|Microsoft Corporation|
-|14|37.255.134.65|8080|Iran|Isfahan|Iran Telecommunication Company PJS|
-|15|51.79.50.46|9300|Canada|Beauharnois|OVH SAS|
-|16|201.71.2.4|999|Venezuela|Caracas|Level 3 Communications, Inc.|
-|17|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|18|103.69.108.78|8191|Philippines|Santiago|CITI Cableworld Inc.|
-|19|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|20|50.235.247.114|8085|United States|Marietta|Comcast Cable Communications, LLC|
+|2|96.95.164.41|3128|United States|Deep River|Comcast Cable Communications, LLC|
+|3|49.50.174.37|3128|South Korea|Seongnam-si|NBP|
+|4|180.183.228.213|8080|Thailand|Chiang Mai|Triple T Broadband Public Company Limited|
+|5|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
+|6|200.105.215.22|33630|Bolivia|La Paz|AXS Bolivia S. A.|
+|7|103.69.108.78|8191|Philippines|Santiago|CITI Cableworld Inc.|
+|8|5.78.42.109|8080|United States|Portland|Hetzner Online GmbH|
+|9|103.162.54.246|8080|Indonesia|Majalengka|PT Pratama Asia Globalindo|
+|10|110.34.3.229|3128|Nepal|Kathmandu|SUBISU C7|
+|11|103.42.28.107|45787|Japan|Tokyo|Zenlayer Inc|
+|12|181.189.135.90|8080|Guatemala|Guatemala City|Comcel Guatemala S.A.|
+|13|122.155.165.191|3128|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
+|14|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
+|15|65.108.215.183|8080|Finland|Helsinki|Hetzner Online GmbH|
+|16|128.140.9.127|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|17|5.161.89.188|8080|United States|Ashburn|Hetzner Online GmbH|
+|18|185.44.232.30|53281|Spain|Marbella|Avatel Telecom|
+|19|128.140.3.26|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|20|103.243.114.206|8080|India|Beed|Gazon Communications India Limited|
 
 
 
