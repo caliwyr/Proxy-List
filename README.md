@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **5827** proxies at the latest update. Usable proxies are below.
+> Scraper found **5591** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|263|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|263|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|263|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|170|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|170|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|170|
 
 ## Sources
 
@@ -37,36 +37,36 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1169|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|963|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|564|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2711|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2681|✅|
 
 
 ## Sample Proxies With Geolocation Info
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|3.8.156.37|3128|United Kingdom|London|Amazon Technologies Inc.|
-|2|96.95.164.41|3128|United States|Deep River|Comcast Cable Communications, LLC|
-|3|205.213.80.8|8009|United States|Siren|WiscNet|
-|4|181.189.135.90|8080|Guatemala|Guatemala City|Comcel Guatemala S.A.|
-|5|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
-|6|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|7|34.98.65.22|5222|United States|Kansas City|Google LLC|
-|8|205.213.80.8|8009|United States|Siren|WiscNet|
-|9|96.95.164.41|3128|United States|Deep River|Comcast Cable Communications, LLC|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|45.224.99.4|999|Ecuador|Portoviejo|Nedetel S.A.|
-|12|5.9.118.41|8889|Germany|Falkenstein|Hetzner Online GmbH|
-|13|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|14|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
-|15|200.25.254.193|54240|Colombia|Neiva|Andinet ON Line|
-|16|40.76.245.70|8080|United States|Boydton|Microsoft Corporation|
-|17|40.76.245.70|8080|United States|Boydton|Microsoft Corporation|
-|18|20.93.42.101|8080|Ireland|Dublin|Microsoft Corporation|
-|19|45.234.60.2|999|Venezuela|Caracas|SOLUCIONES INSTALRED CH&C C.A.|
-|20|202.162.212.94|8080|Indonesia|Depok|PT Indonesia Comnets Plus|
+|1|49.50.174.37|3128|South Korea|Seongnam-si|NBP|
+|2|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
+|3|40.119.236.22|80|Singapore|Singapore|Microsoft Corporation|
+|4|40.76.245.70|8080|United States|Boydton|Microsoft Corporation|
+|5|64.225.8.132|9996|United States|Clifton|DigitalOcean, LLC|
+|6|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
+|7|135.181.14.45|5959|Finland|Helsinki|Hetzner Online GmbH|
+|8|40.76.245.70|8080|United States|Boydton|Microsoft Corporation|
+|9|181.129.182.99|999|Colombia|Bucaramanga|EPM Telecomunicaciones S.A. E.S.P.|
+|10|181.189.135.90|8080|Guatemala|Guatemala City|Comcel Guatemala S.A.|
+|11|103.160.206.90|32650|India|Moradabad|Moradabad Internet Services Private Limited|
+|12|200.25.254.193|54240|Colombia|Neiva|Andinet ON Line|
+|13|5.78.42.109|8080|United States|Portland|Hetzner Online GmbH|
+|14|200.105.215.22|33630|Bolivia|La Paz|AXS Bolivia S. A.|
+|15|181.189.135.90|8080|Guatemala|Guatemala City|Comcel Guatemala S.A.|
+|16|5.161.89.188|8080|United States|Ashburn|Hetzner Online GmbH|
+|17|128.140.9.127|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|18|115.171.217.15|7890|China|Beijing|China Networks Inter-Exchange|
+|19|123.182.58.168|8089|China|Zhangjiakou|Chinanet|
+|20|123.182.58.39|8089|China|Zhangjiakou|Chinanet|
 
 
 
