@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **6187** proxies at the latest update. Usable proxies are below.
+> Scraper found **5986** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|333|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|333|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|333|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|241|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|241|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|241|
 
 ## Sources
 
@@ -37,9 +37,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1205|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1105|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|859|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|758|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2740|✅|
 
 
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|18.237.218.79|3128|United States|Portland|Amazon.com, Inc.|
-|2|34.98.65.22|5222|United States|Kansas City|Google LLC|
-|3|18.237.218.79|3128|United States|Portland|Amazon.com, Inc.|
-|4|34.98.65.22|5222|United States|Kansas City|Google LLC|
-|5|144.217.240.185|9300|Canada|Beauharnois|OVH SAS|
-|6|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
-|7|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
-|8|181.189.135.90|8080|Guatemala|Guatemala City|Comcel Guatemala S.A.|
-|9|200.25.254.193|54240|Colombia|Neiva|Andinet ON Line|
-|10|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
-|11|152.67.10.190|8100|India|Mumbai|Oracle Corporation|
-|12|115.144.101.201|10001|South Korea|Gangdong-gu|Korea Telecom|
-|13|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
-|14|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|15|201.229.250.21|8080|Dominican Republic|Santo Domingo Este|Compañía Dominicana de Teléfonos S. A.|
-|16|40.76.245.70|8080|United States|Boydton|Microsoft Corporation|
-|17|51.79.50.22|9300|Canada|Beauharnois|OVH SAS|
-|18|165.22.83.71|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|19|161.117.227.226|8118|Singapore|Singapore|Alibaba.com Singapore E-Commerce Private Limited|
-|20|181.191.94.126|8999|Brazil|Teresina|Fernanda Danielly Sousa Almeida - Me|
+|1|115.144.101.201|10001|South Korea|Gangdong-gu|Korea Telecom|
+|2|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
+|3|152.67.10.190|8100|India|Mumbai|Oracle Corporation|
+|4|144.217.253.209|9300|Canada|Beauharnois|OVH SAS|
+|5|201.229.250.21|8080|Dominican Republic|Santo Domingo Este|Compañía Dominicana de Teléfonos S. A.|
+|6|135.181.14.45|5959|Finland|Helsinki|Hetzner Online GmbH|
+|7|213.241.205.2|8080|Russia|Rostov-on-Don|RTCOMM-YUG|
+|8|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|9|200.105.215.22|33630|Bolivia|La Paz|AXS Bolivia S. A.|
+|10|121.139.218.165|31409|South Korea|Ansan-si|Korea Telecom|
+|11|181.189.135.90|8080|Guatemala|Guatemala City|Comcel Guatemala S.A.|
+|12|88.87.95.143|5948|Russia|Volgograd|CJSC "ER-Telecom Holding" Volgograd branch|
+|13|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
+|14|40.76.245.70|8080|United States|Boydton|Microsoft Corporation|
+|15|40.76.245.70|8080|United States|Boydton|Microsoft Corporation|
+|16|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
+|17|201.159.113.25|1994|El Salvador|San Salvador|Ufinet Panama S.A.|
+|18|51.79.50.22|9300|Canada|Beauharnois|OVH SAS|
+|19|144.217.240.185|9300|Canada|Beauharnois|OVH SAS|
+|20|51.159.0.236|3128|France|Paris|SCALEWAY|
 
 
 
