@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **4849** proxies at the latest update. Usable proxies are below.
+> Scraper found **4884** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|193|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|193|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|193|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|251|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|251|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|251|
 
 ## Sources
 
@@ -37,7 +37,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|906|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|941|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|690|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1870|✅|
@@ -48,25 +48,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|34.98.65.22|5222|United States|Kansas City|Google LLC|
-|2|20.69.79.158|8443|United States|Quincy|Microsoft Corporation|
+|2|20.99.187.69|8443|United States|Quincy|Microsoft Corporation|
 |3|20.69.79.158|8443|United States|Quincy|Microsoft Corporation|
-|4|20.99.187.69|8443|United States|Quincy|Microsoft Corporation|
-|5|34.98.65.22|5222|United States|Kansas City|Google LLC|
-|6|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
+|4|34.98.65.22|5222|United States|Kansas City|Google LLC|
+|5|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
+|6|40.119.236.22|80|Singapore|Singapore|Microsoft Corporation|
 |7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|119.8.120.4|80|Hong Kong|Hong Kong|Huawei International Pte. LTD|
-|9|65.108.230.238|45977|Finland|Helsinki|Hetzner Online GmbH|
-|10|194.213.18.81|50098|United States|Ashburn|Clouvider Limited|
+|8|20.99.187.69|8443|United States|Quincy|Microsoft Corporation|
+|9|181.189.135.90|8080|Guatemala|Guatemala City|Comcel Guatemala S.A.|
+|10|20.69.79.158|8443|United States|Quincy|Microsoft Corporation|
 |11|136.243.55.199|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|12|5.78.69.21|8080|United States|Portland|Hetzner Online GmbH|
-|13|5.161.125.25|8080|United States|Ashburn|Hetzner Online GmbH|
-|14|103.169.19.130|8080|Indonesia|Jakarta Pusat|PT Aplikanusa Lintasarta|
-|15|12.218.209.130|53281|United States|Los Angeles|AT&T Services, Inc.|
-|16|24.152.40.49|8080|Paraguay|Coronel Oviedo|TV MAX CABLE S.A.|
-|17|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
-|18|174.138.184.82|34887|United States|Secaucus|Interserver, Inc|
-|19|128.140.63.196|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|20|174.138.184.82|34887|United States|Secaucus|Interserver, Inc|
+|12|138.201.139.36|81|Germany|Falkenstein|Hetzner Online GmbH|
+|13|103.69.108.78|8191|Philippines|Santiago|CITI Cableworld Inc.|
+|14|204.2.218.145|8080|United States|Calhoun|NTT America, Inc.|
+|15|103.188.252.17|8080|Indonesia|Langensari Timur|PT Data Lintas Media Indonesia|
+|16|204.2.218.145|8080|United States|Calhoun|NTT America, Inc.|
+|17|41.57.16.1|8080|South Africa|Johannesburg|Sanlam SCR|
+|18|103.178.42.14|8181|Indonesia|Jakarta Pusat|PT Jaring Solusi Persada|
+|19|5.161.125.25|8080|United States|Ashburn|Hetzner Online GmbH|
+|20|5.78.69.21|8080|United States|Portland|Hetzner Online GmbH|
 
 
 
