@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **5403** proxies at the latest update. Usable proxies are below.
+> Scraper found **5450** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|211|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|211|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|211|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|195|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|195|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|195|
 
 ## Sources
 
@@ -37,7 +37,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|724|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|771|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|627|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2669|✅|
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.98.65.22|5222|United States|Kansas City|Google LLC|
+|1|135.181.14.45|5959|Finland|Helsinki|Hetzner Online GmbH|
 |2|34.98.65.22|5222|United States|Kansas City|Google LLC|
-|3|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
-|4|115.144.102.39|10080|South Korea|Gangdong-gu|Korea Telecom|
-|5|20.99.187.69|8443|United States|Quincy|Microsoft Corporation|
-|6|45.177.177.26|999|Mexico|San Juan del Río|Wantelco SAS de CV|
-|7|49.50.174.37|3128|South Korea|Seongnam-si|NBP|
-|8|37.57.15.43|33761|Ukraine|Kharkiv|Triolan|
-|9|20.69.79.158|8443|United States|Quincy|Microsoft Corporation|
-|10|34.98.65.22|5222|United States|Kansas City|Google LLC|
-|11|121.46.64.170|8080|Pakistan|Lahore|Gerrys Information Technology (PVT) Ltd|
-|12|122.155.165.191|3128|Thailand|Vadhana|CAT Telecom Public Company Limited|
-|13|135.181.114.87|42265|Finland|Helsinki|Hetzner Online GmbH|
-|14|159.69.248.205|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|15|65.108.230.238|41291|Finland|Helsinki|Hetzner Online GmbH|
-|16|112.35.204.111|80|China|Shenzhen|China Mobile|
-|17|202.43.147.167|6666|China|Chaowai|CSTNET|
-|18|190.113.40.66|999|Dominican Republic|Santo Domingo|MR Networking, SRL|
-|19|65.108.230.238|41291|Finland|Helsinki|Hetzner Online GmbH|
-|20|49.50.174.37|3128|South Korea|Seongnam-si|NBP|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|5|34.98.65.22|5222|United States|Kansas City|Google LLC|
+|6|187.228.204.49|999|Mexico|Pachuca|Uninet S.A. de C.V.|
+|7|200.105.215.22|33630|Bolivia|La Paz|AXS Bolivia S. A.|
+|8|202.53.171.114|8080|Bangladesh|Dhaka|Agni Systems Ltd.|
+|9|45.177.177.26|999|Mexico|San Juan del Río|Wantelco SAS de CV|
+|10|51.79.50.46|9300|Canada|Beauharnois|OVH SAS|
+|11|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
+|12|41.254.53.70|1981|Libya|Benghazi|LTT Network Backbone and POPs|
+|13|77.77.64.120|3128|Iran|Tehran|Rayaneh Danesh Golestan Complex P.J.S. Co|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|15|138.118.105.131|999|Guatemala|Guatemala City|Redes Y Tecnologia S.A|
+|16|200.123.29.39|3128|Peru|Lima region|Wigo S.A.|
+|17|139.255.109.27|8080|Indonesia|Jakarta|PT. LINKNET|
+|18|103.78.171.10|83|India|Pune|Sanjeevan Networks Services Pvt Ltd|
+|19|112.35.204.111|80|China|Shenzhen|China Mobile|
+|20|115.171.217.15|7890|China|Beijing|China Networks Inter-Exchange|
 
 
 
