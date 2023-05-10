@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **5753** proxies at the latest update. Usable proxies are below.
+> Scraper found **5834** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|312|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|312|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|312|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|328|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|328|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|328|
 
 ## Sources
 
@@ -37,7 +37,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|992|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1073|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|722|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2656|✅|
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.98.65.22|5222|United States|Kansas City|Google LLC|
-|2|170.64.181.11|8080|Australia|Sydney|DigitalOcean, LLC|
-|3|204.2.218.145|8080|United States|Calhoun|NTT America, Inc.|
-|4|188.166.228.4|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|129.154.225.163|8100|India|Mumbai|Oracle Corporation|
-|6|172.105.77.59|8080|Germany|Frankfurt am Main|Akamai Technologies|
-|7|135.181.14.45|5959|Finland|Helsinki|Hetzner Online GmbH|
-|8|135.181.43.130|8080|Finland|Helsinki|Hetzner Online GmbH|
-|9|118.174.211.220|9870|Thailand|Bangkok|TOT Public Company Limited|
-|10|135.181.254.74|8080|Finland|Helsinki|Hetzner Online GmbH|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|204.2.218.145|8080|United States|Calhoun|NTT America, Inc.|
-|13|51.79.50.31|9300|Canada|Beauharnois|OVH SAS|
-|14|138.201.139.36|81|Germany|Falkenstein|Hetzner Online GmbH|
-|15|171.226.90.202|11166|Vietnam|Nha Trang|Viettel Corporation|
-|16|94.198.66.102|8888|Sweden|Umeå|Telecom3|
-|17|85.25.4.27|8646|France|Strasbourg|Host Europe GmbH|
-|18|34.98.65.22|5222|United States|Kansas City|Google LLC|
-|19|66.70.178.214|9300|Canada|Beauharnois|OVH SAS|
-|20|125.25.32.160|80|Thailand|Chiang Mai|TOT Public Company Limited|
+|1|5.161.177.135|8080|United States|Ashburn|Hetzner Online GmbH|
+|2|204.2.218.145|8080|United States|Calhoun|NTT America, Inc.|
+|3|135.181.43.130|8080|Finland|Helsinki|Hetzner Online GmbH|
+|4|170.64.181.11|8080|Australia|Sydney|DigitalOcean, LLC|
+|5|172.105.77.59|8080|Germany|Frankfurt am Main|Akamai Technologies|
+|6|204.2.218.145|8080|United States|Calhoun|NTT America, Inc.|
+|7|181.189.135.90|8080|Guatemala|Guatemala City|Comcel Guatemala S.A.|
+|8|94.198.66.102|8888|Sweden|Umeå|Telecom3|
+|9|34.98.65.22|5222|United States|Kansas City|Google LLC|
+|10|186.121.235.220|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|11|171.226.90.202|11166|Vietnam|Nha Trang|Viettel Corporation|
+|12|135.181.254.74|8080|Finland|Helsinki|Hetzner Online GmbH|
+|13|34.98.65.22|5222|United States|Kansas City|Google LLC|
+|14|125.25.32.160|80|Thailand|Chiang Mai|TOT Public Company Limited|
+|15|200.105.215.22|33630|Bolivia|La Paz|AXS Bolivia S. A.|
+|16|14.207.60.127|8080|Thailand|Hat Yai|Triple T Broadband Public Company Limited|
+|17|138.201.139.36|81|Germany|Falkenstein|Hetzner Online GmbH|
+|18|66.70.178.214|9300|Canada|Beauharnois|OVH SAS|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|20|118.174.211.220|9870|Thailand|Bangkok|TOT Public Company Limited|
 
 
 
