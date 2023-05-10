@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **6773** proxies at the latest update. Usable proxies are below.
+> Scraper found **6813** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -37,7 +37,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1352|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1392|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1192|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2846|✅|
@@ -48,25 +48,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|40.76.245.70|8080|United States|Boydton|Microsoft Corporation|
-|2|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|2|204.2.218.145|8080|United States|Calhoun|NTT America, Inc.|
 |3|34.98.65.22|5222|United States|Kansas City|Google LLC|
-|4|204.2.218.145|8080|United States|Calhoun|NTT America, Inc.|
-|5|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
+|4|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
+|5|40.76.245.70|8080|United States|Boydton|Microsoft Corporation|
 |6|186.121.235.220|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|7|204.2.218.145|8080|United States|Calhoun|NTT America, Inc.|
+|7|65.108.216.154|8080|Finland|Helsinki|Hetzner Online GmbH|
 |8|138.201.139.36|81|Germany|Falkenstein|Hetzner Online GmbH|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|65.108.216.154|8080|Finland|Helsinki|Hetzner Online GmbH|
-|11|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
-|12|159.89.132.108|8989|United States|Santa Clara|DigitalOcean, LLC|
-|13|20.99.187.69|8443|United States|Quincy|Microsoft Corporation|
-|14|67.22.28.62|8080|United States|State College|Getwireless.net|
-|15|146.190.114.20|3128|United States|Santa Clara|DigitalOcean, LLC|
-|16|40.76.245.70|8080|United States|Boydton|Microsoft Corporation|
-|17|188.132.222.18|8080|Turkey|Istanbul|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|18|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
-|19|167.114.96.13|9300|Canada|Montreal|OVH SAS|
-|20|51.159.0.236|3128|France|Paris|SCALEWAY|
+|9|204.2.218.145|8080|United States|Calhoun|NTT America, Inc.|
+|10|40.119.236.22|80|Singapore|Singapore|Microsoft Corporation|
+|11|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
+|12|5.161.110.95|50272|United States|Ashburn|Hetzner Online GmbH|
+|13|51.159.0.236|3128|France|Paris|SCALEWAY|
+|14|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
+|15|157.245.27.9|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|16|34.98.65.22|5222|United States|Kansas City|Google LLC|
+|17|167.114.96.13|9300|Canada|Montreal|OVH SAS|
+|18|154.204.58.155|8090|Hong Kong|Hong Kong|Sondercloud Limited|
+|19|188.132.222.162|8080|Turkey|Istanbul|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|20|20.204.182.174|3129|India|Pune|Microsoft Corporation|
 
 
 
