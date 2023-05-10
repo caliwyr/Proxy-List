@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|301|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|301|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|301|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|337|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|337|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|337|
 
 ## Sources
 
@@ -48,25 +48,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|34.98.65.22|5222|United States|Kansas City|Google LLC|
-|2|143.198.145.132|10000|United States|Santa Clara|DigitalOcean, LLC|
-|3|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
-|4|104.199.190.177|10000|Taiwan|Taipei|Google LLC|
-|5|186.121.235.220|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|6|94.198.66.102|8888|Sweden|Umeå|Telecom3|
-|7|51.159.0.236|3128|France|Paris|SCALEWAY|
-|8|188.121.102.170|1080|Iran|Tehran|Noyan Abr Arvan Co. ( Private Joint Stock)|
-|9|157.245.27.9|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|34.98.65.22|5222|United States|Kansas City|Google LLC|
-|11|181.189.135.90|8080|Guatemala|Guatemala City|Comcel Guatemala S.A.|
-|12|27.70.160.80|20065|Vietnam|Hanoi|Viettel Group|
-|13|43.133.180.107|7890|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|14|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|15|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
-|16|143.198.145.132|10000|United States|Santa Clara|DigitalOcean, LLC|
-|17|36.90.102.68|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|18|65.21.58.148|9300|Finland|Helsinki|Hetzner Online GmbH|
-|19|103.69.108.78|8191|Philippines|Santiago|CITI Cableworld Inc.|
-|20|27.70.164.169|20065|Vietnam|Hanoi|Viettel Group|
+|2|94.198.66.102|8888|Sweden|Umeå|Telecom3|
+|3|64.225.8.121|9993|United States|Clifton|DigitalOcean, LLC|
+|4|188.121.102.170|1080|Iran|Tehran|Noyan Abr Arvan Co. ( Private Joint Stock)|
+|5|51.159.0.236|3128|France|Paris|SCALEWAY|
+|6|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
+|7|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|8|181.189.135.90|8080|Guatemala|Guatemala City|Comcel Guatemala S.A.|
+|9|45.32.66.144|6802|United States|Los Angeles|The Constant Company|
+|10|104.199.190.177|10000|Taiwan|Taipei|Google LLC|
+|11|186.121.235.220|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|12|64.225.8.121|9993|United States|Clifton|DigitalOcean, LLC|
+|13|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
+|14|36.90.102.68|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|15|27.70.160.80|20065|Vietnam|Hanoi|Viettel Group|
+|16|27.70.161.127|20065|Vietnam|Hanoi|Viettel Group|
+|17|40.119.236.22|80|Singapore|Singapore|Microsoft Corporation|
+|18|103.69.108.78|8191|Philippines|Santiago|CITI Cableworld Inc.|
+|19|51.79.50.22|9300|Canada|Beauharnois|OVH SAS|
+|20|187.156.241.227|8080|Mexico|Saltillo|Uninet S.A. de C.V.|
 
 
 
