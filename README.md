@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **4970** proxies at the latest update. Usable proxies are below.
+> Scraper found **4670** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|326|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|326|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|326|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|339|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|339|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|339|
 
 ## Sources
 
@@ -36,7 +36,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|0|🚫|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|888|✅|
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|66.70.178.214|9300|Canada|Beauharnois|OVH SAS|
-|2|142.11.199.235|80|United States|Seattle|Hostwinds LLC.|
-|3|43.133.180.107|7890|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|4|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
-|5|181.189.135.90|8080|Guatemala|Guatemala City|Comcel Guatemala S.A.|
-|6|186.121.235.220|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|7|23.95.186.182|3128|United States|Washington|ColoCrossing|
-|8|152.67.10.190|8100|India|Mumbai|Oracle Corporation|
-|9|45.61.187.67|4003|United States|Miami|FranTech Solutions|
-|10|205.213.80.8|8009|United States|Siren|WiscNet|
-|11|142.11.199.235|80|United States|Seattle|Hostwinds LLC.|
-|12|205.213.80.8|8009|United States|Siren|WiscNet|
-|13|167.172.238.15|9992|United States|Clifton|DigitalOcean, LLC|
-|14|51.159.0.236|3128|France|Paris|SCALEWAY|
-|15|138.201.139.36|81|Germany|Falkenstein|Hetzner Online GmbH|
-|16|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|17|185.73.202.85|80|Turkey|Istanbul|Comnet International|
-|18|34.98.65.22|5222|United States|Kansas City|Google LLC|
-|19|103.69.108.78|8191|Philippines|Santiago|CITI Cableworld Inc.|
-|20|115.144.101.201|10001|South Korea|Gangdong-gu|Korea Telecom|
+|1|45.61.187.67|4003|United States|Miami|FranTech Solutions|
+|2|172.105.18.223|8118|Canada|Toronto|Akamai Technologies|
+|3|181.189.135.90|8080|Guatemala|Guatemala City|Comcel Guatemala S.A.|
+|4|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
+|5|167.172.238.15|9992|United States|Clifton|DigitalOcean, LLC|
+|6|45.61.187.67|4003|United States|Miami|FranTech Solutions|
+|7|34.98.65.22|5222|United States|Kansas City|Google LLC|
+|8|136.243.55.199|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|9|143.198.145.132|10000|United States|Santa Clara|DigitalOcean, LLC|
+|10|34.98.65.22|5222|United States|Kansas City|Google LLC|
+|11|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
+|12|23.95.186.182|3128|United States|Washington|ColoCrossing|
+|13|43.133.180.107|7890|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|14|138.201.139.36|81|Germany|Falkenstein|Hetzner Online GmbH|
+|15|186.121.235.220|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|16|66.70.178.214|9300|Canada|Beauharnois|OVH SAS|
+|17|152.67.10.190|8100|India|Mumbai|Oracle Corporation|
+|18|51.158.62.124|39727|France|Paris|SCALEWAY|
+|19|51.159.0.236|3128|France|Paris|SCALEWAY|
+|20|45.33.115.144|80|United States|Richardson|Akamai Technologies, Inc.|
 
 
 
