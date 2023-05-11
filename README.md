@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|474|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|474|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|474|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|424|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|424|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|424|
 
 ## Sources
 
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|204.2.218.145|8080|United States|Calhoun|NTT America, Inc.|
-|2|34.98.65.22|5222|United States|Kansas City|Google LLC|
-|3|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
-|4|78.138.98.115|3128|France|Strasbourg|Host Europe GmbH|
-|5|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
-|6|204.2.218.145|8080|United States|Calhoun|NTT America, Inc.|
-|7|152.67.10.190|8100|India|Mumbai|Oracle Corporation|
-|8|181.189.135.90|8080|Guatemala|Guatemala City|Comcel Guatemala S.A.|
-|9|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
-|10|64.225.8.132|9999|United States|Clifton|DigitalOcean, LLC|
-|11|213.241.205.2|8080|Russia|Rostov-on-Don|RTCOMM-YUG|
-|12|46.148.34.7|8080|Iran|Shahin Shahr|PartPayam Shahin Shahr ISP|
-|13|46.209.54.110|8080|Iran|Tehran|Pardazeshgar Ray Azma Co. Ltd.|
-|14|34.98.65.22|5222|United States|Kansas City|Google LLC|
-|15|64.225.8.132|9999|United States|Clifton|DigitalOcean, LLC|
-|16|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|17|104.199.190.177|10000|Taiwan|Taipei|Google LLC|
-|18|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
-|19|161.117.227.226|8118|Singapore|Singapore|Alibaba.com Singapore E-Commerce Private Limited|
-|20|163.29.45.122|8080|Taiwan|Taipei|Government Service Network|
+|1|34.98.65.22|5222|United States|Kansas City|Google LLC|
+|2|51.161.118.103|8118|Canada|Beauharnois|OVH SAS|
+|3|103.69.108.78|8191|Philippines|Santiago|CITI Cableworld Inc.|
+|4|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
+|5|34.98.65.22|5222|United States|Kansas City|Google LLC|
+|6|205.213.80.8|8009|United States|Siren|WiscNet|
+|7|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
+|8|205.213.80.8|8009|United States|Siren|WiscNet|
+|9|152.67.10.190|8100|India|Mumbai|Oracle Corporation|
+|10|64.225.8.132|9996|United States|Clifton|DigitalOcean, LLC|
+|11|64.225.8.132|9996|United States|Clifton|DigitalOcean, LLC|
+|12|64.27.27.104|9090|United States|Irvine|Multacom Corporation|
+|13|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|14|61.28.233.217|3128|Vietnam|Ho Chi Minh City|Vinadata broadcast via vinagame AS Number|
+|15|185.15.172.212|3128|Russia|Moscow|SafeData LLC|
+|16|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
+|17|46.209.54.110|8080|Iran|Tehran|Pardazeshgar Ray Azma Co. Ltd.|
+|18|176.95.54.202|83|Germany|Wirft|Vodafone GmbH|
+|19|115.144.102.39|10080|South Korea|Gangdong-gu|Korea Telecom|
+|20|103.92.26.190|4002|Vietnam|Ho Chi Minh City|TLSOFT|
 
 
 
