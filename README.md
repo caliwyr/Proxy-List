@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **6238** proxies at the latest update. Usable proxies are below.
+> Scraper found **5872** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|450|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|450|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|450|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|350|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|350|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|350|
 
 ## Sources
 
@@ -36,8 +36,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1101|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1035|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1011|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2743|✅|
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|64.225.4.63|9997|United States|Clifton|DigitalOcean, LLC|
-|2|34.98.65.22|5222|United States|Kansas City|Google LLC|
+|1|143.198.145.132|10000|United States|Santa Clara|DigitalOcean, LLC|
+|2|181.189.135.90|8080|Guatemala|Guatemala City|Comcel Guatemala S.A.|
 |3|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
-|4|128.199.98.232|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|94.198.66.102|8888|Sweden|Umeå|Telecom3|
 |5|143.198.145.132|10000|United States|Santa Clara|DigitalOcean, LLC|
-|6|204.2.218.145|8080|United States|Calhoun|NTT America, Inc.|
-|7|181.189.135.90|8080|Guatemala|Guatemala City|Comcel Guatemala S.A.|
-|8|186.121.235.220|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|9|64.225.8.135|9991|United States|Clifton|DigitalOcean, LLC|
-|10|185.81.98.16|3131|Netherlands|Naaldwijk|WorldStream B.V.|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|64.225.8.135|9991|United States|Clifton|DigitalOcean, LLC|
-|13|143.198.145.132|10000|United States|Santa Clara|DigitalOcean, LLC|
-|14|115.144.102.39|10080|South Korea|Gangdong-gu|Korea Telecom|
-|15|207.204.241.126|8118|United States|San Francisco|Strong Technology|
-|16|171.226.89.159|20066|Vietnam|Nha Trang|Viettel Corporation|
-|17|34.98.65.22|5222|United States|Kansas City|Google LLC|
-|18|204.2.218.145|8080|United States|Calhoun|NTT America, Inc.|
-|19|103.69.108.78|8191|Philippines|Santiago|CITI Cableworld Inc.|
-|20|23.132.185.101|53128|Norway|Sandefjord|Joseph Farnell|
+|6|186.121.235.220|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|7|128.199.98.232|3128|Singapore|Singapore|DigitalOcean, LLC|
+|8|34.98.65.22|5222|United States|Kansas City|Google LLC|
+|9|61.28.233.217|3128|Vietnam|Ho Chi Minh City|Vinadata broadcast via vinagame AS Number|
+|10|205.213.80.8|8009|United States|Siren|WiscNet|
+|11|171.226.89.159|20066|Vietnam|Nha Trang|Viettel Corporation|
+|12|116.101.81.99|1004|Vietnam|Hanoi|Viettel Corporation|
+|13|171.243.118.87|10000|Vietnam|Hanoi|Viettel Corporation|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|15|64.225.8.135|9991|United States|Clifton|DigitalOcean, LLC|
+|16|64.225.8.135|9991|United States|Clifton|DigitalOcean, LLC|
+|17|183.82.100.253|3128|India|Hyderabad|Beam Telecom Pvt Ltd|
+|18|20.93.42.101|8080|Ireland|Dublin|Microsoft Corporation|
+|19|202.137.8.149|8080|Indonesia|Jakarta|LINKNET|
+|20|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
 
 
 
