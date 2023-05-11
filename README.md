@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|418|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|418|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|418|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|539|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|539|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|539|
 
 ## Sources
 
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|157.245.27.9|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|2|34.98.65.22|5222|United States|Kansas City|Google LLC|
-|3|94.198.66.102|8888|Sweden|Umeå|Telecom3|
+|1|20.93.42.101|8080|Ireland|Dublin|Microsoft Corporation|
+|2|66.70.178.214|9300|Canada|Beauharnois|OVH SAS|
+|3|136.243.55.199|3128|Germany|Falkenstein|Hetzner Online GmbH|
 |4|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
-|5|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
+|5|45.32.66.144|6802|United States|Los Angeles|The Constant Company|
 |6|181.189.135.90|8080|Guatemala|Guatemala City|Comcel Guatemala S.A.|
-|7|186.121.235.220|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|8|135.181.14.45|5959|Finland|Helsinki|Hetzner Online GmbH|
-|9|34.98.65.22|5222|United States|Kansas City|Google LLC|
-|10|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|11|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|12|136.243.55.199|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|13|69.163.43.124|8080|United States|Portland|FIBERFI|
-|14|45.136.58.51|8888|Kazakhstan|Oral|Megahost Kazakhstan TOO|
-|15|152.67.10.190|8100|India|Mumbai|Oracle Corporation|
-|16|171.226.89.159|20066|Vietnam|Nha Trang|Viettel Corporation|
-|17|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
-|18|176.95.54.202|83|Germany|Wirft|Vodafone GmbH|
-|19|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
-|20|69.163.43.124|8080|United States|Portland|FIBERFI|
+|7|205.213.80.8|8009|United States|Siren|WiscNet|
+|8|34.98.65.22|5222|United States|Kansas City|Google LLC|
+|9|184.105.182.254|3128|United States|Gilroy|Hurricane Electric LLC|
+|10|186.121.235.220|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|11|34.98.65.22|5222|United States|Kansas City|Google LLC|
+|12|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|13|152.67.10.190|8100|India|Mumbai|Oracle Corporation|
+|14|158.69.53.132|9300|Canada|Montreal|OVH SAS|
+|15|64.225.8.191|9987|United States|Clifton|DigitalOcean, LLC|
+|16|135.181.14.45|5959|Finland|Helsinki|Hetzner Online GmbH|
+|17|65.21.58.148|9300|Finland|Helsinki|Hetzner Online GmbH|
+|18|200.105.215.22|33630|Bolivia|La Paz|AXS Bolivia S. A.|
+|19|103.171.183.201|8181|Indonesia|Cideng|PT Hayat Teknologi Informatika|
+|20|103.69.108.78|8191|Philippines|Santiago|CITI Cableworld Inc.|
 
 
 
