@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **5446** proxies at the latest update. Usable proxies are below.
+> Scraper found **5386** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|256|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|256|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|256|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|278|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|278|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|278|
 
 ## Sources
 
@@ -37,7 +37,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|844|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|784|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|663|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2556|✅|
@@ -48,25 +48,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|34.98.65.22|5222|United States|Kansas City|Google LLC|
-|2|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
-|3|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|115.144.101.201|10001|South Korea|Gangdong-gu|Korea Telecom|
+|3|205.213.80.8|8009|United States|Siren|WiscNet|
+|4|161.97.132.180|3128|Germany|Düsseldorf|Contabo GmbH|
 |5|115.85.181.223|3128|South Korea|Seongnam-si|NBP|
-|6|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
+|6|119.8.120.4|80|Hong Kong|Hong Kong|Huawei International Pte. LTD|
 |7|34.98.65.22|5222|United States|Kansas City|Google LLC|
 |8|40.119.236.22|80|Singapore|Singapore|Microsoft Corporation|
 |9|5.78.103.46|8080|United States|Portland|Hetzner Online GmbH|
-|10|20.93.42.101|8080|Ireland|Dublin|Microsoft Corporation|
-|11|161.97.132.180|3128|Germany|Düsseldorf|Contabo GmbH|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
 |12|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
-|13|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|14|115.144.101.201|10001|South Korea|Gangdong-gu|Korea Telecom|
-|15|138.68.195.70|31290|United States|San Francisco|DigitalOcean, LLC|
-|16|128.199.80.79|8080|Singapore|Singapore|DigitalOcean, LLC|
-|17|202.169.58.22|3128|Indonesia|Cipete Selatan|Biznet - PSN-NAP|
+|13|181.189.135.90|8080|Guatemala|Guatemala City|Comcel Guatemala S.A.|
+|14|143.198.145.132|10000|United States|Santa Clara|DigitalOcean, LLC|
+|15|45.239.123.17|999|Chile|Santiago|Sociedad Pirque NET Limitada|
+|16|190.63.35.30|9812|Ecuador|Ambato|CONECEL|
+|17|138.68.195.70|31290|United States|San Francisco|DigitalOcean, LLC|
 |18|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|19|43.129.223.147|38080|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|20|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
+|19|183.221.242.103|9443|China|Mianyang|China Mobile|
+|20|128.199.80.79|8080|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
