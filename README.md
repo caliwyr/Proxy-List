@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **5647** proxies at the latest update. Usable proxies are below.
+> Scraper found **5573** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|322|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|322|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|322|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|288|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|288|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|288|
 
 ## Sources
 
@@ -37,7 +37,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1020|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|946|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|753|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2491|✅|
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|3.10.23.185|3128|United Kingdom|London|Amazon Technologies Inc.|
-|2|181.189.135.90|8080|Guatemala|Guatemala City|Comcel Guatemala S.A.|
-|3|143.198.145.132|10000|United States|Santa Clara|DigitalOcean, LLC|
-|4|135.181.14.45|5959|Finland|Helsinki|Hetzner Online GmbH|
-|5|116.203.129.42|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|6|5.78.42.109|8080|United States|Portland|Hetzner Online GmbH|
-|7|34.98.65.22|5222|United States|Kansas City|Google LLC|
-|8|143.198.145.132|10000|United States|Santa Clara|DigitalOcean, LLC|
-|9|34.98.65.22|5222|United States|Kansas City|Google LLC|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|40.119.236.22|80|Singapore|Singapore|Microsoft Corporation|
-|12|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
-|13|103.92.26.190|4002|Vietnam|Ho Chi Minh City|TLSOFT|
-|14|103.69.108.78|8191|Philippines|Santiago|CITI Cableworld Inc.|
-|15|171.226.89.159|20066|Vietnam|Nha Trang|Viettel Corporation|
-|16|27.70.164.129|10049|Vietnam|Hanoi|Viettel Group|
-|17|45.136.58.51|8888|Kazakhstan|Oral|Megahost Kazakhstan TOO|
-|18|152.67.10.190|8100|India|Mumbai|Oracle Corporation|
-|19|51.159.0.236|3128|France|Paris|SCALEWAY|
-|20|5.78.42.109|8080|United States|Portland|Hetzner Online GmbH|
+|1|3.17.25.70|3128|United States|Dublin|Amazon.com, Inc.|
+|2|34.211.145.237|3128|United States|Portland|Amazon.com, Inc.|
+|3|34.98.65.22|5222|United States|Kansas City|Google LLC|
+|4|3.10.23.185|3128|United Kingdom|London|Amazon Technologies Inc.|
+|5|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
+|6|3.8.140.247|3128|United Kingdom|London|Amazon Technologies Inc.|
+|7|18.183.158.204|3128|Japan|Tokyo|Amazon Technologies Inc.|
+|8|3.17.25.70|3128|United States|Dublin|Amazon.com, Inc.|
+|9|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
+|10|34.211.145.237|3128|United States|Portland|Amazon.com, Inc.|
+|11|135.181.14.45|5959|Finland|Helsinki|Hetzner Online GmbH|
+|12|5.78.42.109|8080|United States|Portland|Hetzner Online GmbH|
+|13|116.203.129.42|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|14|34.98.65.22|5222|United States|Kansas City|Google LLC|
+|15|40.119.236.22|80|Singapore|Singapore|Microsoft Corporation|
+|16|181.189.135.90|8080|Guatemala|Guatemala City|Comcel Guatemala S.A.|
+|17|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
+|18|45.136.58.51|8888|Kazakhstan|Oral|Megahost Kazakhstan TOO|
+|19|103.121.149.69|8080|Indonesia|Jakarta|PT EMERIO INDONESIA|
+|20|103.92.26.190|4002|Vietnam|Ho Chi Minh City|TLSOFT|
 
 
 
