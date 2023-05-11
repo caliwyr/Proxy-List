@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|242|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|242|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|242|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|267|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|267|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|267|
 
 ## Sources
 
@@ -48,25 +48,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|204.2.218.145|8080|United States|Calhoun|NTT America, Inc.|
-|2|95.216.203.8|8080|Finland|Helsinki|Hetzner Online GmbH|
+|2|144.217.253.209|9300|Canada|Beauharnois|OVH SAS|
 |3|204.2.218.145|8080|United States|Calhoun|NTT America, Inc.|
-|4|205.213.80.8|8009|United States|Siren|WiscNet|
-|5|205.213.80.8|8009|United States|Siren|WiscNet|
-|6|40.119.236.22|80|Singapore|Singapore|Microsoft Corporation|
-|7|103.92.26.190|4002|Vietnam|Ho Chi Minh City|TLSOFT|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|194.213.18.81|50098|United States|Ashburn|Clouvider Limited|
-|10|34.98.65.22|5222|United States|Kansas City|Google LLC|
-|11|206.189.34.231|8080|Singapore|Singapore|DigitalOcean, LLC|
-|12|158.69.73.79|9300|Canada|Montreal|OVH SAS|
-|13|181.189.135.90|8080|Guatemala|Guatemala City|Comcel Guatemala S.A.|
-|14|200.25.254.193|54240|Colombia|Neiva|Andinet ON Line|
-|15|18.130.188.60|3128|United Kingdom|London|Amazon Technologies Inc.|
-|16|163.29.45.122|8080|Taiwan|Taipei|Government Service Network|
-|17|158.69.53.98|9300|Canada|Montreal|OVH SAS|
-|18|34.98.65.22|5222|United States|Kansas City|Google LLC|
-|19|190.26.201.194|8080|Colombia|Bogotá|ETB - Colombia|
-|20|103.69.108.78|8191|Philippines|Santiago|CITI Cableworld Inc.|
+|4|95.216.203.8|8080|Finland|Helsinki|Hetzner Online GmbH|
+|5|207.204.241.126|8118|United States|San Francisco|Strong Technology|
+|6|104.199.190.177|10000|Taiwan|Taipei|Google LLC|
+|7|135.181.14.45|5959|Finland|Helsinki|Hetzner Online GmbH|
+|8|41.169.72.4|8090|South Africa|Mid-Ennerdale|Liquid Telecommunications South Africa (Pty) Ltd|
+|9|64.225.4.85|9998|United States|Clifton|DigitalOcean, LLC|
+|10|206.189.34.231|8080|Singapore|Singapore|DigitalOcean, LLC|
+|11|51.159.115.233|3128|France|Paris|SCALEWAY|
+|12|34.98.65.22|5222|United States|Kansas City|Google LLC|
+|13|158.69.71.245|9300|Canada|Montreal|OVH SAS|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|15|171.226.89.159|20066|Vietnam|Nha Trang|Viettel Corporation|
+|16|183.89.188.115|8080|Thailand|Chiang Mai|Triple T Broadband Public Company Limited|
+|17|64.225.8.118|9995|United States|Clifton|DigitalOcean, LLC|
+|18|181.189.135.90|8080|Guatemala|Guatemala City|Comcel Guatemala S.A.|
+|19|34.98.65.22|5222|United States|Kansas City|Google LLC|
+|20|190.26.201.194|8080|Colombia|Bogotá|ETB - Colombia|
 
 
 
