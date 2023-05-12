@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **6295** proxies at the latest update. Usable proxies are below.
+> Scraper found **6563** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|531|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|531|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|531|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|556|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|556|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|556|
 
 ## Sources
 
@@ -36,8 +36,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1233|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1201|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1096|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2883|✅|
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|15.204.173.243|8118|United States|Reston|OVH SAS|
-|2|204.2.218.145|8080|United States|Calhoun|NTT America, Inc.|
-|3|20.93.42.101|8080|Ireland|Dublin|Microsoft Corporation|
-|4|34.98.65.22|5222|United States|Kansas City|Google LLC|
-|5|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
-|6|205.213.80.8|8009|United States|Siren|WiscNet|
-|7|64.225.8.191|9994|United States|Clifton|DigitalOcean, LLC|
-|8|66.70.178.214|9300|Canada|Beauharnois|OVH SAS|
-|9|204.2.218.145|8080|United States|Calhoun|NTT America, Inc.|
-|10|107.152.38.166|8080|United States|Chicago|tzulo, inc.|
-|11|107.152.38.171|8080|United States|Chicago|tzulo, inc.|
-|12|107.152.38.218|8080|United States|Chicago|tzulo, inc.|
-|13|46.29.165.166|8123|Russia|Moscow|BNET|
-|14|64.225.8.191|9994|United States|Clifton|DigitalOcean, LLC|
-|15|65.108.63.60|8080|Finland|Helsinki|Hetzner Online GmbH|
-|16|65.109.8.254|8080|Finland|Helsinki|Hetzner Online GmbH|
-|17|34.98.65.22|5222|United States|Kansas City|Google LLC|
-|18|164.68.123.119|9300|Germany|Nuremberg|Contabo GmbH|
-|19|51.159.0.236|3128|France|Paris|SCALEWAY|
-|20|181.204.118.50|8080|Colombia|Barranquilla|EPM Telecomunicaciones S.A. E.S.P.|
+|1|34.98.65.22|5222|United States|Kansas City|Google LLC|
+|2|20.93.42.101|8080|Ireland|Dublin|Microsoft Corporation|
+|3|66.70.178.214|9300|Canada|Beauharnois|OVH SAS|
+|4|40.119.236.22|80|Singapore|Singapore|Microsoft Corporation|
+|5|34.98.65.22|5222|United States|Kansas City|Google LLC|
+|6|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
+|7|107.152.38.166|8080|United States|Chicago|tzulo, inc.|
+|8|64.225.8.191|9994|United States|Clifton|DigitalOcean, LLC|
+|9|107.152.38.218|8080|United States|Chicago|tzulo, inc.|
+|10|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
+|11|65.108.63.60|8080|Finland|Helsinki|Hetzner Online GmbH|
+|12|107.152.38.171|8080|United States|Chicago|tzulo, inc.|
+|13|205.213.80.8|8009|United States|Siren|WiscNet|
+|14|65.109.8.254|8080|Finland|Helsinki|Hetzner Online GmbH|
+|15|64.225.8.191|9994|United States|Clifton|DigitalOcean, LLC|
+|16|158.69.73.79|9300|Canada|Montreal|OVH SAS|
+|17|51.159.0.236|3128|France|Paris|SCALEWAY|
+|18|115.144.101.201|10001|South Korea|Gangdong-gu|Korea Telecom|
+|19|115.144.102.39|10080|South Korea|Gangdong-gu|Korea Telecom|
+|20|150.109.12.63|8999|Singapore|Singapore|Aceville Pte.ltd|
 
 
 
