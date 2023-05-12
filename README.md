@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|349|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|349|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|349|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|177|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|177|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|177|
 
 ## Sources
 
@@ -37,9 +37,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|972|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|983|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|852|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|841|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2585|✅|
 
 
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|65.21.4.23|8080|Finland|Helsinki|Hetzner Online GmbH|
-|2|34.98.65.22|5222|United States|Kansas City|Google LLC|
-|3|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|4|20.204.190.254|3129|India|Pune|Microsoft Corporation|
-|5|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|6|66.70.178.214|9300|Canada|Beauharnois|OVH SAS|
-|7|34.98.65.22|5222|United States|Kansas City|Google LLC|
-|8|201.229.250.21|8080|Dominican Republic|Santo Domingo Este|Compañía Dominicana de Teléfonos S. A.|
-|9|41.169.72.4|8090|South Africa|Mid-Ennerdale|Liquid Telecommunications South Africa (Pty) Ltd|
-|10|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|11|209.97.166.191|8080|Singapore|Singapore|DigitalOcean, LLC|
-|12|5.78.42.109|8080|United States|Portland|Hetzner Online GmbH|
-|13|77.232.21.4|8080|Russia|Moscow|JSC "AKADO-Stolitsa"|
-|14|102.130.192.231|8080|Angola|Luanda|Finstar - Sociedade de Investimento e Participacoes S.A|
-|15|138.68.195.70|31290|United States|San Francisco|DigitalOcean, LLC|
-|16|36.80.150.70|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
-|17|163.29.45.122|8080|Taiwan|Taipei|Government Service Network|
-|18|157.230.34.219|3128|Singapore|Singapore|DigitalOcean, LLC|
-|19|103.105.76.3|8080|Indonesia|Mojoagung|GARUDA|
-|20|206.189.34.231|8080|Singapore|Singapore|DigitalOcean, LLC|
+|1|209.97.166.191|8080|Singapore|Singapore|DigitalOcean, LLC|
+|2|65.21.4.23|8080|Finland|Helsinki|Hetzner Online GmbH|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|61.28.233.217|3128|Vietnam|Ho Chi Minh City|Vinadata broadcast via vinagame AS Number|
+|5|201.229.250.21|8080|Dominican Republic|Santo Domingo Este|Compañía Dominicana de Teléfonos S. A.|
+|6|40.119.236.22|80|Singapore|Singapore|Microsoft Corporation|
+|7|103.69.108.78|8191|Philippines|Santiago|CITI Cableworld Inc.|
+|8|5.78.106.24|8080|United States|Portland|Hetzner Online GmbH|
+|9|65.21.148.92|8080|Finland|Helsinki|Hetzner Online GmbH|
+|10|203.150.113.140|8080|Thailand|Vadhana|Internet Thailand Company Ltd.|
+|11|138.68.195.70|31290|United States|San Francisco|DigitalOcean, LLC|
+|12|95.217.8.160|8080|Finland|Helsinki|Hetzner Online GmbH|
+|13|37.27.3.22|8080|Finland|Helsinki|Hetzner Online GmbH|
+|14|65.109.174.31|8080|Finland|Helsinki|Hetzner Online GmbH|
+|15|95.217.14.75|8080|Finland|Helsinki|Hetzner Online GmbH|
+|16|103.87.169.146|32650|India|Jaipur|Tejays Industries Pvt Ltd|
+|17|119.8.120.4|80|Hong Kong|Hong Kong|Huawei International Pte. LTD|
+|18|181.189.135.90|8080|Guatemala|Guatemala City|Comcel Guatemala S.A.|
+|19|150.242.108.6|32650|Timor-Leste|Lospalos|Telin IP Network|
+|20|181.189.135.90|8080|Guatemala|Guatemala City|Comcel Guatemala S.A.|
 
 
 
