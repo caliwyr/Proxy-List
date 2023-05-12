@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **5896** proxies at the latest update. Usable proxies are below.
+> Scraper found **5582** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|370|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|370|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|370|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|347|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|347|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|347|
 
 ## Sources
 
@@ -36,8 +36,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|955|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|941|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|959|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2599|✅|
@@ -48,25 +48,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|34.98.65.22|5222|United States|Kansas City|Google LLC|
-|2|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
-|3|37.255.134.72|8080|Iran|Isfahan|Iran Telecommunication Company PJS|
-|4|65.21.178.161|8080|Finland|Helsinki|Hetzner Online GmbH|
-|5|65.108.152.157|8080|Finland|Helsinki|Hetzner Online GmbH|
-|6|34.98.65.22|5222|United States|Kansas City|Google LLC|
-|7|115.144.102.39|10080|South Korea|Gangdong-gu|Korea Telecom|
-|8|103.92.26.190|4002|Vietnam|Ho Chi Minh City|TLSOFT|
-|9|116.0.61.122|3128|Pakistan|Karachi|Telecard|
-|10|200.25.254.193|54240|Colombia|Neiva|Andinet ON Line|
-|11|66.211.155.34|8080|United States|Albany|FirstLight Fiber|
-|12|164.68.123.119|9300|Germany|Nuremberg|Contabo GmbH|
-|13|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|14|181.189.135.90|8080|Guatemala|Guatemala City|Comcel Guatemala S.A.|
-|15|201.229.250.21|8080|Dominican Republic|Santo Domingo Este|Compañía Dominicana de Teléfonos S. A.|
-|16|143.198.145.132|10000|United States|Santa Clara|DigitalOcean, LLC|
-|17|65.109.175.185|8080|Finland|Helsinki|Hetzner Online GmbH|
-|18|185.61.246.113|8080|Russia|Moscow|Modus LLC|
-|19|216.169.73.65|34679|United States|Duck Creek Village|South Central Communications, Inc.|
-|20|95.216.194.46|1081|Finland|Helsinki|Hetzner Online GmbH|
+|2|34.66.5.144|8888|United States|Council Bluffs|Google LLC|
+|3|65.21.242.89|4444|Finland|Helsinki|Hetzner Online GmbH|
+|4|34.98.65.22|5222|United States|Kansas City|Google LLC|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|65.108.152.157|8080|Finland|Helsinki|Hetzner Online GmbH|
+|7|65.21.178.161|8080|Finland|Helsinki|Hetzner Online GmbH|
+|8|51.79.50.22|9300|Canada|Beauharnois|OVH SAS|
+|9|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|10|64.225.8.115|9990|United States|Clifton|DigitalOcean, LLC|
+|11|181.189.135.90|8080|Guatemala|Guatemala City|Comcel Guatemala S.A.|
+|12|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
+|13|163.29.45.122|8080|Taiwan|Taipei|Government Service Network|
+|14|190.63.35.30|9812|Ecuador|Ambato|CONECEL|
+|15|174.138.167.179|8888|United States|Phoenix|Secured Servers LLC|
+|16|103.179.182.185|8181|Indonesia|Banyuwangi|PT Cahaya Solusindo Internusa|
+|17|103.169.254.164|8061|Indonesia|Banyuwangi|PT Master Star Network|
+|18|216.169.73.65|34679|United States|Duck Creek Village|South Central Communications, Inc.|
+|19|101.128.79.172|32650|Indonesia|Palembang|CBN|
+|20|139.162.74.203|8888|Japan|Tokyo|Akamai Technologies, Inc.|
 
 
 
