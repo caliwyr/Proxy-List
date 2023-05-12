@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **6526** proxies at the latest update. Usable proxies are below.
+> Scraper found **6623** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|497|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|497|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|497|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|455|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|455|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|455|
 
 ## Sources
 
@@ -37,7 +37,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1206|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1303|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1143|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2794|✅|
@@ -47,25 +47,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|13.59.47.246|3128|United States|Dublin|Amazon.com, Inc.|
-|2|34.98.65.22|5222|United States|Kansas City|Google LLC|
-|3|35.178.9.148|3128|United Kingdom|London|Amazon Technologies Inc.|
-|4|27.70.164.9|20065|Vietnam|Hanoi|Viettel Group|
-|5|158.69.71.245|9300|Canada|Montreal|OVH SAS|
-|6|37.27.3.22|8080|Finland|Helsinki|Hetzner Online GmbH|
-|7|13.59.47.246|3128|United States|Dublin|Amazon.com, Inc.|
-|8|27.70.163.61|20065|Vietnam|Hanoi|Viettel Group|
-|9|65.108.245.180|8080|Finland|Helsinki|Hetzner Online GmbH|
-|10|115.144.101.201|10001|South Korea|Gangdong-gu|Korea Telecom|
-|11|34.98.65.22|5222|United States|Kansas City|Google LLC|
-|12|65.108.152.157|8080|Finland|Helsinki|Hetzner Online GmbH|
-|13|157.245.27.9|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|14|88.99.131.6|8118|Germany|Falkenstein|Hetzner Online GmbH|
-|15|103.69.108.78|8191|Philippines|Santiago|CITI Cableworld Inc.|
-|16|64.225.4.12|9991|United States|Clifton|DigitalOcean, LLC|
-|17|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|18|64.225.4.12|9991|United States|Clifton|DigitalOcean, LLC|
-|19|27.70.166.127|20065|Vietnam|Hanoi|Viettel Group|
+|1|18.191.195.44|3128|United States|Dublin|Amazon.com, Inc.|
+|2|181.189.135.90|8080|Guatemala|Guatemala City|Comcel Guatemala S.A.|
+|3|34.98.65.22|5222|United States|Kansas City|Google LLC|
+|4|35.178.9.148|3128|United Kingdom|London|Amazon Technologies Inc.|
+|5|115.144.101.201|10001|South Korea|Gangdong-gu|Korea Telecom|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|171.226.89.159|20066|Vietnam|Nha Trang|Viettel Corporation|
+|8|61.28.233.217|3128|Vietnam|Ho Chi Minh City|Vinadata broadcast via vinagame AS Number|
+|9|27.70.164.9|20065|Vietnam|Hanoi|Viettel Group|
+|10|171.226.88.190|20066|Vietnam|Nha Trang|Viettel Corporation|
+|11|27.70.166.127|20065|Vietnam|Hanoi|Viettel Group|
+|12|34.98.65.22|5222|United States|Kansas City|Google LLC|
+|13|18.191.195.44|3128|United States|Dublin|Amazon.com, Inc.|
+|14|65.108.245.180|8080|Finland|Helsinki|Hetzner Online GmbH|
+|15|51.159.0.236|3128|France|Paris|SCALEWAY|
+|16|40.119.236.22|80|Singapore|Singapore|Microsoft Corporation|
+|17|65.109.170.80|8080|Finland|Helsinki|Hetzner Online GmbH|
+|18|65.108.152.157|8080|Finland|Helsinki|Hetzner Online GmbH|
+|19|37.27.3.22|8080|Finland|Helsinki|Hetzner Online GmbH|
 |20|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
 
 
