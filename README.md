@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **5783** proxies at the latest update. Usable proxies are below.
+> Scraper found **6072** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|504|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|504|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|504|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|496|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|496|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|496|
 
 ## Sources
 
@@ -36,10 +36,10 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1100|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1128|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|905|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|866|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2695|✅|
 
 
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.98.65.22|5222|United States|Kansas City|Google LLC|
-|2|167.99.116.111|8001|United States|Clifton|DigitalOcean, LLC|
-|3|3.8.150.239|3128|United Kingdom|London|Amazon Technologies Inc.|
-|4|205.213.80.8|8009|United States|Siren|WiscNet|
-|5|167.99.116.111|8001|United States|Clifton|DigitalOcean, LLC|
-|6|205.213.80.8|8009|United States|Siren|WiscNet|
-|7|34.98.65.22|5222|United States|Kansas City|Google LLC|
-|8|150.109.12.63|8999|Singapore|Singapore|Aceville Pte.ltd|
-|9|152.67.10.190|8100|India|Mumbai|Oracle Corporation|
-|10|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
-|11|143.198.86.172|8080|Singapore|Singapore|DigitalOcean, LLC|
-|12|27.70.164.9|20065|Vietnam|Hanoi|Viettel Group|
-|13|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|15|103.69.108.78|8191|Philippines|Santiago|CITI Cableworld Inc.|
-|16|181.189.135.90|8080|Guatemala|Guatemala City|Comcel Guatemala S.A.|
-|17|89.42.112.193|18080|Spain|Marmolejo|Mismenet Telecomunicaciones S.L.|
-|18|163.29.45.122|8080|Taiwan|Taipei|Government Service Network|
-|19|5.78.42.109|8080|United States|Portland|Hetzner Online GmbH|
-|20|5.78.70.1|8080|United States|Portland|Hetzner Online GmbH|
+|1|185.125.125.157|80|Poland|Warsaw|Data Techno Park Sp. z o. o.|
+|2|34.98.65.22|5222|United States|Kansas City|Google LLC|
+|3|78.46.205.73|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|4|157.90.157.82|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|5|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
+|6|34.98.65.22|5222|United States|Kansas City|Google LLC|
+|7|3.25.79.63|3128|Australia|Sydney|Amazon.com, Inc.|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|143.198.86.172|8080|Singapore|Singapore|DigitalOcean, LLC|
+|10|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
+|11|171.226.89.159|20066|Vietnam|Nha Trang|Viettel Corporation|
+|12|152.67.10.190|8100|India|Mumbai|Oracle Corporation|
+|13|135.181.14.45|5959|Finland|Helsinki|Hetzner Online GmbH|
+|14|167.99.116.111|8001|United States|Clifton|DigitalOcean, LLC|
+|15|3.8.150.239|3128|United Kingdom|London|Amazon Technologies Inc.|
+|16|89.42.112.193|18080|Spain|Marmolejo|Mismenet Telecomunicaciones S.L.|
+|17|115.144.101.201|10001|South Korea|Gangdong-gu|Korea Telecom|
+|18|185.15.172.212|3128|Russia|Moscow|SafeData LLC|
+|19|103.144.79.186|8080|Indonesia|Jakarta|PT. Indonesia Comnets Plus|
+|20|186.10.240.74|999|Chile|Santiago|Entel Chile S.A.|
 
 
 
