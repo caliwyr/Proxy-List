@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **6609** proxies at the latest update. Usable proxies are below.
+> Scraper found **6617** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|600|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|600|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|600|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|552|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|552|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|552|
 
 ## Sources
 
@@ -37,7 +37,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1306|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1314|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1126|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2794|✅|
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|13.57.32.86|3128|United States|San Jose|Amazon.com, Inc.|
-|2|34.98.65.22|5222|United States|Kansas City|Google LLC|
-|3|205.213.80.8|8009|United States|Siren|WiscNet|
-|4|181.189.135.90|8080|Guatemala|Guatemala City|Comcel Guatemala S.A.|
+|1|3.9.176.78|3128|United Kingdom|London|Amazon Technologies Inc.|
+|2|157.245.27.9|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|3|65.109.170.80|8080|Finland|Helsinki|Hetzner Online GmbH|
+|4|65.108.245.180|8080|Finland|Helsinki|Hetzner Online GmbH|
 |5|37.27.3.22|8080|Finland|Helsinki|Hetzner Online GmbH|
-|6|65.109.170.80|8080|Finland|Helsinki|Hetzner Online GmbH|
-|7|13.57.32.86|3128|United States|San Jose|Amazon.com, Inc.|
-|8|65.108.245.180|8080|Finland|Helsinki|Hetzner Online GmbH|
-|9|65.108.152.157|8080|Finland|Helsinki|Hetzner Online GmbH|
-|10|34.98.65.22|5222|United States|Kansas City|Google LLC|
-|11|205.213.80.8|8009|United States|Siren|WiscNet|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|115.144.101.201|10001|South Korea|Gangdong-gu|Korea Telecom|
-|14|61.28.233.217|3128|Vietnam|Ho Chi Minh City|Vinadata broadcast via vinagame AS Number|
-|15|103.42.28.45|45787|Japan|Tokyo|Zenlayer Inc|
-|16|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
-|17|51.159.0.236|3128|France|Paris|SCALEWAY|
-|18|64.225.8.191|9994|United States|Clifton|DigitalOcean, LLC|
-|19|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
-|20|14.207.16.138|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
+|6|34.98.65.22|5222|United States|Kansas City|Google LLC|
+|7|65.108.152.157|8080|Finland|Helsinki|Hetzner Online GmbH|
+|8|34.98.65.22|5222|United States|Kansas City|Google LLC|
+|9|43.163.197.253|8118|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|10|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|11|40.119.236.22|80|Singapore|Singapore|Microsoft Corporation|
+|12|8.213.135.37|443|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|13|61.28.233.217|3128|Vietnam|Ho Chi Minh City|Vinadata broadcast via vinagame AS Number|
+|14|14.207.16.138|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
+|15|13.57.32.86|3128|United States|San Jose|Amazon.com, Inc.|
+|16|190.63.35.30|9812|Ecuador|Ambato|CONECEL|
+|17|13.57.32.86|3128|United States|San Jose|Amazon.com, Inc.|
+|18|103.69.108.78|8191|Philippines|Santiago|CITI Cableworld Inc.|
+|19|41.169.72.4|8090|South Africa|Mid-Ennerdale|Liquid Telecommunications South Africa (Pty) Ltd|
+|20|114.5.181.10|8080|Indonesia|Jakarta|PT. INDOSAT Tbk|
 
 
 
