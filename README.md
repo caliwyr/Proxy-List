@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **5877** proxies at the latest update. Usable proxies are below.
+> Scraper found **6021** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|437|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|437|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|437|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|401|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|401|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|401|
 
 ## Sources
 
@@ -37,7 +37,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|973|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1117|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|922|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2599|✅|
@@ -50,23 +50,23 @@ Click the file format that you want and copy the URL.
 |1|34.98.65.22|5222|United States|Kansas City|Google LLC|
 |2|65.108.152.157|8080|Finland|Helsinki|Hetzner Online GmbH|
 |3|34.98.65.22|5222|United States|Kansas City|Google LLC|
-|4|158.69.71.69|9300|Canada|Montreal|OVH SAS|
-|5|190.63.35.30|9812|Ecuador|Ambato|CONECEL|
-|6|204.2.218.145|8080|United States|Calhoun|NTT America, Inc.|
-|7|12.7.109.1|9812|United States|Carrizo Springs|AIRESPRING-ADT SYSTEMS, INC.|
-|8|163.29.45.122|8080|Taiwan|Taipei|Government Service Network|
-|9|205.213.80.8|8009|United States|Siren|WiscNet|
-|10|5.78.42.109|8080|United States|Portland|Hetzner Online GmbH|
-|11|37.27.3.22|8080|Finland|Helsinki|Hetzner Online GmbH|
-|12|139.162.74.203|8888|Japan|Tokyo|Akamai Technologies, Inc.|
-|13|24.51.32.59|8080|United States|Chicago|Great Plains Communications LLC|
-|14|64.225.8.115|9990|United States|Clifton|DigitalOcean, LLC|
-|15|65.21.178.161|8080|Finland|Helsinki|Hetzner Online GmbH|
-|16|65.109.0.130|8080|Finland|Helsinki|Hetzner Online GmbH|
-|17|176.193.77.87|8080|Russia|Cheboksary|Net By Net Holding LLC|
-|18|157.245.152.157|3128|Singapore|Singapore|DigitalOcean, LLC|
-|19|103.36.35.135|8080|Indonesia|Jakarta|PT Mora Telematika Indonesia|
-|20|157.230.34.219|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|158.69.27.94|9300|Canada|Montreal|OVH SAS|
+|5|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|6|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
+|7|163.29.45.122|8080|Taiwan|Taipei|Government Service Network|
+|8|5.78.42.109|8080|United States|Portland|Hetzner Online GmbH|
+|9|223.25.100.42|2222|Indonesia|Palembang|PT Indonesia Comnets Plus|
+|10|190.63.35.30|9812|Ecuador|Ambato|CONECEL|
+|11|139.162.74.203|8888|Japan|Tokyo|Akamai Technologies, Inc.|
+|12|37.27.3.22|8080|Finland|Helsinki|Hetzner Online GmbH|
+|13|176.193.77.87|8080|Russia|Cheboksary|Net By Net Holding LLC|
+|14|186.97.102.68|999|Colombia|Medellín|Colombia Móvil|
+|15|65.108.86.170|8080|Finland|Helsinki|Hetzner Online GmbH|
+|16|51.159.115.233|3128|France|Paris|SCALEWAY|
+|17|128.140.3.26|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|18|101.128.79.172|32650|Indonesia|Palembang|CBN|
+|19|187.189.211.232|999|Mexico|Tulancingo|Total Play Telecomunicaciones SA De CV|
+|20|122.155.165.191|3128|Thailand|Vadhana|CAT Telecom Public Company Limited|
 
 
 
