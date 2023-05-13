@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|384|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|384|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|384|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|377|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|377|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|377|
 
 ## Sources
 
@@ -48,25 +48,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|34.98.65.22|5222|United States|Kansas City|Google LLC|
-|2|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
-|3|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|4|157.245.27.9|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|5|103.169.254.164|8061|Indonesia|Banyuwangi|PT Master Star Network|
-|6|102.165.51.172|3128|United States|Dulles|Stallion Network Services Limited|
-|7|34.98.65.22|5222|United States|Kansas City|Google LLC|
-|8|27.70.164.9|20065|Vietnam|Hanoi|Viettel Group|
-|9|5.78.70.104|8080|United States|Portland|Hetzner Online GmbH|
-|10|5.78.77.114|8080|United States|Portland|Hetzner Online GmbH|
-|11|27.70.163.61|20065|Vietnam|Hanoi|Viettel Group|
-|12|129.154.225.163|8100|India|Mumbai|Oracle Corporation|
-|13|27.70.166.127|20065|Vietnam|Hanoi|Viettel Group|
-|14|51.79.50.22|9300|Canada|Beauharnois|OVH SAS|
-|15|5.78.41.154|8080|United States|Portland|Hetzner Online GmbH|
+|2|138.0.172.112|3128|Brazil|Ribeirão das Neves|JustWeb Telecomunica??es LTDA|
+|3|129.154.225.163|8100|India|Mumbai|Oracle Corporation|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|144.217.253.209|9300|Canada|Beauharnois|OVH SAS|
+|6|5.78.41.154|8080|United States|Portland|Hetzner Online GmbH|
+|7|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
+|8|5.78.77.114|8080|United States|Portland|Hetzner Online GmbH|
+|9|102.165.51.172|3128|United States|Dulles|Stallion Network Services Limited|
+|10|103.167.109.209|80|Indonesia|Tangerang|PT. Fiber Networks Indonesia|
+|11|5.9.112.247|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|12|171.226.89.159|20066|Vietnam|Nha Trang|Viettel Corporation|
+|13|5.78.70.104|8080|United States|Portland|Hetzner Online GmbH|
+|14|5.78.73.221|8080|United States|Portland|Hetzner Online GmbH|
+|15|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
 |16|5.78.107.4|8080|United States|Portland|Hetzner Online GmbH|
-|17|5.78.73.221|8080|United States|Portland|Hetzner Online GmbH|
-|18|27.70.162.129|20065|Vietnam|Hanoi|Viettel Group|
-|19|103.69.108.78|8191|Philippines|Santiago|CITI Cableworld Inc.|
-|20|41.169.72.4|8090|South Africa|Mid-Ennerdale|Liquid Telecommunications South Africa (Pty) Ltd|
+|17|34.98.65.22|5222|United States|Kansas City|Google LLC|
+|18|27.70.163.61|20065|Vietnam|Hanoi|Viettel Group|
+|19|115.144.101.201|10001|South Korea|Gangdong-gu|Korea Telecom|
+|20|185.125.169.24|8118|Norway|Sandefjord|TerraHost AS|
 
 
 
