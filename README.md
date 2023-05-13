@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **4986** proxies at the latest update. Usable proxies are below.
+> Scraper found **4976** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|394|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|394|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|394|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|381|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|381|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|381|
 
 ## Sources
 
@@ -32,7 +32,7 @@ Click the file format that you want and copy the URL.
 |[free-proxy-list.net](https://free-proxy-list.net)|300|✅|
 |[us-proxy.org](https://www.us-proxy.org)|200|✅|
 |[proxydb.net](http://proxydb.net)|15|✅|
-|[free-proxy-list.com](https://free-proxy-list.com/?page=&port=&type%5B%5D=http&type%5B%5D=https&up_time=0&search=Search)|10|✅|
+|[free-proxy-list.com](https://free-proxy-list.com/?page=&port=&type%5B%5D=http&type%5B%5D=https&up_time=0&search=Search)|0|🚫|
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|52.53.241.252|3128|United States|San Jose|Amazon.com, Inc.|
-|2|188.34.152.20|8080|Germany|Ulrichstein|Hetzner Online GmbH|
+|1|34.98.65.22|5222|United States|Kansas City|Google LLC|
+|2|13.56.250.105|3128|United States|San Jose|Amazon.com, Inc.|
 |3|52.53.241.252|3128|United States|San Jose|Amazon.com, Inc.|
-|4|129.154.225.163|8100|India|Mumbai|Oracle Corporation|
-|5|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
-|6|34.98.65.22|5222|United States|Kansas City|Google LLC|
-|7|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|8|34.98.65.22|5222|United States|Kansas City|Google LLC|
-|9|66.70.178.214|9300|Canada|Beauharnois|OVH SAS|
-|10|104.199.190.177|10000|Taiwan|Taipei|Google LLC|
-|11|37.255.129.94|8080|Iran|Isfahan|Iran Telecommunication Company PJS|
-|12|171.226.89.159|20066|Vietnam|Nha Trang|Viettel Corporation|
-|13|103.169.19.130|8080|Indonesia|Jakarta Pusat|PT Aplikanusa Lintasarta|
-|14|136.243.55.199|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|15|27.70.162.129|20065|Vietnam|Hanoi|Viettel Group|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|17|64.225.8.135|9991|United States|Clifton|DigitalOcean, LLC|
-|18|27.70.163.61|20065|Vietnam|Hanoi|Viettel Group|
-|19|27.70.164.9|20065|Vietnam|Hanoi|Viettel Group|
-|20|27.70.164.133|20065|Vietnam|Hanoi|Viettel Group|
+|4|201.245.201.18|3128|Colombia|Bogotá|ETB - Colombia|
+|5|91.107.227.164|8080|Germany|Frankfurt Am Main|Hetzner Online AG|
+|6|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
+|7|104.199.190.177|10000|Taiwan|Taipei|Google LLC|
+|8|13.56.250.105|3128|United States|San Jose|Amazon.com, Inc.|
+|9|37.255.129.94|8080|Iran|Isfahan|Iran Telecommunication Company PJS|
+|10|52.53.241.252|3128|United States|San Jose|Amazon.com, Inc.|
+|11|51.79.50.31|9300|Canada|Beauharnois|OVH SAS|
+|12|188.34.152.20|8080|Germany|Ulrichstein|Hetzner Online GmbH|
+|13|34.98.65.22|5222|United States|Kansas City|Google LLC|
+|14|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|15|115.144.102.39|10080|South Korea|Gangdong-gu|Korea Telecom|
+|16|129.154.225.163|8100|India|Mumbai|Oracle Corporation|
+|17|27.70.164.103|11166|Vietnam|Hanoi|Viettel Group|
+|18|182.23.113.179|8080|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
+|19|64.225.8.135|9991|United States|Clifton|DigitalOcean, LLC|
+|20|136.243.55.199|3128|Germany|Falkenstein|Hetzner Online GmbH|
 
 
 
