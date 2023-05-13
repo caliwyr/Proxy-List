@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **5865** proxies at the latest update. Usable proxies are below.
+> Scraper found **5980** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|545|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|545|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|545|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|534|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|534|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|534|
 
 ## Sources
 
@@ -37,7 +37,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1087|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1202|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|952|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2743|✅|
@@ -50,23 +50,23 @@ Click the file format that you want and copy the URL.
 |1|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
 |2|34.98.65.22|5222|United States|Kansas City|Google LLC|
 |3|205.213.80.8|8009|United States|Siren|WiscNet|
-|4|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
-|5|40.119.236.22|80|Singapore|Singapore|Microsoft Corporation|
-|6|45.136.58.51|8888|Kazakhstan|Oral|Megahost Kazakhstan TOO|
-|7|94.198.66.102|8888|Sweden|Umeå|Telecom3|
-|8|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
+|4|94.198.66.102|8888|Sweden|Umeå|Telecom3|
+|5|144.217.253.209|9300|Canada|Beauharnois|OVH SAS|
+|6|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
+|7|8.213.135.37|443|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |9|34.98.65.22|5222|United States|Kansas City|Google LLC|
-|10|157.245.27.9|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|13|115.144.102.39|10080|South Korea|Gangdong-gu|Korea Telecom|
-|14|87.255.12.183|3129|Russia|Khimki|BIG TELECOM CLOSED JSC|
-|15|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
-|16|158.69.71.245|9300|Canada|Montreal|OVH SAS|
-|17|8.213.135.37|443|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|18|5.161.206.32|8080|United States|Ashburn|Hetzner Online GmbH|
-|19|205.213.80.8|8009|United States|Siren|WiscNet|
-|20|162.212.155.186|8080|United States|Chicago|tzulo, inc.|
+|10|158.69.71.245|9300|Canada|Montreal|OVH SAS|
+|11|205.213.80.8|8009|United States|Siren|WiscNet|
+|12|198.44.191.101|45787|Japan|Tokyo|Zenlayer Inc|
+|13|103.92.101.115|8080|India|Bengaluru|Bangalore Broadband Network Pvt Ltd|
+|14|27.79.61.167|10001|Vietnam|Buon Ma Thuot|Viettel Corporation|
+|15|162.212.155.186|8080|United States|Chicago|tzulo, inc.|
+|16|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
+|17|138.68.195.70|31290|United States|San Francisco|DigitalOcean, LLC|
+|18|5.78.41.154|8080|United States|Portland|Hetzner Online GmbH|
+|19|5.78.41.34|8080|United States|Portland|Hetzner Online GmbH|
+|20|5.78.102.213|8080|United States|Portland|Hetzner Online GmbH|
 
 
 
