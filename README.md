@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **5845** proxies at the latest update. Usable proxies are below.
+> Scraper found **5697** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|432|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|432|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|432|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|413|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|413|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|413|
 
 ## Sources
 
@@ -36,10 +36,10 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|895|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1058|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|843|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|832|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2724|✅|
 
 
@@ -48,25 +48,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|34.98.65.22|5222|United States|Kansas City|Google LLC|
-|2|54.93.42.159|3128|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|3|34.98.65.22|5222|United States|Kansas City|Google LLC|
-|4|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|5|20.204.190.254|3129|India|Pune|Microsoft Corporation|
+|2|3.14.248.180|3128|United States|Dublin|Amazon.com, Inc.|
+|3|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|4|3.14.248.180|3128|United States|Dublin|Amazon.com, Inc.|
+|5|54.93.42.159|3128|Germany|Frankfurt am Main|Amazon Technologies Inc.|
 |6|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|138.118.105.186|999|Guatemala|Guatemala City|Redes Y Tecnologia S.A|
-|9|27.70.164.9|20065|Vietnam|Hanoi|Viettel Group|
+|7|34.98.65.22|5222|United States|Kansas City|Google LLC|
+|8|115.144.102.39|10080|South Korea|Gangdong-gu|Korea Telecom|
+|9|40.119.236.22|80|Singapore|Singapore|Microsoft Corporation|
 |10|27.70.166.127|20065|Vietnam|Hanoi|Viettel Group|
 |11|41.169.72.4|8090|South Africa|Mid-Ennerdale|Liquid Telecommunications South Africa (Pty) Ltd|
-|12|202.40.177.69|80|Bangladesh|Dhaka|Ranks ITT|
-|13|202.46.65.170|8080|Indonesia|Depok|PT. Indonesia Comnet Plus|
-|14|115.144.102.39|10080|South Korea|Gangdong-gu|Korea Telecom|
-|15|103.69.108.78|8191|Philippines|Santiago|CITI Cableworld Inc.|
-|16|27.70.163.61|20065|Vietnam|Hanoi|Viettel Group|
+|12|103.78.97.38|8080|Indonesia|Jakarta|PT. Mora Telematika Indonesia|
+|13|154.204.58.155|8090|Hong Kong|Hong Kong|Sondercloud Limited|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|15|27.70.163.61|20065|Vietnam|Hanoi|Viettel Group|
+|16|27.70.164.9|20065|Vietnam|Hanoi|Viettel Group|
 |17|201.229.250.21|8080|Dominican Republic|Santo Domingo Este|Compañía Dominicana de Teléfonos S. A.|
-|18|8.213.135.37|443|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|19|129.154.225.163|8100|India|Mumbai|Oracle Corporation|
-|20|176.98.234.124|8080|Kazakhstan|Astana|JSC Transtelecom|
+|18|103.69.108.78|8191|Philippines|Santiago|CITI Cableworld Inc.|
+|19|163.29.45.122|8080|Taiwan|Taipei|Government Service Network|
+|20|202.40.177.69|80|Bangladesh|Dhaka|Ranks ITT|
 
 
 
