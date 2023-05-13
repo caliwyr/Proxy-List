@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **6126** proxies at the latest update. Usable proxies are below.
+> Scraper found **6019** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -37,36 +37,36 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1054|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1013|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|861|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2828|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|899|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2724|✅|
 
 
 ## Sample Proxies With Geolocation Info
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.98.65.22|5222|United States|Kansas City|Google LLC|
-|2|13.56.20.66|3128|United States|San Jose|Amazon.com, Inc.|
-|3|40.119.236.22|80|Singapore|Singapore|Microsoft Corporation|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|34.98.65.22|5222|United States|Kansas City|Google LLC|
-|6|23.122.184.9|8888|United States|Davie|AT&T Services, Inc.|
-|7|114.4.233.45|8080|Indonesia|Medan|PT. INDOSAT Tbk|
-|8|65.108.215.183|8080|Finland|Helsinki|Hetzner Online GmbH|
-|9|95.217.11.249|8080|Finland|Helsinki|Hetzner Online GmbH|
-|10|144.217.240.185|9300|Canada|Beauharnois|OVH SAS|
-|11|135.181.150.234|8080|Finland|Helsinki|Hetzner Online GmbH|
-|12|65.109.167.135|8080|Finland|Helsinki|Hetzner Online GmbH|
-|13|65.109.169.151|8080|Finland|Helsinki|Hetzner Online GmbH|
-|14|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|15|201.229.250.21|8080|Dominican Republic|Santo Domingo Este|Compañía Dominicana de Teléfonos S. A.|
-|16|128.140.63.206|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|17|144.217.253.209|9300|Canada|Beauharnois|OVH SAS|
-|18|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
-|19|201.182.251.142|999|Colombia|Pasto|SP SISTEMAS PALACIOS LTDA|
-|20|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
+|1|3.96.56.211|3128|Canada|Toronto|Amazon Technologies Inc.|
+|2|34.98.65.22|5222|United States|Kansas City|Google LLC|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|3.8.160.153|3128|United Kingdom|London|Amazon Technologies Inc.|
+|5|116.203.112.97|3128|Germany|Nuremberg|Hetzner Online GmbH|
+|6|34.98.65.22|5222|United States|Kansas City|Google LLC|
+|7|52.59.194.89|3128|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|8|129.154.225.163|8100|India|Mumbai|Oracle Corporation|
+|9|158.101.93.164|8080|Japan|Tokyo|Oracle Corporation|
+|10|104.199.190.177|10000|Taiwan|Taipei|Google LLC|
+|11|198.27.74.6|9300|Canada|Beauharnois|OVH SAS|
+|12|158.69.73.79|9300|Canada|Montreal|OVH SAS|
+|13|205.213.80.8|8009|United States|Siren|WiscNet|
+|14|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
+|15|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
+|16|114.4.233.45|8080|Indonesia|Medan|PT. INDOSAT Tbk|
+|17|41.169.72.4|8090|South Africa|Mid-Ennerdale|Liquid Telecommunications South Africa (Pty) Ltd|
+|18|64.225.4.81|9998|United States|Clifton|DigitalOcean, LLC|
+|19|5.78.42.109|8080|United States|Portland|Hetzner Online GmbH|
+|20|5.78.73.221|8080|United States|Portland|Hetzner Online GmbH|
 
 
 
