@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **6111** proxies at the latest update. Usable proxies are below.
+> Scraper found **4746** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|535|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|535|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|535|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|378|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|378|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|378|
 
 ## Sources
 
@@ -36,8 +36,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1065|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|0|🚫|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|936|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2727|✅|
@@ -48,25 +48,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
-|2|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
+|2|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
 |3|34.98.65.22|5222|United States|Kansas City|Google LLC|
 |4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
-|6|129.154.225.163|8100|India|Mumbai|Oracle Corporation|
-|7|51.159.0.236|3128|France|Paris|SCALEWAY|
-|8|5.78.77.114|8080|United States|Portland|Hetzner Online GmbH|
-|9|102.165.51.172|3128|United States|Dulles|Stallion Network Services Limited|
-|10|5.78.70.104|8080|United States|Portland|Hetzner Online GmbH|
-|11|34.98.65.22|5222|United States|Kansas City|Google LLC|
-|12|5.78.78.63|8080|United States|Portland|Hetzner Online GmbH|
+|5|34.98.65.22|5222|United States|Kansas City|Google LLC|
+|6|27.70.164.9|20065|Vietnam|Hanoi|Viettel Group|
+|7|27.70.162.129|20065|Vietnam|Hanoi|Viettel Group|
+|8|27.70.163.61|20065|Vietnam|Hanoi|Viettel Group|
+|9|27.70.166.127|20065|Vietnam|Hanoi|Viettel Group|
+|10|41.169.72.4|8090|South Africa|Mid-Ennerdale|Liquid Telecommunications South Africa (Pty) Ltd|
+|11|185.15.172.212|3128|Russia|Moscow|SafeData LLC|
+|12|102.165.51.172|3128|United States|Dulles|Stallion Network Services Limited|
 |13|5.78.41.154|8080|United States|Portland|Hetzner Online GmbH|
-|14|41.169.72.4|8090|South Africa|Mid-Ennerdale|Liquid Telecommunications South Africa (Pty) Ltd|
+|14|67.206.232.113|999|Puerto Rico|Vega Baja|AT&T Mobility Puerto Rico|
 |15|5.78.73.221|8080|United States|Portland|Hetzner Online GmbH|
-|16|64.225.8.121|9998|United States|Clifton|DigitalOcean, LLC|
-|17|5.78.107.4|8080|United States|Portland|Hetzner Online GmbH|
-|18|99.20.24.9|8888|United States|Miami|AT&T Services, Inc.|
-|19|115.144.101.201|10001|South Korea|Gangdong-gu|Korea Telecom|
-|20|64.225.4.81|9998|United States|Clifton|DigitalOcean, LLC|
+|16|5.78.78.63|8080|United States|Portland|Hetzner Online GmbH|
+|17|5.78.77.114|8080|United States|Portland|Hetzner Online GmbH|
+|18|5.78.70.104|8080|United States|Portland|Hetzner Online GmbH|
+|19|5.78.107.4|8080|United States|Portland|Hetzner Online GmbH|
+|20|162.212.155.186|8080|United States|Chicago|tzulo, inc.|
 
 
 
