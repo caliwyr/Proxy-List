@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **4990** proxies at the latest update. Usable proxies are below.
+> Scraper found **6075** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|387|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|387|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|387|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|523|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|523|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|523|
 
 ## Sources
 
@@ -37,7 +37,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|0|🚫|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1085|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|880|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2727|✅|
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|144.217.253.209|9300|Canada|Beauharnois|OVH SAS|
-|2|20.204.190.254|3129|India|Pune|Microsoft Corporation|
-|3|34.98.65.22|5222|United States|Kansas City|Google LLC|
-|4|157.245.27.9|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|5|129.154.225.163|8100|India|Mumbai|Oracle Corporation|
-|6|5.78.107.4|8080|United States|Portland|Hetzner Online GmbH|
-|7|193.107.104.57|3128|Ukraine|Vinnytsia|Stasishen Aleksandr Afanasiyovich|
-|8|5.78.107.4|8080|United States|Portland|Hetzner Online GmbH|
-|9|34.98.65.22|5222|United States|Kansas City|Google LLC|
-|10|99.20.24.9|8888|United States|Miami|AT&T Services, Inc.|
-|11|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|205.213.80.8|8009|United States|Siren|WiscNet|
-|14|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
-|15|171.226.89.159|20066|Vietnam|Nha Trang|Viettel Corporation|
-|16|64.225.4.12|9995|United States|Clifton|DigitalOcean, LLC|
-|17|158.69.71.245|9300|Canada|Montreal|OVH SAS|
-|18|118.70.109.148|55443|Vietnam|Hanoi|FPT Telecom Company|
-|19|159.255.188.134|41258|Poland|Zamość|TOM-NET s.c. Dariusz Koper|
-|20|159.255.188.134|41258|Poland|Zamość|TOM-NET s.c. Dariusz Koper|
+|1|34.98.65.22|5222|United States|Kansas City|Google LLC|
+|2|167.172.238.15|9986|United States|Clifton|DigitalOcean, LLC|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|20.204.190.254|3129|India|Pune|Microsoft Corporation|
+|5|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|6|8.213.135.37|443|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|7|27.70.163.61|20065|Vietnam|Hanoi|Viettel Group|
+|8|34.98.65.22|5222|United States|Kansas City|Google LLC|
+|9|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|10|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
+|11|5.78.70.104|8080|United States|Portland|Hetzner Online GmbH|
+|12|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|13|144.217.253.209|9300|Canada|Beauharnois|OVH SAS|
+|14|27.70.164.133|20065|Vietnam|Hanoi|Viettel Group|
+|15|27.70.166.127|20065|Vietnam|Hanoi|Viettel Group|
+|16|129.154.225.163|8100|India|Mumbai|Oracle Corporation|
+|17|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
+|18|5.78.41.154|8080|United States|Portland|Hetzner Online GmbH|
+|19|102.165.51.172|3128|United States|Dulles|Stallion Network Services Limited|
+|20|5.78.78.63|8080|United States|Portland|Hetzner Online GmbH|
 
 
 
