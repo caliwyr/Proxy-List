@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|287|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|287|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|287|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|410|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|410|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|410|
 
 ## Sources
 
@@ -49,24 +49,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
 |2|34.98.65.22|5222|United States|Kansas City|Google LLC|
-|3|115.144.101.201|10001|South Korea|Gangdong-gu|Korea Telecom|
-|4|5.78.77.114|8080|United States|Portland|Hetzner Online GmbH|
-|5|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
-|6|5.78.67.222|8080|United States|Portland|Hetzner Online GmbH|
-|7|61.28.233.217|3128|Vietnam|Ho Chi Minh City|Vinadata broadcast via vinagame AS Number|
-|8|34.98.65.22|5222|United States|Kansas City|Google LLC|
-|9|196.179.196.18|8080|Tunisia|El Fahs|ooredoo TN|
-|10|138.201.93.146|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|11|5.78.94.139|8080|United States|Portland|Hetzner Online GmbH|
-|12|51.79.50.31|9300|Canada|Beauharnois|OVH SAS|
-|13|103.92.26.190|4002|Vietnam|Ho Chi Minh City|TLSOFT|
-|14|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
-|15|158.101.93.164|8080|Japan|Tokyo|Oracle Corporation|
-|16|5.78.67.222|8080|United States|Portland|Hetzner Online GmbH|
-|17|167.99.116.111|8001|United States|Clifton|DigitalOcean, LLC|
-|18|40.119.236.22|80|Singapore|Singapore|Microsoft Corporation|
-|19|5.78.94.139|8080|United States|Portland|Hetzner Online GmbH|
-|20|115.144.102.39|10080|South Korea|Gangdong-gu|Korea Telecom|
+|3|158.69.74.53|9300|Canada|Montreal|OVH SAS|
+|4|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
+|5|196.179.196.18|8080|Tunisia|El Fahs|ooredoo TN|
+|6|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
+|7|5.78.43.207|8080|United States|Portland|Hetzner Online GmbH|
+|8|5.78.77.114|8080|United States|Portland|Hetzner Online GmbH|
+|9|5.78.43.207|8080|United States|Portland|Hetzner Online GmbH|
+|10|34.98.65.22|5222|United States|Kansas City|Google LLC|
+|11|5.78.67.222|8080|United States|Portland|Hetzner Online GmbH|
+|12|5.78.94.139|8080|United States|Portland|Hetzner Online GmbH|
+|13|138.201.93.146|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|14|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|15|5.78.94.139|8080|United States|Portland|Hetzner Online GmbH|
+|16|51.79.50.22|9300|Canada|Beauharnois|OVH SAS|
+|17|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
+|18|158.69.73.79|9300|Canada|Montreal|OVH SAS|
+|19|51.159.0.236|3128|France|Paris|SCALEWAY|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 
 
 
