@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|116|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|116|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|116|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|75|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|75|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|75|
 
 ## Sources
 
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
-|2|34.98.65.22|5222|United States|Kansas City|Google LLC|
-|3|109.228.39.127|8080|United Kingdom|Gloucester|Fasthosts Internet Ltd|
-|4|87.236.197.232|3128|Czechia|Prague|Network of Coolhousing|
-|5|172.187.163.192|8080|United Kingdom|City of London|Microsoft|
-|6|176.9.86.117|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|7|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
-|8|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
-|9|34.98.65.22|5222|United States|Kansas City|Google LLC|
-|10|51.159.0.236|3128|France|Paris|SCALEWAY|
-|11|27.70.163.61|20065|Vietnam|Hanoi|Viettel Group|
-|12|46.101.13.77|80|United Kingdom|Enfield|DigitalOcean, LLC|
-|13|213.241.205.2|8080|Russia|Rostov-on-Don|RTCOMM-YUG|
-|14|115.144.102.39|10080|South Korea|Gangdong-gu|Korea Telecom|
-|15|27.70.162.129|20065|Vietnam|Hanoi|Viettel Group|
-|16|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
-|17|185.15.172.212|3128|Russia|Moscow|SafeData LLC|
-|18|103.69.108.78|8191|Philippines|Santiago|CITI Cableworld Inc.|
-|19|61.16.138.238|8080|India|Chandigarh|TTL|
-|20|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|1|34.98.65.22|5222|United States|Kansas City|Google LLC|
+|2|109.228.39.127|8080|United Kingdom|Gloucester|Fasthosts Internet Ltd|
+|3|158.69.73.79|9300|Canada|Montreal|OVH SAS|
+|4|172.187.163.192|8080|United Kingdom|City of London|Microsoft|
+|5|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
+|6|170.187.186.194|8080|Germany|Frankfurt am Main|Akamai Technologies, Inc.|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|87.236.197.232|3128|Czechia|Prague|Network of Coolhousing|
+|9|198.27.74.6|9300|Canada|Beauharnois|OVH SAS|
+|10|176.9.86.117|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|11|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
+|12|103.69.108.78|8191|Philippines|Santiago|CITI Cableworld Inc.|
+|13|40.119.236.22|80|Singapore|Singapore|Microsoft Corporation|
+|14|51.159.0.236|3128|France|Paris|SCALEWAY|
+|15|61.16.138.238|8080|India|Chandigarh|TTL|
+|16|34.98.65.22|5222|United States|Kansas City|Google LLC|
+|17|68.183.185.62|80|Singapore|Singapore|DigitalOcean, LLC|
+|18|115.144.102.39|10080|South Korea|Gangdong-gu|Korea Telecom|
+|19|103.105.55.76|3125|Indonesia|Jakarta|PT. Mega Artha Lintas Data|
+|20|43.129.223.147|38080|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
 
 
 
