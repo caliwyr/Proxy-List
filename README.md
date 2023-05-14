@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **6327** proxies at the latest update. Usable proxies are below.
+> Scraper found **6364** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|293|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|293|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|293|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|564|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|564|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|564|
 
 ## Sources
 
@@ -37,7 +37,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1127|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1164|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1073|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2744|✅|
@@ -48,25 +48,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|34.98.65.22|5222|United States|Kansas City|Google LLC|
-|2|159.223.120.149|8080|United States|North Bergen|DigitalOcean, LLC|
+|2|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
 |3|159.223.120.149|8080|United States|North Bergen|DigitalOcean, LLC|
-|4|14.207.130.93|8080|Thailand|Si Maha Phot|Triple T Broadband Public Company Limited|
-|5|23.88.53.90|8080|Germany|Gunzenhausen|Hetzner Online GmbH|
-|6|34.98.65.22|5222|United States|Kansas City|Google LLC|
-|7|40.85.152.26|8080|United States|San Francisco|Microsoft Corporation|
-|8|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|9|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|135.181.14.45|5959|Finland|Helsinki|Hetzner Online GmbH|
-|12|20.204.190.254|3129|India|Pune|Microsoft Corporation|
+|4|159.223.120.149|8080|United States|North Bergen|DigitalOcean, LLC|
+|5|5.75.242.152|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|6|128.140.90.249|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|7|23.88.45.132|8080|Germany|Gunzenhausen|Hetzner Online GmbH|
+|8|94.198.66.102|8888|Sweden|Umeå|Telecom3|
+|9|40.85.152.26|8080|United States|San Francisco|Microsoft Corporation|
+|10|136.243.55.199|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|11|23.88.53.90|8080|Germany|Gunzenhausen|Hetzner Online GmbH|
+|12|201.229.250.21|8080|Dominican Republic|Santo Domingo Este|Compañía Dominicana de Teléfonos S. A.|
 |13|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|14|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
-|15|93.99.211.233|8080|Czechia|Pilsen|UPC Czech|
-|16|62.89.9.10|8080|Armenia|Yerevan|GNC-Alfa CJSC|
-|17|201.229.250.21|8080|Dominican Republic|Santo Domingo Este|Compañía Dominicana de Teléfonos S. A.|
-|18|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|19|5.78.94.139|8080|United States|Portland|Hetzner Online GmbH|
-|20|5.78.42.109|8080|United States|Portland|Hetzner Online GmbH|
+|14|40.119.236.22|80|Singapore|Singapore|Microsoft Corporation|
+|15|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|16|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|17|68.183.236.116|8080|Singapore|Singapore|DigitalOcean, LLC|
+|18|20.204.190.254|3129|India|Pune|Microsoft Corporation|
+|19|34.98.65.22|5222|United States|Kansas City|Google LLC|
+|20|115.144.101.201|10001|South Korea|Gangdong-gu|Korea Telecom|
 
 
 
