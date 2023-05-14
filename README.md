@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|348|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|348|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|348|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|506|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|506|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|506|
 
 ## Sources
 
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|190.26.201.194|8080|Colombia|Bogotá|ETB - Colombia|
-|2|131.255.56.143|8899|Brazil|Birigui|Link Brasil Telecomunicacoes Ltda|
-|3|63.151.67.7|8080|United States|Hayden|Visionary Communications, Inc.|
-|4|138.68.195.70|31290|United States|San Francisco|DigitalOcean, LLC|
-|5|5.78.42.109|8080|United States|Portland|Hetzner Online GmbH|
-|6|162.212.153.95|8080|United States|Chicago|tzulo, inc.|
-|7|65.108.215.183|8080|Finland|Helsinki|Hetzner Online GmbH|
-|8|65.21.152.51|8080|Finland|Helsinki|Hetzner Online GmbH|
-|9|65.109.169.151|8080|Finland|Helsinki|Hetzner Online GmbH|
-|10|65.21.48.1|8080|Finland|Helsinki|Hetzner Online GmbH|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|174.138.167.180|8888|United States|Phoenix|Secured Servers LLC|
-|13|103.137.91.250|8080|Laos|Vientiane|SLT Network Co., LTD|
-|14|41.242.116.150|50001|Mayotte|Mamoudzou|STOI-block1|
-|15|1.2.252.65|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|16|201.182.251.142|999|Colombia|Pasto|SP SISTEMAS PALACIOS LTDA|
-|17|101.255.126.99|8081|Indonesia|Jakarta|PT Remala Abadi|
-|18|180.180.218.250|8080|Thailand|Bangkok|TOT Public Company Limited|
-|19|103.51.21.250|83|India|Raipur|Foxtel Telecommunications Pvt. Ltd.|
-|20|77.233.5.68|55443|Russia|Krasnodar|Yug-Link|
+|1|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
+|2|103.168.129.123|8080|Indonesia|Penggilingan|LINTASARTA|
+|3|110.49.110.45|8080|Thailand|Ratchathewi|Advanced Wireless Network Company Limited|
+|4|103.169.53.87|8080|India|Aizawl|Hyosec Solutions Private Limited|
+|5|83.171.90.83|8080|Russia|Moscow|PJSC Rostelecom|
+|6|187.17.163.202|92|Brazil|Penapolis|Ensite Brasil Telecomunicações Ltda - ME|
+|7|168.228.233.167|999|Dominican Republic|Santiago de los Caballeros|COLUMBUS NETWORKS DOMINICANA, S.A.|
+|8|5.78.42.109|8080|United States|Portland|Hetzner Online GmbH|
+|9|138.68.195.70|31290|United States|San Francisco|DigitalOcean, LLC|
+|10|162.212.153.95|8080|United States|Chicago|tzulo, inc.|
+|11|174.138.167.180|8888|United States|Phoenix|Secured Servers LLC|
+|12|103.60.161.18|8080|Bangladesh|Azimpur|Tetrasoft|
+|13|138.68.195.70|31290|United States|San Francisco|DigitalOcean, LLC|
+|14|65.108.215.183|8080|Finland|Helsinki|Hetzner Online GmbH|
+|15|65.21.48.1|8080|Finland|Helsinki|Hetzner Online GmbH|
+|16|65.21.152.51|8080|Finland|Helsinki|Hetzner Online GmbH|
+|17|65.109.169.151|8080|Finland|Helsinki|Hetzner Online GmbH|
+|18|201.182.251.142|999|Colombia|Pasto|SP SISTEMAS PALACIOS LTDA|
+|19|200.24.130.138|999|Ecuador|Quito|Nedetel S.A.|
+|20|142.147.114.50|8080|United States|Weatherford|Nextlink Broadband|
 
 
 
