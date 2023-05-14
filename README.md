@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **6867** proxies at the latest update. Usable proxies are below.
+> Scraper found **6902** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|717|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|717|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|717|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|583|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|583|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|583|
 
 ## Sources
 
@@ -37,9 +37,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1327|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1411|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1147|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1098|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3010|✅|
 
 
@@ -49,24 +49,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
 |2|107.152.38.166|8080|United States|Chicago|tzulo, inc.|
-|3|34.98.65.22|5222|United States|Kansas City|Google LLC|
-|4|27.54.96.11|18081|Japan|Kirishima Shi|Minamikyusyu CableTV Net Inc.|
-|5|64.225.4.81|9998|United States|Clifton|DigitalOcean, LLC|
+|3|51.79.50.31|9300|Canada|Beauharnois|OVH SAS|
+|4|34.98.65.22|5222|United States|Kansas City|Google LLC|
+|5|136.243.55.199|3128|Germany|Falkenstein|Hetzner Online GmbH|
 |6|94.198.66.102|8888|Sweden|Umeå|Telecom3|
-|7|107.152.38.166|8080|United States|Chicago|tzulo, inc.|
-|8|157.245.27.9|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|196.179.196.18|8080|Tunisia|El Fahs|ooredoo TN|
-|10|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|136.243.55.199|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|13|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
-|14|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
-|15|27.70.164.9|20065|Vietnam|Hanoi|Viettel Group|
-|16|34.98.65.22|5222|United States|Kansas City|Google LLC|
-|17|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
-|18|27.70.163.61|20065|Vietnam|Hanoi|Viettel Group|
-|19|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|20|181.78.6.6|999|Colombia|Soplaviento|IFX Networks Argentina S.R.L|
+|7|185.160.217.2|8123|Russia|Moscow|Rucomtech LLC|
+|8|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
+|9|51.158.189.189|8080|France|Paris|SCALEWAY|
+|10|51.159.115.233|3128|France|Paris|SCALEWAY|
+|11|205.213.80.8|8009|United States|Siren|WiscNet|
+|12|40.119.236.22|80|Singapore|Singapore|Microsoft Corporation|
+|13|107.152.38.166|8080|United States|Chicago|tzulo, inc.|
+|14|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
+|15|196.179.196.18|8080|Tunisia|El Fahs|ooredoo TN|
+|16|138.0.122.241|999|Chile|Peralillo|Telecomunicaciones Marjorie Andrea Mori Lagos E.I.R.L|
+|17|157.245.27.9|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|18|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|19|171.226.89.159|20066|Vietnam|Nha Trang|Viettel Corporation|
+|20|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
 
 
 
