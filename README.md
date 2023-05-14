@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|85|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|85|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|85|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|94|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|94|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|94|
 
 ## Sources
 
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|158.69.53.132|9300|Canada|Montreal|OVH SAS|
-|4|176.9.86.117|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|5|61.28.233.217|3128|Vietnam|Ho Chi Minh City|Vinadata broadcast via vinagame AS Number|
-|6|109.228.39.127|8080|United Kingdom|Gloucester|Fasthosts Internet Ltd|
-|7|167.172.238.6|9990|United States|Clifton|DigitalOcean, LLC|
-|8|182.53.29.111|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|9|172.187.163.192|8080|United Kingdom|City of London|Microsoft|
-|10|206.189.151.138|80|Singapore|Singapore|DigitalOcean, LLC|
-|11|46.17.249.116|35782|Kazakhstan|Kostanay|Eurasia-Star LLP|
-|12|178.128.97.141|80|Singapore|Singapore|DigitalOcean, LLC|
-|13|158.69.66.247|9300|Canada|Montreal|OVH SAS|
-|14|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
-|15|61.16.138.238|8080|India|Chandigarh|TTL|
-|16|51.79.50.46|9300|Canada|Beauharnois|OVH SAS|
-|17|115.144.101.201|10001|South Korea|Gangdong-gu|Korea Telecom|
-|18|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
-|19|205.213.80.8|8009|United States|Siren|WiscNet|
-|20|34.98.65.22|5222|United States|Kansas City|Google LLC|
+|1|43.135.158.217|80|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|2|34.98.65.22|5222|United States|Kansas City|Google LLC|
+|3|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
+|4|51.79.50.31|9300|Canada|Beauharnois|OVH SAS|
+|5|109.228.39.127|8080|United Kingdom|Gloucester|Fasthosts Internet Ltd|
+|6|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
+|7|176.9.86.117|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|8|198.27.74.6|9300|Canada|Beauharnois|OVH SAS|
+|9|43.135.158.217|80|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|10|170.187.186.194|8080|Germany|Frankfurt am Main|Akamai Technologies, Inc.|
+|11|185.226.182.95|8080|Spain|Cuevas del Almanzora|WorldStream B.V.|
+|12|180.183.99.98|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|13|167.172.238.6|9990|United States|Clifton|DigitalOcean, LLC|
+|14|8.213.135.37|443|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|15|34.98.65.22|5222|United States|Kansas City|Google LLC|
+|16|158.69.27.94|9300|Canada|Montreal|OVH SAS|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|18|172.187.163.192|8080|United Kingdom|City of London|Microsoft|
+|19|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
+|20|46.17.249.116|35782|Kazakhstan|Kostanay|Eurasia-Star LLP|
 
 
 
