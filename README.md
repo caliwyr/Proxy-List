@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **7167** proxies at the latest update. Usable proxies are below.
+> Scraper found **7114** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|681|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|681|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|681|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|109|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|109|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|109|
 
 ## Sources
 
@@ -37,7 +37,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1511|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1458|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1280|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2993|✅|
@@ -48,25 +48,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|155.94.178.6|8080|United States|Houston|QuadraNet Enterprises LLC|
-|2|176.9.86.117|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|2|172.187.163.192|8080|United Kingdom|City of London|Microsoft|
 |3|34.98.65.22|5222|United States|Kansas City|Google LLC|
-|4|172.187.163.192|8080|United Kingdom|City of London|Microsoft|
+|4|176.9.86.117|8080|Germany|Falkenstein|Hetzner Online GmbH|
 |5|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
-|6|5.75.242.5|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|7|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
-|8|167.99.116.111|8002|United States|Clifton|DigitalOcean, LLC|
-|9|136.243.55.199|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|10|159.203.190.193|8080|United States|North Bergen|DigitalOcean, LLC|
-|11|34.98.65.22|5222|United States|Kansas City|Google LLC|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|159.223.163.51|8080|United States|North Bergen|DigitalOcean, LLC|
-|14|159.223.110.116|8080|United States|North Bergen|DigitalOcean, LLC|
-|15|167.172.137.87|8080|United States|North Bergen|DigitalOcean, LLC|
-|16|45.33.22.139|8080|United States|Richardson|Akamai Technologies, Inc.|
-|17|159.223.132.175|8080|United States|North Bergen|DigitalOcean, LLC|
-|18|65.21.186.173|3129|Finland|Helsinki|Hetzner Online GmbH|
+|6|109.228.39.127|8080|United Kingdom|Gloucester|Fasthosts Internet Ltd|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
+|9|8.218.120.69|8080|Hong Kong|Central|Alibaba (US) Technology Co., Ltd.|
+|10|198.58.104.25|8080|United States|Richardson|Akamai Technologies, Inc.|
+|11|159.223.132.175|8080|United States|North Bergen|DigitalOcean, LLC|
+|12|46.101.232.219|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|159.203.190.193|8080|United States|North Bergen|DigitalOcean, LLC|
+|14|68.183.120.206|8080|United States|North Bergen|DigitalOcean, LLC|
+|15|68.183.117.152|8080|United States|North Bergen|DigitalOcean, LLC|
+|16|134.209.99.245|8080|Singapore|Singapore|DigitalOcean, LLC|
+|17|143.198.167.1|8080|United States|North Bergen|DigitalOcean, LLC|
+|18|192.81.214.198|8080|United States|North Bergen|DigitalOcean, LLC|
 |19|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|20|192.81.214.198|8080|United States|North Bergen|DigitalOcean, LLC|
+|20|155.94.178.6|8080|United States|Houston|QuadraNet Enterprises LLC|
 
 
 
