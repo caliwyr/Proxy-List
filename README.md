@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|565|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|565|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|565|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|400|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|400|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|400|
 
 ## Sources
 
@@ -48,25 +48,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
-|2|176.95.54.202|83|Germany|Wirft|Vodafone GmbH|
-|3|158.69.71.245|9300|Canada|Montreal|OVH SAS|
-|4|34.98.65.22|5222|United States|Kansas City|Google LLC|
-|5|27.54.96.11|18081|Japan|Kirishima Shi|Minamikyusyu CableTV Net Inc.|
-|6|193.107.104.57|3128|Ukraine|Vinnytsia|Stasishen Aleksandr Afanasiyovich|
-|7|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
-|8|94.198.66.102|8888|Sweden|Umeå|Telecom3|
-|9|27.70.162.129|20065|Vietnam|Hanoi|Viettel Group|
-|10|135.181.14.45|5959|Finland|Helsinki|Hetzner Online GmbH|
-|11|157.245.27.9|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|171.226.89.159|20066|Vietnam|Nha Trang|Viettel Corporation|
+|2|34.98.65.22|5222|United States|Kansas City|Google LLC|
+|3|157.245.27.9|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|4|64.225.8.115|9996|United States|Clifton|DigitalOcean, LLC|
+|5|94.198.66.102|8888|Sweden|Umeå|Telecom3|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
+|8|34.98.65.22|5222|United States|Kansas City|Google LLC|
+|9|136.243.55.199|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|10|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
+|11|135.181.14.45|5959|Finland|Helsinki|Hetzner Online GmbH|
+|12|193.107.104.57|3128|Ukraine|Vinnytsia|Stasishen Aleksandr Afanasiyovich|
 |13|144.217.253.209|9300|Canada|Beauharnois|OVH SAS|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|15|27.70.164.133|20065|Vietnam|Hanoi|Viettel Group|
-|16|40.119.236.22|80|Singapore|Singapore|Microsoft Corporation|
-|17|163.29.45.122|8080|Taiwan|Taipei|Government Service Network|
-|18|27.70.164.9|20065|Vietnam|Hanoi|Viettel Group|
-|19|34.98.65.22|5222|United States|Kansas City|Google LLC|
-|20|200.25.254.193|54240|Colombia|Neiva|Andinet ON Line|
+|14|40.119.236.22|80|Singapore|Singapore|Microsoft Corporation|
+|15|37.120.192.154|8080|Netherlands|Amsterdam|M247 Europe SRL|
+|16|64.225.8.115|9996|United States|Clifton|DigitalOcean, LLC|
+|17|61.28.233.217|3128|Vietnam|Ho Chi Minh City|Vinadata broadcast via vinagame AS Number|
+|18|66.70.178.214|9300|Canada|Beauharnois|OVH SAS|
+|19|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
+|20|158.69.73.79|9300|Canada|Montreal|OVH SAS|
 
 
 
