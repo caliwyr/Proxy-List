@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|565|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|565|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|565|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|543|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|543|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|543|
 
 ## Sources
 
@@ -37,7 +37,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|0|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|0|🚫|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1448|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2902|✅|
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|54.202.196.144|3128|United States|Portland|Amazon.com, Inc.|
-|2|34.98.65.22|5222|United States|Kansas City|Google LLC|
-|3|139.178.66.232|443|United States|Parsippany|PACKET-HOST|
-|4|54.202.196.144|3128|United States|Portland|Amazon.com, Inc.|
-|5|18.236.222.238|3128|United States|Portland|Amazon.com, Inc.|
-|6|5.189.176.184|8080|Germany|Nuremberg|Contabo GmbH|
-|7|34.98.65.22|5222|United States|Kansas City|Google LLC|
+|1|18.224.14.38|3128|United States|Dublin|Amazon.com, Inc.|
+|2|18.236.222.238|3128|United States|Portland|Amazon.com, Inc.|
+|3|198.44.164.253|45787|United States| Los Angeles|Zenlayer Inc|
+|4|18.130.191.224|3128|United Kingdom|London|Amazon Technologies Inc.|
+|5|198.44.164.253|45787|United States| Los Angeles|Zenlayer Inc|
+|6|80.96.11.15|32100|Romania|Târgu Mureş|Agentia de Administrare a Retelei Nationale de Informatica pentru Educatie si C|
+|7|5.189.176.184|8080|Germany|Nuremberg|Contabo GmbH|
 |8|18.224.14.38|3128|United States|Dublin|Amazon.com, Inc.|
-|9|198.44.164.253|45787|United States| Los Angeles|Zenlayer Inc|
+|9|18.236.222.238|3128|United States|Portland|Amazon.com, Inc.|
 |10|139.178.66.232|443|United States|Parsippany|PACKET-HOST|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|139.59.228.95|8118|Singapore|Singapore|DIGITALOCEAN|
-|13|152.67.10.190|8100|India|Mumbai|Oracle Corporation|
-|14|40.119.236.22|80|Singapore|Singapore|Microsoft Corporation|
-|15|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
-|16|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
-|17|162.212.156.133|8080|United States|Chicago|tzulo, inc.|
-|18|140.238.247.9|8100|India|Mumbai|Oracle Corporation|
-|19|187.144.254.20|3128|Mexico|Colima|Uninet S.A. de C.V.|
-|20|71.121.173.102|3128|United States|Baltimore|Verizon Business|
+|11|139.178.66.232|443|United States|Parsippany|PACKET-HOST|
+|12|13.55.216.220|3128|Australia|Sydney|Amazon Technologies Inc.|
+|13|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
+|14|20.93.42.101|8080|Ireland|Dublin|Microsoft Corporation|
+|15|34.98.65.22|5222|United States|Kansas City|Google LLC|
+|16|152.67.10.190|8100|India|Mumbai|Oracle Corporation|
+|17|182.253.45.223|32650|Indonesia|Jakarta|BIZNET|
+|18|158.69.73.79|9300|Canada|Montreal|OVH SAS|
+|19|140.238.245.116|8100|India|Mumbai|Oracle Corporation|
+|20|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
 
 
 
