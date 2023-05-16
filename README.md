@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **4817** proxies at the latest update. Usable proxies are below.
+> Scraper found **4857** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|117|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|117|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|117|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|377|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|377|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|377|
 
 ## Sources
 
@@ -36,7 +36,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|40|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|0|🚫|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1381|✅|
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|155.94.178.6|8080|United States|Houston|QuadraNet Enterprises LLC|
+|1|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
 |2|34.98.65.22|5222|United States|Kansas City|Google LLC|
-|3|18.237.163.176|3128|United States|Portland|Amazon.com, Inc.|
-|4|178.128.208.54|8888|Singapore|Singapore|DigitalOcean, LLC|
-|5|103.124.106.203|3128|United States|Los Angeles|DediPath|
-|6|203.57.50.118|40612|Australia|Brisbane|Mammoth Media Pty Ltd|
-|7|3.8.150.255|3128|United Kingdom|London|Amazon Technologies Inc.|
-|8|18.237.235.205|3128|United States|Portland|Amazon.com, Inc.|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|43.132.175.181|81|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|11|52.56.45.243|3128|United Kingdom|London|Amazon Technologies Inc.|
-|12|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
-|13|18.237.163.176|3128|United States|Portland|Amazon.com, Inc.|
-|14|115.144.101.201|10001|South Korea|Gangdong-gu|Korea Telecom|
-|15|103.124.106.203|3128|United States|Los Angeles|DediPath|
-|16|64.225.8.121|9993|United States|Clifton|DigitalOcean, LLC|
-|17|116.203.138.14|3128|Germany|Nuremberg|Hetzner Online GmbH|
-|18|13.57.193.1|3128|United States|San Jose|Amazon.com, Inc.|
-|19|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
-|20|171.250.87.225|10003|Vietnam|An Giang|Viettel Corporation|
+|3|34.212.40.84|3128|United States|Portland|Amazon.com, Inc.|
+|4|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|5|157.245.27.9|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|6|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
+|7|18.237.163.176|3128|United States|Portland|Amazon.com, Inc.|
+|8|186.121.235.220|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|9|18.237.163.176|3128|United States|Portland|Amazon.com, Inc.|
+|10|37.120.192.154|8080|Netherlands|Amsterdam|M247 Europe SRL|
+|11|203.57.50.118|40612|Australia|Brisbane|Mammoth Media Pty Ltd|
+|12|201.229.250.21|8080|Dominican Republic|Santo Domingo Este|Compañía Dominicana de Teléfonos S. A.|
+|13|170.187.186.194|8080|Germany|Frankfurt am Main|Akamai Technologies, Inc.|
+|14|34.212.40.84|3128|United States|Portland|Amazon.com, Inc.|
+|15|158.69.73.79|9300|Canada|Montreal|OVH SAS|
+|16|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
+|17|115.144.101.201|10001|South Korea|Gangdong-gu|Korea Telecom|
+|18|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
+|19|51.159.0.236|3128|France|Paris|SCALEWAY|
+|20|107.6.109.62|3128|United States|Dallas|SingleHop LLC|
 
 
 
