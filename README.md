@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|498|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|498|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|498|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|470|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|470|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|470|
 
 ## Sources
 
@@ -36,8 +36,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1008|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|35|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|973|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|954|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2798|✅|
@@ -48,25 +48,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|198.98.58.37|3128|United States|New York|FranTech Solutions|
-|2|198.98.58.37|3128|United States|New York|FranTech Solutions|
-|3|40.119.236.22|80|Singapore|Singapore|Microsoft Corporation|
-|4|177.53.214.19|999|Ecuador|Manta|Eliana Vanessa Morocho Oña|
-|5|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
-|6|186.121.235.220|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
-|9|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
-|10|41.60.232.151|8080|Kenya|Nairobi|Maintainer Liquid Telecommunications Operations Limited|
-|11|135.181.14.45|5959|Finland|Helsinki|Hetzner Online GmbH|
-|12|61.16.138.238|8080|India|Chandigarh|TTL|
-|13|144.217.240.185|9300|Canada|Beauharnois|OVH SAS|
-|14|46.101.13.77|80|United Kingdom|Enfield|DigitalOcean, LLC|
-|15|201.229.250.21|8080|Dominican Republic|Santo Domingo Este|Compañía Dominicana de Teléfonos S. A.|
-|16|23.132.185.101|53128|Norway|Sandefjord|Joseph Farnell|
-|17|181.37.126.112|999|Dominican Republic|Santo Domingo Este|Altice Dominicana S.A.|
-|18|5.78.73.221|8080|United States|Portland|Hetzner Online GmbH|
-|19|144.217.253.209|9300|Canada|Beauharnois|OVH SAS|
-|20|107.152.32.114|8080|United States|Chicago|tzulo, inc.|
+|2|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
+|3|186.121.235.220|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|4|198.98.58.37|3128|United States|New York|FranTech Solutions|
+|5|198.27.74.6|9300|Canada|Beauharnois|OVH SAS|
+|6|34.98.65.22|5222|United States|Kansas City|Google LLC|
+|7|135.181.14.45|5959|Finland|Helsinki|Hetzner Online GmbH|
+|8|34.98.65.22|5222|United States|Kansas City|Google LLC|
+|9|213.32.75.88|9300|France|Paris|OVH SAS|
+|10|158.69.71.245|9300|Canada|Montreal|OVH SAS|
+|11|59.15.28.113|3128|South Korea|Guro-gu|Korea Telecom|
+|12|41.60.232.151|8080|Kenya|Nairobi|Maintainer Liquid Telecommunications Operations Limited|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|14|144.217.253.209|9300|Canada|Beauharnois|OVH SAS|
+|15|114.7.27.98|8080|Indonesia|Jakarta|PT. INDOSAT Tbk|
+|16|176.95.54.202|83|Germany|Wirft|Vodafone GmbH|
+|17|203.150.128.235|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|18|177.234.211.111|999|Ecuador|Guayaquil|Nedetel S.A.|
+|19|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
+|20|92.207.253.226|38157|United Kingdom|City of Westminster|Gamma Telecom Holdings Ltd|
 
 
 
