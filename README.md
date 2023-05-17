@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|252|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|252|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|252|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|355|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|355|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|355|
 
 ## Sources
 
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|134.195.211.13|8080|United States|Los Angeles|Spectero|
-|2|34.98.65.22|5222|United States|Kansas City|Google LLC|
-|3|134.195.211.13|8080|United States|Los Angeles|Spectero|
-|4|51.159.0.236|3128|France|Paris|SCALEWAY|
-|5|107.152.39.143|8080|United States|Chicago|tzulo, inc.|
-|6|205.213.80.8|8009|United States|Siren|WiscNet|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|34.98.65.22|5222|United States|Kansas City|Google LLC|
-|9|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|10|171.243.26.253|10014|Vietnam|Hanoi|Viettel Corporation|
-|11|144.217.253.209|9300|Canada|Beauharnois|OVH SAS|
-|12|119.76.142.241|8080|Thailand|Nakhon Ratchasima|True Internet Co., Ltd.|
-|13|158.69.71.245|9300|Canada|Montreal|OVH SAS|
-|14|45.174.79.133|999|Mexico|Ciudad Delicias|Raul Duarte Urita|
-|15|185.20.198.108|8080|Iraq|Basrah|Horizon Scope Mobile Telecom WLL|
-|16|205.213.80.8|8009|United States|Siren|WiscNet|
-|17|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
-|18|190.71.229.46|9992|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
-|19|212.46.230.102|6969|Russia|Moscow|PJSC "Vimpelcom"|
-|20|5.78.73.221|8080|United States|Portland|Hetzner Online GmbH|
+|1|34.98.65.22|5222|United States|Kansas City|Google LLC|
+|2|205.213.80.8|8009|United States|Siren|WiscNet|
+|3|40.119.236.22|80|Singapore|Singapore|Microsoft Corporation|
+|4|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
+|5|34.98.65.22|5222|United States|Kansas City|Google LLC|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|135.181.14.45|5959|Finland|Helsinki|Hetzner Online GmbH|
+|8|107.152.39.143|8080|United States|Chicago|tzulo, inc.|
+|9|205.213.80.8|8009|United States|Siren|WiscNet|
+|10|51.159.0.236|3128|France|Paris|SCALEWAY|
+|11|171.250.87.225|10003|Vietnam|An Giang|Viettel Corporation|
+|12|107.152.32.114|8080|United States|Chicago|tzulo, inc.|
+|13|103.169.19.130|8080|Indonesia|Jakarta Pusat|PT Aplikanusa Lintasarta|
+|14|203.190.44.201|1111|Indonesia|Sleman|PT Jaring Lintas Utara|
+|15|5.78.73.221|8080|United States|Portland|Hetzner Online GmbH|
+|16|5.78.41.248|8080|United States|Portland|Hetzner Online GmbH|
+|17|128.140.63.196|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|18|185.169.252.50|8080|United States|Los Angeles|Contabo GmbH|
+|19|65.108.63.230|8080|Finland|Helsinki|Hetzner Online GmbH|
+|20|173.249.37.15|8080|Germany|Nuremberg|Contabo GmbH|
 
 
 
