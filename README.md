@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|477|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|477|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|477|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|252|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|252|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|252|
 
 ## Sources
 
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
-|2|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
-|3|144.217.253.209|9300|Canada|Beauharnois|OVH SAS|
-|4|205.213.80.8|8009|United States|Siren|WiscNet|
+|1|134.195.211.13|8080|United States|Los Angeles|Spectero|
+|2|34.98.65.22|5222|United States|Kansas City|Google LLC|
+|3|134.195.211.13|8080|United States|Los Angeles|Spectero|
+|4|51.159.0.236|3128|France|Paris|SCALEWAY|
 |5|107.152.39.143|8080|United States|Chicago|tzulo, inc.|
-|6|66.70.178.214|9300|Canada|Beauharnois|OVH SAS|
-|7|162.55.213.157|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|8|158.69.66.247|9300|Canada|Montreal|OVH SAS|
-|9|205.213.80.8|8009|United States|Siren|WiscNet|
-|10|34.98.65.22|5222|United States|Kansas City|Google LLC|
-|11|34.98.65.22|5222|United States|Kansas City|Google LLC|
-|12|51.79.50.31|9300|Canada|Beauharnois|OVH SAS|
-|13|40.119.236.22|80|Singapore|Singapore|Microsoft Corporation|
-|14|119.76.142.241|8080|Thailand|Nakhon Ratchasima|True Internet Co., Ltd.|
-|15|103.92.26.190|4002|Vietnam|Ho Chi Minh City|TLSOFT|
-|16|144.217.240.185|9300|Canada|Beauharnois|OVH SAS|
-|17|46.101.13.77|80|United Kingdom|Enfield|DigitalOcean, LLC|
-|18|31.129.253.30|40223|Ukraine|Kharkiv|FOP Samoilenko Igor Olegovich|
-|19|103.15.140.177|44759|Bangladesh|Dhaka|ICC COMMUNICATION|
-|20|200.25.254.193|54240|Colombia|Neiva|Andinet ON Line|
+|6|205.213.80.8|8009|United States|Siren|WiscNet|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|34.98.65.22|5222|United States|Kansas City|Google LLC|
+|9|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
+|10|171.243.26.253|10014|Vietnam|Hanoi|Viettel Corporation|
+|11|144.217.253.209|9300|Canada|Beauharnois|OVH SAS|
+|12|119.76.142.241|8080|Thailand|Nakhon Ratchasima|True Internet Co., Ltd.|
+|13|158.69.71.245|9300|Canada|Montreal|OVH SAS|
+|14|45.174.79.133|999|Mexico|Ciudad Delicias|Raul Duarte Urita|
+|15|185.20.198.108|8080|Iraq|Basrah|Horizon Scope Mobile Telecom WLL|
+|16|205.213.80.8|8009|United States|Siren|WiscNet|
+|17|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
+|18|190.71.229.46|9992|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|19|212.46.230.102|6969|Russia|Moscow|PJSC "Vimpelcom"|
+|20|5.78.73.221|8080|United States|Portland|Hetzner Online GmbH|
 
 
 
