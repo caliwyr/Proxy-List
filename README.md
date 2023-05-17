@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **6297** proxies at the latest update. Usable proxies are below.
+> Scraper found **6292** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -36,8 +36,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|38|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1151|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|39|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1145|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1040|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2985|✅|
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|64.225.8.121|9998|United States|Clifton|DigitalOcean, LLC|
-|2|158.69.53.98|9300|Canada|Montreal|OVH SAS|
-|3|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
-|4|103.200.30.106|8080|Japan|Chiyoda|rainbow network limited|
-|5|64.225.8.121|9998|United States|Clifton|DigitalOcean, LLC|
-|6|144.217.253.209|9300|Canada|Beauharnois|OVH SAS|
-|7|69.197.151.68|29875|United States|Kansas City|WholeSale Internet|
-|8|43.250.175.236|45787|Japan|Tokyo|Zenlayer Inc|
-|9|107.152.39.143|8080|United States|Chicago|tzulo, inc.|
-|10|51.159.0.236|3128|France|Paris|SCALEWAY|
-|11|205.213.80.8|8009|United States|Siren|WiscNet|
-|12|205.213.80.8|8009|United States|Siren|WiscNet|
-|13|64.225.8.132|9996|United States|Clifton|DigitalOcean, LLC|
-|14|34.98.65.22|5222|United States|Kansas City|Google LLC|
-|15|51.79.50.31|9300|Canada|Beauharnois|OVH SAS|
-|16|34.98.65.22|5222|United States|Kansas City|Google LLC|
-|17|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|18|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|19|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|20|171.250.87.225|10003|Vietnam|An Giang|Viettel Corporation|
+|1|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
+|2|115.144.102.39|10080|South Korea|Gangdong-gu|Korea Telecom|
+|3|43.129.223.147|38080|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|4|107.152.39.143|8080|United States|Chicago|tzulo, inc.|
+|5|158.69.53.98|9300|Canada|Montreal|OVH SAS|
+|6|51.159.0.236|3128|France|Paris|SCALEWAY|
+|7|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
+|8|34.98.65.22|5222|United States|Kansas City|Google LLC|
+|9|34.98.65.22|5222|United States|Kansas City|Google LLC|
+|10|69.197.151.69|29875|United States|Kansas City|WholeSale Internet|
+|11|51.79.50.31|9300|Canada|Beauharnois|OVH SAS|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|103.69.108.78|8191|Philippines|Santiago|CITI Cableworld Inc.|
+|14|171.250.87.225|10003|Vietnam|An Giang|Viettel Corporation|
+|15|171.243.25.59|11166|Vietnam|Hanoi|Viettel Corporation|
+|16|72.52.91.126|3128|United States|Fremont|Hurricane Electric LLC|
+|17|158.69.73.79|9300|Canada|Montreal|OVH SAS|
+|18|160.3.168.70|8080|United States|Gulfport|CABLE ONE, INC.|
+|19|205.233.79.29|9991|Dominican Republic|Santo Domingo Este|Trilogy Dominicana, S.A.|
+|20|31.129.253.30|40223|Ukraine|Kharkiv|FOP Samoilenko Igor Olegovich|
 
 
 
