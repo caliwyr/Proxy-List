@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|502|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|502|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|502|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|324|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|324|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|324|
 
 ## Sources
 
@@ -48,25 +48,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|34.98.65.22|5222|United States|Kansas City|Google LLC|
-|2|159.203.62.202|8080|Canada|Toronto|DigitalOcean, LLC|
-|3|125.240.183.145|8080|South Korea|Anyang-si|DACOM-PUBNETPLUS|
-|4|107.152.39.143|8080|United States|Chicago|tzulo, inc.|
-|5|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
-|6|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|7|34.98.65.22|5222|United States|Kansas City|Google LLC|
-|8|170.64.173.41|8080|Australia|Sydney|DigitalOcean, LLC|
-|9|46.101.172.212|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|64.226.69.101|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|128.140.80.52|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|13|170.64.165.17|8080|Australia|Sydney|DigitalOcean, LLC|
-|14|170.64.189.225|8080|Australia|Sydney|DigitalOcean, LLC|
-|15|128.199.82.64|8080|Singapore|Singapore|DigitalOcean, LLC|
-|16|146.190.242.193|8080|Canada|Toronto|DigitalOcean, LLC|
-|17|51.159.0.236|3128|France|Paris|SCALEWAY|
-|18|40.119.236.22|80|Singapore|Singapore|Microsoft Corporation|
-|19|165.232.76.243|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|20|170.64.181.176|8080|Australia|Sydney|DigitalOcean, LLC|
+|2|64.225.8.115|9996|United States|Clifton|DigitalOcean, LLC|
+|3|170.64.179.150|8080|Australia|Sydney|DigitalOcean, LLC|
+|4|46.101.172.212|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|5|116.99.239.185|11166|Vietnam|Hanoi|Viettel Corporation|
+|6|165.232.125.27|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|170.64.140.18|8080|Australia|Sydney|DigitalOcean, LLC|
+|9|170.64.173.41|8080|Australia|Sydney|DigitalOcean, LLC|
+|10|165.232.76.243|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|34.98.65.22|5222|United States|Kansas City|Google LLC|
+|12|128.199.82.64|8080|Singapore|Singapore|DigitalOcean, LLC|
+|13|170.64.189.163|8080|Australia|Sydney|DigitalOcean, LLC|
+|14|170.64.165.244|8080|Australia|Sydney|DigitalOcean, LLC|
+|15|170.64.189.225|8080|Australia|Sydney|DigitalOcean, LLC|
+|16|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
+|17|91.113.220.210|3128|Austria|Mooslandl|HIGHWAY194|
+|18|170.64.181.176|8080|Australia|Sydney|DigitalOcean, LLC|
+|19|170.64.177.117|8080|Australia|Sydney|DigitalOcean, LLC|
+|20|171.243.25.59|11166|Vietnam|Hanoi|Viettel Corporation|
 
 
 
