@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **6111** proxies at the latest update. Usable proxies are below.
+> Scraper found **6028** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|402|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|402|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|402|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|410|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|410|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|410|
 
 ## Sources
 
@@ -36,8 +36,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|29|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1209|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|26|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1129|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|949|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2841|✅|
@@ -49,24 +49,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|149.19.42.71|8082|United States|Allen|iboss, inc|
 |2|159.223.127.118|8080|United States|North Bergen|DigitalOcean, LLC|
-|3|164.90.218.165|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|4|159.223.139.235|8080|United States|North Bergen|DigitalOcean, LLC|
-|5|159.203.35.6|8080|Canada|Toronto|DigitalOcean, LLC|
-|6|159.223.139.235|8080|United States|North Bergen|DigitalOcean, LLC|
-|7|209.38.196.80|8080|United Kingdom|London|DigitalOcean|
-|8|142.132.227.247|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|9|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
-|10|158.69.226.75|8123|Canada|Montreal|OVH SAS|
-|11|135.181.40.86|8080|Finland|Helsinki|Hetzner Online GmbH|
-|12|128.140.91.91|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|13|159.203.177.111|8080|United States|North Bergen|DigitalOcean, LLC|
-|14|159.223.123.238|8080|United States|North Bergen|DigitalOcean, LLC|
-|15|65.21.246.255|8080|Finland|Helsinki|Hetzner Online GmbH|
-|16|159.203.0.193|8080|Canada|Toronto|DigitalOcean, LLC|
-|17|128.140.54.162|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|18|147.182.223.235|8080|United States|North Bergen|DigitalOcean, LLC|
-|19|162.212.153.95|8080|United States|Chicago|tzulo, inc.|
-|20|95.217.216.222|8080|Finland|Helsinki|Hetzner Online GmbH|
+|3|185.97.115.181|3128|Kazakhstan|Almaty|KZNLS Network|
+|4|103.118.44.109|8080|Cambodia|Phnom Penh|ANGKOR E & C (CAMBODIA) Co., Ltd.|
+|5|159.223.143.171|8080|United States|North Bergen|DigitalOcean, LLC|
+|6|164.90.218.165|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|7|203.142.78.36|8080|Indonesia|Jakarta|BIZNET|
+|8|207.154.242.67|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|135.181.108.72|8080|Finland|Helsinki|Hetzner Online GmbH|
+|10|162.212.153.95|8080|United States|Chicago|tzulo, inc.|
+|11|190.61.97.229|999|Guatemala|Guatemala City|UFINET Guatemala S. A|
+|12|116.203.35.102|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|13|92.255.202.78|8080|Russia|Kazan’|CJSC "ER-Telecom Holding" Kazan' branch|
+|14|195.140.146.86|3128|Russia|Khimki|JSC IOT|
+|15|201.182.251.142|999|Colombia|Pasto|SP SISTEMAS PALACIOS LTDA|
+|16|85.50.139.97|55443|Spain|Alicante|Uni2 1|
+|17|34.29.41.58|3128|United States|Council Bluffs|Google LLC|
+|18|186.101.84.214|999|Ecuador|Simon Bolivar|Telconet S.A|
+|19|80.194.38.106|3333|United Kingdom|Manchester|Virgin Media Limited|
+|20|154.72.90.74|8081|Tanzania|Dar es Salaam|RAHA-LTZ|
 
 
 
