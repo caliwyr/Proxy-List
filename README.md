@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **6028** proxies at the latest update. Usable proxies are below.
+> Scraper found **6212** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|410|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|410|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|410|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|376|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|376|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|376|
 
 ## Sources
 
@@ -37,7 +37,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|26|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1129|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1313|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|949|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2841|✅|
@@ -48,24 +48,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|149.19.42.71|8082|United States|Allen|iboss, inc|
-|2|159.223.127.118|8080|United States|North Bergen|DigitalOcean, LLC|
-|3|185.97.115.181|3128|Kazakhstan|Almaty|KZNLS Network|
-|4|103.118.44.109|8080|Cambodia|Phnom Penh|ANGKOR E & C (CAMBODIA) Co., Ltd.|
-|5|159.223.143.171|8080|United States|North Bergen|DigitalOcean, LLC|
-|6|164.90.218.165|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|7|203.142.78.36|8080|Indonesia|Jakarta|BIZNET|
-|8|207.154.242.67|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|135.181.108.72|8080|Finland|Helsinki|Hetzner Online GmbH|
-|10|162.212.153.95|8080|United States|Chicago|tzulo, inc.|
+|2|165.22.3.116|8080|United States|North Bergen|DigitalOcean, LLC|
+|3|159.223.119.107|8080|United States|North Bergen|DigitalOcean, LLC|
+|4|142.132.227.247|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|5|107.152.32.146|8080|United States|Chicago|tzulo, inc.|
+|6|159.223.127.228|8080|United States|North Bergen|DigitalOcean, LLC|
+|7|65.108.63.230|8080|Finland|Helsinki|Hetzner Online GmbH|
+|8|139.144.68.126|8080|Germany|Frankfurt am Main|Akamai Technologies, Inc.|
+|9|190.124.166.231|999|Honduras|San Pedro Sula|Redes y Telecomunicaciones|
+|10|103.171.31.127|8080|Indonesia|Manggadua Selatan|MORATELINDONAP|
 |11|190.61.97.229|999|Guatemala|Guatemala City|UFINET Guatemala S. A|
-|12|116.203.35.102|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|13|92.255.202.78|8080|Russia|Kazan’|CJSC "ER-Telecom Holding" Kazan' branch|
-|14|195.140.146.86|3128|Russia|Khimki|JSC IOT|
-|15|201.182.251.142|999|Colombia|Pasto|SP SISTEMAS PALACIOS LTDA|
-|16|85.50.139.97|55443|Spain|Alicante|Uni2 1|
-|17|34.29.41.58|3128|United States|Council Bluffs|Google LLC|
-|18|186.101.84.214|999|Ecuador|Simon Bolivar|Telconet S.A|
-|19|80.194.38.106|3333|United Kingdom|Manchester|Virgin Media Limited|
+|12|177.93.45.156|999|Colombia|Tunja|TV AZTECA SUCURSAL COLOMBIA|
+|13|190.69.157.213|999|Colombia|Ibague|Colombia Telecomunicaciones S.a. ESP|
+|14|187.1.57.206|20183|Brazil|Joao Monlevade|Companhia Itabirana Telecomunica??es Ltda|
+|15|186.101.84.214|999|Ecuador|Simon Bolivar|Telconet S.A|
+|16|193.138.178.6|8282|Russia|Chelyabinsk|New Communication Technologies|
+|17|45.162.135.201|999|Chile|Santiago|Grupo Noredzone ISP SPA|
+|18|94.231.178.249|9797|Ukraine|Nosiv|"Galichina Telekommunication" LTD|
+|19|177.66.101.223|8024|Brazil|Araguari|WN TELECOM LTDA - ME|
 |20|154.72.90.74|8081|Tanzania|Dar es Salaam|RAHA-LTZ|
 
 
