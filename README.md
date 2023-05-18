@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **5911** proxies at the latest update. Usable proxies are below.
+> Scraper found **5878** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|257|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|257|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|257|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|349|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|349|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|349|
 
 ## Sources
 
@@ -36,10 +36,10 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1171|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|24|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1074|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|898|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|938|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2759|✅|
 
 
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|187.188.167.30|3128|Mexico|Totutla|Total Play Telecomunicaciones SA De CV|
-|2|34.98.65.22|5222|United States|Kansas City|Google LLC|
-|3|205.213.80.8|8009|United States|Siren|WiscNet|
-|4|91.107.220.184|8080|Germany|Frankfurt Am Main|Hetzner Online AG|
-|5|135.181.14.45|5959|Finland|Helsinki|Hetzner Online GmbH|
-|6|34.98.65.22|5222|United States|Kansas City|Google LLC|
-|7|40.119.236.22|80|Singapore|Singapore|Microsoft Corporation|
-|8|65.108.218.203|8080|Finland|Helsinki|Hetzner Online GmbH|
-|9|149.19.42.71|8082|United States|Allen|iboss, inc|
-|10|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|11|158.69.73.79|9300|Canada|Montreal|OVH SAS|
-|12|158.69.66.247|9300|Canada|Montreal|OVH SAS|
-|13|205.213.80.8|8009|United States|Siren|WiscNet|
-|14|149.19.42.71|8082|United States|Allen|iboss, inc|
-|15|167.172.172.234|34803|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|16|186.121.235.220|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|17|126.29.47.170|8080|Japan|Okawa|Softbank BB Corp.|
-|18|61.16.138.238|8080|India|Chandigarh|TTL|
-|19|115.144.102.39|10080|South Korea|Gangdong-gu|Korea Telecom|
-|20|149.19.40.78|8082|United States|Charlotte|iboss, inc|
+|1|34.98.65.22|5222|United States|Kansas City|Google LLC|
+|2|187.188.167.30|3128|Mexico|Totutla|Total Play Telecomunicaciones SA De CV|
+|3|170.64.165.53|8080|Australia|Sydney|DigitalOcean, LLC|
+|4|170.64.165.119|8080|Australia|Sydney|DigitalOcean, LLC|
+|5|170.64.165.58|8080|Australia|Sydney|DigitalOcean, LLC|
+|6|181.129.112.18|999|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|205.213.80.8|8009|United States|Siren|WiscNet|
+|9|135.181.14.45|5959|Finland|Helsinki|Hetzner Online GmbH|
+|10|34.98.65.22|5222|United States|Kansas City|Google LLC|
+|11|91.107.220.184|8080|Germany|Frankfurt Am Main|Hetzner Online AG|
+|12|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|13|65.108.218.203|8080|Finland|Helsinki|Hetzner Online GmbH|
+|14|201.182.251.142|999|Colombia|Pasto|SP SISTEMAS PALACIOS LTDA|
+|15|205.213.80.8|8009|United States|Siren|WiscNet|
+|16|45.162.135.201|999|Chile|Santiago|Grupo Noredzone ISP SPA|
+|17|154.70.107.81|3128|Cameroon|Douala|MTN Network Solutions (Cameroon)|
+|18|103.233.25.168|3128|India|Mumbai|Web Werks India Pvt. Ltd.|
+|19|126.29.47.170|8080|Japan|Okawa|Softbank BB Corp.|
+|20|103.191.240.180|3128|Bangladesh|Dhaka|Wolast Technologies|
 
 
 
