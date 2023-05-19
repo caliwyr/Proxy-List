@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **6109** proxies at the latest update. Usable proxies are below.
+> Scraper found **6064** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|494|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|494|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|494|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|270|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|270|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|270|
 
 ## Sources
 
@@ -36,8 +36,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|17|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1241|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|18|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1195|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1011|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2757|✅|
@@ -47,24 +47,24 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|205.213.80.8|8009|United States|Siren|WiscNet|
-|2|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
-|3|205.213.80.8|8009|United States|Siren|WiscNet|
-|4|144.217.253.209|9300|Canada|Beauharnois|OVH SAS|
-|5|40.119.236.22|80|Singapore|Singapore|Microsoft Corporation|
-|6|186.121.235.220|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|7|140.238.247.9|8100|India|Mumbai|Oracle Corporation|
-|8|109.202.16.43|3128|Russia|Novosibirsk|JSC Avantel. Novosibirsk network|
-|9|149.19.40.78|8082|United States|Charlotte|iboss, inc|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|12|190.61.100.117|999|Guatemala|Guatemala City|UFINET Guatemala S. A|
-|13|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|14|68.183.185.62|80|Singapore|Singapore|DigitalOcean, LLC|
-|15|115.144.102.39|10080|South Korea|Gangdong-gu|Korea Telecom|
+|1|23.236.70.57|8888|United States|Los Angeles|Zenlayer Inc|
+|2|205.213.80.8|8009|United States|Siren|WiscNet|
+|3|23.236.70.57|8888|United States|Los Angeles|Zenlayer Inc|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|205.213.80.8|8009|United States|Siren|WiscNet|
+|6|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
+|7|136.243.55.199|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|8|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
+|9|186.121.235.220|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|10|152.67.10.190|8100|India|Mumbai|Oracle Corporation|
+|11|109.202.16.43|3128|Russia|Novosibirsk|JSC Avantel. Novosibirsk network|
+|12|157.245.27.9|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|14|149.19.40.78|8082|United States|Charlotte|iboss, inc|
+|15|149.19.42.71|8082|United States|Allen|iboss, inc|
 |16|115.144.101.201|10001|South Korea|Gangdong-gu|Korea Telecom|
-|17|149.19.40.78|8082|United States|Charlotte|iboss, inc|
-|18|136.243.55.199|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|17|125.25.40.41|32650|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|18|149.19.40.78|8082|United States|Charlotte|iboss, inc|
 |19|107.152.32.114|8080|United States|Chicago|tzulo, inc.|
 |20|5.78.73.221|8080|United States|Portland|Hetzner Online GmbH|
 
