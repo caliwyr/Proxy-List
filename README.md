@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **6258** proxies at the latest update. Usable proxies are below.
+> Scraper found **6267** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|461|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|461|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|461|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|447|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|447|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|447|
 
 ## Sources
 
@@ -37,7 +37,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|16|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1277|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1286|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1034|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2848|✅|
@@ -48,25 +48,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
-|2|149.19.42.71|8082|United States|Allen|iboss, inc|
-|3|137.184.110.239|8080|United States|North Bergen|DigitalOcean, LLC|
-|4|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
-|5|176.95.54.202|83|Germany|Wirft|Vodafone GmbH|
-|6|140.238.245.116|8100|India|Mumbai|Oracle Corporation|
-|7|5.78.78.63|8080|United States|Portland|Hetzner Online GmbH|
-|8|5.78.102.213|8080|United States|Portland|Hetzner Online GmbH|
-|9|205.213.80.8|8009|United States|Siren|WiscNet|
-|10|40.119.236.22|80|Singapore|Singapore|Microsoft Corporation|
-|11|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|12|104.199.190.177|10000|Taiwan|Taipei|Google LLC|
-|13|5.78.94.139|8080|United States|Portland|Hetzner Online GmbH|
-|14|115.76.192.66|20066|Vietnam|Gia Nghia|VIETELGPRS|
-|15|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
-|16|109.202.16.43|3128|Russia|Novosibirsk|JSC Avantel. Novosibirsk network|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|18|5.78.73.221|8080|United States|Portland|Hetzner Online GmbH|
-|19|115.76.194.31|11166|Vietnam|Gia Nghia|Viettel Group|
-|20|140.238.247.9|8100|India|Mumbai|Oracle Corporation|
+|2|137.184.110.239|8080|United States|North Bergen|DigitalOcean, LLC|
+|3|186.121.235.220|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|4|135.181.192.24|8080|Finland|Helsinki|Hetzner Online GmbH|
+|5|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
+|6|40.119.236.22|80|Singapore|Singapore|Microsoft Corporation|
+|7|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|8|140.238.245.116|8100|India|Mumbai|Oracle Corporation|
+|9|152.67.10.190|8100|India|Mumbai|Oracle Corporation|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|5.78.78.63|8080|United States|Portland|Hetzner Online GmbH|
+|12|115.76.194.31|11166|Vietnam|Gia Nghia|Viettel Group|
+|13|51.159.0.236|3128|France|Paris|SCALEWAY|
+|14|5.78.73.221|8080|United States|Portland|Hetzner Online GmbH|
+|15|5.78.94.139|8080|United States|Portland|Hetzner Online GmbH|
+|16|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
+|17|5.78.77.88|8080|United States|Portland|Hetzner Online GmbH|
+|18|5.78.98.249|8080|United States|Portland|Hetzner Online GmbH|
+|19|205.213.80.8|8009|United States|Siren|WiscNet|
+|20|109.202.16.43|3128|Russia|Novosibirsk|JSC Avantel. Novosibirsk network|
 
 
 
