@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **6448** proxies at the latest update. Usable proxies are below.
+> Scraper found **6661** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|281|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|281|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|281|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|181|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|181|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|181|
 
 ## Sources
 
@@ -36,8 +36,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|16|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1205|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|15|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1419|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1149|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2995|✅|
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|64.225.4.63|9993|United States|Clifton|DigitalOcean, LLC|
-|2|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|65.109.226.116|8080|Finland|Helsinki|Hetzner Online GmbH|
-|5|65.21.2.48|8080|Finland|Helsinki|Hetzner Online GmbH|
-|6|95.216.146.56|8080|Finland|Helsinki|Hetzner Online GmbH|
-|7|109.202.16.43|3128|Russia|Novosibirsk|JSC Avantel. Novosibirsk network|
-|8|64.225.4.63|9993|United States|Clifton|DigitalOcean, LLC|
-|9|172.104.41.13|16379|Singapore|Singapore|Akamai Technologies|
-|10|103.191.155.30|8080|Indonesia|Karawang|PT Ilham Wifi Solution|
-|11|61.16.138.238|8080|India|Chandigarh|TTL|
-|12|14.194.38.9|8080|India|New Delhi|Tata Tele Services GSM|
-|13|163.29.45.122|8080|Taiwan|Taipei|Government Service Network|
-|14|46.101.13.77|80|United Kingdom|Enfield|DigitalOcean, LLC|
-|15|37.120.192.154|8080|Netherlands|Amsterdam|M247 Europe SRL|
-|16|107.152.32.114|8080|United States|Chicago|tzulo, inc.|
-|17|64.225.8.135|9991|United States|Clifton|DigitalOcean, LLC|
-|18|167.235.228.196|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|19|5.161.194.190|8080|United States|Ashburn|Hetzner Online GmbH|
-|20|186.101.84.214|999|Ecuador|Simon Bolivar|Telconet S.A|
+|1|139.144.77.97|8080|Germany|Frankfurt am Main|Akamai Technologies, Inc.|
+|2|194.233.164.207|8080|Germany|Frankfurt am Main|Akamai Technologies, Inc.|
+|3|94.255.149.86|8080|Sweden|Umeå|Bredband2 AB|
+|4|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
+|5|66.70.178.214|9300|Canada|Beauharnois|OVH SAS|
+|6|205.213.80.8|8009|United States|Siren|WiscNet|
+|7|95.216.146.56|8080|Finland|Helsinki|Hetzner Online GmbH|
+|8|205.213.80.8|8009|United States|Siren|WiscNet|
+|9|65.109.226.116|8080|Finland|Helsinki|Hetzner Online GmbH|
+|10|65.21.2.48|8080|Finland|Helsinki|Hetzner Online GmbH|
+|11|37.120.192.154|8080|Netherlands|Amsterdam|M247 Europe SRL|
+|12|85.25.4.27|8646|France|Strasbourg|Host Europe GmbH|
+|13|186.121.235.220|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|14|149.19.42.71|8082|United States|Allen|iboss, inc|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|16|109.202.16.43|3128|Russia|Novosibirsk|JSC Avantel. Novosibirsk network|
+|17|40.119.236.22|80|Singapore|Singapore|Microsoft Corporation|
+|18|43.129.165.30|59394|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|19|149.19.40.78|8082|United States|Charlotte|iboss, inc|
+|20|38.44.237.57|999|Peru|Lima|Latin Cable|
 
 
 
