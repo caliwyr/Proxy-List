@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **6722** proxies at the latest update. Usable proxies are below.
+> Scraper found **6642** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|42|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|42|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|42|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|82|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|82|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|82|
 
 ## Sources
 
@@ -37,7 +37,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|17|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1381|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1301|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1228|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3013|✅|
@@ -47,25 +47,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|65.21.52.238|8080|Finland|Helsinki|Hetzner Online GmbH|
-|2|65.109.169.72|8080|Finland|Helsinki|Hetzner Online GmbH|
-|3|193.107.104.57|3128|Ukraine|Vinnytsia|Stasishen Aleksandr Afanasiyovich|
-|4|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
-|5|40.119.236.22|80|Singapore|Singapore|Microsoft Corporation|
-|6|43.129.165.30|59394|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|7|107.152.39.244|8080|United States|Chicago|tzulo, inc.|
-|8|186.121.235.220|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|9|162.212.153.179|8080|United States|Chicago|tzulo, inc.|
-|10|109.202.16.43|3128|Russia|Novosibirsk|JSC Avantel. Novosibirsk network|
-|11|107.152.42.73|8080|United States|Chicago|tzulo, inc.|
-|12|162.212.154.249|8080|United States|Chicago|tzulo, inc.|
-|13|107.152.35.170|8080|United States|Chicago|tzulo, inc.|
-|14|149.19.42.71|8082|United States|Allen|iboss, inc|
-|15|107.152.39.112|8080|United States|Chicago|tzulo, inc.|
-|16|107.152.37.95|8080|United States|Chicago|tzulo, inc.|
-|17|51.159.115.233|3128|France|Paris|SCALEWAY|
-|18|162.212.153.179|8080|United States|Chicago|tzulo, inc.|
-|19|107.152.35.170|8080|United States|Chicago|tzulo, inc.|
+|1|65.108.88.102|8080|Finland|Helsinki|Hetzner Online GmbH|
+|2|94.255.149.86|8080|Sweden|Umeå|Bredband2 AB|
+|3|43.129.165.30|59394|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|4|65.21.52.238|8080|Finland|Helsinki|Hetzner Online GmbH|
+|5|65.109.231.225|8080|Finland|Helsinki|Hetzner Online GmbH|
+|6|162.212.153.179|8080|United States|Chicago|tzulo, inc.|
+|7|143.198.210.144|8080|Singapore|Singapore|DigitalOcean, LLC|
+|8|157.245.27.9|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|162.212.154.249|8080|United States|Chicago|tzulo, inc.|
+|10|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
+|11|65.109.169.72|8080|Finland|Helsinki|Hetzner Online GmbH|
+|12|40.119.236.22|80|Singapore|Singapore|Microsoft Corporation|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|14|107.152.39.112|8080|United States|Chicago|tzulo, inc.|
+|15|186.121.235.220|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|16|64.225.8.132|9996|United States|Clifton|DigitalOcean, LLC|
+|17|109.202.16.43|3128|Russia|Novosibirsk|JSC Avantel. Novosibirsk network|
+|18|198.27.74.6|9300|Canada|Beauharnois|OVH SAS|
+|19|64.225.8.132|9996|United States|Clifton|DigitalOcean, LLC|
 |20|107.152.39.244|8080|United States|Chicago|tzulo, inc.|
 
 
