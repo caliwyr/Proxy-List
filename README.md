@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **7233** proxies at the latest update. Usable proxies are below.
+> Scraper found **7229** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|165|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|165|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|165|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|197|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|197|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|197|
 
 ## Sources
 
@@ -37,7 +37,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|17|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1624|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1620|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1456|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3053|✅|
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|2|64.225.8.132|9996|United States|Clifton|DigitalOcean, LLC|
-|3|138.201.113.2|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|1|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
+|2|20.122.27.242|80|United States|Boydton|Microsoft Corporation|
+|3|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
 |4|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
-|5|5.161.201.60|8080|United States|Ashburn|Hetzner Online GmbH|
-|6|64.226.119.197|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|7|5.161.199.170|8080|United States|Ashburn|Hetzner Online GmbH|
-|8|5.161.192.151|8080|United States|Ashburn|Hetzner Online GmbH|
-|9|5.161.209.214|8080|United States|Ashburn|Hetzner Online GmbH|
-|10|91.113.220.210|3128|Austria|Mooslandl|HIGHWAY194|
-|11|5.161.219.116|8080|United States|Ashburn|Hetzner Online GmbH|
-|12|5.78.97.189|8080|United States|Portland|Hetzner Online GmbH|
-|13|5.161.205.64|8080|United States|Ashburn|Hetzner Online GmbH|
-|14|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|15|5.161.177.63|8080|United States|Ashburn|Hetzner Online GmbH|
-|16|5.161.205.64|8080|United States|Ashburn|Hetzner Online GmbH|
-|17|109.202.16.43|3128|Russia|Novosibirsk|JSC Avantel. Novosibirsk network|
-|18|5.161.201.96|8080|United States|Ashburn|Hetzner Online GmbH|
-|19|162.212.156.190|8080|United States|Chicago|tzulo, inc.|
-|20|51.79.50.31|9300|Canada|Beauharnois|OVH SAS|
+|5|64.226.119.197|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|6|64.225.8.132|9996|United States|Clifton|DigitalOcean, LLC|
+|7|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|8|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|9|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|10|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|11|149.19.40.78|8082|United States|Charlotte|iboss, inc|
+|12|144.217.253.209|9300|Canada|Beauharnois|OVH SAS|
+|13|40.119.236.22|80|Singapore|Singapore|Microsoft Corporation|
+|14|43.129.165.30|59394|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|15|109.202.16.43|3128|Russia|Novosibirsk|JSC Avantel. Novosibirsk network|
+|16|149.19.40.78|8082|United States|Charlotte|iboss, inc|
+|17|14.194.38.9|8080|India|New Delhi|Tata Tele Services GSM|
+|18|20.204.190.254|3129|India|Pune|Microsoft Corporation|
+|19|149.19.42.71|8082|United States|Allen|iboss, inc|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 
 
 
