@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|586|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|586|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|586|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|510|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|510|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|510|
 
 ## Sources
 
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|5.161.220.100|8080|United States|Ashburn|Hetzner Online GmbH|
+|1|195.138.73.54|44017|Ukraine|Odesa|TeNeT Networking Centre|
 |2|5.161.216.43|8080|United States|Ashburn|Hetzner Online GmbH|
-|3|5.78.73.221|8080|United States|Portland|Hetzner Online GmbH|
-|4|95.216.191.80|8080|Finland|Helsinki|Hetzner Online GmbH|
-|5|65.108.50.239|8080|Finland|Helsinki|Hetzner Online GmbH|
-|6|5.161.191.190|8080|United States|Ashburn|Hetzner Online GmbH|
-|7|65.109.225.50|8080|Finland|Helsinki|Hetzner Online GmbH|
-|8|65.109.227.113|8080|Finland|Helsinki|Hetzner Online GmbH|
-|9|65.109.234.62|8080|Finland|Helsinki|Hetzner Online GmbH|
-|10|65.109.174.31|8080|Finland|Helsinki|Hetzner Online GmbH|
-|11|95.217.11.249|8080|Finland|Helsinki|Hetzner Online GmbH|
-|12|65.21.246.255|8080|Finland|Helsinki|Hetzner Online GmbH|
-|13|65.109.137.47|8080|Finland|Helsinki|Hetzner Online GmbH|
-|14|65.108.89.221|8080|Finland|Helsinki|Hetzner Online GmbH|
-|15|164.90.188.15|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|16|5.161.223.36|8080|United States|Ashburn|Hetzner Online GmbH|
-|17|65.108.89.109|8080|Finland|Helsinki|Hetzner Online GmbH|
-|18|64.226.85.151|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|19|162.212.157.199|8080|United States|Chicago|tzulo, inc.|
-|20|5.161.50.51|8080|United States|Ashburn|Hetzner Online GmbH|
+|3|107.152.32.114|8080|United States|Chicago|tzulo, inc.|
+|4|64.226.85.151|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|5|95.216.191.80|8080|Finland|Helsinki|Hetzner Online GmbH|
+|6|5.161.220.100|8080|United States|Ashburn|Hetzner Online GmbH|
+|7|5.78.73.221|8080|United States|Portland|Hetzner Online GmbH|
+|8|65.21.155.43|8080|Finland|Helsinki|Hetzner Online GmbH|
+|9|65.21.252.4|8080|Finland|Helsinki|Hetzner Online GmbH|
+|10|65.108.94.77|8080|Finland|Helsinki|Hetzner Online GmbH|
+|11|88.198.233.195|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|12|5.161.215.67|8080|United States|Ashburn|Hetzner Online GmbH|
+|13|135.181.157.201|8080|Finland|Helsinki|Hetzner Online GmbH|
+|14|61.194.35.58|8080|Japan|Oshino|NTT PC Communications, Inc.|
+|15|95.217.11.249|8080|Finland|Helsinki|Hetzner Online GmbH|
+|16|5.161.195.10|8080|United States|Ashburn|Hetzner Online GmbH|
+|17|5.161.181.70|8080|United States|Ashburn|Hetzner Online GmbH|
+|18|159.203.33.223|8080|Canada|Toronto|DigitalOcean, LLC|
+|19|65.21.244.56|8080|Finland|Helsinki|Hetzner Online GmbH|
+|20|65.109.233.86|8080|Finland|Helsinki|Hetzner Online GmbH|
 
 
 
