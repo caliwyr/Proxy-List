@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **6478** proxies at the latest update. Usable proxies are below.
+> Scraper found **6368** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|311|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|311|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|311|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|118|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|118|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|118|
 
 ## Sources
 
@@ -37,9 +37,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|17|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1240|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1126|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1181|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1185|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2957|✅|
 
 
@@ -48,25 +48,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|40.119.236.22|80|Singapore|Singapore|Microsoft Corporation|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|205.213.80.8|8009|United States|Siren|WiscNet|
-|4|109.202.16.43|3128|Russia|Novosibirsk|JSC Avantel. Novosibirsk network|
-|5|115.76.194.31|11166|Vietnam|Gia Nghia|Viettel Group|
-|6|149.19.40.78|8082|United States|Charlotte|iboss, inc|
+|2|43.129.165.30|59394|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|3|171.226.91.3|11166|Vietnam|Nha Trang|Viettel Corporation|
+|4|205.213.80.8|8009|United States|Siren|WiscNet|
+|5|5.78.73.221|8080|United States|Portland|Hetzner Online GmbH|
+|6|149.19.42.71|8082|United States|Allen|iboss, inc|
 |7|200.25.254.193|54240|Colombia|Neiva|Andinet ON Line|
-|8|205.213.80.8|8009|United States|Siren|WiscNet|
-|9|183.89.149.107|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
-|10|107.152.32.114|8080|United States|Chicago|tzulo, inc.|
-|11|43.129.165.30|59394|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|12|5.78.73.221|8080|United States|Portland|Hetzner Online GmbH|
-|13|5.161.206.156|8080|United States|Ashburn|Hetzner Online GmbH|
-|14|65.109.234.62|8080|Finland|Helsinki|Hetzner Online GmbH|
-|15|95.217.211.127|8080|Finland|Helsinki|Hetzner Online GmbH|
-|16|173.249.37.15|8080|Germany|Nuremberg|Contabo GmbH|
-|17|5.161.208.215|8080|United States|Ashburn|Hetzner Online GmbH|
-|18|203.159.93.254|8080|Thailand|Nonthaburi|Siamdata Communication Co., ltd.|
-|19|5.161.212.187|8080|United States|Ashburn|Hetzner Online GmbH|
-|20|65.109.238.145|8080|Finland|Helsinki|Hetzner Online GmbH|
+|8|5.161.208.215|8080|United States|Ashburn|Hetzner Online GmbH|
+|9|51.79.50.31|9300|Canada|Beauharnois|OVH SAS|
+|10|171.226.93.38|11166|Vietnam|Nha Trang|Viettel Corporation|
+|11|205.213.80.8|8009|United States|Siren|WiscNet|
+|12|65.109.6.51|8080|Finland|Helsinki|Hetzner Online GmbH|
+|13|65.109.234.62|8080|Finland|Helsinki|Hetzner Online GmbH|
+|14|65.109.238.145|8080|Finland|Helsinki|Hetzner Online GmbH|
+|15|65.109.163.130|8080|Finland|Helsinki|Hetzner Online GmbH|
+|16|115.76.194.31|11166|Vietnam|Gia Nghia|Viettel Group|
+|17|5.161.211.208|8080|United States|Ashburn|Hetzner Online GmbH|
+|18|95.217.156.79|8080|Finland|Helsinki|Hetzner Online GmbH|
+|19|65.109.132.234|8080|Finland|Helsinki|Hetzner Online GmbH|
+|20|65.21.49.239|8080|Finland|Helsinki|Hetzner Online GmbH|
 
 
 
