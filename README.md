@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **7580** proxies at the latest update. Usable proxies are below.
+> Scraper found **7695** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|11|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|11|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|11|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|18|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|18|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|18|
 
 ## Sources
 
@@ -37,9 +37,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|18|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1714|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1728|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1481|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1582|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3284|✅|
 
 
@@ -47,17 +47,24 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|190.26.201.194|8080|Colombia|Bogotá|ETB - Colombia|
-|2|5.75.175.46|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|3|170.64.166.46|8080|Australia|Sydney|DigitalOcean, LLC|
-|4|185.169.252.50|8080|United States|Los Angeles|Contabo GmbH|
-|5|128.140.53.116|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|6|23.88.118.89|8080|Germany|Gunzenhausen|Hetzner Online GmbH|
-|7|163.29.45.122|8080|Taiwan|Taipei|Government Service Network|
-|8|113.125.82.11|3128|China|Xintai|Cloud Computing Corporation|
-|9|163.29.45.122|8080|Taiwan|Taipei|Government Service Network|
-|10|125.25.40.41|32650|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|11|213.151.79.84|8080|Czechia|Prague|Dial Telecom|
+|1|5.161.182.121|8080|United States|Ashburn|Hetzner Online GmbH|
+|2|5.161.220.97|8080|United States|Ashburn|Hetzner Online GmbH|
+|3|64.225.8.191|9992|United States|Clifton|DigitalOcean, LLC|
+|4|103.69.108.78|8191|Philippines|Santiago|CITI Cableworld Inc.|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|186.121.235.220|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|7|170.64.174.43|8080|Australia|Sydney|DigitalOcean, LLC|
+|8|157.245.27.9|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|138.201.174.153|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|10|159.69.199.13|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|11|165.232.79.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|164.92.137.100|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|65.109.162.223|8080|Finland|Helsinki|Hetzner Online GmbH|
+|14|163.29.45.122|8080|Taiwan|Taipei|Government Service Network|
+|15|171.244.65.14|4002|Vietnam|Hanoi|Viettel Corporation|
+|16|5.161.207.76|8080|United States|Ashburn|Hetzner Online GmbH|
+|17|163.29.45.122|8080|Taiwan|Taipei|Government Service Network|
+|18|103.1.50.243|3125|Indonesia|Pandaan|CPCNet Hong Kong Ltd. - IP Administrator|
 
 
 
