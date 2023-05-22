@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **7275** proxies at the latest update. Usable proxies are below.
+> Scraper found **7212** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|12|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|12|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|12|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|5|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|5|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|5|
 
 ## Sources
 
@@ -37,7 +37,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|25|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1661|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1598|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1548|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2958|✅|
@@ -47,18 +47,11 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|5.78.42.229|8080|United States|Portland|Hetzner Online GmbH|
-|2|5.78.90.34|8080|United States|Portland|Hetzner Online GmbH|
-|3|179.63.149.5|999|Ecuador|Guayaquil|Zaigover S.A|
-|4|58.147.187.50|3125|Indonesia|Kuningan Barat|PT. Transhybrid Communication|
-|5|190.61.97.229|999|Guatemala|Guatemala City|UFINET Guatemala S. A|
-|6|65.109.232.20|8080|Finland|Helsinki|Hetzner Online GmbH|
-|7|5.161.219.154|8080|United States|Ashburn|Hetzner Online GmbH|
-|8|65.109.8.254|8080|Finland|Helsinki|Hetzner Online GmbH|
-|9|5.161.214.184|8080|United States|Ashburn|Hetzner Online GmbH|
-|10|5.161.211.231|8080|United States|Ashburn|Hetzner Online GmbH|
-|11|5.161.52.182|8080|United States|Ashburn|Hetzner Online GmbH|
-|12|138.97.118.126|8080|Brazil|Mesquita|NC BRASIL TELECOM E SERVICOS LTDA- ME|
+|1|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|2|163.29.45.122|8080|Taiwan|Taipei|Government Service Network|
+|3|200.24.130.138|999|Ecuador|Quito|Nedetel S.A.|
+|4|163.29.45.122|8080|Taiwan|Taipei|Government Service Network|
+|5|115.76.198.132|11166|Vietnam|Ho Chi Minh City|VIETELGPRS|
 
 
 
