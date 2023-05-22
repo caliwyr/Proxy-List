@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **7705** proxies at the latest update. Usable proxies are below.
+> Scraper found **7621** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|233|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|233|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|233|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|70|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|70|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|70|
 
 ## Sources
 
@@ -37,7 +37,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|19|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1737|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1653|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1582|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3284|✅|
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|5.161.220.97|8080|United States|Ashburn|Hetzner Online GmbH|
-|2|5.161.182.121|8080|United States|Ashburn|Hetzner Online GmbH|
-|3|128.140.90.201|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|4|164.90.239.139|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|5|157.245.27.9|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|6|128.140.63.206|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|7|162.55.36.175|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|8|138.201.174.153|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|9|128.140.3.26|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|10|149.19.40.78|8082|United States|Charlotte|iboss, inc|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|170.64.136.194|8080|Australia|Sydney|DigitalOcean, LLC|
-|13|23.88.118.89|8080|Germany|Gunzenhausen|Hetzner Online GmbH|
-|14|159.69.199.13|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|15|157.90.27.16|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|16|198.27.74.6|9300|Canada|Beauharnois|OVH SAS|
-|17|159.203.33.223|8080|Canada|Toronto|DigitalOcean, LLC|
-|18|167.235.145.195|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|19|170.64.187.2|8080|Australia|Sydney|DigitalOcean, LLC|
-|20|107.152.41.21|8080|United States|Chicago|tzulo, inc.|
+|1|5.161.182.121|8080|United States|Ashburn|Hetzner Online GmbH|
+|2|5.161.220.97|8080|United States|Ashburn|Hetzner Online GmbH|
+|3|186.121.235.220|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|4|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|5|181.129.112.21|999|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|6|5.161.182.121|8080|United States|Ashburn|Hetzner Online GmbH|
+|7|195.88.87.220|3128|Germany|Nuremberg|Contabo GmbH|
+|8|142.132.226.207|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|9|142.132.232.232|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|10|167.235.228.196|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|11|64.226.95.5|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|207.154.244.157|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|91.107.205.142|8080|Germany|Frankfurt Am Main|Hetzner Online AG|
+|14|128.140.91.43|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|15|159.69.199.13|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|16|157.230.123.88|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|17|23.88.118.89|8080|Germany|Gunzenhausen|Hetzner Online GmbH|
+|18|170.64.152.92|8080|Australia|Sydney|DigitalOcean, LLC|
+|19|209.38.196.31|8080|United Kingdom|London|DigitalOcean|
+|20|161.97.112.98|8080|Germany|Nuremberg|Contabo GmbH|
 
 
 
