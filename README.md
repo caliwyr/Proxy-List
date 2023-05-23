@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|515|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|515|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|515|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|535|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|535|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|535|
 
 ## Sources
 
@@ -36,8 +36,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1258|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|18|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1240|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1132|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2928|✅|
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|205.213.80.8|8009|United States|Siren|WiscNet|
-|2|162.212.158.91|8080|United States|Chicago|ServerCheap INC|
-|3|66.70.178.214|9300|Canada|Beauharnois|OVH SAS|
-|4|40.119.236.22|80|Singapore|Singapore|Microsoft Corporation|
-|5|186.121.235.220|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|6|144.217.253.209|9300|Canada|Beauharnois|OVH SAS|
-|7|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|8|152.67.10.190|8100|India|Mumbai|Oracle Corporation|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|64.225.8.135|9997|United States|Clifton|DigitalOcean, LLC|
-|11|158.69.73.79|9300|Canada|Montreal|OVH SAS|
-|12|162.212.155.186|8080|United States|Chicago|tzulo, inc.|
-|13|162.212.157.252|8080|United States|Chicago|tzulo, inc.|
-|14|162.212.158.91|8080|United States|Chicago|ServerCheap INC|
-|15|5.161.220.170|8080|United States|Ashburn|Hetzner Online GmbH|
-|16|5.78.68.183|8080|United States|Portland|Hetzner Online GmbH|
-|17|65.21.190.172|8080|Finland|Helsinki|Hetzner Online GmbH|
-|18|5.78.78.63|8080|United States|Portland|Hetzner Online GmbH|
-|19|107.152.32.247|8080|United States|Chicago|tzulo, inc.|
-|20|65.21.106.116|8080|Finland|Helsinki|Hetzner Online GmbH|
+|1|66.70.178.214|9300|Canada|Beauharnois|OVH SAS|
+|2|205.213.80.8|8009|United States|Siren|WiscNet|
+|3|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
+|4|185.20.71.38|443|France|Paris|Mod Mission Critical LLC|
+|5|144.217.253.209|9300|Canada|Beauharnois|OVH SAS|
+|6|186.121.235.220|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|7|162.212.158.91|8080|United States|Chicago|ServerCheap INC|
+|8|115.144.102.39|10080|South Korea|Gangdong-gu|Korea Telecom|
+|9|115.144.101.201|10001|South Korea|Gangdong-gu|Korea Telecom|
+|10|185.189.199.75|23500|Bulgaria|Bansko|Mis70 LTD|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|152.67.10.190|8100|India|Mumbai|Oracle Corporation|
+|13|217.146.217.178|3128|Iran|Tehran|Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS|
+|14|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|15|107.152.32.247|8080|United States|Chicago|tzulo, inc.|
+|16|162.212.155.186|8080|United States|Chicago|tzulo, inc.|
+|17|5.161.196.196|8080|United States|Ashburn|Hetzner Online GmbH|
+|18|5.78.73.221|8080|United States|Portland|Hetzner Online GmbH|
+|19|65.108.58.146|8080|Finland|Helsinki|Hetzner Online GmbH|
+|20|65.108.255.93|8080|Finland|Helsinki|Hetzner Online GmbH|
 
 
 
