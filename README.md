@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **6250** proxies at the latest update. Usable proxies are below.
+> Scraper found **6344** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|244|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|244|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|244|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|78|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|78|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|78|
 
 ## Sources
 
@@ -37,7 +37,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|17|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1121|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1215|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1112|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2917|✅|
@@ -49,24 +49,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|40.119.236.22|80|Singapore|Singapore|Microsoft Corporation|
 |2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|186.121.235.220|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|4|41.169.72.4|8090|South Africa|Mid-Ennerdale|Liquid Telecommunications South Africa (Pty) Ltd|
-|5|5.78.73.221|8080|United States|Portland|Hetzner Online GmbH|
-|6|162.212.156.132|8080|United States|Chicago|tzulo, inc.|
-|7|162.212.157.199|8080|United States|Chicago|tzulo, inc.|
-|8|64.225.8.121|9985|United States|Clifton|DigitalOcean, LLC|
-|9|161.97.112.98|8080|Germany|Nuremberg|Contabo GmbH|
-|10|95.217.238.76|8080|Finland|Helsinki|Hetzner Online GmbH|
-|11|95.217.184.168|8080|Finland|Helsinki|Hetzner Online GmbH|
-|12|65.109.231.25|8080|Finland|Helsinki|Hetzner Online GmbH|
-|13|65.109.8.23|8080|Finland|Helsinki|Hetzner Online GmbH|
-|14|65.21.181.231|8080|Finland|Helsinki|Hetzner Online GmbH|
-|15|135.181.205.154|8080|Finland|Helsinki|Hetzner Online GmbH|
-|16|65.109.161.143|8080|Finland|Helsinki|Hetzner Online GmbH|
-|17|5.161.209.115|8080|United States|Ashburn|Hetzner Online GmbH|
-|18|65.21.176.20|8080|Finland|Helsinki|Hetzner Online GmbH|
-|19|168.138.231.177|3128|Brazil|São Paulo|Oracle Corporation|
-|20|65.108.88.179|8080|Finland|Helsinki|Hetzner Online GmbH|
+|3|61.28.233.217|3128|Vietnam|Ho Chi Minh City|Vinadata broadcast via vinagame AS Number|
+|4|186.121.235.220|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|5|47.87.149.165|80|United States|Los Angeles|Alibaba.com LLC|
+|6|107.152.32.114|8080|United States|Chicago|tzulo, inc.|
+|7|162.212.158.43|8080|United States|Chicago|ServerCheap INC|
+|8|5.161.179.194|8080|United States|Ashburn|Hetzner Online GmbH|
+|9|95.217.238.76|8080|Finland|Helsinki|Hetzner Online GmbH|
+|10|65.109.8.23|8080|Finland|Helsinki|Hetzner Online GmbH|
+|11|135.181.205.154|8080|Finland|Helsinki|Hetzner Online GmbH|
+|12|95.217.184.168|8080|Finland|Helsinki|Hetzner Online GmbH|
+|13|162.212.157.199|8080|United States|Chicago|tzulo, inc.|
+|14|161.97.112.98|8080|Germany|Nuremberg|Contabo GmbH|
+|15|65.21.179.127|8080|Finland|Helsinki|Hetzner Online GmbH|
+|16|65.109.231.25|8080|Finland|Helsinki|Hetzner Online GmbH|
+|17|5.161.211.23|8080|United States|Ashburn|Hetzner Online GmbH|
+|18|162.212.156.132|8080|United States|Chicago|tzulo, inc.|
+|19|5.161.189.222|8080|United States|Ashburn|Hetzner Online GmbH|
+|20|173.249.37.15|8080|Germany|Nuremberg|Contabo GmbH|
 
 
 
