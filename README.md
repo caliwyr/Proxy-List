@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **6764** proxies at the latest update. Usable proxies are below.
+> Scraper found **6682** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|560|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|560|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|560|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|321|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|321|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|321|
 
 ## Sources
 
@@ -37,9 +37,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|15|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1391|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1347|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1380|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1342|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2895|✅|
 
 
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|5.78.41.248|8080|United States|Portland|Hetzner Online GmbH|
-|2|5.161.190.136|8080|United States|Ashburn|Hetzner Online GmbH|
-|3|5.161.187.214|8080|United States|Ashburn|Hetzner Online GmbH|
-|4|5.161.107.10|8080|United States|Ashburn|Hetzner Online GmbH|
-|5|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|6|5.161.214.91|8080|United States|Ashburn|Hetzner Online GmbH|
-|7|5.78.41.154|8080|United States|Portland|Hetzner Online GmbH|
-|8|186.121.235.220|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|9|5.161.180.30|8080|United States|Ashburn|Hetzner Online GmbH|
-|10|162.212.155.187|8080|United States|Chicago|tzulo, inc.|
-|11|128.140.91.43|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|12|209.38.230.243|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|104.248.231.52|8080|United States|North Bergen|DigitalOcean, LLC|
-|14|107.152.44.189|8080|United States|Durham|tzulo, inc.|
-|15|5.161.219.43|8080|United States|Ashburn|Hetzner Online GmbH|
-|16|46.101.213.247|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|17|103.85.114.240|8080|Bangladesh|Tejgaon|Apple Communication Ltd.|
-|18|200.111.186.215|999|Chile|San Carlos|Entel Chile S.A.|
-|19|132.255.210.117|999|El Salvador|San Miguel Ingenio|Conective S.a. De C.V.|
-|20|177.93.45.156|999|Colombia|Tunja|TV AZTECA SUCURSAL COLOMBIA|
+|1|64.225.8.82|9981|United States|Clifton|DigitalOcean, LLC|
+|2|186.121.235.220|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|3|5.161.211.108|8080|United States|Ashburn|Hetzner Online GmbH|
+|4|40.119.236.22|80|Singapore|Singapore|Microsoft Corporation|
+|5|5.161.208.208|8080|United States|Ashburn|Hetzner Online GmbH|
+|6|5.161.222.215|8080|United States|Ashburn|Hetzner Online GmbH|
+|7|177.93.51.168|999|Colombia|Villavicencio|TV AZTECA SUCURSAL COLOMBIA|
+|8|190.61.97.229|999|Guatemala|Guatemala City|UFINET Guatemala S. A|
+|9|45.224.148.117|999|Ecuador|Hacienda La Libertad|Nedetel S.A.|
+|10|103.169.53.87|8080|India|Aizawl|Hyosec Solutions Private Limited|
+|11|201.229.250.21|8080|Dominican Republic|Santo Domingo Este|Compañía Dominicana de Teléfonos S. A.|
+|12|187.141.184.235|8080|Mexico|Cabo San Lucas|Uninet S.A. de C.V.|
+|13|190.57.245.250|8080|Argentina|Barranqueras|Gigared S.A|
+|14|65.108.92.113|8080|Finland|Helsinki|Hetzner Online GmbH|
+|15|95.216.202.64|8080|Finland|Helsinki|Hetzner Online GmbH|
+|16|5.78.104.209|8080|United States|Portland|Hetzner Online GmbH|
+|17|135.181.40.9|8080|Finland|Helsinki|Hetzner Online GmbH|
+|18|118.112.188.137|9090|China|Chengdu|Chinanet|
+|19|95.217.184.168|8080|Finland|Helsinki|Hetzner Online GmbH|
+|20|165.232.79.245|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
 
 
 
