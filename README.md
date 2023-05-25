@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **6862** proxies at the latest update. Usable proxies are below.
+> Scraper found **6878** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|272|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|272|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|272|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|504|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|504|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|504|
 
 ## Sources
 
@@ -37,7 +37,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|15|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1394|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1410|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1338|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3032|✅|
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|64.225.4.63|9993|United States|Clifton|DigitalOcean, LLC|
+|1|64.225.8.132|9979|United States|Clifton|DigitalOcean, LLC|
 |2|168.119.14.45|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|3|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|4|64.225.4.63|9993|United States|Clifton|DigitalOcean, LLC|
+|3|51.79.50.31|9300|Canada|Beauharnois|OVH SAS|
+|4|64.225.8.132|9979|United States|Clifton|DigitalOcean, LLC|
 |5|40.119.236.22|80|Singapore|Singapore|Microsoft Corporation|
-|6|27.70.160.226|11166|Vietnam|Hanoi|Viettel Group|
-|7|185.20.71.38|443|France|Paris|Mod Mission Critical LLC|
-|8|64.225.8.115|9996|United States|Clifton|DigitalOcean, LLC|
-|9|64.225.8.132|9979|United States|Clifton|DigitalOcean, LLC|
-|10|95.216.207.163|8080|Finland|Helsinki|Hetzner Online GmbH|
-|11|107.152.32.114|8080|United States|Chicago|tzulo, inc.|
-|12|65.109.136.136|8080|Finland|Helsinki|Hetzner Online GmbH|
-|13|5.78.98.249|8080|United States|Portland|Hetzner Online GmbH|
-|14|149.56.95.158|443|Canada|Montreal|OVH Hosting|
-|15|135.181.82.108|8080|Finland|Helsinki|Hetzner Online GmbH|
-|16|146.190.115.167|443|United States|Santa Clara|DigitalOcean, LLC|
-|17|65.109.231.34|8080|Finland|Helsinki|Hetzner Online GmbH|
-|18|5.78.73.221|8080|United States|Portland|Hetzner Online GmbH|
-|19|65.109.227.113|8080|Finland|Helsinki|Hetzner Online GmbH|
-|20|65.109.224.139|8080|Finland|Helsinki|Hetzner Online GmbH|
+|6|61.28.233.217|3128|Vietnam|Ho Chi Minh City|Vinadata broadcast via vinagame AS Number|
+|7|27.70.160.226|11166|Vietnam|Hanoi|Viettel Group|
+|8|185.20.71.38|443|France|Paris|Mod Mission Critical LLC|
+|9|149.56.96.252|9300|Canada|Montreal|OVH SAS|
+|10|107.152.32.114|8080|United States|Chicago|tzulo, inc.|
+|11|5.161.220.140|8080|United States|Ashburn|Hetzner Online GmbH|
+|12|5.78.73.221|8080|United States|Portland|Hetzner Online GmbH|
+|13|65.108.54.98|8080|Finland|Helsinki|Hetzner Online GmbH|
+|14|5.78.72.234|8080|United States|Portland|Hetzner Online GmbH|
+|15|95.217.238.76|8080|Finland|Helsinki|Hetzner Online GmbH|
+|16|135.181.40.9|8080|Finland|Helsinki|Hetzner Online GmbH|
+|17|135.181.91.82|8080|Finland|Helsinki|Hetzner Online GmbH|
+|18|5.78.81.37|8080|United States|Portland|Hetzner Online GmbH|
+|19|170.64.181.26|8080|Australia|Sydney|DigitalOcean, LLC|
+|20|95.217.184.168|8080|Finland|Helsinki|Hetzner Online GmbH|
 
 
 
