@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|174|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|174|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|174|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|209|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|209|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|209|
 
 ## Sources
 
@@ -36,10 +36,10 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1267|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|20|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1217|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1139|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1169|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2881|✅|
 
 
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|65.21.108.207|8080|Finland|Helsinki|Hetzner Online GmbH|
-|2|157.90.226.212|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|3|95.216.164.24|8080|Finland|Helsinki|Hetzner Online GmbH|
-|4|165.22.26.125|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|5|170.64.187.8|8080|Australia|Sydney|DigitalOcean, LLC|
-|6|64.226.79.132|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|7|45.167.124.5|9992|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|8|170.64.187.20|8080|Australia|Sydney|DigitalOcean, LLC|
-|9|201.182.251.142|999|Colombia|Pasto|SP SISTEMAS PALACIOS LTDA|
-|10|142.132.232.232|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|11|170.64.187.19|8080|Australia|Sydney|DigitalOcean, LLC|
-|12|88.198.233.195|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|13|167.235.228.196|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|14|144.217.253.209|9300|Canada|Beauharnois|OVH SAS|
-|15|104.248.30.0|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|16|65.21.179.125|8080|Finland|Helsinki|Hetzner Online GmbH|
-|17|116.203.35.102|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|18|95.217.11.109|8080|Finland|Helsinki|Hetzner Online GmbH|
-|19|157.90.163.87|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|20|65.108.55.255|8080|Finland|Helsinki|Hetzner Online GmbH|
+|1|162.212.155.187|8080|United States|Chicago|tzulo, inc.|
+|2|167.235.152.159|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|3|88.198.233.195|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|4|170.64.187.20|8080|Australia|Sydney|DigitalOcean, LLC|
+|5|95.216.164.24|8080|Finland|Helsinki|Hetzner Online GmbH|
+|6|170.64.187.19|8080|Australia|Sydney|DigitalOcean, LLC|
+|7|95.216.162.20|8080|Finland|Helsinki|Hetzner Online GmbH|
+|8|170.64.181.26|8080|Australia|Sydney|DigitalOcean, LLC|
+|9|157.90.163.87|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|10|107.152.39.80|8080|United States|Chicago|tzulo, inc.|
+|11|116.203.35.102|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|12|65.109.226.22|8080|Finland|Helsinki|Hetzner Online GmbH|
+|13|94.130.229.212|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|14|202.134.19.50|3128|Vietnam|Hanoi|CMC Telecom Infrastructure Company|
+|15|65.109.239.78|8080|Finland|Helsinki|Hetzner Online GmbH|
+|16|95.217.3.101|8080|Finland|Helsinki|Hetzner Online GmbH|
+|17|95.216.189.78|8080|Finland|Helsinki|Hetzner Online GmbH|
+|18|186.121.235.220|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|19|157.90.226.212|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|20|64.226.79.132|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
 
 
 
