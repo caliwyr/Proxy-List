@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **6366** proxies at the latest update. Usable proxies are below.
+> Scraper found **6333** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|128|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|128|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|128|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|166|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|166|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|166|
 
 ## Sources
 
@@ -36,8 +36,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|20|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1646|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|21|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1612|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1313|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2304|✅|
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|170.64.169.184|8080|Australia|Sydney|DigitalOcean, LLC|
+|1|64.225.8.82|9981|United States|Clifton|DigitalOcean, LLC|
 |2|185.20.71.38|443|France|Paris|Mod Mission Critical LLC|
-|3|46.182.6.51|3129|France|Paris|Hosteur SAS|
-|4|104.248.30.0|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|5|162.212.156.147|8080|United States|Chicago|tzulo, inc.|
-|6|142.132.226.207|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|7|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
-|8|159.223.24.160|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|194.233.77.110|1111|Singapore|Singapore|Contabo Asia Private Limited|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|64.226.79.132|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|64.226.85.151|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|207.154.247.160|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|14|95.216.216.119|8080|Finland|Helsinki|Hetzner Online GmbH|
-|15|142.132.232.232|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|16|51.79.50.22|9300|Canada|Beauharnois|OVH SAS|
-|17|64.226.97.229|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|18|165.22.26.125|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|19|107.181.230.227|3128|United States|Ogden|GorillaServers, Inc.|
-|20|43.132.175.181|81|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|3|142.132.232.232|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|4|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
+|5|115.144.101.201|10001|South Korea|Gangdong-gu|Korea Telecom|
+|6|64.226.79.132|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|7|104.248.30.0|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|165.22.26.125|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|64.226.85.151|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|207.154.247.160|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|64.226.119.210|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|170.64.181.26|8080|Australia|Sydney|DigitalOcean, LLC|
+|13|213.241.205.2|8080|Russia|Rostov-on-Don|RTCOMM-YUG|
+|14|142.132.226.207|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|15|159.223.24.160|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|16|170.64.169.184|8080|Australia|Sydney|DigitalOcean, LLC|
+|17|194.233.77.110|1111|Singapore|Singapore|Contabo Asia Private Limited|
+|18|46.182.6.51|3129|France|Paris|Hosteur SAS|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|20|64.226.97.229|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
 
 
 
