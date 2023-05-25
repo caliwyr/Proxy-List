@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **6312** proxies at the latest update. Usable proxies are below.
+> Scraper found **6531** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -36,10 +36,10 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|23|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1217|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|17|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1277|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1024|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1189|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2965|✅|
 
 
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|174.138.167.182|8888|United States|Phoenix|Secured Servers LLC|
-|2|5.161.107.10|8080|United States|Ashburn|Hetzner Online GmbH|
-|3|5.161.193.98|8080|United States|Ashburn|Hetzner Online GmbH|
-|4|5.161.220.170|8080|United States|Ashburn|Hetzner Online GmbH|
-|5|115.76.194.52|11194|Vietnam|Gia Nghia|Viettel Group|
-|6|38.156.238.28|999|Dominican Republic|Santo Domingo|BITNET DOMINICANA, S.R.L.|
-|7|201.91.82.155|3128|Brazil|São Paulo|Vivo|
-|8|190.61.97.229|999|Guatemala|Guatemala City|UFINET Guatemala S. A|
-|9|168.90.13.162|999|Colombia|Bogotá|Media Commerce Partners S.A|
-|10|45.224.148.117|999|Ecuador|Hacienda La Libertad|Nedetel S.A.|
-|11|45.130.96.26|8080|Israel|Haifa|SpeedClick for Information Technology and Communication Ltd|
-|12|103.79.35.146|32650|India|Raipur|Smartlink Solutions Pvt. Ltd.|
-|13|95.217.133.77|8080|Finland|Helsinki|Hetzner Online GmbH|
-|14|65.21.58.236|8080|Finland|Helsinki|Hetzner Online GmbH|
-|15|135.181.157.201|8080|Finland|Helsinki|Hetzner Online GmbH|
-|16|95.217.186.184|8080|Finland|Helsinki|Hetzner Online GmbH|
-|17|95.217.183.24|8080|Finland|Helsinki|Hetzner Online GmbH|
-|18|5.78.78.63|8080|United States|Portland|Hetzner Online GmbH|
-|19|5.161.220.102|8080|United States|Ashburn|Hetzner Online GmbH|
-|20|65.109.1.13|8080|Finland|Helsinki|Hetzner Online GmbH|
+|1|171.244.65.14|4002|Vietnam|Hanoi|Viettel Corporation|
+|2|5.161.196.119|8080|United States|Ashburn|Hetzner Online GmbH|
+|3|171.244.65.14|4002|Vietnam|Hanoi|Viettel Corporation|
+|4|5.161.187.214|8080|United States|Ashburn|Hetzner Online GmbH|
+|5|65.21.58.214|8080|Finland|Helsinki|Hetzner Online GmbH|
+|6|65.21.148.195|8080|Finland|Helsinki|Hetzner Online GmbH|
+|7|65.109.168.118|8080|Finland|Helsinki|Hetzner Online GmbH|
+|8|113.125.82.11|3128|China|Xintai|Cloud Computing Corporation|
+|9|149.56.96.252|9300|Canada|Montreal|OVH SAS|
+|10|65.21.52.238|8080|Finland|Helsinki|Hetzner Online GmbH|
+|11|65.108.54.98|8080|Finland|Helsinki|Hetzner Online GmbH|
+|12|65.109.161.143|8080|Finland|Helsinki|Hetzner Online GmbH|
+|13|165.232.121.33|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|14|14.140.131.82|3128|India|Ahmedabad|Tata Communications Limited|
+|15|103.168.44.41|9191|Indonesia|Semarang|PT CYB Media Group|
+|16|170.64.169.184|8080|Australia|Sydney|DigitalOcean, LLC|
+|17|65.108.48.14|8080|Finland|Helsinki|Hetzner Online GmbH|
+|18|65.108.242.226|8080|Finland|Helsinki|Hetzner Online GmbH|
+|19|149.56.95.158|443|Canada|Montreal|OVH Hosting|
+|20|159.89.11.136|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
 
 
 
