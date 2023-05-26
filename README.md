@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|125|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|125|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|125|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|635|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|635|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|635|
 
 ## Sources
 
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|115.144.101.201|10001|South Korea|Gangdong-gu|Korea Telecom|
-|2|185.20.71.38|443|France|Paris|Mod Mission Critical LLC|
-|3|64.226.79.132|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|4|94.130.229.212|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|5|5.78.81.97|8080|United States|Portland|Hetzner Online GmbH|
-|6|167.235.195.27|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|7|5.78.81.97|8080|United States|Portland|Hetzner Online GmbH|
-|8|157.90.27.16|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|9|167.235.228.196|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|10|5.161.102.235|8080|United States|Ashburn|Hetzner Online GmbH|
-|11|91.107.205.142|8080|Germany|Frankfurt Am Main|Hetzner Online AG|
-|12|167.86.99.172|8080|Germany|Nuremberg|Contabo GmbH|
-|13|5.161.187.214|8080|United States|Ashburn|Hetzner Online GmbH|
-|14|5.78.44.18|8080|United States|Portland|Hetzner Online GmbH|
-|15|88.198.233.195|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|16|64.226.97.229|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|18|5.161.198.29|8080|United States|Ashburn|Hetzner Online GmbH|
-|19|162.55.218.195|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|20|107.152.41.161|8080|United States|Chicago|tzulo, inc.|
+|1|5.75.242.152|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|2|167.235.195.27|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|3|5.161.198.29|8080|United States|Ashburn|Hetzner Online GmbH|
+|4|157.90.27.16|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|5|46.101.213.247|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|6|5.161.102.235|8080|United States|Ashburn|Hetzner Online GmbH|
+|7|159.69.199.13|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|8|107.152.41.161|8080|United States|Chicago|tzulo, inc.|
+|9|5.161.187.214|8080|United States|Ashburn|Hetzner Online GmbH|
+|10|167.235.144.248|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|11|5.161.187.214|8080|United States|Ashburn|Hetzner Online GmbH|
+|12|158.69.71.245|9300|Canada|Montreal|OVH SAS|
+|13|5.78.44.18|8080|United States|Portland|Hetzner Online GmbH|
+|14|207.154.247.160|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|15|115.76.194.52|11194|Vietnam|Gia Nghia|Viettel Group|
+|16|128.140.35.250|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|17|104.248.30.0|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|18|209.38.230.243|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|19|64.226.79.132|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|20|170.64.187.20|8080|Australia|Sydney|DigitalOcean, LLC|
 
 
 
