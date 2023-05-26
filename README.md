@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|494|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|494|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|494|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|521|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|521|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|521|
 
 ## Sources
 
@@ -48,25 +48,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|64.225.8.179|9998|United States|Clifton|DigitalOcean, LLC|
-|2|5.161.187.109|8080|United States|Ashburn|Hetzner Online GmbH|
-|3|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
-|4|107.152.36.129|8080|United States|Chicago|tzulo, inc.|
-|5|81.181.109.143|2019|France|Paris|Virtono Networks SRL|
-|6|159.223.120.149|8080|United States|North Bergen|DigitalOcean, LLC|
-|7|159.223.120.149|8080|United States|North Bergen|DigitalOcean, LLC|
-|8|5.75.233.188|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|9|178.128.150.225|8080|United States|North Bergen|DigitalOcean, LLC|
-|10|142.93.127.57|8080|United States|North Bergen|DigitalOcean, LLC|
-|11|178.128.150.225|8080|United States|North Bergen|DigitalOcean, LLC|
-|12|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|13|5.161.187.109|8080|United States|Ashburn|Hetzner Online GmbH|
-|14|40.119.236.22|80|Singapore|Singapore|Microsoft Corporation|
-|15|186.121.235.220|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|16|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|17|51.89.206.53|3128|United Kingdom|London|OVH SAS|
-|18|170.187.152.76|3128|United States|Atlanta|Akamai Technologies, Inc.|
-|19|65.21.110.128|8080|Finland|Helsinki|Hetzner Online GmbH|
-|20|5.161.212.247|8080|United States|Ashburn|Hetzner Online GmbH|
+|2|107.152.36.129|8080|United States|Chicago|tzulo, inc.|
+|3|186.121.235.220|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|4|81.181.109.143|2019|France|Paris|Virtono Networks SRL|
+|5|159.223.120.149|8080|United States|North Bergen|DigitalOcean, LLC|
+|6|178.128.150.225|8080|United States|North Bergen|DigitalOcean, LLC|
+|7|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|8|51.89.206.53|3128|United Kingdom|London|OVH SAS|
+|9|5.161.187.109|8080|United States|Ashburn|Hetzner Online GmbH|
+|10|20.204.190.254|3129|India|Pune|Microsoft Corporation|
+|11|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|12|5.161.212.247|8080|United States|Ashburn|Hetzner Online GmbH|
+|13|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|14|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|15|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
+|16|64.225.8.179|9998|United States|Clifton|DigitalOcean, LLC|
+|17|188.166.213.190|4444|Singapore|Singapore|DigitalOcean, LLC|
+|18|142.93.127.57|8080|United States|North Bergen|DigitalOcean, LLC|
+|19|68.183.126.102|8080|United States|North Bergen|DigitalOcean, LLC|
+|20|41.169.72.4|8090|South Africa|Midrand|Liquid Telecommunications South Africa (Pty) Ltd|
 
 
 
