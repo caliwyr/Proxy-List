@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **5692** proxies at the latest update. Usable proxies are below.
+> Scraper found **5780** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|471|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|471|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|471|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|331|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|331|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|331|
 
 ## Sources
 
@@ -37,7 +37,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|13|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1067|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1155|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1186|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2343|✅|
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|185.20.71.38|443|France|Paris|Mod Mission Critical LLC|
-|2|136.243.55.199|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|3|209.38.254.44|45212|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|4|49.12.186.80|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|5|135.181.248.200|8080|Finland|Helsinki|Hetzner Online GmbH|
-|6|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|7|86.38.217.53|3128|United States|Los Angeles|DediPath|
+|1|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
+|2|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
+|3|136.243.55.199|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|4|86.38.217.53|3128|United States|Los Angeles|DediPath|
+|5|194.195.210.34|8080|United States|Atlanta|Akamai Technologies, Inc.|
+|6|5.78.103.206|8080|United States|Portland|Hetzner Online GmbH|
+|7|49.12.186.80|8080|Germany|Falkenstein|Hetzner Online GmbH|
 |8|5.78.74.148|8080|United States|Portland|Hetzner Online GmbH|
-|9|194.195.210.34|8080|United States|Atlanta|Akamai Technologies, Inc.|
-|10|5.78.103.206|8080|United States|Portland|Hetzner Online GmbH|
-|11|209.38.201.164|45212|Germany|Frankfurt am Main|DigitalOcean|
-|12|5.78.89.220|8080|United States|Portland|Hetzner Online GmbH|
-|13|103.92.26.190|4002|Vietnam|Ho Chi Minh City|TLSOFT|
-|14|103.69.108.78|8191|Philippines|Santiago|CITI Cableworld Inc.|
-|15|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
-|16|50.246.120.125|8080|United States|Washington|Comcast Cable Communications, LLC|
-|17|67.206.232.1|999|Puerto Rico|Vega Baja|Liberty Mobile Puerto Rico Inc.|
-|18|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
-|19|115.144.102.39|10080|South Korea|Gangdong-gu|Korea Telecom|
-|20|115.144.101.201|10001|South Korea|Gangdong-gu|Korea Telecom|
+|9|135.181.248.200|8080|Finland|Helsinki|Hetzner Online GmbH|
+|10|5.78.89.220|8080|United States|Portland|Hetzner Online GmbH|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|200.25.254.193|54240|Colombia|Leticia|Andinet ON Line|
+|13|51.158.189.189|8443|France|Paris|SCALEWAY|
+|14|116.99.229.249|11166|Vietnam|Gia Nghia|Viettel Corporation|
+|15|103.191.155.30|8080|Indonesia|Karawang|PT Ilham Wifi Solution|
+|16|171.226.93.88|11166|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|17|171.243.24.230|20073|Vietnam|Nha Trang|Viettel Corporation|
+|18|45.234.61.181|999|Venezuela|Caracas|SOLUCIONES INSTALRED CH&C C.A.|
+|19|115.144.101.201|10001|South Korea|Gangdong-gu|Korea Telecom|
+|20|203.150.128.77|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
 
 
 
