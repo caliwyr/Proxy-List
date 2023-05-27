@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **6463** proxies at the latest update. Usable proxies are below.
+> Scraper found **6524** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|154|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|154|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|154|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|282|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|282|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|282|
 
 ## Sources
 
@@ -37,7 +37,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|11|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1390|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1451|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1443|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2536|✅|
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|5.161.189.211|8080|United States|Ashburn|Hetzner Online GmbH|
+|1|5.161.103.108|8080|United States|Ashburn|Hetzner Online GmbH|
 |2|5.161.222.185|8080|United States|Ashburn|Hetzner Online GmbH|
-|3|5.78.86.34|8080|United States|Portland|Hetzner Online GmbH|
-|4|95.216.195.169|8080|Finland|Helsinki|Hetzner Online GmbH|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|194.31.64.209|39991|Turkey|Istanbul|SFCTEK Bilisim Yazilim ve Telekomunikasyon Hiz. San. ve Tic. LTD. STI.|
-|7|95.216.199.225|8080|Finland|Helsinki|Hetzner Online GmbH|
-|8|37.27.0.1|8080|Finland|Helsinki|Hetzner Online GmbH|
-|9|5.78.83.35|8080|United States|Portland|Hetzner Online GmbH|
-|10|5.78.108.54|8080|United States|Portland|Hetzner Online GmbH|
-|11|157.245.83.197|8080|United States|North Bergen|DigitalOcean, LLC|
-|12|135.181.155.58|8080|Finland|Helsinki|Hetzner Online GmbH|
-|13|128.140.5.44|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|14|65.108.243.238|8080|Finland|Helsinki|Hetzner Online GmbH|
-|15|20.204.190.254|3129|India|Pune|Microsoft Corporation|
-|16|138.201.88.219|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|17|5.161.194.49|8080|United States|Ashburn|Hetzner Online GmbH|
-|18|5.161.191.14|8080|United States|Ashburn|Hetzner Online GmbH|
-|19|5.161.103.108|8080|United States|Ashburn|Hetzner Online GmbH|
-|20|135.181.199.44|8080|Finland|Helsinki|Hetzner Online GmbH|
+|3|138.201.88.219|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|4|46.101.13.77|80|United Kingdom|Enfield|DigitalOcean, LLC|
+|5|194.31.64.179|39991|Turkey|Istanbul|SFCTEK Bilisim Yazilim ve Telekomunikasyon Hiz. San. ve Tic. LTD. STI.|
+|6|5.78.108.54|8080|United States|Portland|Hetzner Online GmbH|
+|7|135.181.199.225|8080|Finland|Helsinki|Hetzner Online GmbH|
+|8|5.78.90.4|8080|United States|Portland|Hetzner Online GmbH|
+|9|37.27.0.1|8080|Finland|Helsinki|Hetzner Online GmbH|
+|10|5.161.177.120|8080|United States|Ashburn|Hetzner Online GmbH|
+|11|95.217.20.174|8080|Finland|Helsinki|Hetzner Online GmbH|
+|12|5.161.189.211|8080|United States|Ashburn|Hetzner Online GmbH|
+|13|207.154.211.127|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|14|5.161.194.49|8080|United States|Ashburn|Hetzner Online GmbH|
+|15|5.161.194.49|8080|United States|Ashburn|Hetzner Online GmbH|
+|16|20.204.190.254|3129|India|Pune|Microsoft Corporation|
+|17|135.181.198.140|8080|Finland|Helsinki|Hetzner Online GmbH|
+|18|95.216.199.225|8080|Finland|Helsinki|Hetzner Online GmbH|
+|19|5.161.222.185|8080|United States|Ashburn|Hetzner Online GmbH|
+|20|135.181.249.206|8080|Finland|Helsinki|Hetzner Online GmbH|
 
 
 
