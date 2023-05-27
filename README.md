@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **5773** proxies at the latest update. Usable proxies are below.
+> Scraper found **5874** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|387|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|387|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|387|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|159|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|159|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|159|
 
 ## Sources
 
@@ -37,9 +37,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|10|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1205|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1212|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1116|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1210|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2359|✅|
 
 
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
-|2|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
+|1|5.78.78.122|8080|United States|Portland|Hetzner Online GmbH|
+|2|65.109.136.109|8080|Finland|Helsinki|Hetzner Online GmbH|
 |3|5.78.78.122|8080|United States|Portland|Hetzner Online GmbH|
-|4|65.109.136.109|8080|Finland|Helsinki|Hetzner Online GmbH|
-|5|157.245.27.9|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|6|5.78.78.122|8080|United States|Portland|Hetzner Online GmbH|
-|7|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
-|8|158.69.73.79|9300|Canada|Montreal|OVH SAS|
-|9|139.59.242.172|3128|Singapore|Singapore|DigitalOcean, LLC|
-|10|186.121.235.220|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|11|209.38.201.164|45212|Germany|Frankfurt am Main|DigitalOcean|
-|12|27.70.160.70|10004|Vietnam|Hanoi|Viettel Group|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|14|23.132.185.101|53128|Norway|Sandefjord|Joseph Farnell|
-|15|40.119.236.22|80|Singapore|Singapore|Microsoft Corporation|
-|16|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|17|45.224.99.93|999|Ecuador|Portoviejo|Nedetel S.A.|
-|18|93.91.112.247|41258|Russia|Tver|Fast Link Ltd.|
-|19|103.175.46.134|3125|Indonesia|Cirebon|PT Internet Keluarga Indonesia|
-|20|103.69.108.78|8191|Philippines|Santiago|CITI Cableworld Inc.|
+|4|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
+|5|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|6|139.59.242.172|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|149.56.96.252|9300|Canada|Montreal|OVH SAS|
+|8|40.119.236.22|80|Singapore|Singapore|Microsoft Corporation|
+|9|45.168.65.2|8080|Brazil|São Paulo|Thiago aparecido scaramuzza santana|
+|10|27.70.160.70|10004|Vietnam|Hanoi|Viettel Group|
+|11|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|12|176.99.2.43|1081|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
+|13|45.189.234.43|999|Venezuela|Cabudare|Boom Solutions C.A.|
+|14|209.38.201.164|45212|Germany|Frankfurt am Main|DigitalOcean|
+|15|186.121.235.220|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|16|171.226.93.88|11166|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|17|5.78.73.221|8080|United States|Portland|Hetzner Online GmbH|
+|18|46.182.6.51|3129|France|Paris|Hosteur SAS|
+|19|5.161.78.209|8080|United States|Ashburn|Hetzner Online GmbH|
+|20|5.161.213.21|8080|United States|Ashburn|Hetzner Online GmbH|
 
 
 
