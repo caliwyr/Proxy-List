@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **5422** proxies at the latest update. Usable proxies are below.
+> Scraper found **5542** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|130|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|130|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|130|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|399|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|399|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|399|
 
 ## Sources
 
@@ -37,7 +37,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|10|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1081|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1201|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1145|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2103|✅|
@@ -49,24 +49,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|3.226.79.79|80|United States|Ashburn|Amazon Technologies Inc.|
 |2|46.182.6.51|3129|France|Paris|Hosteur SAS|
-|3|3.226.79.79|80|United States|Ashburn|Amazon Technologies Inc.|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|140.238.245.116|8100|India|Mumbai|Oracle Corporation|
-|6|185.20.71.38|443|France|Paris|Mod Mission Critical LLC|
-|7|158.69.66.247|9300|Canada|Montreal|OVH SAS|
-|8|209.38.254.44|45212|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|40.119.236.22|80|Singapore|Singapore|Microsoft Corporation|
-|10|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
-|11|176.95.54.202|83|Germany|Hanau|Vodafone GmbH|
-|12|103.69.108.78|8191|Philippines|Santiago|CITI Cableworld Inc.|
-|13|209.38.201.164|45212|Germany|Frankfurt am Main|DigitalOcean|
-|14|149.57.11.129|8181|United States|Frankton|Swayzee Telephone Company, Inc.|
-|15|64.225.8.115|9996|United States|Clifton|DigitalOcean, LLC|
-|16|115.144.102.39|10080|South Korea|Gangdong-gu|Korea Telecom|
-|17|170.83.242.249|999|Paraguay|Asunción|Ufinet Panama S.A.|
-|18|64.225.8.82|9981|United States|Clifton|DigitalOcean, LLC|
-|19|176.99.2.43|1081|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
-|20|5.78.73.221|8080|United States|Portland|Hetzner Online GmbH|
+|3|51.79.50.31|9300|Canada|Beauharnois|OVH SAS|
+|4|141.94.205.110|8118|France|Gravelines|OVH SAS|
+|5|3.226.79.79|80|United States|Ashburn|Amazon Technologies Inc.|
+|6|157.245.27.9|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|7|194.31.79.250|39991|Turkey|Istanbul|SFCTEK Bilisim Yazilim ve Telekomunikasyon Hiz. San. ve Tic. LTD. STI.|
+|8|107.152.39.214|8080|United States|Chicago|tzulo, inc.|
+|9|200.170.138.194|3128|Brazil|Patos de Minas|ALGAR TELECOM S/A|
+|10|176.95.54.202|83|Germany|Hanau|Vodafone GmbH|
+|11|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
+|12|140.238.245.116|8100|India|Mumbai|Oracle Corporation|
+|13|201.238.248.139|9229|Chile|Santiago|Gtd Internet S.A|
+|14|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|15|209.38.254.44|45212|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|16|51.159.0.236|2020|France|Paris|SCALEWAY|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|18|40.119.236.22|80|Singapore|Singapore|Microsoft Corporation|
+|19|13.214.159.87|33080|Singapore|Singapore|Amazon Technologies Inc.|
+|20|200.54.194.12|53281|Chile|Providencia|Telefonica Empresas|
 
 
 
