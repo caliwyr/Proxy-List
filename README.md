@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **7092** proxies at the latest update. Usable proxies are below.
+> Scraper found **7024** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|586|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|586|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|586|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|20|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|20|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|20|
 
 ## Sources
 
@@ -36,8 +36,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|10|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1560|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1502|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1468|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2971|✅|
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|5.161.89.188|8080|United States|Ashburn|Hetzner Online GmbH|
-|2|94.255.149.86|8080|Sweden|Umeå|Bredband2 AB|
-|3|46.182.6.51|3129|France|Paris|Hosteur SAS|
-|4|209.38.254.44|45212|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|5|108.187.44.89|3129|United States|Los Angeles|Leaseweb USA, Inc.|
-|6|209.38.201.164|45212|Germany|Frankfurt am Main|DigitalOcean|
-|7|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
-|8|91.196.148.56|10000|Ukraine|Kriukivschina|Maximum-Net LLC|
-|9|108.187.44.36|3129|United States|Los Angeles|Leaseweb USA, Inc.|
-|10|158.69.53.132|9300|Canada|Montreal|OVH SAS|
-|11|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
-|12|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|13|108.187.44.120|3129|United States|Los Angeles|Leaseweb USA, Inc.|
-|14|5.161.89.188|8080|United States|Ashburn|Hetzner Online GmbH|
-|15|108.187.44.173|3129|United States|Los Angeles|Leaseweb USA, Inc.|
-|16|108.187.44.64|3129|United States|Los Angeles|Leaseweb USA, Inc.|
-|17|108.187.44.116|3129|United States|Los Angeles|Leaseweb USA, Inc.|
-|18|157.230.95.47|8080|United States|North Bergen|DigitalOcean, LLC|
-|19|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
-|20|107.152.41.183|8080|United States|Chicago|tzulo, inc.|
+|1|107.152.37.26|8080|United States|Chicago|tzulo, inc.|
+|2|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|3|27.70.160.226|11166|Vietnam|Hanoi|Viettel Group|
+|4|108.187.44.7|3129|United States|Los Angeles|Leaseweb USA, Inc.|
+|5|108.187.44.116|3129|United States|Los Angeles|Leaseweb USA, Inc.|
+|6|108.187.44.158|3129|United States|Los Angeles|Leaseweb USA, Inc.|
+|7|88.99.136.198|1081|Germany|Falkenstein|Hetzner Online GmbH|
+|8|5.161.89.188|8080|United States|Ashburn|Hetzner Online GmbH|
+|9|115.144.102.39|10080|South Korea|Gangdong-gu|Korea Telecom|
+|10|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
+|11|115.144.101.201|10001|South Korea|Gangdong-gu|Korea Telecom|
+|12|108.187.44.171|3129|United States|Los Angeles|Leaseweb USA, Inc.|
+|13|138.201.132.168|8118|Germany|Falkenstein|Hetzner Online GmbH|
+|14|157.230.95.47|8080|United States|North Bergen|DigitalOcean, LLC|
+|15|163.29.45.122|8080|Taiwan|Taipei|Government Service Network|
+|16|163.29.45.122|8080|Taiwan|Taipei|Government Service Network|
+|17|163.29.45.122|8080|Taiwan|Taipei|Government Service Network|
+|18|195.178.33.86|8080|Serbia|Novi Sad|TELEKOM-SRBIJA|
+|19|103.167.107.149|8080|Indonesia|Jakarta|PT. Fiber Networks Indonesia|
+|20|103.123.168.165|83|Bangladesh|Dhaka|Sajid Trading Ltd.|
 
 
 
