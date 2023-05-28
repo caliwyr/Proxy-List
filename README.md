@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|206|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|206|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|206|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|395|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|395|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|395|
 
 ## Sources
 
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|51.159.115.233|3128|France|Paris|SCALEWAY|
-|2|115.144.102.39|10080|South Korea|Gangdong-gu|Korea Telecom|
-|3|3.226.79.79|80|United States|Ashburn|Amazon Technologies Inc.|
-|4|40.119.236.22|80|Singapore|Singapore|Microsoft Corporation|
-|5|158.69.73.79|9300|Canada|Montreal|OVH SAS|
-|6|65.21.242.89|4444|Finland|Helsinki|Hetzner Online GmbH|
-|7|144.217.253.209|9300|Canada|Beauharnois|OVH SAS|
-|8|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|9|185.20.71.38|443|France|Paris|Mod Mission Critical LLC|
-|10|201.238.248.139|9229|Chile|Santiago|Gtd Internet S.A|
-|11|66.70.178.214|9300|Canada|Beauharnois|OVH SAS|
-|12|209.38.201.164|45212|Germany|Frankfurt am Main|DigitalOcean|
-|13|176.95.54.202|83|Germany|Hanau|Vodafone GmbH|
-|14|209.38.254.44|45212|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|16|103.156.128.232|3128|Indonesia|Sidoarjo|PT Skynet Lintas Nusantara|
-|17|158.69.74.53|9300|Canada|Montreal|OVH SAS|
-|18|125.136.113.111|7890|South Korea|Gwangsan-gu|Korea Telecom|
-|19|103.162.91.116|8080|Pakistan|Karachi|Dreams Network & Technology Pvt Ltd|
-|20|107.152.32.114|8080|United States|Chicago|tzulo, inc.|
+|1|65.21.109.80|8080|Finland|Helsinki|Hetzner Online GmbH|
+|2|157.245.27.9|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|3|94.255.149.86|8080|Sweden|Umeå|Bredband2 AB|
+|4|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
+|5|107.152.39.112|8080|United States|Chicago|tzulo, inc.|
+|6|3.226.79.79|80|United States|Ashburn|Amazon Technologies Inc.|
+|7|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
+|8|185.20.71.38|443|France|Paris|Mod Mission Critical LLC|
+|9|40.119.236.22|80|Singapore|Singapore|Microsoft Corporation|
+|10|209.38.201.164|45212|Germany|Frankfurt am Main|DigitalOcean|
+|11|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
+|12|209.38.254.44|45212|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|107.152.39.112|8080|United States|Chicago|tzulo, inc.|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|15|115.144.101.201|10001|South Korea|Gangdong-gu|Korea Telecom|
+|16|158.69.72.138|9300|Canada|Montreal|OVH SAS|
+|17|201.229.250.21|8080|Dominican Republic|Santiago de los Caballeros|Compañía Dominicana de Teléfonos S. A.|
+|18|103.156.128.232|3128|Indonesia|Sidoarjo|PT Skynet Lintas Nusantara|
+|19|95.43.243.30|7777|Bulgaria|Sofia|Vivacom Bulgaria EAD|
+|20|140.238.247.9|8100|India|Mumbai|Oracle Corporation|
 
 
 
