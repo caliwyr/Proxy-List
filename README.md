@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **5771** proxies at the latest update. Usable proxies are below.
+> Scraper found **5781** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|44|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|44|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|44|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|410|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|410|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|410|
 
 ## Sources
 
@@ -37,7 +37,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|9|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1205|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1215|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1191|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2283|✅|
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|46.182.6.51|3129|France|Paris|Hosteur SAS|
-|2|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|140.238.245.116|8100|India|Mumbai|Oracle Corporation|
-|5|159.223.114.215|8080|United States|North Bergen|DigitalOcean, LLC|
-|6|65.109.160.122|8080|Finland|Helsinki|Hetzner Online GmbH|
-|7|157.230.94.245|8080|United States|North Bergen|DigitalOcean, LLC|
-|8|159.223.114.215|8080|United States|North Bergen|DigitalOcean, LLC|
-|9|170.64.178.217|8080|Australia|Sydney|DigitalOcean, LLC|
-|10|162.212.155.103|8080|United States|Chicago|tzulo, inc.|
-|11|194.31.79.198|39991|Turkey|Istanbul|SFCTEK Bilisim Yazilim ve Telekomunikasyon Hiz. San. ve Tic. LTD. STI.|
-|12|165.232.73.222|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|128.140.89.202|8080|Germany|Hachenburg|Hetzner Online GmbH|
-|14|194.31.64.69|39991|Turkey|Istanbul|SFCTEK Bilisim Yazilim ve Telekomunikasyon Hiz. San. ve Tic. LTD. STI.|
-|15|209.38.216.196|8080|Germany|Frankfurt am Main|DigitalOcean|
-|16|209.38.212.230|8080|Germany|Frankfurt am Main|DigitalOcean|
-|17|209.38.214.40|8080|Germany|Frankfurt am Main|DigitalOcean|
-|18|64.226.110.27|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|19|68.183.185.62|80|Singapore|Singapore|DigitalOcean, LLC|
-|20|103.69.108.78|8191|Philippines|Santiago|CITI Cableworld Inc.|
+|1|157.245.145.105|12345|Singapore|Singapore|DigitalOcean, LLC|
+|2|159.223.114.215|8080|United States|North Bergen|DigitalOcean, LLC|
+|3|158.69.53.98|9300|Canada|Montreal|OVH SAS|
+|4|170.64.137.38|8080|Australia|Sydney|DigitalOcean, LLC|
+|5|49.13.23.92|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|6|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
+|7|194.31.64.85|39991|Turkey|Istanbul|SFCTEK Bilisim Yazilim ve Telekomunikasyon Hiz. San. ve Tic. LTD. STI.|
+|8|157.245.27.9|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|209.38.210.202|8080|Germany|Frankfurt am Main|DigitalOcean|
+|10|194.31.59.112|39991|Turkey|Bursa|SFCTEK Bilisim Yazilim ve Telekomunikasyon Hiz. San. ve Tic. LTD. STI.|
+|11|65.109.160.122|8080|Finland|Helsinki|Hetzner Online GmbH|
+|12|64.226.113.87|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|194.31.59.61|39991|Turkey|Bursa|SFCTEK Bilisim Yazilim ve Telekomunikasyon Hiz. San. ve Tic. LTD. STI.|
+|14|159.223.114.215|8080|United States|North Bergen|DigitalOcean, LLC|
+|15|194.31.79.62|39991|Turkey|Istanbul|SFCTEK Bilisim Yazilim ve Telekomunikasyon Hiz. San. ve Tic. LTD. STI.|
+|16|181.143.58.171|999|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|17|157.230.94.245|8080|United States|North Bergen|DigitalOcean, LLC|
+|18|40.119.236.22|80|Singapore|Singapore|Microsoft Corporation|
+|19|170.64.178.217|8080|Australia|Sydney|DigitalOcean, LLC|
+|20|158.69.71.245|9300|Canada|Montreal|OVH SAS|
 
 
 
