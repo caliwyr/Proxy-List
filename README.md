@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **6784** proxies at the latest update. Usable proxies are below.
+> Scraper found **6868** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|279|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|279|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|279|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|263|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|263|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|263|
 
 ## Sources
 
@@ -36,8 +36,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1377|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|10|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1451|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1425|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2899|✅|
@@ -50,23 +50,23 @@ Click the file format that you want and copy the URL.
 |1|3.226.79.79|80|United States|Ashburn|Amazon Technologies Inc.|
 |2|164.90.212.28|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |3|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
-|4|3.226.79.79|80|United States|Ashburn|Amazon Technologies Inc.|
-|5|5.161.50.118|8080|United States|Ashburn|Hetzner Online GmbH|
-|6|185.20.71.38|443|France|Paris|Mod Mission Critical LLC|
-|7|95.217.11.109|8080|Finland|Helsinki|Hetzner Online GmbH|
+|4|185.20.71.38|443|France|Paris|Mod Mission Critical LLC|
+|5|34.66.5.144|8888|United States|Council Bluffs|Google LLC|
+|6|95.217.11.109|8080|Finland|Helsinki|Hetzner Online GmbH|
+|7|94.198.66.102|8888|Sweden|Umeå|Telecom3|
 |8|140.238.245.116|8100|India|Mumbai|Oracle Corporation|
 |9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|40.119.236.22|80|Singapore|Singapore|Microsoft Corporation|
-|11|198.44.164.74|45787|United States| Los Angeles|Zenlayer Inc|
-|12|198.44.164.74|45787|United States| Los Angeles|Zenlayer Inc|
-|13|161.35.214.229|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|14|157.245.145.105|12345|Singapore|Singapore|DigitalOcean, LLC|
-|15|161.77.221.91|3129|United States|Springfield|Crocker Communications|
-|16|161.77.221.208|3129|United States|Springfield|Crocker Communications|
-|17|161.77.221.75|3129|United States|Springfield|Crocker Communications|
-|18|161.77.221.228|3129|United States|Springfield|Crocker Communications|
-|19|102.130.192.231|8080|Angola|Luanda|Finstar - Sociedade de Investimento e Participacoes S.A|
-|20|5.161.198.166|8080|United States|Ashburn|Hetzner Online GmbH|
+|10|5.161.50.118|8080|United States|Ashburn|Hetzner Online GmbH|
+|11|3.226.79.79|80|United States|Ashburn|Amazon Technologies Inc.|
+|12|40.119.236.22|80|Singapore|Singapore|Microsoft Corporation|
+|13|43.239.152.176|32650|India|Faridabad|IriisNet communication Pvt Ltd|
+|14|209.38.201.164|45212|Germany|Frankfurt am Main|DigitalOcean|
+|15|61.28.233.217|3128|Vietnam|Ho Chi Minh City|Vinadata broadcast via vinagame AS Number|
+|16|157.245.145.105|12345|Singapore|Singapore|DigitalOcean, LLC|
+|17|64.225.8.82|9981|United States|Clifton|DigitalOcean, LLC|
+|18|51.159.0.236|3128|France|Paris|SCALEWAY|
+|19|209.38.254.44|45212|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|20|161.77.221.248|3129|United States|Springfield|Crocker Communications|
 
 
 
