@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|34|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|34|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|34|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|121|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|121|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|121|
 
 ## Sources
 
@@ -36,8 +36,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|32|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1604|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|33|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1603|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1458|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2989|✅|
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.238.245.116|8100|India|Mumbai|Oracle Corporation|
+|1|3.226.79.79|80|United States|Ashburn|Amazon Technologies Inc.|
 |2|185.20.71.38|443|France|Paris|Mod Mission Critical LLC|
-|3|95.217.212.32|8080|Finland|Helsinki|Hetzner Online GmbH|
-|4|46.182.6.51|3129|France|Paris|Hosteur SAS|
-|5|107.152.43.248|8080|United States|Durham|tzulo, inc.|
-|6|143.198.161.208|3128|United States|North Bergen|DigitalOcean, LLC|
-|7|95.216.216.119|8080|Finland|Helsinki|Hetzner Online GmbH|
-|8|66.70.178.214|9300|Canada|Beauharnois|OVH SAS|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|27.70.160.255|10032|Vietnam|Hanoi|Viettel Group|
-|11|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
-|12|103.69.108.78|8191|Philippines|Santiago|CITI Cableworld Inc.|
-|13|3.226.79.79|80|United States|Ashburn|Amazon Technologies Inc.|
-|14|161.77.221.38|3129|United States|Springfield|Crocker Communications|
-|15|108.187.44.173|3129|United States|Los Angeles|Leaseweb USA, Inc.|
-|16|161.77.221.208|3129|United States|Springfield|Crocker Communications|
-|17|161.77.221.91|3129|United States|Springfield|Crocker Communications|
-|18|115.144.101.201|10001|South Korea|Gangdong-gu|Korea Telecom|
-|19|103.84.253.10|80|Bangladesh|Dhaka|Fast Net BD|
-|20|158.160.14.101|8090|Russia|Moscow|Yandex.Cloud LLC|
+|3|158.160.14.101|8090|Russia|Moscow|Yandex.Cloud LLC|
+|4|3.226.79.79|80|United States|Ashburn|Amazon Technologies Inc.|
+|5|95.217.212.32|8080|Finland|Helsinki|Hetzner Online GmbH|
+|6|66.70.178.214|9300|Canada|Beauharnois|OVH SAS|
+|7|143.198.161.208|3128|United States|North Bergen|DigitalOcean, LLC|
+|8|140.238.245.116|8100|India|Mumbai|Oracle Corporation|
+|9|161.77.221.195|3129|United States|Springfield|Crocker Communications|
+|10|95.216.216.119|8080|Finland|Helsinki|Hetzner Online GmbH|
+|11|40.119.236.22|80|Singapore|Singapore|Microsoft Corporation|
+|12|143.110.147.61|8989|United States|Santa Clara|DigitalOcean, LLC|
+|13|51.159.0.236|3128|France|Paris|SCALEWAY|
+|14|161.77.218.103|3129|United States|Springfield|Crocker Communications|
+|15|158.69.73.79|9300|Canada|Montreal|OVH SAS|
+|16|107.152.43.248|8080|United States|Durham|tzulo, inc.|
+|17|161.77.221.136|3129|United States|Springfield|Crocker Communications|
+|18|161.77.221.212|3129|United States|Springfield|Crocker Communications|
+|19|161.77.218.45|3129|United States|Springfield|Crocker Communications|
+|20|161.77.221.195|3129|United States|Springfield|Crocker Communications|
 
 
 
