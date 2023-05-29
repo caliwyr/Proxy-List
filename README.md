@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **7696** proxies at the latest update. Usable proxies are below.
+> Scraper found **7439** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|174|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|174|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|174|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|136|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|136|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|136|
 
 ## Sources
 
@@ -36,10 +36,10 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|8|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1830|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|7|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1661|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1608|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1521|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3167|✅|
 
 
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|88.99.234.110|2021|Germany|Falkenstein|Hetzner Online GmbH|
-|2|5.161.50.143|8080|United States|Ashburn|Hetzner Online GmbH|
-|3|162.212.157.35|8080|United States|Chicago|tzulo, inc.|
-|4|162.212.157.23|8080|United States|Chicago|tzulo, inc.|
-|5|107.152.44.189|8080|United States|Durham|tzulo, inc.|
-|6|162.212.157.90|8080|United States|Chicago|tzulo, inc.|
-|7|165.227.137.39|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|65.108.88.212|8080|Finland|Helsinki|Hetzner Online GmbH|
-|9|5.78.83.35|8080|United States|Portland|Hetzner Online GmbH|
-|10|135.181.153.2|8080|Finland|Helsinki|Hetzner Online GmbH|
-|11|115.144.101.201|10001|South Korea|Gangdong-gu|Korea Telecom|
-|12|157.90.19.126|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|13|165.232.73.222|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|14|144.217.240.185|9300|Canada|Beauharnois|OVH SAS|
-|15|162.212.157.35|8080|United States|Chicago|tzulo, inc.|
-|16|65.21.52.238|8080|Finland|Helsinki|Hetzner Online GmbH|
-|17|209.38.227.142|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|18|209.38.209.232|8080|Germany|Frankfurt am Main|DigitalOcean|
-|19|5.161.50.143|8080|United States|Ashburn|Hetzner Online GmbH|
-|20|64.226.90.139|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|1|51.159.115.233|3128|France|Paris|SCALEWAY|
+|2|157.245.27.9|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|3|3.226.79.79|80|United States|Ashburn|Amazon Technologies Inc.|
+|4|161.35.214.127|44661|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|5|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|6|104.199.190.177|10000|Taiwan|Taipei|Google LLC|
+|7|71.197.171.110|1337|United States|Tacoma|Comcast Cable Communications, LLC|
+|8|88.198.104.170|8080|Germany|Falkenstein|Hetzner|
+|9|46.182.6.51|3129|France|Paris|Hosteur SAS|
+|10|212.112.113.178|3128|Kyrgyzstan|Bishkek|AkNet|
+|11|64.226.95.184|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|164.92.242.78|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|207.154.211.127|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|14|162.212.156.215|8080|United States|Chicago|tzulo, inc.|
+|15|110.34.3.229|3128|Nepal|Kathmandu|SUBISU C7|
+|16|65.109.236.151|8080|Finland|Helsinki|Hetzner Online GmbH|
+|17|164.92.201.241|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|18|27.70.163.200|11166|Vietnam|Hanoi|Viettel Group|
+|19|40.119.236.22|80|Singapore|Singapore|Microsoft Corporation|
+|20|165.227.137.39|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
 
 
 
