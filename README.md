@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **6820** proxies at the latest update. Usable proxies are below.
+> Scraper found **6818** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|62|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|62|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|62|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|126|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|126|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|126|
 
 ## Sources
 
@@ -37,7 +37,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|8|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1338|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1336|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1411|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2980|✅|
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|3.226.79.79|80|United States|Ashburn|Amazon Technologies Inc.|
-|2|135.181.85.92|8080|Finland|Helsinki|Hetzner Online GmbH|
-|3|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
-|4|186.121.235.220|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|5|40.119.236.22|80|Singapore|Singapore|Microsoft Corporation|
-|6|168.119.241.143|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|7|65.109.175.127|8080|Finland|Helsinki|Hetzner Online GmbH|
-|8|159.69.118.47|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|9|91.107.199.50|8080|Germany|Frankfurt Am Main|Hetzner Online AG|
-|10|185.20.71.38|443|France|Paris|Mod Mission Critical LLC|
-|11|49.12.184.158|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|12|162.55.176.171|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|13|3.226.79.79|80|United States|Ashburn|Amazon Technologies Inc.|
-|14|46.182.6.51|3129|France|Paris|Hosteur SAS|
-|15|209.141.62.12|5555|United States|Las Vegas|FranTech Solutions|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|17|116.99.235.198|11166|Vietnam|Tan Tien|Viettel Corporation|
-|18|116.99.236.218|11166|Vietnam|Hanoi|Viettel Corporation|
-|19|143.198.82.92|8080|Singapore|Singapore|DigitalOcean, LLC|
-|20|209.38.254.44|45212|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|1|149.56.95.158|443|Canada|Montreal|OVH Hosting|
+|2|158.69.48.228|3128|Canada|Montreal|OVH SAS|
+|3|116.203.115.219|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|4|149.56.96.252|9300|Canada|Montreal|OVH SAS|
+|5|170.64.145.255|8080|Australia|Sydney|DigitalOcean, LLC|
+|6|170.64.137.23|8080|Australia|Sydney|DigitalOcean, LLC|
+|7|170.64.179.239|8080|Australia|Sydney|DigitalOcean, LLC|
+|8|170.64.171.57|8080|Australia|Sydney|DigitalOcean, LLC|
+|9|170.64.171.60|8080|Australia|Sydney|DigitalOcean, LLC|
+|10|142.132.236.17|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|11|170.64.177.55|8080|Australia|Sydney|DigitalOcean, LLC|
+|12|170.64.178.217|8080|Australia|Sydney|DigitalOcean, LLC|
+|13|158.69.72.138|9300|Canada|Montreal|OVH SAS|
+|14|3.226.79.79|80|United States|Ashburn|Amazon Technologies Inc.|
+|15|170.64.187.20|8080|Australia|Sydney|DigitalOcean, LLC|
+|16|162.55.32.162|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|17|91.107.205.142|8080|Germany|Frankfurt Am Main|Hetzner Online AG|
+|18|170.64.163.80|8080|Australia|Sydney|DigitalOcean, LLC|
+|19|170.64.162.121|8080|Australia|Sydney|DigitalOcean, LLC|
+|20|170.64.187.19|8080|Australia|Sydney|DigitalOcean, LLC|
 
 
 
