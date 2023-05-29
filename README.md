@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **6534** proxies at the latest update. Usable proxies are below.
+> Scraper found **6413** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|230|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|230|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|230|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|44|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|44|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|44|
 
 ## Sources
 
@@ -37,9 +37,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|9|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1547|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1396|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1537|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1567|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2358|✅|
 
 
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|69.87.216.143|3128|United States|Santa Clara|Atlantic.net|
-|2|88.99.234.110|2021|Germany|Falkenstein|Hetzner Online GmbH|
-|3|185.20.71.38|443|France|Paris|Mod Mission Critical LLC|
-|4|69.87.216.143|3128|United States|Santa Clara|Atlantic.net|
-|5|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
-|6|94.198.66.102|8888|Sweden|Umeå|Telecom3|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|209.38.209.210|8080|Germany|Frankfurt am Main|DigitalOcean|
-|9|157.230.84.23|8080|United States|North Bergen|DigitalOcean, LLC|
-|10|157.245.85.36|8080|United States|North Bergen|DigitalOcean, LLC|
-|11|40.119.236.22|80|Singapore|Singapore|Microsoft Corporation|
-|12|159.69.83.149|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|13|158.69.53.98|9300|Canada|Montreal|OVH SAS|
-|14|186.121.235.220|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|15|158.69.71.69|9300|Canada|Montreal|OVH SAS|
-|16|152.67.10.190|8100|India|Mumbai|Oracle Corporation|
-|17|159.223.75.106|8080|Singapore|Singapore|DigitalOcean, LLC|
-|18|90.154.124.211|8080|Russia|Moscow|CTC-B2B|
-|19|209.38.201.164|45212|Germany|Frankfurt am Main|DigitalOcean|
-|20|138.2.79.142|3128|Singapore|Singapore|Oracle Corporation|
+|1|51.195.115.19|8080|Germany|Saarbrücken|OVH SAS|
+|2|46.182.6.51|3129|France|Paris|Hosteur SAS|
+|3|162.212.155.148|8080|United States|Chicago|tzulo, inc.|
+|4|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
+|5|107.152.32.247|8080|United States|Chicago|tzulo, inc.|
+|6|186.121.235.220|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|7|103.92.26.190|4002|Vietnam|Ho Chi Minh City|TLSOFT|
+|8|157.245.27.9|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|5.78.103.206|8080|United States|Portland|Hetzner Online GmbH|
+|10|195.133.45.149|7788|Russia|Moscow|VDS|
+|11|107.152.33.110|8080|United States|Chicago|tzulo, inc.|
+|12|5.161.177.120|8080|United States|Ashburn|Hetzner Online GmbH|
+|13|162.212.158.91|8080|United States|Chicago|ServerCheap INC|
+|14|5.161.197.12|8080|United States|Ashburn|Hetzner Online GmbH|
+|15|162.212.155.87|8080|United States|Chicago|tzulo, inc.|
+|16|162.212.155.118|8080|United States|Chicago|tzulo, inc.|
+|17|162.212.158.91|8080|United States|Chicago|ServerCheap INC|
+|18|104.248.116.69|8080|United States|North Bergen|DigitalOcean, LLC|
+|19|5.78.73.221|8080|United States|Portland|Hetzner Online GmbH|
+|20|142.93.127.57|8080|United States|North Bergen|DigitalOcean, LLC|
 
 
 
