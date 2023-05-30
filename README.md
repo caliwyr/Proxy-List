@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **7981** proxies at the latest update. Usable proxies are below.
+> Scraper found **7762** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|72|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|72|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|72|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|180|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|180|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|180|
 
 ## Sources
 
@@ -37,7 +37,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|7|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1958|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1739|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1679|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3254|✅|
@@ -49,24 +49,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|144.126.141.115|1010|United States|St Louis|Contabo Inc.|
 |2|3.226.79.79|80|United States|Ashburn|Amazon Technologies Inc.|
-|3|209.38.201.164|45212|Germany|Frankfurt am Main|DigitalOcean|
-|4|51.79.50.22|9300|Canada|Beauharnois|OVH SAS|
-|5|158.69.73.79|9300|Canada|Montreal|OVH SAS|
-|6|52.66.251.90|80|India|Mumbai|Amazon Technologies Inc.|
-|7|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|8|1.20.169.225|8080|Thailand|Lopburi|TOT Public Company Limited|
-|9|158.69.66.247|9300|Canada|Montreal|OVH SAS|
-|10|46.182.6.51|3129|France|Paris|Hosteur SAS|
-|11|185.20.71.38|443|France|Paris|Mod Mission Critical LLC|
-|12|5.161.50.118|8080|United States|Ashburn|Hetzner Online GmbH|
-|13|5.78.90.34|8080|United States|Portland|Hetzner Online GmbH|
-|14|5.161.220.34|8080|United States|Ashburn|Hetzner Online GmbH|
-|15|3.226.79.79|80|United States|Ashburn|Amazon Technologies Inc.|
-|16|115.144.101.201|10001|South Korea|Gangdong-gu|Korea Telecom|
-|17|213.241.205.2|8080|Russia|Rostov-on-Don|RTCOMM-YUG|
-|18|5.78.42.159|8080|United States|Portland|Hetzner Online GmbH|
-|19|125.136.115.248|7890|South Korea|Gwangsan-gu|Korea Telecom|
-|20|5.78.74.148|8080|United States|Portland|Hetzner Online GmbH|
+|3|43.133.180.107|7890|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|4|144.126.141.115|1010|United States|St Louis|Contabo Inc.|
+|5|209.38.254.44|45212|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|6|158.69.53.98|9300|Canada|Montreal|OVH SAS|
+|7|115.144.101.201|10001|South Korea|Gangdong-gu|Korea Telecom|
+|8|3.226.79.79|80|United States|Ashburn|Amazon Technologies Inc.|
+|9|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|10|51.159.115.233|3128|France|Paris|SCALEWAY|
+|11|46.182.6.51|3129|France|Paris|Hosteur SAS|
+|12|174.138.167.182|8888|United States|Phoenix|Secured Servers LLC|
+|13|209.38.201.164|45212|Germany|Frankfurt am Main|DigitalOcean|
+|14|161.77.218.103|3129|United States|Springfield|Crocker Communications|
+|15|159.89.237.207|8080|United States|North Bergen|DigitalOcean, LLC|
+|16|5.161.196.196|8080|United States|Ashburn|Hetzner Online GmbH|
+|17|183.82.100.253|3128|India|Hyderabad|Beam Telecom Pvt Ltd|
+|18|5.78.74.148|8080|United States|Portland|Hetzner Online GmbH|
+|19|1.20.169.225|8080|Thailand|Lopburi|TOT Public Company Limited|
+|20|5.161.178.132|8080|United States|Ashburn|Hetzner Online GmbH|
 
 
 
