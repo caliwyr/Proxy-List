@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **7354** proxies at the latest update. Usable proxies are below.
+> Scraper found **7257** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|332|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|332|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|332|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|161|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|161|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|161|
 
 ## Sources
 
@@ -37,9 +37,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|4|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1619|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1594|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1532|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1460|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3116|✅|
 
 
@@ -48,25 +48,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|3.226.79.79|80|United States|Ashburn|Amazon Technologies Inc.|
-|2|128.14.140.2|11772|United States|Los Angeles|Zenlayer Inc|
-|3|68.183.75.111|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|2|165.227.172.10|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|3|49.12.186.80|8080|Germany|Falkenstein|Hetzner Online GmbH|
 |4|43.133.180.107|7890|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|5|164.90.208.206|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|6|115.144.102.39|10080|South Korea|Gangdong-gu|Korea Telecom|
-|7|46.101.118.132|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|185.20.71.38|443|France|Paris|Mod Mission Critical LLC|
-|9|165.232.66.154|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|209.38.212.240|8080|Germany|Frankfurt am Main|DigitalOcean|
-|11|190.92.239.132|8443|Hong Kong|Hong Kong|Huawei International Pte. LTD|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|209.38.254.44|45212|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|14|183.82.100.253|3128|India|Hyderabad|Beam Telecom Pvt Ltd|
-|15|206.189.58.169|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|16|104.248.135.4|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|17|209.38.201.164|45212|Germany|Frankfurt am Main|DigitalOcean|
-|18|40.119.236.22|80|Singapore|Singapore|Microsoft Corporation|
-|19|107.173.144.80|8080|Canada|Hamilton|ColoCrossing|
-|20|128.14.140.2|11772|United States|Los Angeles|Zenlayer Inc|
+|5|157.245.27.9|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|6|68.183.75.111|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|7|185.20.71.38|443|France|Paris|Mod Mission Critical LLC|
+|8|3.226.79.79|80|United States|Ashburn|Amazon Technologies Inc.|
+|9|104.248.135.4|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|128.14.140.2|11772|United States|Los Angeles|Zenlayer Inc|
+|11|165.232.66.154|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|158.69.71.245|9300|Canada|Montreal|OVH SAS|
+|13|135.181.248.200|8080|Finland|Helsinki|Hetzner Online GmbH|
+|14|103.83.159.225|8443|Singapore|Singapore|Centerhop Pte. Ltd.|
+|15|160.251.76.164|8080|Japan|Chiyoda|GMO Internet, Inc.|
+|16|206.189.58.169|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|17|158.69.53.98|9300|Canada|Montreal|OVH SAS|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|19|46.101.118.132|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|20|190.92.239.132|8443|Hong Kong|Hong Kong|Huawei International Pte. LTD|
 
 
 
