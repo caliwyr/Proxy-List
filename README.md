@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **7255** proxies at the latest update. Usable proxies are below.
+> Scraper found **7253** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|62|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|62|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|62|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|413|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|413|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|413|
 
 ## Sources
 
@@ -37,7 +37,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|39|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1503|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1501|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1513|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3117|✅|
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|1|216.127.188.238|18292|United States|Santa Clarita|Multacom Corporation|
+|2|3.226.79.79|80|United States|Ashburn|Amazon Technologies Inc.|
 |3|148.251.200.88|5388|Germany|Falkenstein|Hetzner Online GmbH|
-|4|216.127.188.238|18292|United States|Santa Clarita|Multacom Corporation|
+|4|119.8.10.18|7890|Mexico|Mexico City|Huawei International Pte. LTD|
 |5|3.226.79.79|80|United States|Ashburn|Amazon Technologies Inc.|
-|6|20.204.190.254|3129|India|Pune|Microsoft Corporation|
-|7|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|8|185.236.37.108|4443|Iran|Tehran|Sindad Network Technology Ltd.|
-|9|3.226.79.79|80|United States|Ashburn|Amazon Technologies Inc.|
-|10|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|11|51.79.50.31|9300|Canada|Beauharnois|OVH SAS|
-|12|108.61.191.222|1994|United States|Piscataway|The Constant Company|
-|13|216.127.188.238|18292|United States|Santa Clarita|Multacom Corporation|
-|14|40.119.236.22|80|Singapore|Singapore|Microsoft Corporation|
-|15|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|16|27.70.163.26|11166|Vietnam|Hanoi|Viettel Group|
-|17|20.219.177.85|3129|India|Pune|Microsoft Corporation|
-|18|125.136.96.66|7890|South Korea|Seo-gu|Korea Telecom|
-|19|200.114.65.15|999|Chile|Los Vilos|Chile TV Cable S.A.|
-|20|107.152.42.74|8080|United States|Chicago|tzulo, inc.|
+|6|125.136.85.184|7890|South Korea|Seo-gu|Korea Telecom|
+|7|216.127.188.238|18292|United States|Santa Clarita|Multacom Corporation|
+|8|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
+|9|157.245.59.119|8080|Singapore|Singapore|DigitalOcean, LLC|
+|10|40.119.236.22|80|Singapore|Singapore|Microsoft Corporation|
+|11|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|12|157.245.27.9|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|20.219.177.85|3129|India|Pune|Microsoft Corporation|
+|14|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|15|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|16|20.204.190.254|3129|India|Pune|Microsoft Corporation|
+|17|209.38.254.44|45212|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|19|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|20|157.245.145.105|12345|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
