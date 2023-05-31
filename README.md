@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **7093** proxies at the latest update. Usable proxies are below.
+> Scraper found **7081** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|665|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|665|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|665|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|500|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|500|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|500|
 
 ## Sources
 
@@ -37,7 +37,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|5|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1497|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1485|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1438|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3070|✅|
@@ -49,24 +49,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
 |2|94.198.66.102|8888|Sweden|Umeå|Telecom3|
-|3|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|4|20.219.177.38|3129|India|Pune|Microsoft Corporation|
-|5|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
-|6|20.204.190.254|3129|India|Pune|Microsoft Corporation|
-|7|185.20.71.38|443|France|Paris|Mod Mission Critical LLC|
-|8|20.219.177.85|3129|India|Pune|Microsoft Corporation|
-|9|107.152.37.121|8080|United States|Chicago|tzulo, inc.|
-|10|128.14.140.2|11772|United States|Los Angeles|Zenlayer Inc|
-|11|128.14.140.2|11772|United States|Los Angeles|Zenlayer Inc|
-|12|162.212.157.31|8080|United States|Chicago|tzulo, inc.|
-|13|107.152.39.156|8080|United States|Chicago|tzulo, inc.|
-|14|213.241.205.2|8080|Russia|Rostov-on-Don|RTCOMM-YUG|
-|15|40.119.236.22|80|Singapore|Singapore|Microsoft Corporation|
-|16|186.121.235.220|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|17|61.28.233.217|3128|Vietnam|Ho Chi Minh City|Vinadata broadcast via vinagame AS Number|
-|18|171.226.90.188|11166|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|19|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|20|107.152.37.137|8080|United States|Chicago|tzulo, inc.|
+|3|128.14.140.2|11772|United States|Los Angeles|Zenlayer Inc|
+|4|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|5|125.136.115.248|7890|South Korea|Gwangsan-gu|Korea Telecom|
+|6|128.14.140.2|11772|United States|Los Angeles|Zenlayer Inc|
+|7|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|8|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
+|9|20.219.177.38|3129|India|Pune|Microsoft Corporation|
+|10|20.219.177.85|3129|India|Pune|Microsoft Corporation|
+|11|20.204.190.254|3129|India|Pune|Microsoft Corporation|
+|12|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
+|13|104.199.190.177|10000|Taiwan|Taipei|Google LLC|
+|14|3.226.79.79|80|United States|Ashburn|Amazon Technologies Inc.|
+|15|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|16|107.152.37.137|8080|United States|Chicago|tzulo, inc.|
+|17|201.168.136.169|999|Mexico|León|Marcatel Com, S.A. de C.V.|
+|18|107.152.39.156|8080|United States|Chicago|tzulo, inc.|
+|19|107.152.37.121|8080|United States|Chicago|tzulo, inc.|
+|20|186.121.235.220|8080|Bolivia|La Paz|AXS Bolivia S. A.|
 
 
 
