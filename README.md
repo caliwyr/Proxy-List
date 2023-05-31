@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **6599** proxies at the latest update. Usable proxies are below.
+> Scraper found **6540** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|474|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|474|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|474|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|112|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|112|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|112|
 
 ## Sources
 
@@ -37,7 +37,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|5|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1297|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1238|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1263|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2951|✅|
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|3.226.79.79|80|United States|Ashburn|Amazon Technologies Inc.|
-|2|155.94.178.6|8080|United States|Houston|QuadraNet Enterprises LLC|
-|3|157.245.27.9|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|1|128.14.140.2|11772|United States|Los Angeles|Zenlayer Inc|
+|2|3.226.79.79|80|United States|Ashburn|Amazon Technologies Inc.|
+|3|109.205.61.86|1080|United States|New York|Siberfy Lahore|
 |4|51.159.115.233|3128|France|Paris|SCALEWAY|
-|5|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
-|6|46.182.6.51|3129|France|Paris|Hosteur SAS|
-|7|109.205.61.86|1080|United States|New York|Siberfy Lahore|
-|8|125.136.85.184|7890|South Korea|Seo-gu|Korea Telecom|
-|9|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|155.94.178.6|8080|United States|Houston|QuadraNet Enterprises LLC|
-|12|213.202.230.241|19191|Germany|Düsseldorf|myLoc managed IT AG|
-|13|185.20.71.38|443|France|Paris|Mod Mission Critical LLC|
-|14|128.14.140.2|11772|United States|Los Angeles|Zenlayer Inc|
-|15|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|16|209.38.201.164|45212|Germany|Frankfurt am Main|DigitalOcean|
-|17|101.109.50.227|8080|Thailand|Bangkok|TOT Public Company Limited|
-|18|128.14.140.2|11772|United States|Los Angeles|Zenlayer Inc|
-|19|109.205.61.86|1080|United States|New York|Siberfy Lahore|
-|20|115.144.102.39|10080|South Korea|Gangdong-gu|Korea Telecom|
+|5|155.94.178.6|8080|United States|Houston|QuadraNet Enterprises LLC|
+|6|40.119.236.22|80|Singapore|Singapore|Microsoft Corporation|
+|7|157.245.145.105|12345|Singapore|Singapore|DigitalOcean, LLC|
+|8|178.128.88.72|10000|Singapore|Singapore|DigitalOcean, LLC|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
+|11|125.136.119.73|7890|South Korea|Gwangsan-gu|Korea Telecom|
+|12|101.109.50.227|8080|Thailand|Bangkok|TOT Public Company Limited|
+|13|157.245.27.9|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|14|158.69.71.245|9300|Canada|Montreal|OVH SAS|
+|15|158.69.53.98|9300|Canada|Montreal|OVH SAS|
+|16|46.182.6.51|3129|France|Paris|Hosteur SAS|
+|17|155.94.178.6|8080|United States|Houston|QuadraNet Enterprises LLC|
+|18|43.129.223.147|38080|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|19|128.14.140.2|11772|United States|Los Angeles|Zenlayer Inc|
+|20|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
 
 
 
