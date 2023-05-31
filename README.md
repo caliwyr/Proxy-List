@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|283|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|283|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|283|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|65|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|65|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|65|
 
 ## Sources
 
@@ -36,8 +36,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|28|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1530|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|27|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1531|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1531|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3111|✅|
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
+|1|128.14.140.2|11772|United States|Los Angeles|Zenlayer Inc|
 |2|3.226.79.79|80|United States|Ashburn|Amazon Technologies Inc.|
-|3|119.8.10.18|7890|Mexico|Mexico City|Huawei International Pte. LTD|
-|4|185.20.71.38|443|France|Paris|Mod Mission Critical LLC|
-|5|43.133.180.107|7890|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|6|144.126.141.115|1010|United States|St Louis|Contabo Inc.|
-|7|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
+|3|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
+|4|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|5|178.128.88.72|10000|Singapore|Singapore|DigitalOcean, LLC|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|103.52.213.131|80|Indonesia|South Tangerang|Kementerian Lingkungan Hidup|
 |8|40.119.236.22|80|Singapore|Singapore|Microsoft Corporation|
-|9|136.243.55.199|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|10|88.99.234.110|2021|Germany|Falkenstein|Hetzner Online GmbH|
-|11|178.128.88.72|10000|Singapore|Singapore|DigitalOcean, LLC|
-|12|209.38.201.164|45212|Germany|Frankfurt am Main|DigitalOcean|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|14|36.80.203.235|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
-|15|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|9|128.14.140.2|11772|United States|Los Angeles|Zenlayer Inc|
+|10|51.79.50.22|9300|Canada|Beauharnois|OVH SAS|
+|11|3.226.79.79|80|United States|Ashburn|Amazon Technologies Inc.|
+|12|183.82.100.253|3128|India|Hyderabad|Beam Telecom Pvt Ltd|
+|13|125.136.85.195|7890|South Korea|Seo-gu|Korea Telecom|
+|14|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
+|15|36.80.203.235|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
 |16|116.99.227.168|11166|Vietnam|Gia Nghia|Viettel Corporation|
-|17|144.126.141.115|1010|United States|St Louis|Contabo Inc.|
-|18|209.38.254.44|45212|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|19|3.226.79.79|80|United States|Ashburn|Amazon Technologies Inc.|
-|20|115.144.102.39|10080|South Korea|Gangdong-gu|Korea Telecom|
+|17|46.101.223.220|3124|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|18|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|19|185.20.71.38|443|France|Paris|Mod Mission Critical LLC|
+|20|41.186.44.106|3128|Rwanda|Kigali|MTN Rwandacell|
 
 
 
