@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **7032** proxies at the latest update. Usable proxies are below.
+> Scraper found **7086** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -37,7 +37,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|9|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1508|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1562|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1439|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2993|✅|
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
-|2|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
-|3|128.14.140.2|11772|United States|Los Angeles|Zenlayer Inc|
-|4|185.40.199.66|888|Poland|Warsaw|eTOP sp. z o.o.|
-|5|5.196.239.79|8000|Netherlands|Rotterdam|OVH SAS|
-|6|157.245.27.9|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|1|128.14.140.2|11772|United States|Los Angeles|Zenlayer Inc|
+|2|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
+|3|213.171.44.134|3128|Russia|Moscow|JSC Comcor|
+|4|178.128.104.226|80|Singapore|Singapore|DigitalOcean, LLC|
+|5|115.144.102.39|10080|South Korea|Gangdong-gu|Korea Telecom|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |7|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
-|8|195.222.86.33|3128|Belarus|Minsk|Unitary enterprise A1|
-|9|23.122.184.9|8888|United States|Davie|AT&T Services, Inc.|
-|10|40.119.236.22|80|Singapore|Singapore|Microsoft Corporation|
-|11|65.109.234.215|8080|Finland|Helsinki|Hetzner Online GmbH|
-|12|20.118.133.34|8118|United States|Phoenix|Microsoft Corporation|
-|13|128.14.140.2|11772|United States|Los Angeles|Zenlayer Inc|
-|14|116.0.61.122|3128|Pakistan|Karachi|Telecard|
-|15|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|16|45.174.11.2|3021|Brazil|Vila Nova|Gtec Fibra|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|18|31.220.183.217|53281|Russia|Novokuznetsk|Regional Digital Telecommunication Company|
-|19|213.136.101.40|3128|Ivory Coast|Abidjan|ORANGE COTE D'IVOIRE|
-|20|103.169.254.164|8061|Indonesia|Banyuwangi|PT Master Star Network|
+|8|185.40.199.66|888|Poland|Warsaw|eTOP sp. z o.o.|
+|9|157.245.27.9|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|183.82.100.253|3128|India|Hyderabad|Beam Telecom Pvt Ltd|
+|11|118.40.83.97|7890|South Korea|Seo-gu|Korea Telecom|
+|12|51.159.115.233|3128|France|Paris|SCALEWAY|
+|13|201.229.250.21|8080|Dominican Republic|Santiago de los Caballeros|Compañía Dominicana de Teléfonos S. A.|
+|14|40.119.236.22|80|Singapore|Singapore|Microsoft Corporation|
+|15|61.28.233.217|3128|Vietnam|Ho Chi Minh City|Vinadata broadcast via vinagame AS Number|
+|16|213.202.230.241|19191|Germany|Düsseldorf|myLoc managed IT AG|
+|17|157.245.145.105|12345|Singapore|Singapore|DigitalOcean, LLC|
+|18|128.14.140.2|11772|United States|Los Angeles|Zenlayer Inc|
+|19|46.182.6.51|3129|France|Paris|Hosteur SAS|
+|20|209.38.254.44|45212|Germany|Frankfurt am Main|DigitalOcean, LLC|
 
 
 
