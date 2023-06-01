@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **6899** proxies at the latest update. Usable proxies are below.
+> Scraper found **6997** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|675|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|675|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|675|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|625|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|625|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|625|
 
 ## Sources
 
@@ -37,7 +37,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1412|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1510|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1411|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2993|✅|
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.14.140.2|11772|United States|Los Angeles|Zenlayer Inc|
-|2|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
+|1|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
+|2|157.245.27.9|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |3|128.14.140.2|11772|United States|Los Angeles|Zenlayer Inc|
-|4|185.40.199.66|888|Poland|Warsaw|eTOP sp. z o.o.|
-|5|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
-|6|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
-|7|40.119.236.22|80|Singapore|Singapore|Microsoft Corporation|
-|8|65.109.234.215|8080|Finland|Helsinki|Hetzner Online GmbH|
-|9|64.225.8.135|9997|United States|Clifton|DigitalOcean, LLC|
-|10|213.171.44.134|3128|Russia|Moscow|JSC Comcor|
-|11|64.225.8.135|9997|United States|Clifton|DigitalOcean, LLC|
-|12|51.79.50.22|9300|Canada|Beauharnois|OVH SAS|
-|13|89.215.174.46|8185|Bulgaria|Pazardzhik|A1 Bulgaria EAD|
-|14|201.229.250.21|8080|Dominican Republic|Santiago de los Caballeros|Compañía Dominicana de Teléfonos S. A.|
-|15|213.202.230.241|19191|Germany|Düsseldorf|myLoc managed IT AG|
-|16|119.159.249.35|8080|Pakistan|Khanewal|Pakistan Telecommuication company limited|
-|17|212.33.198.6|8084|Iran|Tehran|Asiatech Data Transmission company|
-|18|45.234.61.2|999|Venezuela|Caracas|SOLUCIONES INSTALRED CH&C C.A.|
-|19|88.255.102.123|8080|Turkey|İskenderun|TurkTelekom|
-|20|5.161.201.72|8080|United States|Ashburn|Hetzner Online GmbH|
+|4|213.171.44.134|3128|Russia|Moscow|JSC Comcor|
+|5|185.252.29.234|8090|Iran|Tehran|Shabakeh Ertebatat Artak Towseeh LTD|
+|6|128.14.140.2|11772|United States|Los Angeles|Zenlayer Inc|
+|7|138.201.113.2|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|8|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
+|9|179.189.48.253|8080|Brazil|Sinop|EVO Networks|
+|10|66.27.58.70|8080|United States|Reseda|Spectrum|
+|11|40.119.236.22|80|Singapore|Singapore|Microsoft Corporation|
+|12|65.109.234.215|8080|Finland|Helsinki|Hetzner Online GmbH|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|14|45.238.220.1|8181|Argentina|Curuzu Cuatia|CA VI CU SRL|
+|15|36.91.148.154|3128|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|16|64.225.8.179|9998|United States|Clifton|DigitalOcean, LLC|
+|17|103.169.254.164|8061|Indonesia|Banyuwangi|PT Master Star Network|
+|18|118.40.82.247|7890|South Korea|Seo-gu|Korea Telecom|
+|19|61.28.233.217|3128|Vietnam|Ho Chi Minh City|Vinadata broadcast via vinagame AS Number|
+|20|67.206.232.81|999|Puerto Rico|Vega Baja|Liberty Mobile Puerto Rico Inc.|
 
 
 
