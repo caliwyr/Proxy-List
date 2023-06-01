@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **7287** proxies at the latest update. Usable proxies are below.
+> Scraper found **7348** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|466|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|466|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|466|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|494|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|494|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|494|
 
 ## Sources
 
@@ -36,8 +36,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|19|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1555|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|22|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1613|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1470|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3160|✅|
@@ -48,25 +48,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
-|2|15.204.173.243|8118|United States|Reston|OVH SAS|
-|3|185.40.199.66|888|Poland|Warsaw|eTOP sp. z o.o.|
-|4|85.214.109.128|3129|Germany|Berlin|Strato AG|
-|5|119.8.10.18|7890|Mexico|Mexico City|Huawei International Pte. LTD|
-|6|5.161.218.84|8080|United States|Ashburn|Hetzner Online GmbH|
-|7|136.243.55.199|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|8|61.28.233.217|3128|Vietnam|Ho Chi Minh City|Vinadata broadcast via vinagame AS Number|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|5.78.82.89|8080|United States|Portland|Hetzner Online GmbH|
-|11|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
-|12|49.13.21.203|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|13|125.136.85.184|7890|South Korea|Seo-gu|Korea Telecom|
-|14|5.78.82.89|8080|United States|Portland|Hetzner Online GmbH|
-|15|184.105.182.254|3128|United States|Gilroy|Hurricane Electric LLC|
-|16|115.144.99.220|11116|South Korea|Gangdong-gu|HAIonNet|
-|17|5.161.218.84|8080|United States|Ashburn|Hetzner Online GmbH|
-|18|157.245.27.9|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|19|118.40.83.15|7890|South Korea|Seo-gu|Korea Telecom|
-|20|121.126.200.123|11361|South Korea|Gwanak-gu|HAIonNet|
+|2|185.40.199.66|888|Poland|Warsaw|eTOP sp. z o.o.|
+|3|64.225.8.179|9983|United States|Clifton|DigitalOcean, LLC|
+|4|157.245.27.9|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|5|5.161.218.84|8080|United States|Ashburn|Hetzner Online GmbH|
+|6|85.214.109.128|3129|Germany|Berlin|Strato AG|
+|7|213.202.230.241|19191|Germany|Düsseldorf|myLoc managed IT AG|
+|8|213.241.205.2|8080|Russia|Rostov-on-Don|RTCOMM-YUG|
+|9|61.28.233.217|3128|Vietnam|Ho Chi Minh City|Vinadata broadcast via vinagame AS Number|
+|10|5.161.218.84|8080|United States|Ashburn|Hetzner Online GmbH|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|195.201.115.230|8118|Germany|Gunzenhausen|Hetzner Online GmbH|
+|13|5.78.82.89|8080|United States|Portland|Hetzner Online GmbH|
+|14|49.13.21.203|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|15|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
+|16|209.38.201.164|45212|Germany|Frankfurt am Main|DigitalOcean|
+|17|125.136.85.184|7890|South Korea|Seo-gu|Korea Telecom|
+|18|128.14.140.2|11772|United States|Los Angeles|Zenlayer Inc|
+|19|5.78.82.89|8080|United States|Portland|Hetzner Online GmbH|
+|20|158.69.73.79|9300|Canada|Montreal|OVH SAS|
 
 
 
