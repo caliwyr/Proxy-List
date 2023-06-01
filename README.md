@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **6598** proxies at the latest update. Usable proxies are below.
+> Scraper found **6696** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|314|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|314|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|314|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|322|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|322|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|322|
 
 ## Sources
 
@@ -36,8 +36,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|8|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1304|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|10|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1400|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1284|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2919|✅|
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|3.226.79.79|80|United States|Ashburn|Amazon Technologies Inc.|
-|2|157.245.27.9|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|3|94.198.66.102|8888|Sweden|Umeå|Telecom3|
-|4|213.202.230.241|19191|Germany|Düsseldorf|myLoc managed IT AG|
+|1|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
+|2|155.94.178.6|8080|United States|Houston|QuadraNet Enterprises LLC|
+|3|51.159.115.233|3128|France|Paris|SCALEWAY|
+|4|157.245.27.9|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |5|128.14.140.2|11772|United States|Los Angeles|Zenlayer Inc|
-|6|109.205.61.86|1080|United States|New York|Siberfy Lahore|
-|7|209.38.201.164|45212|Germany|Frankfurt am Main|DigitalOcean|
-|8|125.136.115.248|7890|South Korea|Gwangsan-gu|Korea Telecom|
-|9|152.67.10.190|8100|India|Mumbai|Oracle Corporation|
-|10|40.119.236.22|80|Singapore|Singapore|Microsoft Corporation|
-|11|3.226.79.79|80|United States|Ashburn|Amazon Technologies Inc.|
-|12|104.199.190.177|10000|Taiwan|Taipei|Google LLC|
-|13|109.205.61.86|1080|United States|New York|Siberfy Lahore|
-|14|51.79.50.31|9300|Canada|Beauharnois|OVH SAS|
-|15|162.212.158.43|8080|United States|Chicago|ServerCheap INC|
-|16|5.161.45.126|8080|United States|Ashburn|Hetzner Online GmbH|
-|17|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
-|18|157.245.85.36|8080|United States|North Bergen|DigitalOcean, LLC|
-|19|51.159.115.233|3128|France|Paris|SCALEWAY|
-|20|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
+|6|213.202.230.241|19191|Germany|Düsseldorf|myLoc managed IT AG|
+|7|3.226.79.79|80|United States|Ashburn|Amazon Technologies Inc.|
+|8|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|9|115.144.102.39|10080|South Korea|Gangdong-gu|Korea Telecom|
+|10|186.121.235.220|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|11|43.132.175.181|81|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|12|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
+|13|178.128.88.72|10000|Singapore|Singapore|DigitalOcean, LLC|
+|14|128.14.140.2|11772|United States|Los Angeles|Zenlayer Inc|
+|15|46.182.6.51|3129|France|Paris|Hosteur SAS|
+|16|104.238.221.197|8118|United States|Cleveland|ReliableSite.Net LLC|
+|17|152.67.10.190|8100|India|Mumbai|Oracle Corporation|
+|18|109.205.61.86|1080|United States|New York|Siberfy Lahore|
+|19|5.161.78.209|8080|United States|Ashburn|Hetzner Online GmbH|
+|20|183.82.100.253|3128|India|Hyderabad|Beam Telecom Pvt Ltd|
 
 
 
