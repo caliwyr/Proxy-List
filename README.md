@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **6546** proxies at the latest update. Usable proxies are below.
+> Scraper found **6548** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|603|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|603|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|603|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|541|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|541|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|541|
 
 ## Sources
 
@@ -36,8 +36,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|20|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1265|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|30|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1257|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1197|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2981|✅|
@@ -49,24 +49,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
 |2|128.14.140.2|11772|United States|Los Angeles|Zenlayer Inc|
-|3|185.40.199.66|888|Poland|Warsaw|eTOP sp. z o.o.|
-|4|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|5|23.122.184.9|8888|United States|Davie|AT&T Services, Inc.|
-|6|128.14.140.2|11772|United States|Los Angeles|Zenlayer Inc|
-|7|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
-|8|134.209.222.206|8080|United States|North Bergen|DigitalOcean, LLC|
-|9|64.203.229.35|7523|United States|Savannah|Hargray Communications Group, Inc.|
-|10|167.114.96.13|9300|Canada|Montreal|OVH SAS|
+|3|51.159.115.233|3128|France|Paris|SCALEWAY|
+|4|198.50.176.133|3128|Canada|Beauharnois|OVH Hosting|
+|5|185.40.199.66|888|Poland|Warsaw|eTOP sp. z o.o.|
+|6|157.245.27.9|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|7|45.157.131.54|3128|United States|New York|DediPath LLC|
+|8|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
+|9|128.14.140.2|11772|United States|Los Angeles|Zenlayer Inc|
+|10|119.8.120.4|80|Hong Kong|Hong Kong|Huawei International Pte. LTD|
 |11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|104.199.190.177|10000|Taiwan|Taipei|Google LLC|
-|13|181.129.138.114|30838|Colombia|Manizales|EPM Telecomunicaciones S.A. E.S.P.|
-|14|158.69.53.98|9300|Canada|Montreal|OVH SAS|
-|15|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|16|94.73.239.124|55443|Russia|Krasnoyarsk|Orion Telecom LLC|
-|17|185.15.172.212|3128|Russia|Moscow|SafeData LLC|
-|18|115.144.102.39|10080|South Korea|Gangdong-gu|Korea Telecom|
-|19|209.38.254.44|45212|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|20|170.83.242.248|999|Paraguay|Asunción|Ufinet Panama S.A.|
+|12|213.202.230.241|19191|Germany|Düsseldorf|myLoc managed IT AG|
+|13|134.209.222.206|8080|United States|North Bergen|DigitalOcean, LLC|
+|14|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|15|20.219.177.38|3129|India|Pune|Microsoft Corporation|
+|16|155.94.178.6|8080|United States|Houston|QuadraNet Enterprises LLC|
+|17|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|18|20.219.183.188|3129|India|Pune|Microsoft Corporation|
+|19|20.219.177.85|3129|India|Pune|Microsoft Corporation|
+|20|20.204.212.45|3129|India|Pune|Microsoft Corporation|
 
 
 
