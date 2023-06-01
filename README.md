@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **7447** proxies at the latest update. Usable proxies are below.
+> Scraper found **7557** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|28|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|28|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|28|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|29|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|29|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|29|
 
 ## Sources
 
@@ -37,7 +37,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|5|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1711|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1821|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1590|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3058|✅|
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|118.40.82.247|7890|South Korea|Seo-gu|Korea Telecom|
-|2|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
-|3|185.40.199.66|888|Poland|Warsaw|eTOP sp. z o.o.|
-|4|64.225.8.135|9997|United States|Clifton|DigitalOcean, LLC|
-|5|209.38.254.44|45212|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|6|213.202.230.241|19191|Germany|Düsseldorf|myLoc managed IT AG|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
-|9|138.201.113.2|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|10|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
-|11|61.28.233.217|3128|Vietnam|Ho Chi Minh City|Vinadata broadcast via vinagame AS Number|
-|12|51.159.115.233|3128|France|Paris|SCALEWAY|
-|13|121.126.200.123|11361|South Korea|Gwanak-gu|HAIonNet|
-|14|34.106.151.243|80|United States|Salt Lake City|Google LLC|
-|15|183.88.223.1|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
-|16|123.25.15.209|9812|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|17|128.14.140.2|11772|United States|Los Angeles|Zenlayer Inc|
-|18|66.70.178.214|9300|Canada|Beauharnois|OVH SAS|
-|19|66.27.58.70|8080|United States|Reseda|Spectrum|
-|20|120.253.236.108|9443|China|Shanghai|China Mobile communications corporation|
+|1|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
+|2|51.159.115.233|3128|France|Paris|SCALEWAY|
+|3|193.41.88.58|53281|Ukraine|Kyiv|Kyiv National Taras Shevchenko University|
+|4|185.40.199.66|888|Poland|Warsaw|eTOP sp. z o.o.|
+|5|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|6|5.53.16.185|18080|Russia|Surgut|Metroset Ltd|
+|7|118.40.82.247|7890|South Korea|Seo-gu|Korea Telecom|
+|8|27.70.160.49|10011|Vietnam|Hanoi|Viettel Group|
+|9|186.159.3.193|56861|Colombia|Medellín|Edatel S.a. E.S.P|
+|10|200.25.254.193|54240|Colombia|Leticia|Andinet ON Line|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
+|13|128.14.140.2|11772|United States|Los Angeles|Zenlayer Inc|
+|14|103.81.194.213|88|Indonesia|Bogor|PT Rtiga Global Media|
+|15|115.127.94.18|32650|Bangladesh|Dhaka|BRACNet Limited|
+|16|92.249.113.194|55443|Ukraine|Kyiv|Private "Stock company "Sater"|
+|17|120.253.236.108|9443|China|Shanghai|China Mobile communications corporation|
+|18|120.253.236.108|9443|China|Shanghai|China Mobile communications corporation|
+|19|120.253.236.108|9443|China|Shanghai|China Mobile communications corporation|
+|20|5.161.185.131|8080|United States|Ashburn|Hetzner Online GmbH|
 
 
 
