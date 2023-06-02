@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **6973** proxies at the latest update. Usable proxies are below.
+> Scraper found **6871** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|517|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|517|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|517|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|328|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|328|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|328|
 
 ## Sources
 
@@ -37,7 +37,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|5|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1516|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1414|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1438|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2931|✅|
@@ -48,25 +48,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|157.245.27.9|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|2|51.79.50.22|9300|Canada|Beauharnois|OVH SAS|
-|3|185.40.199.66|888|Poland|Warsaw|eTOP sp. z o.o.|
-|4|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
-|5|178.128.88.72|10000|Singapore|Singapore|DigitalOcean, LLC|
-|6|213.202.230.241|19191|Germany|Düsseldorf|myLoc managed IT AG|
-|7|40.119.236.22|80|Singapore|Singapore|Microsoft Corporation|
-|8|152.67.10.190|8100|India|Mumbai|Oracle Corporation|
+|2|185.40.199.66|888|Poland|Warsaw|eTOP sp. z o.o.|
+|3|138.201.113.2|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|4|213.202.230.241|19191|Germany|Düsseldorf|myLoc managed IT AG|
+|5|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|6|200.25.254.193|54240|Colombia|Leticia|Andinet ON Line|
+|7|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|8|157.245.145.105|12345|Singapore|Singapore|DigitalOcean, LLC|
 |9|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|10|61.28.233.217|3128|Vietnam|Ho Chi Minh City|Vinadata broadcast via vinagame AS Number|
+|10|152.67.10.190|8100|India|Mumbai|Oracle Corporation|
 |11|115.144.99.223|11119|South Korea|Gangdong-gu|HAIonNet|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|140.238.247.9|8100|India|Mumbai|Oracle Corporation|
-|14|154.79.245.166|32650|Kenya|Nairobi|Airtel KE Mobile & Fixed Internet|
-|15|185.15.172.212|3128|Russia|Moscow|SafeData LLC|
-|16|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
-|17|23.132.185.101|53128|Norway|Sandefjord|Joseph Farnell|
-|18|115.144.9.246|11066|South Korea|Jecheon|Korea Telecom|
-|19|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|20|201.229.250.21|8080|Dominican Republic|Santiago de los Caballeros|Compañía Dominicana de Teléfonos S. A.|
+|12|40.119.236.22|80|Singapore|Singapore|Microsoft Corporation|
+|13|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
+|14|37.120.192.154|8080|Netherlands|Amsterdam|M247 Europe SRL|
+|15|209.38.254.44|45212|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|16|177.66.101.223|8024|Brazil|Araguari|WN TELECOM LTDA - ME|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|18|200.32.51.179|8080|Argentina|Ituzaingo|Telefonica de Argentina|
+|19|64.225.8.179|9998|United States|Clifton|DigitalOcean, LLC|
+|20|105.19.63.217|9812|South Africa|Cape Town|SEACOM Limited|
 
 
 
