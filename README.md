@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **6914** proxies at the latest update. Usable proxies are below.
+> Scraper found **6930** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|610|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|610|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|610|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|52|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|52|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|52|
 
 ## Sources
 
@@ -36,8 +36,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|26|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1508|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|29|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1521|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1366|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2931|✅|
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
-|2|185.40.199.66|888|Poland|Warsaw|eTOP sp. z o.o.|
-|3|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
-|4|213.202.230.241|19191|Germany|Düsseldorf|myLoc managed IT AG|
+|1|185.40.199.66|888|Poland|Warsaw|eTOP sp. z o.o.|
+|2|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
+|3|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|4|40.119.236.22|80|Singapore|Singapore|Microsoft Corporation|
 |5|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
-|6|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|7|140.238.247.9|8100|India|Mumbai|Oracle Corporation|
-|8|115.144.99.223|11119|South Korea|Gangdong-gu|HAIonNet|
-|9|51.159.115.233|3128|France|Paris|SCALEWAY|
-|10|61.28.233.217|3128|Vietnam|Ho Chi Minh City|Vinadata broadcast via vinagame AS Number|
-|11|64.225.8.132|9979|United States|Clifton|DigitalOcean, LLC|
-|12|13.214.159.87|33080|Singapore|Singapore|Amazon Technologies Inc.|
-|13|40.119.236.22|80|Singapore|Singapore|Microsoft Corporation|
-|14|103.171.183.201|8181|Indonesia|Bekasi|PT Hayat Teknologi Informatika|
-|15|152.67.10.190|8100|India|Mumbai|Oracle Corporation|
-|16|51.79.50.22|9300|Canada|Beauharnois|OVH SAS|
-|17|46.182.6.51|3129|France|Paris|Hosteur SAS|
-|18|157.245.145.105|12345|Singapore|Singapore|DigitalOcean, LLC|
-|19|115.144.102.39|10080|South Korea|Gangdong-gu|Korea Telecom|
-|20|209.38.254.44|45212|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|6|157.245.27.9|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|7|119.8.10.18|7890|Mexico|Mexico City|Huawei International Pte. LTD|
+|8|116.0.61.122|3128|Pakistan|Karachi|Telecard|
+|9|201.229.250.21|8080|Dominican Republic|Santiago de los Caballeros|Compañía Dominicana de Teléfonos S. A.|
+|10|152.67.10.190|8100|India|Mumbai|Oracle Corporation|
+|11|115.144.99.223|11119|South Korea|Gangdong-gu|HAIonNet|
+|12|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
+|13|157.230.34.219|3128|Singapore|Singapore|DigitalOcean, LLC|
+|14|140.238.247.9|8100|India|Mumbai|Oracle Corporation|
+|15|103.171.183.201|8181|Indonesia|Bekasi|PT Hayat Teknologi Informatika|
+|16|217.12.206.94|3128|Ukraine|Kharkiv|Green Floid LLC|
+|17|158.69.53.98|9300|Canada|Montreal|OVH SAS|
+|18|203.109.19.137|12241|South Korea|Mapo-gu|HAIonNet|
+|19|213.202.230.241|19191|Germany|Düsseldorf|myLoc managed IT AG|
+|20|202.162.195.54|8089|Indonesia|Medan|Media Antar Nusa PT.|
 
 
 
