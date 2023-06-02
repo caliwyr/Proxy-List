@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **6547** proxies at the latest update. Usable proxies are below.
+> Scraper found **6569** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|328|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|328|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|328|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|392|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|392|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|392|
 
 ## Sources
 
@@ -37,7 +37,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|4|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1493|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1515|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1444|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2523|✅|
@@ -49,24 +49,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|185.40.199.66|888|Poland|Warsaw|eTOP sp. z o.o.|
 |2|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
-|3|213.202.230.241|19191|Germany|Düsseldorf|myLoc managed IT AG|
-|4|119.8.10.18|7890|Mexico|Mexico City|Huawei International Pte. LTD|
-|5|64.225.4.29|9499|United States|Clifton|DigitalOcean, LLC|
-|6|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
-|7|152.67.10.190|8100|India|Mumbai|Oracle Corporation|
-|8|115.144.101.201|10001|South Korea|Gangdong-gu|Korea Telecom|
-|9|136.243.55.199|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|10|190.242.157.235|6969|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|11|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|12|209.38.254.44|45212|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|140.238.247.9|8100|India|Mumbai|Oracle Corporation|
-|14|40.119.236.22|80|Singapore|Singapore|Microsoft Corporation|
-|15|177.87.144.122|8086|Brazil|Sao Sebastiao da Grama|Videomar Rede Nordeste S/A|
-|16|190.63.35.30|9812|Ecuador|Ambato|CONECEL|
-|17|64.225.4.63|9993|United States|Clifton|DigitalOcean, LLC|
-|18|115.240.163.31|80|India|Bengaluru|Reliance Jio Infocomm Limited|
-|19|209.38.201.164|45212|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|20|103.209.88.67|8080|India|Guntur|TransMedia Technologies (AP) PVT LTD|
+|3|157.245.27.9|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|4|157.245.222.183|80|United States|Clifton|DigitalOcean, LLC|
+|5|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
+|6|119.8.10.18|7890|Mexico|Mexico City|Huawei International Pte. LTD|
+|7|138.201.152.216|80|Germany|Falkenstein|Hetzner Online GmbH|
+|8|64.225.4.29|9865|United States|Clifton|DigitalOcean, LLC|
+|9|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
+|10|115.144.99.223|11119|South Korea|Gangdong-gu|HAIonNet|
+|11|213.202.230.241|19191|Germany|Düsseldorf|myLoc managed IT AG|
+|12|184.105.182.254|3128|United States|Gilroy|Hurricane Electric LLC|
+|13|157.245.145.105|12345|Singapore|Singapore|DigitalOcean, LLC|
+|14|115.144.101.201|10001|South Korea|Gangdong-gu|Korea Telecom|
+|15|209.38.254.44|45212|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|16|40.119.236.22|80|Singapore|Singapore|Microsoft Corporation|
+|17|136.243.55.199|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|18|61.28.233.217|3128|Vietnam|Ho Chi Minh City|Vinadata broadcast via vinagame AS Number|
+|19|190.242.157.234|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|20|152.67.10.190|8100|India|Mumbai|Oracle Corporation|
 
 
 
