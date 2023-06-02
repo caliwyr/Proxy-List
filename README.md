@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|374|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|374|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|374|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|240|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|240|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|240|
 
 ## Sources
 
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
-|2|185.40.199.66|888|Poland|Warsaw|eTOP sp. z o.o.|
-|3|157.245.27.9|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|4|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
-|5|140.238.245.116|8100|India|Mumbai|Oracle Corporation|
-|6|64.225.8.82|9981|United States|Clifton|DigitalOcean, LLC|
-|7|64.225.8.82|9981|United States|Clifton|DigitalOcean, LLC|
-|8|13.214.159.87|33080|Singapore|Singapore|Amazon Technologies Inc.|
-|9|190.92.239.132|8443|Hong Kong|Hong Kong|Huawei International Pte. LTD|
-|10|200.25.254.193|54240|Colombia|Leticia|Andinet ON Line|
-|11|186.121.235.220|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|12|51.159.115.233|3128|France|Paris|SCALEWAY|
-|13|81.12.44.197|3129|Iran|Tehran|RESPINA Networks|
-|14|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|15|115.144.101.201|10001|South Korea|Gangdong-gu|Korea Telecom|
-|16|64.226.79.132|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|17|5.161.112.209|8080|United States|Ashburn|Hetzner Online GmbH|
-|18|162.212.153.76|8080|United States|Chicago|tzulo, inc.|
-|19|5.161.71.190|8080|United States|Ashburn|Hetzner Online GmbH|
-|20|5.58.97.89|8080|Ukraine|Ternopil|Columbus|
+|1|64.225.8.82|9981|United States|Clifton|DigitalOcean, LLC|
+|2|5.161.187.214|8080|United States|Ashburn|Hetzner Online GmbH|
+|3|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
+|4|157.245.145.105|12345|Singapore|Singapore|DigitalOcean, LLC|
+|5|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
+|6|5.161.187.214|8080|United States|Ashburn|Hetzner Online GmbH|
+|7|185.40.199.66|888|Poland|Warsaw|eTOP sp. z o.o.|
+|8|140.238.247.9|8100|India|Mumbai|Oracle Corporation|
+|9|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
+|10|186.121.235.220|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|11|119.8.10.18|7890|Mexico|Mexico City|Huawei International Pte. LTD|
+|12|213.202.230.241|19191|Germany|Düsseldorf|myLoc managed IT AG|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|14|116.0.61.122|3128|Pakistan|Karachi|Telecard|
+|15|140.238.245.116|8100|India|Mumbai|Oracle Corporation|
+|16|209.38.201.164|45212|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|17|118.40.82.247|7890|South Korea|Seo-gu|Korea Telecom|
+|18|107.151.255.154|45787|Japan|Tokyo|Zenlayer Inc|
+|19|176.99.2.43|1081|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
+|20|103.92.26.190|4002|Vietnam|Quan Phu Nhuan|TLSOFT|
 
 
 
