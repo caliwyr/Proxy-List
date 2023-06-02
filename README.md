@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|92|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|92|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|92|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|605|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|605|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|605|
 
 ## Sources
 
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|107.152.39.85|8080|United States|Chicago|tzulo, inc.|
-|2|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
-|3|107.152.35.64|8080|United States|Chicago|tzulo, inc.|
-|4|171.243.124.180|10003|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|5|119.8.10.18|7890|Mexico|Mexico City|Huawei International Pte. LTD|
-|6|40.119.236.22|80|Singapore|Singapore|Microsoft Corporation|
-|7|213.202.230.241|19191|Germany|Düsseldorf|myLoc managed IT AG|
-|8|186.121.235.220|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|9|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
-|10|185.40.199.66|888|Poland|Warsaw|eTOP sp. z o.o.|
-|11|115.144.101.201|10001|South Korea|Gangdong-gu|Korea Telecom|
-|12|158.69.73.79|9300|Canada|Montreal|OVH SAS|
-|13|162.212.157.30|8080|United States|Chicago|tzulo, inc.|
-|14|51.159.115.233|3128|France|Paris|SCALEWAY|
-|15|162.212.157.31|8080|United States|Chicago|tzulo, inc.|
-|16|162.212.157.30|8080|United States|Chicago|tzulo, inc.|
-|17|213.241.205.2|8080|Russia|Rostov-on-Don|RTCOMM-YUG|
-|18|107.152.37.137|8080|United States|Chicago|tzulo, inc.|
-|19|51.79.50.22|9300|Canada|Beauharnois|OVH SAS|
-|20|107.152.37.121|8080|United States|Chicago|tzulo, inc.|
+|1|213.202.230.241|19191|Germany|Düsseldorf|myLoc managed IT AG|
+|2|107.152.35.64|8080|United States|Chicago|tzulo, inc.|
+|3|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
+|4|51.79.50.31|9300|Canada|Beauharnois|OVH SAS|
+|5|107.152.38.225|8080|United States|Chicago|tzulo, inc.|
+|6|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
+|7|107.152.37.121|8080|United States|Chicago|tzulo, inc.|
+|8|5.78.73.221|8080|United States|Portland|Hetzner Online GmbH|
+|9|107.152.35.64|8080|United States|Chicago|tzulo, inc.|
+|10|158.69.73.79|9300|Canada|Montreal|OVH SAS|
+|11|5.161.197.25|8080|United States|Ashburn|Hetzner Online GmbH|
+|12|5.78.99.75|8080|United States|Portland|Hetzner Online GmbH|
+|13|5.161.45.126|8080|United States|Ashburn|Hetzner Online GmbH|
+|14|181.129.138.114|30838|Colombia|Manizales|EPM Telecomunicaciones S.A. E.S.P.|
+|15|40.119.236.22|80|Singapore|Singapore|Microsoft Corporation|
+|16|165.227.151.71|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|17|213.171.44.134|3128|Russia|Moscow|JSC Comcor|
+|18|107.152.39.85|8080|United States|Chicago|tzulo, inc.|
+|19|5.78.44.18|8080|United States|Portland|Hetzner Online GmbH|
+|20|65.21.7.77|8080|Finland|Helsinki|Hetzner Online GmbH|
 
 
 
