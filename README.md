@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **6783** proxies at the latest update. Usable proxies are below.
+> Scraper found **6782** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|439|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|439|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|439|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|609|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|609|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|609|
 
 ## Sources
 
@@ -36,8 +36,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|3|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1385|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|5|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1382|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1394|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2918|✅|
@@ -48,25 +48,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
-|2|213.202.230.241|19191|Germany|Düsseldorf|myLoc managed IT AG|
-|3|185.40.199.66|888|Poland|Warsaw|eTOP sp. z o.o.|
-|4|64.251.22.20|80|United States|Miami|Infolink Global Corporation|
-|5|157.245.27.9|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|6|5.78.90.34|8080|United States|Portland|Hetzner Online GmbH|
-|7|209.38.254.44|45212|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|9|203.109.19.137|12241|South Korea|Mapo-gu|HAIonNet|
-|10|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
-|11|119.8.10.18|7890|Mexico|Mexico City|Huawei International Pte. LTD|
-|12|193.107.104.57|3128|Ukraine|Vinnytsia|Stasishen Aleksandr Afanasiyovich|
-|13|158.69.73.79|9300|Canada|Montreal|OVH SAS|
-|14|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
-|15|66.70.178.214|9300|Canada|Beauharnois|OVH SAS|
-|16|115.144.16.101|10471|South Korea|Hwaseong-si|Korea Telecom|
-|17|5.161.50.183|8080|United States|Ashburn|Hetzner Online GmbH|
-|18|136.243.55.199|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|19|64.251.22.20|80|United States|Miami|Infolink Global Corporation|
-|20|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|2|5.78.90.34|8080|United States|Portland|Hetzner Online GmbH|
+|3|213.202.230.241|19191|Germany|Düsseldorf|myLoc managed IT AG|
+|4|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
+|5|5.78.90.34|8080|United States|Portland|Hetzner Online GmbH|
+|6|5.161.50.183|8080|United States|Ashburn|Hetzner Online GmbH|
+|7|5.161.101.225|8080|United States|Ashburn|Hetzner Online GmbH|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|209.38.201.164|45212|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|209.38.254.44|45212|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|136.243.55.199|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|12|185.40.199.66|888|Poland|Warsaw|eTOP sp. z o.o.|
+|13|66.70.178.214|9300|Canada|Beauharnois|OVH SAS|
+|14|190.63.35.30|9812|Ecuador|Ambato|CONECEL|
+|15|152.67.10.190|8100|India|Mumbai|Oracle Corporation|
+|16|119.8.10.18|7890|Mexico|Mexico City|Huawei International Pte. LTD|
+|17|208.73.236.1|8080|United States|Clearwater Beach|digitalIPVoice, Inc|
+|18|64.225.8.132|9979|United States|Clifton|DigitalOcean, LLC|
+|19|200.32.51.179|8080|Argentina|Ituzaingo|Telefonica de Argentina|
+|20|110.78.114.161|8080|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
 
 
 
