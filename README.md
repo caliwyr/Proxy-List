@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **6613** proxies at the latest update. Usable proxies are below.
+> Scraper found **6742** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|142|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|142|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|142|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|219|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|219|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|219|
 
 ## Sources
 
@@ -36,37 +36,37 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|8|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1367|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1386|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1275|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2880|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2998|✅|
 
 
 ## Sample Proxies With Geolocation Info
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|209.38.193.224|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|2|213.202.230.241|19191|Germany|Düsseldorf|myLoc managed IT AG|
-|3|185.40.199.66|888|Poland|Warsaw|eTOP sp. z o.o.|
-|4|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|5|46.105.35.193|8080|France|Roubaix|OVH SAS|
-|6|37.130.26.140|8080|Poland|Lowicz|"InterKAM" S.C|
-|7|103.180.119.60|80|Indonesia|Windu|PT Persada Data Multimedia|
-|8|180.241.8.160|8080|Indonesia|Medan|PT. TELKOM INDONESIA|
-|9|171.243.120.222|10004|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|158.69.73.79|9300|Canada|Montreal|OVH SAS|
-|12|36.64.138.155|80|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|13|103.77.48.213|8080|Indonesia|Bandung|STARNET|
-|14|118.136.47.14|7788|Indonesia|Jakarta|Linknet-Fastnet ASN|
-|15|182.191.84.39|80|Pakistan|Rawalpindi|Pakistan Telecommuication company limited|
-|16|179.48.191.2|8088|Brazil|Goiânia|Libre Telecom Eireli|
-|17|103.191.155.46|8080|Indonesia|Karawang|PT Ilham Wifi Solution|
-|18|103.106.195.41|32650|India|Gurgaon|Elyzium Consulting|
-|19|82.160.203.157|8081|Poland|Ząbkowice Śląskie|TK Telekom sp. z o.o|
-|20|107.152.39.156|8080|United States|Chicago|tzulo, inc.|
+|1|213.202.230.241|19191|Germany|Düsseldorf|myLoc managed IT AG|
+|2|185.40.199.66|888|Poland|Warsaw|eTOP sp. z o.o.|
+|3|40.119.236.22|80|Singapore|Singapore|Microsoft Corporation|
+|4|158.69.66.131|9300|Canada|Montreal|OVH SAS|
+|5|141.11.37.197|80|Italy|Roma|RACK400 com netherlands Infrastructure|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|209.38.193.224|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|103.153.191.227|8080|Indonesia|Malang|WANET|
+|9|103.140.188.217|8080|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
+|10|103.133.222.200|80|Indonesia|Jakarta|PT Cloud Teknologi Nusantara|
+|11|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|12|158.69.73.79|9300|Canada|Montreal|OVH SAS|
+|13|213.171.44.134|3128|Russia|Moscow|JSC Comcor|
+|14|202.147.199.34|8080|Indonesia|Jakarta|PT. MNC Kabel Mediacom|
+|15|182.253.92.108|8080|Indonesia|Jimbaran|BIZNET|
+|16|36.64.138.155|80|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|17|103.77.48.213|8080|Indonesia|Bandung|STARNET|
+|18|200.32.51.179|8080|Argentina|Ituzaingo|Telefonica de Argentina|
+|19|202.40.177.69|80|Bangladesh|Azimpur|Ranks ITT|
+|20|46.105.35.193|8080|France|Roubaix|OVH SAS|
 
 
 
