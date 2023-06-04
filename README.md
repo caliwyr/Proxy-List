@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **6980** proxies at the latest update. Usable proxies are below.
+> Scraper found **6963** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|689|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|689|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|689|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|655|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|655|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|655|
 
 ## Sources
 
@@ -37,7 +37,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|3|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1395|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1378|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1411|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3088|✅|
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.233.119.103|80|United States|Ashburn|Amazon.com, Inc.|
+|1|185.40.199.66|888|Poland|Warsaw|eTOP sp. z o.o.|
 |2|159.223.105.197|8080|United States|North Bergen|DigitalOcean, LLC|
-|3|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
-|4|157.245.83.130|8080|United States|North Bergen|DigitalOcean, LLC|
-|5|185.40.199.66|888|Poland|Warsaw|eTOP sp. z o.o.|
-|6|158.69.66.131|9300|Canada|Montreal|OVH SAS|
-|7|24.199.83.149|8080|United States|North Bergen|DigitalOcean, LLC|
-|8|40.119.236.22|80|Singapore|Singapore|Microsoft Corporation|
-|9|20.219.177.85|3129|India|Pune|Microsoft Corporation|
-|10|185.20.71.38|443|France|Paris|Mod Mission Critical LLC|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|34.233.119.103|80|United States|Ashburn|Amazon.com, Inc.|
-|13|20.219.180.105|3129|India|Pune|Microsoft Corporation|
-|14|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
-|15|179.96.28.58|80|Brazil|Alexania|G8 NETWORKS LTDA|
-|16|103.52.213.131|80|Indonesia|South Tangerang|Kementerian Lingkungan Hidup|
-|17|34.106.151.243|80|United States|Salt Lake City|Google LLC|
-|18|20.219.177.73|3129|India|Pune|Microsoft Corporation|
-|19|157.245.83.130|8080|United States|North Bergen|DigitalOcean, LLC|
-|20|159.223.105.197|8080|United States|North Bergen|DigitalOcean, LLC|
+|3|172.105.128.71|56444|United States|Cedar Knolls|Akamai Technologies|
+|4|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
+|5|192.169.119.183|3128|Taiwan|Taipei|Zenlayer Inc|
+|6|157.245.83.130|8080|United States|North Bergen|DigitalOcean, LLC|
+|7|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
+|8|179.96.28.58|80|Brazil|Alexania|G8 NETWORKS LTDA|
+|9|172.105.128.71|56444|United States|Cedar Knolls|Akamai Technologies|
+|10|157.245.83.130|8080|United States|North Bergen|DigitalOcean, LLC|
+|11|159.223.105.197|8080|United States|North Bergen|DigitalOcean, LLC|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|20.219.178.121|3129|India|Pune|Microsoft Corporation|
+|14|20.219.177.73|3129|India|Pune|Microsoft Corporation|
+|15|20.219.177.38|3129|India|Pune|Microsoft Corporation|
+|16|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|17|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|18|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|19|40.119.236.22|80|Singapore|Singapore|Microsoft Corporation|
+|20|20.219.180.149|3129|India|Pune|Microsoft Corporation|
 
 
 
