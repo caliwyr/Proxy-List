@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|643|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|643|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|643|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|553|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|553|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|553|
 
 ## Sources
 
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.145.217.128|8080|United States|Washington|Google LLC|
-|2|144.217.253.209|9300|Canada|Beauharnois|OVH SAS|
-|3|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
-|4|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
-|5|20.219.177.85|3129|India|Pune|Microsoft Corporation|
-|6|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|7|51.159.115.233|3128|France|Paris|SCALEWAY|
-|8|43.132.175.181|81|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|9|103.191.155.30|8080|Indonesia|Karawang|PT Ilham Wifi Solution|
-|10|113.176.118.255|7654|Vietnam|Hoi An|VNPT|
-|11|23.132.185.101|53128|Norway|Sandefjord|Joseph Farnell|
-|12|152.67.10.190|8100|India|Mumbai|Oracle Corporation|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|14|186.121.235.220|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|15|5.161.107.243|8080|United States|Ashburn|Hetzner Online GmbH|
-|16|103.76.27.36|8080|Indonesia|Jakarta|MORATELINDO|
-|17|209.38.254.44|45212|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|18|157.245.85.36|8080|United States|North Bergen|DigitalOcean, LLC|
-|19|5.161.183.35|8080|United States|Ashburn|Hetzner Online GmbH|
-|20|46.182.6.51|3129|France|Paris|Hosteur SAS|
+|1|178.128.88.72|10000|Singapore|Singapore|DigitalOcean, LLC|
+|2|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
+|3|125.240.183.145|8080|South Korea|Anyang-si|DACOM-PUBNETPLUS|
+|4|40.119.236.22|80|Singapore|Singapore|Microsoft Corporation|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|20.219.177.85|3129|India|Pune|Microsoft Corporation|
+|7|185.20.71.38|443|France|Paris|Mod Mission Critical LLC|
+|8|209.38.254.44|45212|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|64.225.8.82|9981|United States|Clifton|DigitalOcean, LLC|
+|10|212.112.113.178|3128|Kyrgyzstan|Bishkek|AkNet|
+|11|61.28.233.217|3128|Vietnam|Ho Chi Minh City|Vinadata broadcast via vinagame AS Number|
+|12|41.186.44.106|3128|Rwanda|Kigali|MTN Rwandacell|
+|13|197.248.86.237|32650|Kenya|Nairobi|Safaricom Limited|
+|14|176.99.2.43|1081|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
+|15|115.144.102.39|10080|South Korea|Gangdong-gu|Korea Telecom|
+|16|178.251.111.19|8080|Ukraine|Putyvl'|Dataline LLC|
+|17|186.121.235.220|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|18|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|19|5.161.107.243|8080|United States|Ashburn|Hetzner Online GmbH|
+|20|5.78.73.221|8080|United States|Portland|Hetzner Online GmbH|
 
 
 
