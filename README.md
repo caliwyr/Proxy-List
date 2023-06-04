@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **6924** proxies at the latest update. Usable proxies are below.
+> Scraper found **6882** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|290|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|290|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|290|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|626|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|626|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|626|
 
 ## Sources
 
@@ -37,7 +37,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|2|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1465|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1423|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1465|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2909|✅|
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|172.105.128.71|56444|United States|Cedar Knolls|Akamai Technologies|
-|2|185.40.199.66|888|Poland|Warsaw|eTOP sp. z o.o.|
-|3|157.245.27.9|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|1|34.145.217.128|8080|United States|Washington|Google LLC|
+|2|157.245.27.9|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|3|185.40.199.66|888|Poland|Warsaw|eTOP sp. z o.o.|
 |4|179.96.28.58|80|Brazil|Alexania|G8 NETWORKS LTDA|
-|5|159.65.112.205|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|34.151.228.70|8888|Brazil|Sao Paulo|Google LLC|
-|8|40.119.236.22|80|Singapore|Singapore|Microsoft Corporation|
-|9|34.145.217.128|8080|United States|Washington|Google LLC|
-|10|164.92.137.194|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|115.76.198.132|11166|Vietnam|Ho Chi Minh City|VIETELGPRS|
-|12|115.144.99.220|11116|South Korea|Gangdong-gu|HAIonNet|
-|13|209.38.200.70|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|14|51.159.115.233|3128|France|Paris|SCALEWAY|
-|15|172.105.71.125|8080|Germany|Frankfurt am Main|Akamai Technologies|
-|16|64.227.33.163|8080|United Kingdom|Enfield|DigitalOcean, LLC|
-|17|125.25.74.120|8080|Thailand|Klaeng|TOT Public Company Limited|
-|18|172.105.128.71|56444|United States|Cedar Knolls|Akamai Technologies|
-|19|183.82.100.253|3128|India|Hyderabad|Beam Telecom Pvt Ltd|
-|20|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
+|5|164.92.137.194|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|6|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|7|159.65.112.205|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|34.151.228.70|8888|Brazil|Sao Paulo|Google LLC|
+|9|146.190.219.2|8080|United States|North Bergen|DigitalOcean, LLC|
+|10|203.109.19.137|12241|South Korea|Mapo-gu|HAIonNet|
+|11|115.144.16.101|10471|South Korea|Hwaseong-si|Korea Telecom|
+|12|64.226.123.71|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|185.20.71.38|3210|France|Paris|Mod Mission Critical LLC|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|15|34.145.217.128|8080|United States|Washington|Google LLC|
+|16|193.107.104.57|3128|Ukraine|Vinnytsia|Stasishen Aleksandr Afanasiyovich|
+|17|46.101.213.12|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|18|115.144.101.201|10001|South Korea|Gangdong-gu|Korea Telecom|
+|19|64.226.126.56|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|20|125.25.74.120|8080|Thailand|Klaeng|TOT Public Company Limited|
 
 
 
