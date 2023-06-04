@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **6494** proxies at the latest update. Usable proxies are below.
+> Scraper found **6561** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -36,8 +36,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|25|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1227|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|27|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1292|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1190|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2969|✅|
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
-|2|38.45.248.19|999|Mexico|Querétaro|Wantelco SAS de CV|
-|3|119.8.10.18|7890|Mexico|Mexico City|Huawei International Pte. LTD|
-|4|20.219.177.73|3129|India|Pune|Microsoft Corporation|
-|5|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|6|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
+|1|119.8.10.18|7890|Mexico|Mexico City|Huawei International Pte. LTD|
+|2|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|3|40.119.236.22|80|Singapore|Singapore|Microsoft Corporation|
+|4|190.92.239.132|8443|Hong Kong|Hong Kong|Huawei International Pte. LTD|
+|5|20.219.178.121|3129|India|Pune|Microsoft Corporation|
+|6|20.219.177.73|3129|India|Pune|Microsoft Corporation|
 |7|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|8|20.219.177.38|3129|India|Pune|Microsoft Corporation|
-|9|20.219.178.121|3129|India|Pune|Microsoft Corporation|
-|10|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|11|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|12|20.204.190.254|3129|India|Pune|Microsoft Corporation|
-|13|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|14|20.219.182.59|3129|India|Pune|Microsoft Corporation|
-|15|20.219.177.85|3129|India|Pune|Microsoft Corporation|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|17|61.28.233.217|3128|Vietnam|Ho Chi Minh City|Vinadata broadcast via vinagame AS Number|
-|18|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|19|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|20|176.95.54.202|83|Germany|Arzberg|Vodafone GmbH|
+|8|20.219.182.59|3129|India|Pune|Microsoft Corporation|
+|9|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|10|51.79.50.22|9300|Canada|Beauharnois|OVH SAS|
+|11|186.121.235.220|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|12|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|13|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|14|23.132.185.101|53128|Norway|Sandefjord|Joseph Farnell|
+|15|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
+|16|20.219.180.105|3129|India|Pune|Microsoft Corporation|
+|17|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
+|18|20.219.177.85|3129|India|Pune|Microsoft Corporation|
+|19|20.219.177.38|3129|India|Pune|Microsoft Corporation|
+|20|213.171.44.134|3128|Russia|Moscow|JSC Comcor|
 
 
 
