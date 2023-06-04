@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|566|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|566|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|566|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|573|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|573|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|573|
 
 ## Sources
 
@@ -37,9 +37,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|3|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1279|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1281|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1167|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1165|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2895|✅|
 
 
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|185.20.71.38|443|France|Paris|Mod Mission Critical LLC|
-|2|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
-|3|192.169.119.183|3128|Taiwan|Taipei|Zenlayer Inc|
-|4|64.225.4.29|9865|United States|Clifton|DigitalOcean, LLC|
-|5|209.38.254.44|45212|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|6|5.78.67.184|8080|United States|Portland|Hetzner Online GmbH|
-|7|176.95.54.202|83|Germany|Arzberg|Vodafone GmbH|
-|8|40.119.236.22|80|Singapore|Singapore|Microsoft Corporation|
-|9|209.38.201.164|45212|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|119.8.10.18|7890|Mexico|Mexico City|Huawei International Pte. LTD|
-|11|81.200.156.124|3128|Poland|Warsaw|Artnet Sp. z o.o.|
-|12|144.217.253.209|9300|Canada|Beauharnois|OVH SAS|
-|13|27.70.164.124|11166|Vietnam|Hanoi|Viettel Group|
-|14|186.121.235.220|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|15|152.67.10.190|8100|India|Mumbai|Oracle Corporation|
-|16|107.152.41.186|8080|United States|Chicago|tzulo, inc.|
-|17|82.165.184.53|80|Poland|Warsaw|IONOS SE|
-|18|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|19|103.155.191.4|8085|Indonesia|Blitar|Trisula Media Data|
-|20|37.120.192.154|8080|Netherlands|Amsterdam|M247 Europe SRL|
+|1|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
+|2|5.78.67.184|8080|United States|Portland|Hetzner Online GmbH|
+|3|107.152.41.186|8080|United States|Chicago|tzulo, inc.|
+|4|186.121.235.220|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|64.225.4.29|9865|United States|Clifton|DigitalOcean, LLC|
+|7|209.38.201.164|45212|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|213.171.44.134|3128|Russia|Moscow|JSC Comcor|
+|9|27.70.164.124|11166|Vietnam|Hanoi|Viettel Group|
+|10|209.38.254.44|45212|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|64.225.8.135|9997|United States|Clifton|DigitalOcean, LLC|
+|12|51.79.50.31|9300|Canada|Beauharnois|OVH SAS|
+|13|64.225.8.135|9997|United States|Clifton|DigitalOcean, LLC|
+|14|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|15|66.70.178.214|9300|Canada|Beauharnois|OVH SAS|
+|16|185.20.71.38|443|France|Paris|Mod Mission Critical LLC|
+|17|92.247.2.26|21231|Bulgaria|Rayon Ilinden|A1 Bulgaria EAD|
+|18|43.251.117.68|45787|Japan|Tokyo|Zenlayer Inc|
+|19|115.144.16.101|10471|South Korea|Hwaseong-si|Korea Telecom|
+|20|43.251.168.254|8080|India|Kolkata|Meghbela Cable & Broadband Services (P) Ltd|
 
 
 
