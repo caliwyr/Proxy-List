@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **5688** proxies at the latest update. Usable proxies are below.
+> Scraper found **5534** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|598|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|598|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|598|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|303|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|303|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|303|
 
 ## Sources
 
@@ -37,9 +37,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|4|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|792|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|889|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|895|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|644|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2914|✅|
 
 
@@ -49,24 +49,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|34.145.217.128|8080|United States|Washington|Google LLC|
 |2|34.145.217.128|8080|United States|Washington|Google LLC|
-|3|212.57.136.248|8080|Russia|Turgoyak|JSC "Uralsvyazinform" Chelyabinsk|
-|4|140.238.245.116|8100|India|Mumbai|Oracle Corporation|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|186.121.235.220|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|7|115.144.16.101|10471|South Korea|Hwaseong-si|Korea Telecom|
-|8|115.144.99.220|11116|South Korea|Gangdong-gu|HAIonNet|
-|9|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
-|10|103.156.128.232|3128|Indonesia|Sidoarjo|PT Skynet Lintas Nusantara|
-|11|181.119.64.186|999|Colombia|Montenegro|IFX Networks Argentina S.R.L|
-|12|5.161.107.243|8080|United States|Ashburn|Hetzner Online GmbH|
-|13|157.245.85.36|8080|United States|North Bergen|DigitalOcean, LLC|
-|14|5.161.112.209|8080|United States|Ashburn|Hetzner Online GmbH|
-|15|5.161.189.248|8080|United States|Ashburn|Hetzner Online GmbH|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|167.114.96.13|9300|Canada|Montreal|OVH SAS|
+|5|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
+|6|213.171.44.134|3128|Russia|Moscow|JSC Comcor|
+|7|212.57.136.248|8080|Russia|Turgoyak|JSC "Uralsvyazinform" Chelyabinsk|
+|8|186.121.235.220|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|9|45.168.65.2|8080|Brazil|São Paulo|Thiago aparecido scaramuzza santana|
+|10|114.4.233.37|8080|Indonesia|Jakarta|PT. INDOSAT Tbk|
+|11|186.96.102.209|999|Colombia|Ánimas|TV AZTECA SUCURSAL COLOMBIA|
+|12|185.15.172.212|3128|Russia|Moscow|SafeData LLC|
+|13|5.161.107.243|8080|United States|Ashburn|Hetzner Online GmbH|
+|14|5.78.83.35|8080|United States|Portland|Hetzner Online GmbH|
+|15|5.161.112.209|8080|United States|Ashburn|Hetzner Online GmbH|
 |16|5.78.90.137|8080|United States|Portland|Hetzner Online GmbH|
-|17|65.108.85.225|8080|Finland|Helsinki|Hetzner Online GmbH|
-|18|128.140.95.86|8080|Germany|Hachenburg|Hetzner Online GmbH|
-|19|5.161.91.88|8080|United States|Ashburn|Hetzner Online GmbH|
-|20|5.161.214.91|8080|United States|Ashburn|Hetzner Online GmbH|
+|17|64.225.8.82|9981|United States|Clifton|DigitalOcean, LLC|
+|18|5.161.189.248|8080|United States|Ashburn|Hetzner Online GmbH|
+|19|149.56.95.158|443|Canada|Montreal|OVH Hosting|
+|20|65.108.85.225|8080|Finland|Helsinki|Hetzner Online GmbH|
 
 
 
