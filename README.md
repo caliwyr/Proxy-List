@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **6761** proxies at the latest update. Usable proxies are below.
+> Scraper found **6762** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|646|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|646|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|646|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|714|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|714|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|714|
 
 ## Sources
 
@@ -36,8 +36,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|42|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1354|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|45|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1352|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1311|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2971|✅|
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|176.95.54.202|83|Germany|Arzberg|Vodafone GmbH|
-|2|64.225.8.115|9996|United States|Clifton|DigitalOcean, LLC|
-|3|158.69.73.79|9300|Canada|Montreal|OVH SAS|
-|4|186.121.235.220|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|5|64.225.8.115|9996|United States|Clifton|DigitalOcean, LLC|
-|6|67.206.232.81|999|Puerto Rico|Vega Baja|Liberty Mobile Puerto Rico Inc.|
-|7|183.82.100.253|3128|India|Hyderabad|Beam Telecom Pvt Ltd|
-|8|77.232.21.4|8080|Russia|Moscow|JSC "AKADO-Stolitsa"|
-|9|176.9.228.115|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|10|64.227.138.43|80|India|Bengaluru|DigitalOcean, LLC|
-|11|158.69.71.245|9300|Canada|Montreal|OVH SAS|
-|12|84.38.183.143|8080|Russia|St Petersburg|OOO "Network of data-centers "Selectel"|
-|13|212.112.113.178|3128|Kyrgyzstan|Bishkek|AkNet|
-|14|209.38.201.164|45212|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|15|203.109.19.137|12241|South Korea|Mapo-gu|HAIonNet|
-|16|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|17|140.238.245.116|8100|India|Mumbai|Oracle Corporation|
-|18|45.224.99.9|999|Ecuador|Portoviejo|Nedetel S.A.|
-|19|136.243.55.199|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|20|115.144.99.220|11116|South Korea|Gangdong-gu|HAIonNet|
+|1|119.8.10.18|7890|Mexico|Mexico City|Huawei International Pte. LTD|
+|2|138.201.113.2|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|3|64.227.138.43|80|India|Bengaluru|DigitalOcean, LLC|
+|4|136.243.55.199|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|5|186.121.235.220|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|6|77.232.21.4|8080|Russia|Moscow|JSC "AKADO-Stolitsa"|
+|7|115.74.114.0|4015|Vietnam|Thu Duc|VIETELxdsl|
+|8|140.238.245.116|8100|India|Mumbai|Oracle Corporation|
+|9|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|10|103.156.128.232|3128|Indonesia|Sidoarjo|PT Skynet Lintas Nusantara|
+|11|213.136.101.40|3128|Ivory Coast|Abidjan|ORANGE COTE D'IVOIRE|
+|12|67.206.232.81|999|Puerto Rico|Vega Baja|Liberty Mobile Puerto Rico Inc.|
+|13|41.217.220.69|32650|Kenya|Nairobi|Myisp Limited|
+|14|157.245.85.36|8080|United States|North Bergen|DigitalOcean, LLC|
+|15|107.152.42.74|8080|United States|Chicago|tzulo, inc.|
+|16|5.78.111.217|8080|United States|Portland|Hetzner Online GmbH|
+|17|49.13.21.200|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|18|164.92.205.56|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|19|93.99.211.233|8080|Czechia|Pilsen|UPC Czech|
+|20|101.230.172.84|443|China|Shanghai|China Telecom (Group)|
 
 
 
