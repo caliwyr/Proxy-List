@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **6781** proxies at the latest update. Usable proxies are below.
+> Scraper found **6881** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|741|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|741|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|741|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|192|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|192|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|192|
 
 ## Sources
 
@@ -37,7 +37,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|2|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1357|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1457|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1368|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2971|✅|
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|64.225.4.29|9865|United States|Clifton|DigitalOcean, LLC|
-|2|157.245.27.9|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|3|51.159.115.233|3128|France|Paris|SCALEWAY|
-|4|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
-|5|119.8.10.18|7890|Mexico|Mexico City|Huawei International Pte. LTD|
-|6|64.225.4.29|9865|United States|Clifton|DigitalOcean, LLC|
-|7|49.13.23.255|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|8|209.141.62.12|5555|United States|Las Vegas|FranTech Solutions|
-|9|209.38.201.164|45212|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|51.79.50.31|9300|Canada|Beauharnois|OVH SAS|
-|11|213.171.44.134|3128|Russia|Moscow|JSC Comcor|
-|12|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|13|61.28.233.217|3128|Vietnam|Ho Chi Minh City|Vinadata broadcast via vinagame AS Number|
-|14|103.156.128.232|3128|Indonesia|Sidoarjo|PT Skynet Lintas Nusantara|
-|15|95.43.243.30|7777|Bulgaria|Sofia|Vivacom Bulgaria EAD|
-|16|190.57.245.250|8080|Argentina|Resistencia|Gigared S.A|
-|17|46.16.201.51|3129|Switzerland|Bern|Hosteur SA|
-|18|201.91.82.155|3128|Brazil|São Paulo|Vivo|
-|19|140.238.245.116|8100|India|Mumbai|Oracle Corporation|
-|20|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
+|1|209.38.201.164|45212|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|2|49.13.23.255|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|3|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
+|4|51.159.115.233|3128|France|Paris|SCALEWAY|
+|5|46.16.201.51|3129|Switzerland|Bern|Hosteur SA|
+|6|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
+|7|209.38.254.44|45212|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
+|9|103.92.26.190|4002|Vietnam|Quan Phu Nhuan|TLSOFT|
+|10|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|11|103.42.28.107|45787|Japan|Tokyo|Zenlayer Inc|
+|12|95.43.243.30|7777|Bulgaria|Sofia|Vivacom Bulgaria EAD|
+|13|136.243.55.199|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|14|140.238.245.116|8100|India|Mumbai|Oracle Corporation|
+|15|103.100.234.195|8080|Bangladesh|Gaibandha|iTel Limited|
+|16|186.121.235.220|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|17|201.30.192.149|8080|Brazil|São Francisco|Claro S.A|
+|18|5.161.107.243|8080|United States|Ashburn|Hetzner Online GmbH|
+|19|157.245.85.36|8080|United States|North Bergen|DigitalOcean, LLC|
+|20|45.182.176.38|9947|Brazil|São Paulo|Evolucao Telecom Ltda|
 
 
 
