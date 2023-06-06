@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **5865** proxies at the latest update. Usable proxies are below.
+> Scraper found **5870** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|592|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|592|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|592|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|502|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|502|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|502|
 
 ## Sources
 
@@ -36,8 +36,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1006|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|43|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|968|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1017|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2759|✅|
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
-|2|34.145.217.128|8080|United States|Washington|Google LLC|
+|1|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
+|2|201.229.250.21|8080|Dominican Republic|Santiago de los Caballeros|Compañía Dominicana de Teléfonos S. A.|
 |3|34.145.217.128|8080|United States|Washington|Google LLC|
-|4|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
-|5|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
-|6|198.27.74.6|9300|Canada|Beauharnois|OVH SAS|
-|7|193.107.104.57|3128|Ukraine|Vinnytsia|Stasishen Aleksandr Afanasiyovich|
-|8|78.138.98.115|3128|France|Strasbourg|Host Europe GmbH|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|40.119.236.22|80|Singapore|Singapore|Microsoft Corporation|
-|11|92.249.113.194|55443|Ukraine|Kyiv|Private "Stock company "Sater"|
-|12|178.128.88.72|10000|Singapore|Singapore|DigitalOcean, LLC|
-|13|159.89.132.167|8989|United States|Santa Clara|DigitalOcean, LLC|
-|14|195.181.198.178|8118|Finland|Karstula|Keski-Suomen Valokuituverkot Oy|
-|15|89.17.55.134|7777|Russia|Moscow|Rusphone OOO|
-|16|43.135.158.217|80|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|17|119.110.71.161|63123|Indonesia|Ciputat|Maxindo|
-|18|209.38.201.164|45212|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|19|81.23.6.71|7777|Russia|Moscow|GARSTELECOM|
-|20|209.38.250.139|45212|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|4|157.245.27.9|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|5|40.119.236.22|80|Singapore|Singapore|Microsoft Corporation|
+|6|209.38.201.164|45212|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|7|186.121.235.220|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|212.129.15.88|8080|France|Paris|Online SAS|
+|10|158.69.71.245|9300|Canada|Montreal|OVH SAS|
+|11|41.205.24.123|8080|Cameroon|Douala|MTN Network Solutions (Cameroon)|
+|12|131.196.254.101|3128|Mexico|Ecatepec|Truxgo S. R.L. de C.V.|
+|13|178.128.88.72|10000|Singapore|Singapore|DigitalOcean, LLC|
+|14|209.38.254.44|45212|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|15|195.182.152.238|38178|Russia|St Petersburg|JSC "Severen-Telecom"|
+|16|23.132.185.101|53128|Norway|Sandefjord|Joseph Farnell|
+|17|209.38.250.139|45212|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|18|103.160.75.174|80|Vietnam|Hanoi|FPT Smart Cloud Company Limited|
+|19|62.201.223.174|8186|Iraq|Raniye|NETWORKS-SULY2|
+|20|58.69.117.212|8082|Philippines|Koronadal|Philippine Long Distance Telephone Co.|
 
 
 
