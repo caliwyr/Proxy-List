@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|441|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|441|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|441|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|390|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|390|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|390|
 
 ## Sources
 
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|186.121.235.220|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|1|40.119.236.22|80|Singapore|Singapore|Microsoft Corporation|
 |2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|4|61.28.233.217|3128|Vietnam|Ho Chi Minh City|Vinadata broadcast via vinagame AS Number|
-|5|103.149.194.30|32650|India|Delhi|Kavya Internet Services Pvt Ltd|
-|6|103.156.248.102|8080|Indonesia|Medan|Trans Media Telekomunikasi|
-|7|209.38.201.164|45212|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|64.225.8.82|9981|United States|Clifton|DigitalOcean, LLC|
-|9|144.217.240.185|9300|Canada|Beauharnois|OVH SAS|
-|10|209.38.254.44|45212|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|64.225.8.82|9981|United States|Clifton|DigitalOcean, LLC|
-|12|5.78.98.249|8080|United States|Portland|Hetzner Online GmbH|
-|13|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
-|14|198.44.162.65|45787|Japan|Tokyo|Zenlayer Inc|
-|15|116.203.72.145|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|16|5.78.78.63|8080|United States|Portland|Hetzner Online GmbH|
-|17|186.121.235.220|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|18|188.166.28.70|3310|Netherlands|Amsterdam|DigitalOcean, LLC|
-|19|64.226.126.56|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|20|167.235.228.196|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|3|186.121.235.220|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|4|103.151.177.106|80|Indonesia|Jakarta|PT JASAMARGA TOLLROAD OPERATOR|
+|5|170.239.222.139|8080|Brazil|Sao Goncalo do Rio Abaixo|Companhia Itabirana Telecomunica??es Ltda|
+|6|209.38.250.139|45212|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|7|81.12.44.197|3129|Iran|Tehran|RESPINA Networks|
+|8|103.149.194.11|32650|India|Delhi|Kavya Internet Services Pvt Ltd|
+|9|144.91.85.172|3128|Germany|Nuremberg|Contabo GmbH|
+|10|95.137.240.30|60030|Georgia||EGRISI|
+|11|143.208.59.2|999|Guatemala|Esquipulas|Comunicaciones Metropolitanas Cablecolor|
+|12|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|13|103.178.42.25|8181|Indonesia|Jakarta Pusat|PT Jaring Solusi Persada|
+|14|5.78.98.249|8080|United States|Portland|Hetzner Online GmbH|
+|15|49.12.187.177|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|16|186.121.235.220|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|17|5.78.102.213|8080|United States|Portland|Hetzner Online GmbH|
+|18|209.38.210.200|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|19|51.79.50.22|9300|Canada|Beauharnois|OVH SAS|
+|20|65.21.154.152|8080|Finland|Helsinki|Hetzner Online GmbH|
 
 
 
