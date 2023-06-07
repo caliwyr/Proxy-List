@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **5779** proxies at the latest update. Usable proxies are below.
+> Scraper found **5798** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|393|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|393|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|393|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|378|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|378|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|378|
 
 ## Sources
 
@@ -37,7 +37,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|953|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|972|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|876|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2867|✅|
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|94.198.66.102|8888|Sweden|Umeå|Telecom3|
+|1|143.198.119.75|8080|United States|North Bergen|DigitalOcean, LLC|
 |2|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
-|3|51.79.50.31|9300|Canada|Beauharnois|OVH SAS|
-|4|159.223.103.41|8080|United States|North Bergen|DigitalOcean, LLC|
-|5|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
-|6|143.198.119.75|8080|United States|North Bergen|DigitalOcean, LLC|
-|7|159.223.120.149|8080|United States|North Bergen|DigitalOcean, LLC|
-|8|149.56.95.158|443|Canada|Montreal|OVH Hosting|
-|9|188.166.251.244|8080|Singapore|Singapore|DigitalOcean, LLC|
-|10|178.128.88.72|10000|Singapore|Singapore|DigitalOcean, LLC|
-|11|158.69.71.245|9300|Canada|Montreal|OVH SAS|
-|12|134.209.99.34|8080|Singapore|Singapore|DigitalOcean, LLC|
-|13|61.28.233.217|3128|Vietnam|Ho Chi Minh City|Vinadata broadcast via vinagame AS Number|
-|14|137.184.110.255|8080|United States|North Bergen|DigitalOcean, LLC|
-|15|103.178.42.25|8181|Indonesia|Jakarta Pusat|PT Jaring Solusi Persada|
-|16|123.126.158.184|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|17|165.227.151.71|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|18|183.221.242.102|9443|China|Mianyang|China Mobile|
-|19|180.184.91.187|443|China|Beijing|Beijing Volcano Engine Technology Co., Ltd.|
-|20|209.38.201.164|45212|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|3|192.169.119.183|3128|Taiwan|Taipei|Zenlayer Inc|
+|4|94.198.66.102|8888|Sweden|Umeå|Telecom3|
+|5|159.223.103.41|8080|United States|North Bergen|DigitalOcean, LLC|
+|6|159.223.120.149|8080|United States|North Bergen|DigitalOcean, LLC|
+|7|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
+|8|188.166.251.244|8080|Singapore|Singapore|DigitalOcean, LLC|
+|9|209.38.201.164|45212|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|61.28.233.217|3128|Vietnam|Ho Chi Minh City|Vinadata broadcast via vinagame AS Number|
+|11|67.206.232.113|999|Puerto Rico|Vega Baja|Liberty Mobile Puerto Rico Inc.|
+|12|51.159.115.233|3128|France|Paris|SCALEWAY|
+|13|64.225.4.63|9982|United States|Clifton|DigitalOcean, LLC|
+|14|122.155.165.191|3128|Thailand|Vadhana|CAT Telecom Public Company Limited|
+|15|64.225.4.63|9982|United States|Clifton|DigitalOcean, LLC|
+|16|40.119.236.22|80|Singapore|Singapore|Microsoft Corporation|
+|17|37.120.192.154|8080|Netherlands|Amsterdam|M247 Europe SRL|
+|18|123.126.158.184|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|19|209.38.194.53|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|20|45.167.253.129|999|Mexico|San Luis Potosí City|QDS NETWORKS SA DE CV|
 
 
 
