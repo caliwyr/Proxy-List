@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **5916** proxies at the latest update. Usable proxies are below.
+> Scraper found **5646** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|516|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|516|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|516|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|569|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|569|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|569|
 
 ## Sources
 
@@ -36,11 +36,11 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|4|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1069|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|5|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1112|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|997|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2763|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2449|✅|
 
 
 ## Sample Proxies With Geolocation Info
@@ -48,25 +48,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
-|2|157.245.27.9|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|3|51.79.50.31|9300|Canada|Beauharnois|OVH SAS|
-|4|186.121.235.220|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|5|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
-|6|172.105.128.71|56444|United States|Cedar Knolls|Akamai Technologies|
-|7|37.114.247.50|80|Iran|Tehran|FANAPTELECOM|
-|8|52.43.36.186|3128|United States|Portland|Amazon.com, Inc.|
-|9|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|10|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
-|11|182.253.233.240|8080|Indonesia|Jakarta|BIZNET|
-|12|176.99.2.43|1081|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
-|13|213.171.44.134|3128|Russia|Moscow|JSC Comcor|
-|14|40.119.236.22|80|Singapore|Singapore|Microsoft Corporation|
-|15|183.82.100.253|3128|India|Hyderabad|Beam Telecom Pvt Ltd|
-|16|203.210.85.119|8080|Indonesia|Bandung|Infrastruktur STARNET|
-|17|209.38.254.44|45212|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|18|103.163.231.115|8080|Indonesia|Malang|PT Metrosolusi Teknologi Indonesia|
-|19|177.85.2.244|9595|Brazil|Patos de Minas|OnNet Telecomunicacoes LTDA - ME|
-|20|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|186.121.235.220|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|3|157.245.27.9|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|4|161.35.197.118|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|5|52.43.36.186|3128|United States|Portland|Amazon.com, Inc.|
+|6|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
+|7|193.107.104.57|3128|Ukraine|Vinnytsia|Stasishen Aleksandr Afanasiyovich|
+|8|40.119.236.22|80|Singapore|Singapore|Microsoft Corporation|
+|9|61.28.233.217|3128|Vietnam|Ho Chi Minh City|Vinadata broadcast via vinagame AS Number|
+|10|213.171.44.134|3128|Russia|Moscow|JSC Comcor|
+|11|103.42.180.58|45787|United States|Los Angeles|Zenlayer Inc|
+|12|198.27.74.6|9300|Canada|Beauharnois|OVH SAS|
+|13|103.42.180.58|45787|United States|Los Angeles|Zenlayer Inc|
+|14|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|15|81.12.44.197|3129|Iran|Tehran|RESPINA Networks|
+|16|46.16.201.51|3129|Switzerland|Bern|Hosteur SA|
+|17|182.253.233.240|8080|Indonesia|Jakarta|BIZNET|
+|18|64.225.8.115|9980|United States|Clifton|DigitalOcean, LLC|
+|19|179.49.239.2|999|Chile|Santiago|Sitelco SPA|
+|20|209.38.250.139|45212|Germany|Frankfurt am Main|DigitalOcean, LLC|
 
 
 
