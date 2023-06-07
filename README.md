@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **5620** proxies at the latest update. Usable proxies are below.
+> Scraper found **5612** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|484|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|484|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|484|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|481|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|481|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|481|
 
 ## Sources
 
@@ -37,7 +37,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|1|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1052|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1044|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1035|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2449|✅|
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|157.245.27.9|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|2|186.121.235.220|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|3|209.38.254.44|45212|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|4|209.38.250.139|45212|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|203.109.19.137|12241|South Korea|Mapo-gu|HAIonNet|
-|7|103.169.254.164|8061|Indonesia|Banyuwangi|PT Master Star Network|
+|1|64.225.8.115|9973|United States|Clifton|DigitalOcean, LLC|
+|2|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
+|3|186.121.235.220|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|4|40.119.236.22|80|Singapore|Singapore|Microsoft Corporation|
+|5|209.38.254.44|45212|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|6|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
+|7|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
 |8|105.213.121.82|4415|South Africa|Roodepoort|MTN SA|
-|9|160.19.232.85|3128|South Africa|Caledon|TWK-COMM|
-|10|82.165.184.53|80|Poland|Warsaw|IONOS SE|
-|11|181.78.104.181|999|Guatemala|Guatemala City|Ufinet Panama S.A.|
-|12|103.51.205.42|8181|Indonesia|Karanganyar|Lintas Data Prima|
-|13|88.218.251.189|8080|Russia|Moscow|eServer s.r.o.|
-|14|45.174.148.34|999|Argentina|Puerto Iguazú|Cable Video Imagen Canal 5 S.R.L|
-|15|190.242.157.234|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|16|190.119.81.82|999|Peru|Lima|America Movil Peru S.A.C.|
-|17|209.38.201.164|45212|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|18|103.160.206.54|32650|India|Moradabad|Moradabad Internet Services Private Limited|
-|19|212.109.223.78|3128|Russia|Markova|JSC "Server"|
-|20|185.189.199.75|23500|Bulgaria|Bansko|Mis70 LTD|
+|9|209.38.250.139|45212|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|185.189.199.75|23500|Bulgaria|Bansko|Mis70 LTD|
+|11|110.34.3.229|3128|Nepal|Kathmandu|SUBISU C7|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|64.225.8.115|9973|United States|Clifton|DigitalOcean, LLC|
+|14|181.205.241.227|999|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|15|103.191.155.46|8080|Indonesia|Karawang|PT Ilham Wifi Solution|
+|16|158.69.71.245|9300|Canada|Montreal|OVH SAS|
+|17|178.205.101.67|3129|Russia|Kazan'|Tattelecom|
+|18|103.169.43.235|55443|Indonesia|Gunungsitoli|PT Digital Gemilang Solusi|
+|19|64.225.8.82|9989|United States|Clifton|DigitalOcean, LLC|
+|20|157.230.95.47|8080|United States|North Bergen|DigitalOcean, LLC|
 
 
 
