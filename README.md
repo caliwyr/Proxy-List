@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **5635** proxies at the latest update. Usable proxies are below.
+> Scraper found **5866** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|401|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|401|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|401|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|523|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|523|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|523|
 
 ## Sources
 
@@ -33,11 +33,11 @@ Click the file format that you want and copy the URL.
 |[us-proxy.org](https://www.us-proxy.org)|200|✅|
 |[proxydb.net](http://proxydb.net)|15|✅|
 |[free-proxy-list.com](https://free-proxy-list.com/?page=&port=&type%5B%5D=http&type%5B%5D=https&up_time=0&search=Search)|10|✅|
-|[proxy-list.download](https://www.proxy-list.download/HTTP)|0|🚫|
+|[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|1|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|827|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1033|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|987|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2763|✅|
@@ -48,25 +48,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
-|2|40.119.236.22|80|Singapore|Singapore|Microsoft Corporation|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|138.201.113.2|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|5|157.245.27.9|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|6|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
-|7|46.16.201.51|3129|Switzerland|Bern|Hosteur SA|
-|8|18.144.99.132|3128|United States|San Jose|Amazon.com, Inc.|
-|9|52.53.165.53|3128|United States|San Jose|Amazon.com, Inc.|
-|10|54.183.253.72|3128|United States|San Jose|Amazon.com, Inc.|
-|11|64.225.4.29|9865|United States|Clifton|DigitalOcean, LLC|
-|12|209.38.250.139|45212|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|103.169.254.164|8061|Indonesia|Banyuwangi|PT Master Star Network|
-|14|158.69.73.79|9300|Canada|Montreal|OVH SAS|
-|15|64.225.4.29|9865|United States|Clifton|DigitalOcean, LLC|
-|16|63.239.220.5|8080|United States|Okeechobee|CenturyLink Communications, LLC|
-|17|72.52.91.124|3128|United States|Fremont|Hurricane Electric LLC|
-|18|46.182.6.51|3129|France|Paris|Hosteur SAS|
-|19|209.38.254.44|45212|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|20|157.245.204.137|5000|Singapore|Singapore|DigitalOcean, LLC|
+|2|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
+|3|136.243.55.199|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|4|137.184.110.255|8080|United States|North Bergen|DigitalOcean, LLC|
+|5|158.69.73.79|9300|Canada|Montreal|OVH SAS|
+|6|18.144.99.132|3128|United States|San Jose|Amazon.com, Inc.|
+|7|52.53.165.53|3128|United States|San Jose|Amazon.com, Inc.|
+|8|40.119.236.22|80|Singapore|Singapore|Microsoft Corporation|
+|9|186.121.235.220|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|10|209.38.254.44|45212|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|158.69.71.245|9300|Canada|Montreal|OVH SAS|
+|13|188.0.2.1|8888|Russia|Krasnoyarsk|YarTV Ltd.|
+|14|209.38.250.139|45212|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|15|78.188.81.57|8080|Turkey|Istanbul|TurkTelecom|
+|16|149.56.95.158|443|Canada|Montreal|OVH Hosting|
+|17|85.173.165.36|46330|Russia|Cherkessk|Karachaevo-Cherkesskelektrosvyaz|
+|18|94.130.229.212|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|19|185.15.172.212|3128|Russia|Moscow|SafeData LLC|
+|20|159.255.188.134|41258|Poland|Zamość|TOM-NET s.c. Dariusz Koper|
 
 
 
