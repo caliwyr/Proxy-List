@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **5632** proxies at the latest update. Usable proxies are below.
+> Scraper found **5694** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -36,10 +36,10 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1065|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|4|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1072|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|871|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|922|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2613|✅|
 
 
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|54.189.84.195|3128|United States|Portland|Amazon.com, Inc.|
-|2|54.189.84.195|3128|United States|Portland|Amazon.com, Inc.|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|37.120.192.154|8080|Netherlands|Amsterdam|M247 Europe SRL|
-|5|209.38.201.164|45212|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|6|209.38.254.44|45212|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|7|190.43.232.67|999|Peru|Cusco|Telefonica del Perú|
-|8|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
-|9|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
-|10|45.236.162.115|3128|Brazil|Montes Claros|Digitus Informatica Ltda - ME|
-|11|209.38.250.139|45212|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|103.92.26.190|4002|Vietnam|Quan Phu Nhuan|TLSOFT|
-|13|5.161.80.172|8080|United States|Ashburn|Hetzner Online GmbH|
-|14|154.72.73.58|8080|Tanzania|Dar es Salaam|RAHA-LTZ|
-|15|65.109.4.126|8080|Finland|Helsinki|Hetzner Online GmbH|
-|16|85.173.165.36|46330|Russia|Cherkessk|Karachaevo-Cherkesskelektrosvyaz|
-|17|66.206.32.162|3128|United States|Latham|Turnkey Internet Inc.|
-|18|180.184.91.187|443|China|Beijing|Beijing Volcano Engine Technology Co., Ltd.|
-|19|185.15.172.212|3128|Russia|Moscow|SafeData LLC|
-|20|5.161.80.172|8080|United States|Ashburn|Hetzner Online GmbH|
+|1|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
+|2|119.8.10.18|7890|Mexico|Mexico City|Huawei International Pte. LTD|
+|3|54.189.76.207|3128|United States|Portland|Amazon.com, Inc.|
+|4|54.190.35.111|3128|United States|Portland|Amazon.com, Inc.|
+|5|3.8.211.37|3128|United Kingdom|London|Amazon Technologies Inc.|
+|6|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
+|7|54.190.35.111|3128|United States|Portland|Amazon.com, Inc.|
+|8|54.189.76.207|3128|United States|Portland|Amazon.com, Inc.|
+|9|192.169.119.183|3128|Taiwan|Taipei|Zenlayer Inc|
+|10|209.38.201.164|45212|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|84.38.183.143|8080|Russia|St Petersburg|OOO "Network of data-centers "Selectel"|
+|12|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|14|209.38.250.139|45212|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|15|103.92.26.190|4002|Vietnam|Quan Phu Nhuan|TLSOFT|
+|16|50.233.228.147|8080|United States|Plymouth|Comcast Cable Communications, LLC|
+|17|104.37.102.181|8181|United States|Attica|ALTIUS Broadband, LLC|
+|18|66.206.32.162|3128|United States|Latham|Turnkey Internet Inc.|
+|19|5.161.80.172|8080|United States|Ashburn|Hetzner Online GmbH|
+|20|179.43.8.16|8088|Brazil|Massape do Piaui|Voex Telecom Ltda|
 
 
 
