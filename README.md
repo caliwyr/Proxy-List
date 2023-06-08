@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **5591** proxies at the latest update. Usable proxies are below.
+> Scraper found **5596** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|391|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|391|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|391|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|368|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|368|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|368|
 
 ## Sources
 
@@ -37,7 +37,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|1|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1008|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1013|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|853|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2646|✅|
@@ -51,22 +51,22 @@ Click the file format that you want and copy the URL.
 |2|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
 |3|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
 |4|147.182.217.31|8080|United States|North Bergen|DigitalOcean, LLC|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|222.254.2.77|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|192.169.119.183|3128|Taiwan|Taipei|Zenlayer Inc|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |7|222.254.2.80|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|50.74.173.82|8080|United States|New York|Charter Communications Inc|
-|9|91.185.60.117|8080|Russia|Irkutsk|Delovaya Set' - Irkutsk|
-|10|134.122.26.11|80|United States|North Bergen|DigitalOcean, LLC|
-|11|201.229.250.21|8080|Dominican Republic|Santiago de los Caballeros|Compañía Dominicana de Teléfonos S. A.|
-|12|201.164.60.222|999|Mexico|Zamora|Mega Cable, S.A. de C.V.|
-|13|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|14|115.144.102.39|10080|South Korea|Gangdong-gu|Korea Telecom|
-|15|103.83.159.225|8443|Singapore|Singapore|Centerhop Pte. Ltd.|
-|16|202.0.107.133|80|Indonesia|Padang Bulan|Universitas Sumatera Utara|
-|17|108.143.124.3|3128|Netherlands|Amsterdam|Microsoft Corporation|
-|18|113.180.0.235|8080|Vietnam|Tay Ninh|VNPT|
-|19|103.87.169.207|56642|India|Jaipur|Tejays Industries Pvt Ltd|
-|20|69.75.140.157|8080|United States|San Luis|Spectrum|
+|8|222.254.2.77|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|9|20.219.112.20|80|India|Chennai|Microsoft Corporation|
+|10|41.186.44.106|3128|Rwanda|Kigali|MTN Rwandacell|
+|11|67.206.232.81|999|Puerto Rico|Vega Baja|Liberty Mobile Puerto Rico Inc.|
+|12|50.74.173.82|8080|United States|New York|Charter Communications Inc|
+|13|91.185.60.117|8080|Russia|Irkutsk|Delovaya Set' - Irkutsk|
+|14|95.43.243.30|7777|Bulgaria|Sofia|Vivacom Bulgaria EAD|
+|15|23.132.185.101|53128|Norway|Sandefjord|Joseph Farnell|
+|16|154.12.224.190|3128|United States|St Louis|Nubes, LLC|
+|17|158.69.73.79|9300|Canada|Montreal|OVH SAS|
+|18|201.229.250.21|8080|Dominican Republic|Santiago de los Caballeros|Compañía Dominicana de Teléfonos S. A.|
+|19|149.56.95.158|443|Canada|Montreal|OVH Hosting|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 
 
 
