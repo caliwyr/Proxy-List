@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **6012** proxies at the latest update. Usable proxies are below.
+> Scraper found **6017** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|507|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|507|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|507|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|460|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|460|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|460|
 
 ## Sources
 
@@ -37,7 +37,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|1|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1131|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1136|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1114|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2683|✅|
@@ -48,25 +48,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
-|2|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
-|3|88.99.234.110|2021|Germany|Falkenstein|Hetzner Online GmbH|
-|4|64.225.4.63|9998|United States|Clifton|DigitalOcean, LLC|
-|5|51.159.115.233|3128|France|Paris|SCALEWAY|
-|6|158.69.185.37|3129|Canada|Montreal|OVH SAS|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|144.217.119.85|3207|Canada|Beauharnois|OVH Hosting|
-|9|144.217.131.61|3148|Canada|Beauharnois|OVH Hosting|
-|10|209.38.250.139|45212|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|185.15.172.212|3128|Russia|Moscow|SafeData LLC|
-|12|37.120.192.154|8080|Netherlands|Amsterdam|M247 Europe SRL|
-|13|115.144.9.246|11066|South Korea|Jecheon|Korea Telecom|
-|14|171.237.199.246|8080|Vietnam|Hanoi|Viettel Corporation|
-|15|203.150.113.144|8080|Thailand|Vadhana|Internet Thailand Company Ltd.|
-|16|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|17|103.155.197.50|8080|Indonesia|Sindangjaya|JEMBATANDATA|
-|18|24.106.221.230|53281|United States|Jacksonville|Spectrum|
-|19|178.128.150.93|8080|United States|North Bergen|DigitalOcean, LLC|
-|20|49.12.187.177|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|2|158.69.185.37|3129|Canada|Montreal|OVH SAS|
+|3|115.144.9.246|11066|South Korea|Jecheon|Korea Telecom|
+|4|119.8.10.18|7890|Mexico|Mexico City|Huawei International Pte. LTD|
+|5|159.89.132.167|8989|United States|Santa Clara|DigitalOcean, LLC|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
+|8|46.16.201.51|3129|Switzerland|Bern|Hosteur SA|
+|9|213.171.44.134|3128|Russia|Moscow|JSC Comcor|
+|10|203.150.113.144|8080|Thailand|Vadhana|Internet Thailand Company Ltd.|
+|11|176.106.34.47|8080|Poland|Gliwice|KRUCZNET - naprawa sprzetu RTV i elektronicznego Jozef Kruczek|
+|12|103.169.254.164|8061|Indonesia|Banyuwangi|PT Master Star Network|
+|13|51.159.115.233|3128|France|Paris|SCALEWAY|
+|14|63.239.220.109|8080|United States|Okeechobee|CenturyLink Communications, LLC|
+|15|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|16|79.99.110.254|18080|Russia|St Petersburg|SEVEREN|
+|17|202.0.107.133|80|Indonesia|Padang Bulan|Universitas Sumatera Utara|
+|18|136.243.55.199|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|19|192.99.182.243|3128|United States|Newark|OVH Hosting|
+|20|185.15.172.212|3128|Russia|Moscow|SafeData LLC|
 
 
 
