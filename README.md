@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **5962** proxies at the latest update. Usable proxies are below.
+> Scraper found **6033** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|525|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|525|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|525|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|557|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|557|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|557|
 
 ## Sources
 
@@ -36,8 +36,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1110|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|34|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1147|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1093|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2676|✅|
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|23.122.184.9|8888|United States|Davie|AT&T Services, Inc.|
-|2|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
-|3|64.225.8.191|9983|United States|Clifton|DigitalOcean, LLC|
-|4|119.8.10.18|7890|Mexico|Mexico City|Huawei International Pte. LTD|
-|5|185.238.72.222|53128|Poland|Lodz|IWACOM Sp. z o.o.|
-|6|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
-|7|157.245.27.9|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|64.225.8.191|9983|United States|Clifton|DigitalOcean, LLC|
-|9|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|10|213.171.44.134|3128|Russia|Moscow|JSC Comcor|
-|11|91.236.120.4|3128|Russia|Bryansk|BitWeb LLC|
-|12|209.38.254.44|45212|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|51.81.24.36|3128|United States|New York|OVH US LLC|
-|14|103.157.218.170|1911|Vietnam|Hanoi|3S Viet Nam Technology Joint Stock Company|
-|15|103.52.213.131|80|Indonesia|South Tangerang|Kementerian Lingkungan Hidup|
-|16|94.198.66.102|8888|Sweden|Umeå|Telecom3|
-|17|209.38.201.164|45212|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|18|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|19|24.172.34.114|49920|United States|Darlington|Charter Communications Inc|
-|20|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
+|1|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
+|2|119.8.10.18|7890|Mexico|Mexico City|Huawei International Pte. LTD|
+|3|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
+|4|213.171.44.134|3128|Russia|Moscow|JSC Comcor|
+|5|212.112.113.178|3128|Kyrgyzstan|Bishkek|AkNet|
+|6|185.238.72.222|53128|Poland|Lodz|IWACOM Sp. z o.o.|
+|7|206.41.242.129|8080|United States|Tillar|Internet Doorway, Inc.|
+|8|46.29.165.166|8123|Russia|Moscow|BNET|
+|9|194.44.172.254|23500|Ukraine|Rivne|State Enterprise Scientific and Telecommunication Centre "Ukrainian Academic an|
+|10|65.21.242.89|4444|Finland|Helsinki|Hetzner Online GmbH|
+|11|46.16.201.51|3129|Switzerland|Bern|Hosteur SA|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|103.157.218.170|1911|Vietnam|Hanoi|3S Viet Nam Technology Joint Stock Company|
+|14|119.8.120.4|80|Hong Kong|Hong Kong|Huawei International Pte. LTD|
+|15|177.23.54.13|6006|Brazil|Erval|Digi Fibra|
+|16|91.236.120.4|3128|Russia|Bryansk|BitWeb LLC|
+|17|190.242.157.234|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|18|24.152.40.49|8080|Paraguay|Coronel Oviedo|TV MAX CABLE S.A.|
+|19|103.106.77.14|8080|Indonesia|Jakarta|PT Quantum Tera Multimedia|
+|20|77.232.21.4|8080|Russia|Moscow|JSC "AKADO-Stolitsa"|
 
 
 
