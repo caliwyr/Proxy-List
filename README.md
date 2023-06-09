@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **5262** proxies at the latest update. Usable proxies are below.
+> Scraper found **5180** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|341|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|341|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|341|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|276|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|276|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|276|
 
 ## Sources
 
@@ -36,10 +36,10 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|2|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|845|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|1|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|723|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|733|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|774|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2599|✅|
 
 
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.209.114.72|3129|Germany|Frankfurt am Main|Alibaba.com Singapore E-Commerce Private Limited|
-|2|138.201.113.2|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|3|94.198.66.102|8888|Sweden|Umeå|Telecom3|
-|4|158.69.71.245|9300|Canada|Montreal|OVH SAS|
-|5|46.182.6.51|3129|France|Paris|Hosteur SAS|
-|6|23.132.185.101|53128|Norway|Sandefjord|Joseph Farnell|
-|7|107.148.193.162|1080|United States|San Jose|PEG TECH INC|
-|8|162.255.84.196|80|United States|Philadelphia|IONOS SE|
-|9|64.226.110.184|45212|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|5.161.220.140|8080|United States|Ashburn|Hetzner Online GmbH|
-|11|164.90.212.28|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|103.209.176.185|32650|India|Kota|Priya Agency|
-|13|194.124.36.106|8080|Turkey|Antalya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|14|115.144.99.220|11116|South Korea|Gangdong-gu|HAIonNet|
-|15|8.209.114.72|3129|Germany|Frankfurt am Main|Alibaba.com Singapore E-Commerce Private Limited|
-|16|212.22.94.189|3128|Russia|Moscow|Sbcloud LLC|
-|17|41.76.145.136|3128|Mozambique|Maxixe|VM  S.A|
-|18|183.221.242.102|9443|China|Mianyang|China Mobile|
-|19|149.56.95.158|443|Canada|Montreal|OVH Hosting|
-|20|181.78.75.131|80|Colombia|Bogotá|IFX Networks Argentina S.R.L|
+|1|172.105.128.71|56444|United States|Cedar Knolls|Akamai Technologies|
+|2|158.69.73.79|9300|Canada|Montreal|OVH SAS|
+|3|172.105.128.71|56444|United States|Cedar Knolls|Akamai Technologies|
+|4|65.21.106.116|8080|Finland|Helsinki|Hetzner Online GmbH|
+|5|95.217.217.194|8080|Finland|Helsinki|Hetzner Online GmbH|
+|6|107.148.193.162|1080|United States|San Jose|PEG TECH INC|
+|7|154.70.107.81|3128|Cameroon|Douala|MTN Network Solutions (Cameroon)|
+|8|177.93.45.156|999|Colombia|Tunja|TV AZTECA SUCURSAL COLOMBIA|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|181.78.8.215|999|Colombia|Fonseca|IFX Networks Argentina S.R.L|
+|11|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
+|12|181.143.58.171|999|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|13|181.143.58.173|999|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|14|8.209.114.72|3129|Germany|Frankfurt am Main|Alibaba.com Singapore E-Commerce Private Limited|
+|15|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
+|16|23.132.185.101|53128|Norway|Sandefjord|Joseph Farnell|
+|17|146.196.54.75|80|Hong Kong|Kwun Tong|Layerstack Limited|
+|18|118.97.100.75|8080|Indonesia|Menteng|PT. Telekomunikasi Indonesia|
+|19|64.226.110.184|45212|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|20|202.40.177.69|80|Bangladesh|Azimpur|Ranks ITT|
 
 
 
