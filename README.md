@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **6104** proxies at the latest update. Usable proxies are below.
+> Scraper found **6156** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|477|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|477|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|477|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|579|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|579|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|579|
 
 ## Sources
 
@@ -36,8 +36,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1252|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|2|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1302|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1093|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2676|✅|
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
-|2|51.81.24.36|3128|United States|New York|OVH US LLC|
-|3|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
-|4|172.105.128.71|56444|United States|Cedar Knolls|Akamai Technologies|
-|5|119.8.10.18|7890|Mexico|Mexico City|Huawei International Pte. LTD|
-|6|157.245.27.9|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|7|143.110.147.61|8989|United States|Santa Clara|DigitalOcean, LLC|
-|8|185.238.72.222|53128|Poland|Lodz|IWACOM Sp. z o.o.|
-|9|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
-|10|91.236.120.4|3128|Russia|Bryansk|BitWeb LLC|
-|11|37.26.86.206|47464|Albania|Tirana|ATU|
-|12|209.38.201.164|45212|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|102.223.88.29|8080|Uganda|Kireka|Mobile Data|
-|14|209.38.254.44|45212|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|15|187.62.211.228|8080|Brazil|São Paulo|Wireless Comm Services LTDA|
-|16|103.157.218.170|1911|Vietnam|Hanoi|3S Viet Nam Technology Joint Stock Company|
-|17|46.16.201.51|3129|Switzerland|Bern|Hosteur SA|
-|18|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|19|66.70.178.214|9300|Canada|Beauharnois|OVH SAS|
-|20|97.76.251.138|8080|United States|Tampa|Spectrum|
+|1|172.105.128.71|56444|United States|Cedar Knolls|Akamai Technologies|
+|2|8.209.114.72|3129|Germany|Frankfurt am Main|Alibaba.com Singapore E-Commerce Private Limited|
+|3|172.105.128.71|56444|United States|Cedar Knolls|Akamai Technologies|
+|4|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
+|5|103.180.125.61|3128|Indonesia|Ponorogo|PT TOKO MIRING BERJAYA|
+|6|65.21.242.89|4444|Finland|Helsinki|Hetzner Online GmbH|
+|7|213.171.44.134|3128|Russia|Moscow|JSC Comcor|
+|8|94.198.66.102|8888|Sweden|Umeå|Telecom3|
+|9|91.236.120.4|3128|Russia|Bryansk|BitWeb LLC|
+|10|85.196.179.34|8080|Bulgaria|Sofia|Mobiltel BNG|
+|11|103.157.218.170|1911|Vietnam|Hanoi|3S Viet Nam Technology Joint Stock Company|
+|12|66.70.178.214|9300|Canada|Beauharnois|OVH SAS|
+|13|190.82.105.123|43949|Chile|Santiago|Telefonica Empresas|
+|14|178.128.88.72|10000|Singapore|Singapore|DigitalOcean, LLC|
+|15|103.129.92.95|9995|Indonesia|Malang|PT. Eka Mas Republik|
+|16|200.25.254.193|54240|Colombia|Leticia|Andinet ON Line|
+|17|162.252.150.1|8282|United States|Modoc|ALTIUS Broadband, LLC|
+|18|51.81.24.36|3128|United States|New York|OVH US LLC|
+|19|194.44.172.254|23500|Ukraine|Rivne|State Enterprise Scientific and Telecommunication Centre "Ukrainian Academic an|
+|20|187.62.211.228|8080|Brazil|São Paulo|Wireless Comm Services LTDA|
 
 
 
