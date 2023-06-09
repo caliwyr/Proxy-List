@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **5944** proxies at the latest update. Usable proxies are below.
+> Scraper found **5844** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|447|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|447|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|447|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|630|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|630|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|630|
 
 ## Sources
 
@@ -37,36 +37,36 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|1|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1015|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1006|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1078|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2767|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2676|✅|
 
 
 ## Sample Proxies With Geolocation Info
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|1|164.90.212.28|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |2|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
-|3|119.8.10.18|7890|Mexico|Mexico City|Huawei International Pte. LTD|
-|4|144.217.119.85|3207|Canada|Beauharnois|OVH Hosting|
-|5|192.169.119.183|3128|Taiwan|Taipei|Zenlayer Inc|
-|6|201.229.250.21|8080|Dominican Republic|Santiago de los Caballeros|Compañía Dominicana de Teléfonos S. A.|
-|7|158.69.185.37|3129|Canada|Montreal|OVH SAS|
-|8|144.217.131.61|3148|Canada|Beauharnois|OVH Hosting|
-|9|212.129.15.88|8080|France|Paris|Online SAS|
-|10|192.99.182.243|3128|United States|Newark|OVH Hosting|
-|11|162.252.150.1|8282|United States|Modoc|ALTIUS Broadband, LLC|
-|12|209.38.250.139|45212|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|88.99.234.110|2021|Germany|Falkenstein|Hetzner Online GmbH|
-|14|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
-|15|158.69.158.107|8050|Canada|Montreal|OVH Hosting|
-|16|144.217.240.185|9300|Canada|Beauharnois|OVH SAS|
-|17|190.131.210.19|999|Colombia|Barranquilla|Columbus Networks Colombia|
-|18|191.243.46.50|43241|Brazil|Nova Crixas|Microturbo Telecomunicacoes Ltda-me|
-|19|110.34.3.229|3128|Nepal|Kathmandu|SUBISU C7|
-|20|66.27.58.70|8080|United States|Reseda|Spectrum|
+|3|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
+|4|64.226.123.71|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|5|95.217.212.34|8080|Finland|Helsinki|Hetzner Online GmbH|
+|6|209.38.254.44|45212|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|7|162.252.150.1|8282|United States|Modoc|ALTIUS Broadband, LLC|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|162.252.150.1|8282|United States|Modoc|ALTIUS Broadband, LLC|
+|10|209.38.250.139|45212|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|209.38.201.164|45212|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|119.8.10.18|7890|Mexico|Mexico City|Huawei International Pte. LTD|
+|13|64.225.8.179|9988|United States|Clifton|DigitalOcean, LLC|
+|14|192.99.182.243|3128|United States|Newark|OVH Hosting|
+|15|193.41.88.58|53281|Ukraine|Kyiv|Kyiv National Taras Shevchenko University|
+|16|45.201.209.137|8081|Cambodia|Phnom Penh|King Technologies Co|
+|17|190.19.114.104|8080|Argentina|La Plata|Telecom Argentina S.A|
+|18|45.174.94.222|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
+|19|181.118.143.1|999|Argentina|Tandil|Siternet SRL|
+|20|181.232.190.130|999|Dominican Republic|Santo Domingo Este|Airtime Technology SRL|
 
 
 
