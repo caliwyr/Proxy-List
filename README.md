@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **5580** proxies at the latest update. Usable proxies are below.
+> Scraper found **5683** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|356|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|356|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|356|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|338|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|338|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|338|
 
 ## Sources
 
@@ -37,7 +37,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|1|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1025|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1128|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|852|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2619|✅|
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
-|2|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
-|3|46.16.201.51|3129|Switzerland|Bern|Hosteur SA|
-|4|185.238.72.222|53128|Poland|Lodz|IWACOM Sp. z o.o.|
-|5|159.255.188.134|41258|Poland|Zamość|TOM-NET s.c. Dariusz Koper|
-|6|159.255.188.134|41258|Poland|Zamość|TOM-NET s.c. Dariusz Koper|
-|7|181.78.107.117|999|Guatemala|Guatemala City|UFINET Guatemala S. A|
-|8|45.173.12.86|999|Colombia|San Gil|Atenea Telecomunicaciones S.A.S|
-|9|82.165.184.53|80|Poland|Warsaw|IONOS SE|
-|10|180.184.91.187|443|China|Beijing|Beijing Volcano Engine Technology Co., Ltd.|
-|11|103.123.234.25|8080|India|Panipat|Manish Kumar|
-|12|103.168.44.167|9191|Indonesia|Cilacap|PT CYB Media Group|
-|13|158.69.48.228|3128|Canada|Montreal|OVH SAS|
-|14|171.244.65.14|4002|Vietnam|Hanoi|Viettel Corporation|
-|15|178.128.88.72|10000|Singapore|Singapore|DigitalOcean, LLC|
-|16|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
-|17|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|18|5.161.213.21|8080|United States|Ashburn|Hetzner Online GmbH|
-|19|114.102.45.75|8089|China|Hefei|Chinanet|
-|20|123.182.58.30|8089|China|Zhangjiakou|Chinanet|
+|1|61.80.239.168|1337|South Korea|Daegu|Korea Telecom|
+|2|107.148.193.162|1080|United States|San Jose|PEG TECH INC|
+|3|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
+|4|107.148.193.162|1080|United States|San Jose|PEG TECH INC|
+|5|46.101.156.28|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|6|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|119.76.142.232|8080|Thailand|Nakhon Pathom|True Internet Co., Ltd.|
+|9|64.226.110.184|45212|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|45.174.94.222|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
+|11|200.110.105.80|999|Mexico|Rio Grande|Wistarip S De RL De CV|
+|12|36.90.102.105|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|13|45.76.199.54|9199|Japan|Shinagawa|The Constant Company|
+|14|114.129.18.94|8080|Indonesia|Nusa Dua|PT Hipernet Indodata|
+|15|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|16|115.144.16.101|10471|South Korea|Hwaseong-si|Korea Telecom|
+|17|34.125.246.223|80|United States|Las Vegas|Google LLC|
+|18|51.81.24.36|3128|United States|New York|OVH US LLC|
+|19|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 
 
 
