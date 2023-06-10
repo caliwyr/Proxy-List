@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|465|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|465|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|465|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|342|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|342|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|342|
 
 ## Sources
 
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|51.81.24.36|3128|United States|New York|OVH US LLC|
-|2|18.143.215.49|80|Singapore|Singapore|Amazon Technologies Inc.|
-|3|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
-|4|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
+|1|18.143.215.49|80|Singapore|Singapore|Amazon Technologies Inc.|
+|2|178.128.88.72|10000|Singapore|Singapore|DigitalOcean, LLC|
+|3|107.148.193.162|1080|United States|San Jose|PEG TECH INC|
+|4|198.27.74.6|9300|Canada|Beauharnois|OVH SAS|
 |5|51.81.24.36|3128|United States|New York|OVH US LLC|
-|6|213.52.102.8|80|Norway|Oslo|Zscaler Switzerland GmbH|
-|7|66.70.178.214|9300|Canada|Beauharnois|OVH SAS|
-|8|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|9|51.79.50.22|9300|Canada|Beauharnois|OVH SAS|
-|10|213.52.102.66|80|Norway|Oslo|Zscaler Switzerland GmbH|
-|11|213.52.102.36|80|Norway|Oslo|Zscaler Switzerland GmbH|
-|12|213.52.102.35|80|Norway|Oslo|Zscaler Switzerland GmbH|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|14|209.38.254.44|45212|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|15|103.166.10.71|32650|Indonesia|Tulungagung|PT. Yasmin Amanah Media|
-|16|23.132.185.101|53128|Norway|Sandefjord|Joseph Farnell|
-|17|198.27.74.6|9300|Canada|Beauharnois|OVH SAS|
-|18|46.16.201.51|3129|Switzerland|Bern|Hosteur SA|
-|19|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|20|181.78.107.117|999|Guatemala|Guatemala City|UFINET Guatemala S. A|
+|6|202.46.145.4|8080|Indonesia|Jakarta|Pt Mithaharum Abadi|
+|7|190.92.239.132|8443|Hong Kong|Hong Kong|Huawei International Pte. LTD|
+|8|213.52.102.8|80|Norway|Oslo|Zscaler Switzerland GmbH|
+|9|146.196.54.75|80|Hong Kong|Kwun Tong|Layerstack Limited|
+|10|51.81.24.36|3128|United States|New York|OVH US LLC|
+|11|66.70.178.214|9300|Canada|Beauharnois|OVH SAS|
+|12|213.52.102.66|80|Norway|Oslo|Zscaler Switzerland GmbH|
+|13|213.52.102.35|80|Norway|Oslo|Zscaler Switzerland GmbH|
+|14|119.8.10.18|7890|Mexico|Mexico City|Huawei International Pte. LTD|
+|15|8.209.114.72|3129|Germany|Frankfurt am Main|Alibaba.com Singapore E-Commerce Private Limited|
+|16|213.52.102.36|80|Norway|Oslo|Zscaler Switzerland GmbH|
+|17|64.225.4.63|9993|United States|Clifton|DigitalOcean, LLC|
+|18|64.226.110.184|45212|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|19|152.231.17.227|999|Argentina|El Jagüel|CBRNET|
+|20|64.225.4.63|9993|United States|Clifton|DigitalOcean, LLC|
 
 
 
