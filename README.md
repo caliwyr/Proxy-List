@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|436|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|436|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|436|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|445|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|445|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|445|
 
 ## Sources
 
@@ -48,25 +48,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
-|2|64.225.4.29|9865|United States|Clifton|DigitalOcean, LLC|
-|3|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
-|4|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
-|5|64.225.4.29|9865|United States|Clifton|DigitalOcean, LLC|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|64.225.4.63|9995|United States|Clifton|DigitalOcean, LLC|
-|8|50.74.173.82|8080|United States|New York|Charter Communications Inc|
-|9|51.79.50.22|9300|Canada|Beauharnois|OVH SAS|
-|10|8.209.114.72|3129|Germany|Frankfurt am Main|Alibaba.com Singapore E-Commerce Private Limited|
-|11|18.143.215.49|80|Singapore|Singapore|Amazon Technologies Inc.|
-|12|167.86.99.172|8080|Germany|Nuremberg|Contabo GmbH|
-|13|176.95.54.202|83|Germany|Arzberg|Vodafone GmbH|
-|14|64.226.110.184|45212|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|15|51.81.24.36|3128|United States|New York|OVH US LLC|
-|16|202.46.145.4|8080|Indonesia|Jakarta|Pt Mithaharum Abadi|
-|17|119.8.10.18|7890|Mexico|Mexico City|Huawei International Pte. LTD|
-|18|209.38.250.139|45212|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|19|51.81.24.36|3128|United States|New York|OVH US LLC|
-|20|181.205.41.210|7654|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|2|184.105.182.254|3128|United States|Gilroy|Hurricane Electric LLC|
+|3|51.79.50.22|9300|Canada|Beauharnois|OVH SAS|
+|4|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
+|5|213.241.205.2|8080|Russia|Rostov-on-Don|RTCOMM-YUG|
+|6|46.182.6.51|3129|France|Paris|Hosteur SAS|
+|7|167.86.99.172|8080|Germany|Nuremberg|Contabo GmbH|
+|8|18.143.215.49|80|Singapore|Singapore|Amazon Technologies Inc.|
+|9|157.245.27.9|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|158.69.73.79|9300|Canada|Montreal|OVH SAS|
+|11|158.69.53.98|9300|Canada|Montreal|OVH SAS|
+|12|51.79.50.31|9300|Canada|Beauharnois|OVH SAS|
+|13|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|14|177.66.101.223|8024|Brazil|Araguari|WN TELECOM LTDA - ME|
+|15|178.128.88.72|10000|Singapore|Singapore|DigitalOcean, LLC|
+|16|210.245.53.122|8080|Vietnam|Hanoi|FPT Telecom Company|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|18|46.16.201.51|3129|Switzerland|Bern|Hosteur SA|
+|19|37.120.192.154|8080|Netherlands|Amsterdam|M247 Europe SRL|
+|20|51.81.88.73|3128|United States|Warrenton|OVH US LLC|
 
 
 
