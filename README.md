@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **8968** proxies at the latest update. Usable proxies are below.
+> Scraper found **8954** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|315|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|315|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|315|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|307|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|307|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|307|
 
 ## Sources
 
@@ -36,10 +36,10 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|814|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|1|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|862|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|809|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|746|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|6262|✅|
 
 
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|18.143.215.49|80|Singapore|Singapore|Amazon Technologies Inc.|
+|1|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
 |2|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
-|3|158.69.53.98|9300|Canada|Montreal|OVH SAS|
+|3|18.143.215.49|80|Singapore|Singapore|Amazon Technologies Inc.|
 |4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|103.145.200.2|6969|Indonesia|Jakarta|DNE|
-|6|94.200.240.102|8080|United Arab Emirates|Dubai|Emirates Integrated Telecommunications Company PJSC|
+|5|107.148.193.162|1080|United States|San Jose|PEG TECH INC|
+|6|64.226.110.184|45212|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |7|38.156.238.96|999|Dominican Republic|Santo Domingo|BITNET DOMINICANA, S.R.L.|
-|8|64.225.4.63|9993|United States|Clifton|DigitalOcean, LLC|
-|9|180.184.91.187|443|China|Beijing|Beijing Volcano Engine Technology Co., Ltd.|
-|10|95.217.217.194|8080|Finland|Helsinki|Hetzner Online GmbH|
-|11|23.132.185.101|53128|Norway|Sandefjord|Joseph Farnell|
-|12|158.69.48.228|3128|Canada|Montreal|OVH SAS|
-|13|180.184.91.187|443|China|Beijing|Beijing Volcano Engine Technology Co., Ltd.|
-|14|31.186.241.8|8888|Netherlands|Amsterdam|InterNAP Network Services|
-|15|51.161.118.103|8118|Canada|Beauharnois|OVH SAS|
-|16|49.12.187.177|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|17|95.56.254.139|3128|Kazakhstan|Almaty|JSC Kazakhtelecom|
-|18|173.249.37.15|8080|Germany|Nuremberg|Contabo GmbH|
-|19|183.221.242.103|9443|China|Mianyang|China Mobile|
-|20|65.21.106.116|8080|Finland|Helsinki|Hetzner Online GmbH|
+|8|64.226.123.71|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|213.52.102.66|80|Norway|Oslo|Zscaler Switzerland GmbH|
+|10|158.69.48.228|3128|Canada|Montreal|OVH SAS|
+|11|65.109.238.201|8080|Finland|Helsinki|Hetzner Online GmbH|
+|12|123.126.158.184|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|13|183.221.242.103|9443|China|Mianyang|China Mobile|
+|14|123.182.59.236|8089|China|Zhangjiakou|Chinanet|
+|15|123.182.58.145|8089|China|Zhangjiakou|Chinanet|
+|16|123.182.59.235|8089|China|Zhangjiakou|Chinanet|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|18|38.156.238.28|999|Dominican Republic|Santo Domingo|BITNET DOMINICANA, S.R.L.|
+|19|123.182.58.134|8089|China|Zhangjiakou|Chinanet|
+|20|46.182.6.51|3129|France|Paris|Hosteur SAS|
 
 
 
