@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **9131** proxies at the latest update. Usable proxies are below.
+> Scraper found **9113** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|421|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|421|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|421|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|422|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|422|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|422|
 
 ## Sources
 
@@ -36,8 +36,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|27|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|878|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|29|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|858|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|797|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|6346|✅|
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
-|2|213.171.44.134|3128|Russia|Moscow|JSC Comcor|
-|3|107.148.193.162|1080|United States|San Jose|PEG TECH INC|
-|4|18.143.215.49|80|Singapore|Singapore|Amazon Technologies Inc.|
-|5|64.225.4.29|9865|United States|Clifton|DigitalOcean, LLC|
-|6|192.169.119.183|3128|Taiwan|Taipei|Zenlayer Inc|
-|7|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|8|64.225.4.29|9865|United States|Clifton|DigitalOcean, LLC|
-|9|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
-|10|176.95.54.202|83|Germany|Arzberg|Vodafone GmbH|
-|11|107.148.193.162|1080|United States|San Jose|PEG TECH INC|
-|12|158.69.73.79|9300|Canada|Montreal|OVH SAS|
-|13|202.46.145.4|8080|Indonesia|Jakarta|Pt Mithaharum Abadi|
-|14|64.226.110.184|45212|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|15|46.182.6.51|3129|France|Paris|Hosteur SAS|
-|16|212.112.113.178|3128|Kyrgyzstan|Bishkek|AkNet|
-|17|176.106.34.47|8080|Poland|Gliwice|KRUCZNET - naprawa sprzetu RTV i elektronicznego Jozef Kruczek|
-|18|103.92.26.190|4002|Vietnam|Quan Phu Nhuan|TLSOFT|
-|19|209.38.201.164|45212|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|20|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|1|8.209.114.72|3129|Germany|Frankfurt am Main|Alibaba.com Singapore E-Commerce Private Limited|
+|2|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
+|3|157.245.27.9|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|4|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
+|5|202.46.145.4|8080|Indonesia|Jakarta|Pt Mithaharum Abadi|
+|6|20.219.182.59|3129|India|Pune|Microsoft Corporation|
+|7|18.143.215.49|80|Singapore|Singapore|Amazon Technologies Inc.|
+|8|46.182.6.51|3129|France|Paris|Hosteur SAS|
+|9|192.169.119.183|3128|Taiwan|Taipei|Zenlayer Inc|
+|10|20.219.177.38|3129|India|Pune|Microsoft Corporation|
+|11|20.219.177.73|3129|India|Pune|Microsoft Corporation|
+|12|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|14|144.217.253.209|9300|Canada|Beauharnois|OVH SAS|
+|15|94.200.240.102|8080|United Arab Emirates|Dubai|Emirates Integrated Telecommunications Company PJSC|
+|16|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|17|203.150.128.218|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|18|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|19|20.204.190.254|3129|India|Pune|Microsoft Corporation|
+|20|103.92.26.190|4002|Vietnam|Quan Phu Nhuan|TLSOFT|
 
 
 
