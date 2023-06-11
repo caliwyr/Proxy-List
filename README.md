@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|554|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|554|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|554|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|586|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|586|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|586|
 
 ## Sources
 
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|157.245.27.9|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|2|43.225.198.58|80|Hong Kong|Tseung Kwan O|Netsec Limited|
-|3|78.138.98.115|3128|France|Strasbourg|Host Europe GmbH|
-|4|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
-|5|88.99.234.110|2021|Germany|Falkenstein|Hetzner Online GmbH|
-|6|5.182.38.154|8080|Hungary|Budapest|Stark Industries Solutions LTD|
-|7|203.109.19.137|12241|South Korea|Mapo-gu|HAIonNet|
-|8|20.44.206.138|80|Singapore|Singapore|Microsoft Corporation|
-|9|38.156.238.95|999|Dominican Republic|Santo Domingo|BITNET DOMINICANA, S.R.L.|
-|10|46.182.6.51|3129|France|Paris|Hosteur SAS|
-|11|201.184.176.107|8080|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|86.57.156.106|2222|Belarus|Minsk|Republican Unitary Telecommunication Enterprise Beltelecom|
-|14|158.69.53.98|9300|Canada|Montreal|OVH SAS|
-|15|140.238.245.116|8100|India|Mumbai|Oracle Corporation|
-|16|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
-|17|209.38.250.139|45212|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|18|209.38.254.44|45212|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|19|64.225.8.115|9977|United States|Clifton|DigitalOcean, LLC|
-|20|110.74.195.34|25|Cambodia|Phnom Penh|EZECOM limited|
+|1|43.153.14.156|8080|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|2|8.209.114.72|3129|Germany|Frankfurt am Main|Alibaba.com Singapore E-Commerce Private Limited|
+|3|46.182.6.51|3129|France|Paris|Hosteur SAS|
+|4|18.143.215.49|80|Singapore|Singapore|Amazon Technologies Inc.|
+|5|20.44.206.138|80|Singapore|Singapore|Microsoft Corporation|
+|6|119.8.10.18|7890|Mexico|Mexico City|Huawei International Pte. LTD|
+|7|209.38.250.139|45212|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|110.74.195.34|25|Cambodia|Phnom Penh|EZECOM limited|
+|9|43.153.14.156|8080|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|10|38.156.238.95|999|Dominican Republic|Santo Domingo|BITNET DOMINICANA, S.R.L.|
+|11|186.3.38.204|999|Ecuador|Cuenca|Telconet S.A|
+|12|200.105.215.22|33630|Bolivia|La Paz|AXS Bolivia S. A.|
+|13|158.69.53.98|9300|Canada|Montreal|OVH SAS|
+|14|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|15|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
+|16|5.161.191.190|8080|United States|Ashburn|Hetzner Online GmbH|
+|17|103.169.254.164|8061|Indonesia|Banyuwangi|PT Master Star Network|
+|18|24.199.92.0|8080|United States|North Bergen|DigitalOcean, LLC|
+|19|65.21.106.116|8080|Finland|Helsinki|Hetzner Online GmbH|
+|20|5.161.185.131|8080|United States|Ashburn|Hetzner Online GmbH|
 
 
 
