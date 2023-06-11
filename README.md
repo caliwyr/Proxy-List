@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **9577** proxies at the latest update. Usable proxies are below.
+> Scraper found **9584** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|503|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|503|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|503|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|575|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|575|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|575|
 
 ## Sources
 
@@ -37,7 +37,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|2|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|969|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|976|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1211|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|6312|✅|
@@ -48,25 +48,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.84.106.205|8214|United States|Boydton|Microsoft Corporation|
-|2|18.143.215.49|80|Singapore|Singapore|Amazon Technologies Inc.|
-|3|5.182.38.154|8080|Hungary|Budapest|Stark Industries Solutions LTD|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|200.106.124.106|999|Peru|Tacna|Telefonica del Peru|
-|6|5.188.154.104|8080|Kazakhstan|Almaty|NLS|
-|7|8.209.114.72|3129|Germany|Frankfurt am Main|Alibaba.com Singapore E-Commerce Private Limited|
-|8|20.84.106.205|8214|United States|Boydton|Microsoft Corporation|
-|9|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|10|47.74.154.143|8787|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|11|158.69.27.94|9300|Canada|Montreal|OVH SAS|
+|2|107.148.193.162|1080|United States|San Jose|PEG TECH INC|
+|3|46.182.6.51|3129|France|Paris|Hosteur SAS|
+|4|64.225.4.29|9865|United States|Clifton|DigitalOcean, LLC|
+|5|5.182.38.154|8080|Hungary|Budapest|Stark Industries Solutions LTD|
+|6|64.226.110.184|45212|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|7|18.143.215.49|80|Singapore|Singapore|Amazon Technologies Inc.|
+|8|5.188.154.104|8080|Kazakhstan|Almaty|NLS|
+|9|51.79.50.22|9300|Canada|Beauharnois|OVH SAS|
+|10|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |12|209.38.201.164|45212|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|103.187.117.66|8282|Indonesia|Sukabumi|PT Proxi Jaringan Nusantara|
-|14|115.124.68.226|8080|Indonesia|Bogor|PT Remala Abadi|
+|13|20.84.106.205|8214|United States|Boydton|Microsoft Corporation|
+|14|103.160.206.140|32650|India|Moradabad|Moradabad Internet Services Private Limited|
 |15|116.111.233.11|10011|Vietnam|Tam Ky|Viettel Corporation|
-|16|144.217.253.209|9300|Canada|Beauharnois|OVH SAS|
+|16|222.127.186.27|8082|Philippines|Lahug|Globe Telecom Inc.|
 |17|182.253.234.44|8080|Indonesia|Jakarta|BIZNET|
-|18|43.153.14.156|8080|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|19|115.144.102.39|10080|South Korea|Gangdong-gu|Korea Telecom|
-|20|64.226.123.71|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|18|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|19|157.245.27.9|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|20|8.209.114.72|3129|Germany|Frankfurt am Main|Alibaba.com Singapore E-Commerce Private Limited|
 
 
 
