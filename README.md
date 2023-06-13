@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **9823** proxies at the latest update. Usable proxies are below.
+> Scraper found **9759** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|662|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|662|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|662|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|700|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|700|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|700|
 
 ## Sources
 
@@ -36,8 +36,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|28|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1094|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|6|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1052|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1212|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|6406|✅|
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.44.206.138|80|Singapore|Singapore|Microsoft Corporation|
-|2|8.209.114.72|3129|Germany|Frankfurt am Main|Alibaba.com Singapore E-Commerce Private Limited|
-|3|195.154.185.32|3128|France|Vitry-sur-Seine|Online S.A.S.|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|5.154.147.96|8089|Germany|Frankfurt am Main|CTE|
-|6|64.225.4.29|9865|United States|Clifton|DigitalOcean, LLC|
-|7|18.143.215.49|80|Singapore|Singapore|Amazon Technologies Inc.|
-|8|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
-|9|78.138.98.115|3128|France|Strasbourg|Host Europe GmbH|
-|10|85.184.192.154|3128|United Kingdom|Sale|ELITETELE.COM PLC|
-|11|35.200.155.178|3128|India|Mumbai|Google LLC|
-|12|120.143.15.137|8080|Japan|Toshima|INTERLINK|
-|13|5.188.154.104|8080|Kazakhstan|Almaty|NLS|
-|14|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|15|64.226.110.184|45212|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|16|144.217.240.185|9300|Canada|Beauharnois|OVH SAS|
-|17|204.48.21.167|8080|United States|North Bergen|DigitalOcean, LLC|
-|18|24.199.88.105|8080|United States|North Bergen|DigitalOcean, LLC|
-|19|94.45.223.222|8080|Russia|Dolgoprudnyy|Lofis LLC|
-|20|138.68.160.213|8080|United Kingdom|London|DigitalOcean, LLC|
+|1|192.99.182.243|3128|United States|Newark|OVH Hosting|
+|2|144.217.119.85|3207|Canada|Beauharnois|OVH Hosting|
+|3|158.69.185.37|3129|Canada|Montreal|OVH SAS|
+|4|144.217.131.61|3148|Canada|Beauharnois|OVH Hosting|
+|5|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
+|6|195.154.185.32|3128|France|Vitry-sur-Seine|Online S.A.S.|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|158.69.73.79|9300|Canada|Montreal|OVH SAS|
+|9|8.209.114.72|3129|Germany|Frankfurt am Main|Alibaba.com Singapore E-Commerce Private Limited|
+|10|88.99.21.184|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|11|18.143.215.49|80|Singapore|Singapore|Amazon Technologies Inc.|
+|12|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
+|13|103.131.18.172|8080|Indonesia|Tigaraksa|PT Global Media Data Prima|
+|14|200.105.215.22|33630|Bolivia|La Paz|AXS Bolivia S. A.|
+|15|20.241.236.196|3128|United States|Boydton|Microsoft Corporation|
+|16|146.190.70.123|8080|United States|North Bergen|DigitalOcean, LLC|
+|17|66.85.128.252|8080|United States|Phoenix|Secured Servers LLC|
+|18|161.35.23.148|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|19|135.181.89.201|8080|Finland|Helsinki|Hetzner Online GmbH|
+|20|18.229.234.187|8080|Brazil|São Paulo|Amazon Technologies Inc.|
 
 
 
