@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **10333** proxies at the latest update. Usable proxies are below.
+> Scraper found **10339** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|463|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|463|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|463|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|517|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|517|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|517|
 
 ## Sources
 
@@ -37,7 +37,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|2|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1351|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1357|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1425|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|6472|✅|
@@ -48,25 +48,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|51.81.24.38|3128|United States|New York|OVH US LLC|
-|2|51.195.117.105|3128|Germany|Limburg an der Lahn|OVH SAS|
-|3|192.169.119.183|3128|Taiwan|Taipei|Zenlayer Inc|
-|4|191.186.106.34|8080|Brazil|São Paulo|Claro NXT Telecomunicacoes Ltda|
-|5|142.132.201.86|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|2|191.186.106.34|8080|Brazil|São Paulo|Claro NXT Telecomunicacoes Ltda|
+|3|104.166.186.165|3128|Russia|Moscow|Zenlayer Inc|
+|4|146.196.54.68|80|Hong Kong|Kwun Tong|Layerstack Limited|
+|5|147.182.154.76|3128|Canada|Toronto|DigitalOcean, LLC|
 |6|157.245.27.9|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|7|178.128.88.72|10000|Singapore|Singapore|DigitalOcean, LLC|
+|7|142.132.201.86|3128|Germany|Falkenstein|Hetzner Online GmbH|
 |8|51.81.24.38|3128|United States|New York|OVH US LLC|
-|9|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|10|115.144.101.201|10001|South Korea|Gangdong-gu|Korea Telecom|
-|11|20.44.206.138|80|Singapore|Singapore|Microsoft Corporation|
-|12|104.166.186.165|3128|Russia|Moscow|Zenlayer Inc|
-|13|45.5.92.94|8137|Mexico|Monclova|Señal Interactiva, S.A De C.V|
-|14|51.195.117.105|3128|Germany|Limburg an der Lahn|OVH SAS|
-|15|104.166.186.165|3128|Russia|Moscow|Zenlayer Inc|
-|16|158.69.73.79|9300|Canada|Montreal|OVH SAS|
-|17|146.196.54.68|80|Hong Kong|Kwun Tong|Layerstack Limited|
-|18|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
-|19|202.46.145.4|8080|Indonesia|Pela Mampang|Pt Mithaharum Abadi|
-|20|110.49.34.126|32650|Thailand|Bangkok|Advanced Wireless Network Company Limited|
+|9|20.44.206.138|80|Singapore|Singapore|Microsoft Corporation|
+|10|181.48.68.102|3128|Colombia|Bogotá|Telmex Colombia S.A.|
+|11|104.166.186.165|3128|Russia|Moscow|Zenlayer Inc|
+|12|115.144.101.201|10001|South Korea|Gangdong-gu|Korea Telecom|
+|13|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
+|14|209.38.254.44|45212|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|15|136.243.55.199|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|16|202.46.145.4|8080|Indonesia|Pela Mampang|Pt Mithaharum Abadi|
+|17|85.133.151.133|3128|Iran|Tehran|Stack Network Limited|
+|18|62.201.223.163|8186|Iraq|Raniye|NETWORKS-SULY2|
+|19|5.53.16.185|18080|Russia|Surgut|Metroset Ltd|
+|20|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
 
 
 
