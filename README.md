@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **10213** proxies at the latest update. Usable proxies are below.
+> Scraper found **10239** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|426|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|426|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|426|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|503|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|503|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|503|
 
 ## Sources
 
@@ -36,8 +36,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|1|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1314|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|3|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1338|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1343|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|6472|✅|
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|51.81.24.36|3128|United States|New York|OVH US LLC|
-|2|144.217.131.61|3148|Canada|Beauharnois|OVH Hosting|
-|3|144.217.119.85|3207|Canada|Beauharnois|OVH Hosting|
-|4|8.209.114.72|3129|Germany|Frankfurt am Main|Alibaba.com Singapore E-Commerce Private Limited|
-|5|142.132.201.86|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|6|51.81.88.73|3128|United States|Warrenton|OVH US LLC|
-|7|122.211.138.2|53128|Japan|Otemae|SUGOKURA|
-|8|51.81.24.38|3128|United States|New York|OVH US LLC|
-|9|191.186.106.34|8080|Brazil|São Paulo|Claro NXT Telecomunicacoes Ltda|
-|10|104.166.186.168|3128|Russia|Moscow|Zenlayer Inc|
-|11|192.99.182.243|3128|United States|Newark|OVH Hosting|
-|12|135.148.28.56|3128|United States|Warrenton|OVH US LLC|
-|13|118.69.111.51|8080|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|14|51.195.117.105|3128|Germany|Limburg an der Lahn|OVH SAS|
-|15|20.44.206.138|80|Singapore|Singapore|Microsoft Corporation|
-|16|51.81.88.73|3128|United States|Warrenton|OVH US LLC|
-|17|18.143.215.49|80|Singapore|Singapore|Amazon Technologies Inc.|
-|18|51.81.24.38|3128|United States|New York|OVH US LLC|
-|19|148.251.110.152|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|20|51.195.117.105|3128|Germany|Limburg an der Lahn|OVH SAS|
+|1|191.186.106.34|8080|Brazil|São Paulo|Claro NXT Telecomunicacoes Ltda|
+|2|217.88.237.102|8080|Germany|Schweinfurt|Deutsche Telekom AG|
+|3|64.226.110.184|45212|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|4|158.69.185.37|3129|Canada|Montreal|OVH SAS|
+|5|181.48.68.102|3128|Colombia|Bogotá|Telmex Colombia S.A.|
+|6|46.41.141.111|8080|Poland|Szczecin|home.pl network|
+|7|147.135.54.182|3128|United States|Reston|OVH SAS|
+|8|51.195.117.105|3128|Germany|Limburg an der Lahn|OVH SAS|
+|9|191.252.195.53|8888|Brazil|Itacoatiara|Locaweb Serviços de Internet S/A|
+|10|93.84.70.86|3128|Belarus|Gomel|Republican Unitary Telecommunication Enterprise Beltelecom|
+|11|137.184.215.55|8080|United States|North Bergen|DigitalOcean, LLC|
+|12|104.248.61.123|8080|United States|North Bergen|DigitalOcean, LLC|
+|13|191.186.106.34|8080|Brazil|São Paulo|Claro NXT Telecomunicacoes Ltda|
+|14|31.186.241.8|8888|Netherlands|Amsterdam|InterNAP Network Services|
+|15|164.90.212.28|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|16|192.99.182.243|3128|United States|Newark|OVH Hosting|
+|17|167.86.99.172|8080|Germany|Nuremberg|Contabo GmbH|
+|18|135.181.155.58|8080|Finland|Helsinki|Hetzner Online GmbH|
+|19|167.235.79.27|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|20|135.181.99.227|8080|Finland|Helsinki|Hetzner Online GmbH|
 
 
 
