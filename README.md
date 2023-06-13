@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **10239** proxies at the latest update. Usable proxies are below.
+> Scraper found **10268** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|503|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|503|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|503|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|805|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|805|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|805|
 
 ## Sources
 
@@ -37,7 +37,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|3|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1338|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1367|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1343|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|6472|✅|
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|191.186.106.34|8080|Brazil|São Paulo|Claro NXT Telecomunicacoes Ltda|
+|1|107.148.193.162|1080|United States|San Jose|PEG TECH INC|
 |2|217.88.237.102|8080|Germany|Schweinfurt|Deutsche Telekom AG|
-|3|64.226.110.184|45212|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|4|158.69.185.37|3129|Canada|Montreal|OVH SAS|
-|5|181.48.68.102|3128|Colombia|Bogotá|Telmex Colombia S.A.|
-|6|46.41.141.111|8080|Poland|Szczecin|home.pl network|
-|7|147.135.54.182|3128|United States|Reston|OVH SAS|
-|8|51.195.117.105|3128|Germany|Limburg an der Lahn|OVH SAS|
-|9|191.252.195.53|8888|Brazil|Itacoatiara|Locaweb Serviços de Internet S/A|
-|10|93.84.70.86|3128|Belarus|Gomel|Republican Unitary Telecommunication Enterprise Beltelecom|
-|11|137.184.215.55|8080|United States|North Bergen|DigitalOcean, LLC|
-|12|104.248.61.123|8080|United States|North Bergen|DigitalOcean, LLC|
-|13|191.186.106.34|8080|Brazil|São Paulo|Claro NXT Telecomunicacoes Ltda|
-|14|31.186.241.8|8888|Netherlands|Amsterdam|InterNAP Network Services|
-|15|164.90.212.28|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|16|192.99.182.243|3128|United States|Newark|OVH Hosting|
-|17|167.86.99.172|8080|Germany|Nuremberg|Contabo GmbH|
-|18|135.181.155.58|8080|Finland|Helsinki|Hetzner Online GmbH|
-|19|167.235.79.27|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|20|135.181.99.227|8080|Finland|Helsinki|Hetzner Online GmbH|
+|3|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
+|4|115.144.16.101|10471|South Korea|Hwaseong-si|Korea Telecom|
+|5|35.240.156.235|8080|Singapore|Singapore|Google LLC|
+|6|107.148.193.162|1080|United States|San Jose|PEG TECH INC|
+|7|18.143.215.49|80|Singapore|Singapore|Amazon Technologies Inc.|
+|8|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|9|191.243.46.50|43241|Brazil|Nova Crixas|Microturbo Telecomunicacoes Ltda-me|
+|10|35.244.25.186|3128|India|Mumbai|Google LLC|
+|11|146.196.54.68|80|Hong Kong|Kwun Tong|Layerstack Limited|
+|12|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
+|13|158.69.71.245|9300|Canada|Montreal|OVH SAS|
+|14|185.245.182.5|80|Germany|Düsseldorf|Contabo GmbH|
+|15|193.41.88.58|53281|Ukraine|Kyiv|Kyiv National Taras Shevchenko University|
+|16|116.68.170.115|8019|Indonesia|Jakarta||
+|17|118.69.111.51|8080|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|18|103.155.62.163|8080|Pakistan|Lahore|KK Networks (Pvt) Ltd.|
+|19|51.195.117.105|3128|Germany|Limburg an der Lahn|OVH SAS|
+|20|104.248.61.123|8080|United States|North Bergen|DigitalOcean, LLC|
 
 
 
