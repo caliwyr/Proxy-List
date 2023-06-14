@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|448|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|448|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|448|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|419|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|419|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|419|
 
 ## Sources
 
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.209.114.72|3129|Germany|Frankfurt am Main|Alibaba.com Singapore E-Commerce Private Limited|
-|2|191.186.106.34|8080|Brazil|São Paulo|Claro NXT Telecomunicacoes Ltda|
-|3|195.154.185.32|3128|France|Vitry-sur-Seine|Online S.A.S.|
-|4|209.38.250.139|45212|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|5|64.226.110.184|45212|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|6|202.40.177.69|80|Bangladesh|Azimpur|Ranks ITT|
-|7|200.105.215.22|33630|Bolivia|La Paz|AXS Bolivia S. A.|
-|8|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
-|9|158.69.71.245|9300|Canada|Montreal|OVH SAS|
-|10|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|11|209.38.254.44|45212|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|195.248.240.25|80|Germany|Nuremberg|BitCommand|
-|13|190.60.37.113|999|Colombia|Neiva|IFX NETWORKS COLOMBIA|
-|14|51.210.1.13|3128|France|Roubaix|OVH SAS|
-|15|120.79.86.123|80|China|Shenzhen|Hangzhou Alibaba Advertising Co|
-|16|154.70.107.81|3128|Cameroon|Douala|MTN Network Solutions (Cameroon)|
-|17|180.184.91.187|443|China|Beijing|Beijing Volcano Engine Technology Co., Ltd.|
-|18|201.219.247.34|999|Colombia|Miranda|Consulnetwork Ltda|
-|19|183.221.242.103|9443|China|Mianyang|China Mobile|
-|20|103.168.44.167|9191|Indonesia|Tangerang|PT CYB Media Group|
+|1|51.158.147.163|1234|France|Paris|SCALEWAY|
+|2|149.102.243.148|12000|United States|Los Angeles|Datacamp Limited|
+|3|195.248.240.25|80|Germany|Nuremberg|BitCommand|
+|4|191.186.106.34|8080|Brazil|São Paulo|Claro NXT Telecomunicacoes Ltda|
+|5|195.154.185.32|3128|France|Vitry-sur-Seine|Online S.A.S.|
+|6|157.245.27.9|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|7|209.38.201.164|45212|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|46.182.6.51|3129|France|Paris|Hosteur SAS|
+|9|146.196.54.68|80|Hong Kong|Kwun Tong|Layerstack Limited|
+|10|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
+|11|149.102.243.148|12000|United States|Los Angeles|Datacamp Limited|
+|12|209.38.254.44|45212|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|209.38.250.139|45212|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|14|146.196.54.75|80|Hong Kong|Kwun Tong|Layerstack Limited|
+|15|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|16|64.226.110.184|45212|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|17|176.9.238.155|16379|Germany|Falkenstein|Hetzner|
+|18|51.210.1.13|3128|France|Roubaix|OVH SAS|
+|19|64.225.4.63|9973|United States|Clifton|DigitalOcean, LLC|
+|20|200.111.132.157|999|Chile|Pozo Almonte|Entel Chile S.A.|
 
 
 
