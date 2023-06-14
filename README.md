@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **9954** proxies at the latest update. Usable proxies are below.
+> Scraper found **10010** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|615|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|615|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|615|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|538|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|538|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|538|
 
 ## Sources
 
@@ -37,7 +37,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1283|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1339|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1298|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|6290|✅|
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|49.51.189.190|443|United States|Los Angeles|OPHL|
+|1|18.130.224.255|3128|United Kingdom|London|Amazon Technologies Inc.|
 |2|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|3|18.130.224.255|3128|United Kingdom|London|Amazon Technologies Inc.|
-|4|3.9.174.15|3128|United Kingdom|London|Amazon Technologies Inc.|
-|5|3.8.176.128|3128|United Kingdom|London|Amazon Technologies Inc.|
-|6|3.8.48.245|3128|United Kingdom|London|Amazon Technologies Inc.|
-|7|3.8.238.201|3128|United Kingdom|London|Amazon Technologies Inc.|
-|8|49.51.189.190|443|United States|Los Angeles|OPHL|
-|9|149.102.243.148|12000|United States|Los Angeles|Datacamp Limited|
-|10|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
-|11|195.154.185.32|3128|France|Vitry-sur-Seine|Online S.A.S.|
-|12|51.158.147.163|1234|France|Paris|SCALEWAY|
-|13|35.240.156.235|8080|Singapore|Singapore|Google LLC|
-|14|191.186.106.34|8080|Brazil|São Paulo|Claro NXT Telecomunicacoes Ltda|
-|15|158.69.53.98|9300|Canada|Montreal|OVH SAS|
-|16|49.48.53.234|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
-|17|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
-|18|183.82.100.253|3128|India|Hyderabad|Beam Telecom Pvt Ltd|
-|19|173.176.14.246|3128|Canada|Vaudreuil-Dorion|Le Groupe Videotron Ltee|
-|20|158.69.73.79|9300|Canada|Montreal|OVH SAS|
+|3|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
+|4|66.70.178.214|9300|Canada|Beauharnois|OVH SAS|
+|5|195.154.185.32|3128|France|Vitry-sur-Seine|Online S.A.S.|
+|6|149.102.243.148|12000|United States|Los Angeles|Datacamp Limited|
+|7|178.128.88.72|10000|Singapore|Singapore|DigitalOcean, LLC|
+|8|195.248.240.25|80|Germany|Nuremberg|BitCommand|
+|9|158.69.53.98|9300|Canada|Montreal|OVH SAS|
+|10|191.186.106.34|8080|Brazil|São Paulo|Claro NXT Telecomunicacoes Ltda|
+|11|173.176.14.246|3128|Canada|Vaudreuil-Dorion|Le Groupe Videotron Ltee|
+|12|95.0.84.26|80|Turkey|Istanbul|Turk Telekomunikasyon Anonim Sirketi|
+|13|183.82.100.253|3128|India|Hyderabad|Beam Telecom Pvt Ltd|
+|14|103.134.44.176|8080|India|Haridwar|Countrylink Communiction Pvt Ltd|
+|15|45.174.78.41|999|Mexico|Ciudad Juárez|Raul Duarte Urita|
+|16|37.120.192.154|8080|Netherlands|Amsterdam|M247 Europe SRL|
+|17|146.196.54.75|80|Hong Kong|Kwun Tong|Layerstack Limited|
+|18|86.57.156.106|2222|Belarus|Minsk|Republican Unitary Telecommunication Enterprise Beltelecom|
+|19|178.18.242.38|3128|Germany|Frankfurt am Main|Contabo GmbH|
+|20|49.51.189.190|443|United States|Los Angeles|OPHL|
 
 
 
