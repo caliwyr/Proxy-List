@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **8271** proxies at the latest update. Usable proxies are below.
+> Scraper found **8295** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|423|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|423|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|423|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|404|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|404|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|404|
 
 ## Sources
 
@@ -39,7 +39,7 @@ Click the file format that you want and copy the URL.
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|7|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|0|🚫|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|987|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1011|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|6194|✅|
 
 
@@ -48,25 +48,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|52.53.154.55|3128|United States|San Jose|Amazon.com, Inc.|
-|2|54.93.125.239|3128|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|3|18.184.7.106|3128|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|4|195.248.240.25|80|Germany|Nuremberg|BitCommand|
-|5|191.186.106.34|8080|Brazil|São Paulo|Claro NXT Telecomunicacoes Ltda|
-|6|18.228.173.4|3128|Brazil|São Paulo|Amazon Technologies Inc.|
+|2|195.248.240.25|80|Germany|Nuremberg|BitCommand|
+|3|191.186.106.34|8080|Brazil|São Paulo|Claro NXT Telecomunicacoes Ltda|
+|4|142.132.201.86|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|5|18.228.173.143|3128|Brazil|São Paulo|Amazon Technologies Inc.|
+|6|8.209.114.72|3129|Germany|Frankfurt am Main|Alibaba.com Singapore E-Commerce Private Limited|
 |7|18.228.173.222|3128|Brazil|São Paulo|Amazon Technologies Inc.|
-|8|18.228.173.143|3128|Brazil|São Paulo|Amazon Technologies Inc.|
-|9|18.228.173.193|3128|Brazil|São Paulo|Amazon Technologies Inc.|
-|10|149.102.243.148|12000|United States|Los Angeles|Datacamp Limited|
-|11|18.228.173.154|3128|Brazil|São Paulo|Amazon Technologies Inc.|
-|12|18.143.215.49|80|Singapore|Singapore|Amazon Technologies Inc.|
-|13|51.81.24.36|3128|United States|New York|OVH US LLC|
+|8|51.81.24.36|3128|United States|New York|OVH US LLC|
+|9|51.81.24.36|3128|United States|New York|OVH US LLC|
+|10|45.89.55.138|3128|Serbia|Belgrade|Maxim Azarov trading as Obrada podataka i hosting eServer Krusevac|
+|11|207.244.243.237|3128|United States|St Louis|Nubes, LLC|
+|12|198.44.189.71|45787|Japan|Tokyo|Zenlayer Inc|
+|13|18.143.215.49|80|Singapore|Singapore|Amazon Technologies Inc.|
 |14|5.188.154.104|8080|Kazakhstan|Almaty|NLS|
-|15|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
-|16|64.225.8.121|9989|United States|Clifton|DigitalOcean, LLC|
-|17|52.53.154.55|3128|United States|San Jose|Amazon.com, Inc.|
-|18|185.128.240.66|8080|Romania|Subcetate|Data ZYX SRL|
-|19|51.79.206.225|1080|Singapore|Singapore|OVH SAS|
-|20|174.138.41.23|8080|United States|North Bergen|DigitalOcean, LLC|
+|15|144.91.81.25|3128|Germany|Nuremberg|Contabo GmbH|
+|16|148.251.110.152|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|17|211.75.214.175|3128|Taiwan|Taichung|Chunghwa Telecom Co., Ltd.|
+|18|144.217.131.61|3148|Canada|Beauharnois|OVH Hosting|
+|19|202.46.145.4|8080|Indonesia|Pela Mampang|Pt Mithaharum Abadi|
+|20|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
 
 
 
