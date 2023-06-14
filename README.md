@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|826|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|826|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|826|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|787|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|787|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|787|
 
 ## Sources
 
@@ -36,8 +36,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|6|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1351|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|7|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1350|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1376|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|6635|✅|
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|51.158.147.163|1234|France|Paris|SCALEWAY|
-|2|67.205.155.17|8080|United States|North Bergen|DigitalOcean, LLC|
-|3|213.171.44.134|3128|Russia|Moscow|JSC Comcor|
-|4|67.205.155.17|8080|United States|North Bergen|DigitalOcean, LLC|
-|5|191.186.106.34|8080|Brazil|São Paulo|Claro NXT Telecomunicacoes Ltda|
-|6|190.61.84.166|9812|Costa Rica|San José|Ufinet Costa Rica|
-|7|18.143.215.49|80|Singapore|Singapore|Amazon Technologies Inc.|
-|8|190.131.250.105|999|Colombia|Itaguei|Columbus Networks Colombia|
-|9|190.217.10.12|999|Venezuela|Caracas|Level 3 Communications, Inc.|
-|10|20.44.206.138|80|Singapore|Singapore|Microsoft Corporation|
-|11|34.143.228.238|8080|Singapore|Singapore|Google LLC|
-|12|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
-|13|64.226.110.184|45212|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|14|146.196.54.68|80|Hong Kong|Kwun Tong|Layerstack Limited|
-|15|90.154.124.211|8080|Russia|Moscow|CTC-B2B|
-|16|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|17|103.233.156.42|8080|Indonesia|Jakarta|PT. Mora Telematika Indonesia|
-|18|200.25.254.193|54240|Colombia|Neiva|Andinet ON Line|
-|19|85.173.165.36|46330|Russia|Cherkessk|Karachaevo-Cherkesskelektrosvyaz|
-|20|83.151.4.172|57812|Russia|Kazan'|MTS PJSC|
+|1|8.209.114.72|3129|Germany|Frankfurt am Main|Alibaba.com Singapore E-Commerce Private Limited|
+|2|89.44.103.155|8118|United Kingdom|London|UK Dedicated Servers Limited|
+|3|67.205.155.17|8080|United States|North Bergen|DigitalOcean, LLC|
+|4|213.171.44.134|3128|Russia|Moscow|JSC Comcor|
+|5|51.158.147.163|1234|France|Paris|SCALEWAY|
+|6|37.120.192.154|8080|Netherlands|Amsterdam|M247 Europe SRL|
+|7|67.205.155.17|8080|United States|North Bergen|DigitalOcean, LLC|
+|8|191.186.106.34|8080|Brazil|São Paulo|Claro NXT Telecomunicacoes Ltda|
+|9|34.143.228.238|8080|Singapore|Singapore|Google LLC|
+|10|35.200.155.178|3128|India|Mumbai|Google LLC|
+|11|146.196.54.75|80|Hong Kong|Kwun Tong|Layerstack Limited|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|183.82.100.253|3128|India|Hyderabad|Beam Telecom Pvt Ltd|
+|14|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
+|15|20.44.206.138|80|Singapore|Singapore|Microsoft Corporation|
+|16|209.38.201.164|45212|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|17|18.143.215.49|80|Singapore|Singapore|Amazon Technologies Inc.|
+|18|35.240.219.50|8080|Singapore|Singapore|Google LLC|
+|19|64.226.110.184|45212|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|20|85.113.139.242|55443|Russia|Voronezh|Intercon JSC|
 
 
 
