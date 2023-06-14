@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **9757** proxies at the latest update. Usable proxies are below.
+> Scraper found **9840** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|480|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|480|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|480|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|640|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|640|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|640|
 
 ## Sources
 
@@ -36,8 +36,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|1|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1024|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|8|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1100|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1166|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|6483|✅|
@@ -49,24 +49,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|46.17.107.143|40001|United States|New York|First Server Limited|
 |2|195.248.240.25|80|Germany|Nuremberg|BitCommand|
-|3|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
-|4|5.154.147.96|8089|Germany|Frankfurt am Main|CTE|
-|5|191.186.106.34|8080|Brazil|São Paulo|Claro NXT Telecomunicacoes Ltda|
-|6|37.252.7.112|3128|Poland|Gdansk|Artnet Sp. z o.o.|
-|7|149.102.243.148|12000|United States|Los Angeles|Datacamp Limited|
-|8|49.51.189.190|443|United States|Los Angeles|OPHL|
-|9|86.57.137.63|2222|Belarus|Gomel|BELPAK|
-|10|213.241.205.2|8080|Russia|Rostov-on-Don|RTCOMM-YUG|
-|11|149.102.243.148|12000|United States|Los Angeles|Datacamp Limited|
-|12|46.17.107.143|40001|United States|New York|First Server Limited|
-|13|18.143.215.49|80|Singapore|Singapore|Amazon Technologies Inc.|
-|14|183.109.80.229|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
-|15|35.200.155.178|3128|India|Mumbai|Google LLC|
-|16|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
-|17|51.81.88.73|3128|United States|Warrenton|OVH US LLC|
-|18|35.244.25.186|3128|India|Mumbai|Google LLC|
-|19|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|20|185.103.128.138|8080|Iran|Tehran|Pishgaman Toseeh Ertebatat Company (Private Joint Stock)|
+|3|149.102.243.148|12000|United States|Los Angeles|Datacamp Limited|
+|4|86.57.137.63|2222|Belarus|Gomel|BELPAK|
+|5|37.252.7.112|3128|Poland|Gdansk|Artnet Sp. z o.o.|
+|6|191.186.106.34|8080|Brazil|São Paulo|Claro NXT Telecomunicacoes Ltda|
+|7|140.99.21.133|3128|United States|Brooklyn|EpicUp Holdings Inc|
+|8|5.154.147.96|8089|Germany|Frankfurt am Main|CTE|
+|9|18.143.215.49|80|Singapore|Singapore|Amazon Technologies Inc.|
+|10|35.200.155.178|3128|India|Mumbai|Google LLC|
+|11|107.148.193.162|1080|United States|San Jose|PEG TECH INC|
+|12|51.158.147.163|1234|France|Paris|SCALEWAY|
+|13|34.143.228.238|8080|Singapore|Singapore|Google LLC|
+|14|125.25.33.51|8080|Thailand|Chiang Mai|TOT Public Company Limited|
+|15|146.196.54.68|80|Hong Kong|Kwun Tong|Layerstack Limited|
+|16|109.74.50.14|21213|Hungary|Budapest|ACE Telecom Kft|
+|17|35.244.25.186|3128|India|Mumbai|Google LLC|
+|18|46.17.107.143|40001|United States|New York|First Server Limited|
+|19|149.102.243.148|12000|United States|Los Angeles|Datacamp Limited|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 
 
 
