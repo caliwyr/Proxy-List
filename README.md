@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|358|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|358|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|358|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|432|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|432|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|432|
 
 ## Sources
 
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|54.188.12.227|3128|United States|Portland|Amazon.com, Inc.|
-|2|158.69.73.79|9300|Canada|Montreal|OVH SAS|
-|3|213.171.44.134|3128|Russia|Moscow|JSC Comcor|
-|4|209.38.254.44|45212|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|5|128.199.6.201|10086|United States|Santa Clara|DigitalOcean, LLC|
-|6|54.188.12.227|3128|United States|Portland|Amazon.com, Inc.|
-|7|5.188.154.104|8080|Kazakhstan|Almaty|NLS|
-|8|80.78.64.70|8080|Albania|Tirana|ABCom|
-|9|209.38.250.139|45212|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|128.199.6.201|10086|United States|Santa Clara|DigitalOcean, LLC|
-|11|186.97.102.69|999|Colombia|Medellín|Colombia Móvil|
-|12|190.26.201.194|8080|Colombia|Bogotá|ETB - Colombia|
-|13|167.235.154.74|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|14|191.186.106.34|8080|Brazil|São Paulo|Claro NXT Telecomunicacoes Ltda|
-|15|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
-|16|154.70.107.81|3128|Cameroon|Douala|MTN Network Solutions (Cameroon)|
-|17|18.143.215.49|80|Singapore|Singapore|Amazon Technologies Inc.|
-|18|123.126.158.184|80|China|Beijing|China Unicom Beijing Province Network|
-|19|190.69.157.213|999|Colombia|Ibague|Colombia Telecomunicaciones S.a. ESP|
-|20|114.129.18.94|8080|Indonesia|Nusa Dua|PT Hipernet Indodata|
+|1|66.135.14.166|443|United States|Piscataway|The Constant Company, LLC|
+|2|183.109.80.229|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
+|3|147.182.154.76|3128|Canada|Toronto|DigitalOcean, LLC|
+|4|66.135.14.166|443|United States|Piscataway|The Constant Company, LLC|
+|5|18.130.249.48|3128|United Kingdom|London|Amazon Technologies Inc.|
+|6|191.186.106.34|8080|Brazil|São Paulo|Claro NXT Telecomunicacoes Ltda|
+|7|18.130.165.25|3128|United Kingdom|London|Amazon Technologies Inc.|
+|8|18.143.215.49|80|Singapore|Singapore|Amazon Technologies Inc.|
+|9|157.245.27.9|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|195.248.240.25|80|Germany|Nuremberg|BitCommand|
+|11|51.81.24.36|3128|United States|New York|OVH US LLC|
+|12|213.171.44.134|3128|Russia|Moscow|JSC Comcor|
+|13|149.102.243.148|12000|United States|Los Angeles|Datacamp Limited|
+|14|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
+|15|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|16|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|17|5.188.154.104|8080|Kazakhstan|Almaty|NLS|
+|18|47.74.154.143|8787|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|19|185.103.128.138|8080|Iran|Tehran|Pishgaman Toseeh Ertebatat Company (Private Joint Stock)|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 
 
 
