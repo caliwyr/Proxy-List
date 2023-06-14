@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **9736** proxies at the latest update. Usable proxies are below.
+> Scraper found **9671** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|461|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|461|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|461|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|323|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|323|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|323|
 
 ## Sources
 
@@ -37,9 +37,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|99|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|949|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|958|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1122|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1048|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|6483|✅|
 
 
@@ -47,24 +47,24 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|46.17.107.143|40001|United States|New York|First Server Limited|
-|2|107.148.193.162|1080|United States|San Jose|PEG TECH INC|
-|3|195.248.240.25|80|Germany|Nuremberg|BitCommand|
-|4|46.17.107.143|40001|United States|New York|First Server Limited|
-|5|20.204.190.254|3129|India|Pune|Microsoft Corporation|
-|6|20.219.177.38|3129|India|Pune|Microsoft Corporation|
-|7|20.44.206.138|80|Singapore|Singapore|Microsoft Corporation|
-|8|209.38.250.139|45212|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|202.180.20.10|55443|Indonesia|Jakarta|PT. HIPERNET INDODATA|
-|10|149.102.243.148|12000|United States|Los Angeles|Datacamp Limited|
+|1|20.84.106.205|8214|United States|Boydton|Microsoft Corporation|
+|2|46.17.107.143|40001|United States|New York|First Server Limited|
+|3|149.102.243.148|12000|United States|Los Angeles|Datacamp Limited|
+|4|20.84.106.205|8214|United States|Boydton|Microsoft Corporation|
+|5|195.248.240.25|80|Germany|Nuremberg|BitCommand|
+|6|20.44.206.138|80|Singapore|Singapore|Microsoft Corporation|
+|7|20.204.190.254|3129|India|Pune|Microsoft Corporation|
+|8|5.188.154.104|8080|Kazakhstan|Almaty|NLS|
+|9|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
+|10|86.57.156.106|2222|Belarus|Minsk|Republican Unitary Telecommunication Enterprise Beltelecom|
 |11|209.38.254.44|45212|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|107.148.193.162|1080|United States|San Jose|PEG TECH INC|
+|12|46.17.107.143|40001|United States|New York|First Server Limited|
 |13|149.102.243.148|12000|United States|Los Angeles|Datacamp Limited|
 |14|167.235.154.74|8080|Germany|Nuremberg|Hetzner Online GmbH|
 |15|18.143.215.49|80|Singapore|Singapore|Amazon Technologies Inc.|
-|16|64.32.22.153|3128|United States|Chicago|Sharktech|
-|17|183.221.242.103|9443|China|Mianyang|China Mobile|
-|18|181.78.84.185|8080|Colombia|Florida|IFX Networks Argentina S.R.L|
+|16|191.186.106.34|8080|Brazil|São Paulo|Claro NXT Telecomunicacoes Ltda|
+|17|45.168.236.50|999|Mexico|San Juan del Río|Wantelco SAS de CV|
+|18|183.221.242.103|9443|China|Mianyang|China Mobile|
 |19|41.76.145.18|3128|Mozambique|Maxixe|VM  S.A|
 |20|41.76.145.18|3128|Mozambique|Maxixe|VM  S.A|
 
