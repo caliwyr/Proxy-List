@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **10256** proxies at the latest update. Usable proxies are below.
+> Scraper found **10227** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|703|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|703|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|703|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|772|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|772|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|772|
 
 ## Sources
 
@@ -36,8 +36,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|2|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1277|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|3|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1247|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1259|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|6635|✅|
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|67.205.155.17|8080|United States|North Bergen|DigitalOcean, LLC|
+|1|51.158.147.163|1234|France|Paris|SCALEWAY|
 |2|67.205.155.17|8080|United States|North Bergen|DigitalOcean, LLC|
-|3|191.186.106.34|8080|Brazil|São Paulo|Claro NXT Telecomunicacoes Ltda|
-|4|146.196.54.68|80|Hong Kong|Kwun Tong|Layerstack Limited|
-|5|18.143.215.49|80|Singapore|Singapore|Amazon Technologies Inc.|
-|6|12.144.254.185|9080|United States|Little Rock|AT&T Services, Inc.|
-|7|195.133.45.149|7788|Russia|Moscow|VDS|
-|8|64.226.110.184|45212|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|194.182.172.158|3128|Austria|Vienna|Akenes SA|
-|10|5.188.154.104|8080|Kazakhstan|Almaty|NLS|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|163.53.82.186|32650|India|Jaipur|Kay Kay Softech Private Limited|
-|13|1.234.23.159|80|South Korea|Seoul|SK Broadband Co Ltd|
-|14|13.112.253.104|80|Japan|Tokyo|Amazon Technologies Inc|
-|15|103.53.185.8|8058|Indonesia|Makassar|BOSOWA|
-|16|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|17|209.38.201.164|45212|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|18|35.244.25.186|3128|India|Mumbai|Google LLC|
-|19|8.209.114.72|3129|Germany|Frankfurt am Main|Alibaba.com Singapore E-Commerce Private Limited|
-|20|47.74.154.143|8787|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|8.209.114.72|3129|Germany|Frankfurt am Main|Alibaba.com Singapore E-Commerce Private Limited|
+|4|51.79.50.22|9300|Canada|Beauharnois|OVH SAS|
+|5|157.245.27.9|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|6|191.186.106.34|8080|Brazil|São Paulo|Claro NXT Telecomunicacoes Ltda|
+|7|67.205.155.17|8080|United States|North Bergen|DigitalOcean, LLC|
+|8|193.107.104.57|3128|Ukraine|Vinnytsia|Stasishen Aleksandr Afanasiyovich|
+|9|64.226.110.184|45212|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|18.143.215.49|80|Singapore|Singapore|Amazon Technologies Inc.|
+|11|200.105.215.22|33630|Bolivia|La Paz|AXS Bolivia S. A.|
+|12|79.99.110.254|18080|Russia|St Petersburg|SEVEREN|
+|13|5.188.154.104|8080|Kazakhstan|Almaty|NLS|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|15|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
+|16|181.225.101.6|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|17|46.161.192.141|8080|Iraq|Duhok|Valin Company for General Trading and Communication LTD|
+|18|190.211.173.201|999|Chile|Santiago|INTERNEXA Chile S.A.|
+|19|90.154.124.211|8080|Russia|Moscow|CTC-B2B|
+|20|191.243.46.50|43241|Brazil|Nova Crixas|Microturbo Telecomunicacoes Ltda-me|
 
 
 
