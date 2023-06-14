@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|442|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|442|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|442|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|416|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|416|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|416|
 
 ## Sources
 
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|51.254.130.240|1985|France|Gravelines|OVH SAS|
+|1|137.184.185.139|3128|United States|Santa Clara|DigitalOcean, LLC|
 |2|147.182.154.76|3128|Canada|Toronto|DigitalOcean, LLC|
-|3|192.99.182.243|3128|United States|Newark|OVH Hosting|
-|4|144.217.119.85|3207|Canada|Beauharnois|OVH Hosting|
-|5|20.44.206.138|80|Singapore|Singapore|Microsoft Corporation|
+|3|142.132.201.86|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|4|115.144.16.101|10471|South Korea|Hwaseong-si|Korea Telecom|
+|5|8.209.114.72|3129|Germany|Frankfurt am Main|Alibaba.com Singapore E-Commerce Private Limited|
 |6|47.243.75.249|59394|Hong Kong|Central|Alibaba (US) Technology Co., Ltd.|
-|7|51.81.24.36|3128|United States|New York|OVH US LLC|
-|8|51.158.147.163|1234|France|Paris|SCALEWAY|
-|9|88.99.21.184|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|10|8.209.114.72|3129|Germany|Frankfurt am Main|Alibaba.com Singapore E-Commerce Private Limited|
-|11|13.126.82.7|80|India|Mumbai|Amazon Technologies Inc.|
-|12|136.243.55.199|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|13|191.186.106.34|8080|Brazil|São Paulo|Claro NXT Telecomunicacoes Ltda|
-|14|209.38.254.44|45212|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|15|183.88.129.180|8080|Thailand|Chiang Mai|Triple T Broadband Public Company Limited|
-|16|146.196.54.75|80|Hong Kong|Kwun Tong|Layerstack Limited|
-|17|64.226.110.184|45212|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|18|195.248.240.25|80|Germany|Nuremberg|BitCommand|
-|19|146.196.54.68|80|Hong Kong|Kwun Tong|Layerstack Limited|
-|20|158.69.53.98|9300|Canada|Montreal|OVH SAS|
+|7|136.243.55.199|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|8|191.186.106.34|8080|Brazil|São Paulo|Claro NXT Telecomunicacoes Ltda|
+|9|209.38.201.164|45212|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|195.248.240.25|80|Germany|Nuremberg|BitCommand|
+|11|51.158.147.163|1234|France|Paris|SCALEWAY|
+|12|209.38.250.139|45212|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|144.217.119.85|3207|Canada|Beauharnois|OVH Hosting|
+|14|129.154.225.163|8100|India|Mumbai|Oracle Corporation|
+|15|13.126.82.7|80|India|Mumbai|Amazon Technologies Inc.|
+|16|137.184.185.139|3128|United States|Santa Clara|DigitalOcean, LLC|
+|17|81.12.36.50|3128|Iran|Tehran|Respina Networks & Beyond PJSC|
+|18|159.224.243.185|37793|Ukraine|Dnipro|Content Delivery Network LTD|
+|19|209.38.254.44|45212|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|20|64.226.110.184|45212|Germany|Frankfurt am Main|DigitalOcean, LLC|
 
 
 
