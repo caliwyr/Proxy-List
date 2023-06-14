@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|515|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|515|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|515|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|577|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|577|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|577|
 
 ## Sources
 
@@ -48,25 +48,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|158.69.185.37|3129|Canada|Montreal|OVH SAS|
-|2|144.217.131.61|3148|Canada|Beauharnois|OVH Hosting|
-|3|192.99.182.243|3128|United States|Newark|OVH Hosting|
-|4|185.128.70.46|8080|Germany|Frankfurt am Main|1&1 Versatel Deutschland GmbH|
-|5|138.201.113.2|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|6|143.198.157.46|3128|United States|Santa Clara|DigitalOcean, LLC|
-|7|51.158.147.163|1234|France|Paris|SCALEWAY|
-|8|195.133.45.149|7788|Russia|Moscow|VDS|
-|9|144.217.119.85|3207|Canada|Beauharnois|OVH Hosting|
-|10|66.135.14.166|443|United States|Piscataway|The Constant Company, LLC|
-|11|191.186.106.34|8080|Brazil|São Paulo|Claro NXT Telecomunicacoes Ltda|
-|12|143.198.157.46|3128|United States|Santa Clara|DigitalOcean, LLC|
-|13|195.154.185.32|3128|France|Vitry-sur-Seine|Online S.A.S.|
-|14|158.69.71.245|9300|Canada|Montreal|OVH SAS|
-|15|86.57.137.63|2222|Belarus|Gomel|BELPAK|
-|16|142.132.201.86|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|17|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|18|195.248.240.25|80|Germany|Nuremberg|BitCommand|
-|19|88.99.21.184|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|20|157.245.27.9|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|2|192.99.182.243|3128|United States|Newark|OVH Hosting|
+|3|144.217.131.61|3148|Canada|Beauharnois|OVH Hosting|
+|4|107.148.193.162|1080|United States|San Jose|PEG TECH INC|
+|5|195.154.185.32|3128|France|Vitry-sur-Seine|Online S.A.S.|
+|6|8.209.114.72|3129|Germany|Frankfurt am Main|Alibaba.com Singapore E-Commerce Private Limited|
+|7|185.128.70.46|8080|Germany|Frankfurt am Main|1&1 Versatel Deutschland GmbH|
+|8|136.243.55.199|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|9|191.186.106.34|8080|Brazil|São Paulo|Claro NXT Telecomunicacoes Ltda|
+|10|195.248.240.25|80|Germany|Nuremberg|BitCommand|
+|11|144.217.119.85|3207|Canada|Beauharnois|OVH Hosting|
+|12|107.148.193.162|1080|United States|San Jose|PEG TECH INC|
+|13|115.144.99.223|11119|South Korea|Mapo-gu|HAIonNet|
+|14|51.195.117.105|3128|Germany|Limburg an der Lahn|OVH SAS|
+|15|50.225.202.9|3128|United States|Brooklyn Park|Comcast Cable Communications, LLC|
+|16|45.15.153.134|3128|United States|Los Angeles|DediPath|
+|17|209.38.250.139|45212|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|18|37.252.7.112|3128|Poland|Gdansk|Artnet Sp. z o.o.|
+|19|209.38.201.164|45212|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|20|188.40.15.9|3128|Germany|Falkenstein|Hetzner Online GmbH|
 
 
 
