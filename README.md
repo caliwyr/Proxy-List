@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|520|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|520|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|520|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|493|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|493|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|493|
 
 ## Sources
 
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.238.58.147|80|Japan|Tokyo|Oracle Corporation|
-|2|18.143.215.49|80|Singapore|Singapore|Amazon Technologies Inc.|
-|3|8.209.114.72|3129|Germany|Frankfurt am Main|Alibaba.com Singapore E-Commerce Private Limited|
+|1|157.245.27.9|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|2|107.152.32.24|8080|United States|Chicago|tzulo, inc.|
+|3|64.225.8.179|9998|United States|Clifton|DigitalOcean, LLC|
 |4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|121.126.200.123|11361|South Korea|Gwanak-gu|HAIonNet|
-|6|51.158.147.163|1234|France|Paris|SCALEWAY|
-|7|147.182.154.76|3128|Canada|Toronto|DigitalOcean, LLC|
-|8|195.248.240.25|80|Germany|Nuremberg|BitCommand|
-|9|119.8.120.4|80|Hong Kong|Hong Kong|Huawei International Pte. LTD|
-|10|45.15.153.156|3128|United States|Los Angeles|DediPath|
-|11|45.15.153.134|3128|United States|Los Angeles|DediPath|
-|12|13.126.82.7|80|India|Mumbai|Amazon Technologies Inc.|
-|13|35.240.156.235|8080|Singapore|Singapore|Google LLC|
-|14|5.188.154.104|8080|Kazakhstan|Almaty|NLS|
-|15|64.226.110.184|45212|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|16|101.109.63.226|8080|Thailand|Pattaya|TOT Public Company Limited|
-|17|51.79.206.225|1080|Singapore|Singapore|OVH SAS|
-|18|203.109.19.137|12241|South Korea|Mapo-gu|HAIonNet|
-|19|209.38.201.164|45212|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|20|103.134.44.176|8080|India|Haridwar|Countrylink Communiction Pvt Ltd|
+|5|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
+|6|68.183.104.35|8080|United States|North Bergen|DigitalOcean, LLC|
+|7|18.143.215.49|80|Singapore|Singapore|Amazon Technologies Inc.|
+|8|135.181.25.11|8080|Finland|Helsinki|Hetzner Online GmbH|
+|9|5.188.154.104|8080|Kazakhstan|Almaty|NLS|
+|10|185.128.70.46|8080|Germany|Frankfurt am Main|1&1 Versatel Deutschland GmbH|
+|11|189.201.164.90|999|Mexico|San Luis Potosí City|ATC HOLDING FIBRA MEXICO, S. DE R.L. DE C.V.|
+|12|68.183.104.35|8080|United States|North Bergen|DigitalOcean, LLC|
+|13|103.20.184.162|80|Indonesia|Bogor|PT 3D Tech|
+|14|178.18.242.38|3128|Germany|Frankfurt am Main|Contabo GmbH|
+|15|201.182.251.142|999|Colombia|Pasto|SP SISTEMAS PALACIOS LTDA|
+|16|136.243.55.199|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|17|107.152.32.24|8080|United States|Chicago|tzulo, inc.|
+|18|64.225.8.179|9998|United States|Clifton|DigitalOcean, LLC|
+|19|142.132.201.86|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|20|209.38.254.44|45212|Germany|Frankfurt am Main|DigitalOcean, LLC|
 
 
 
