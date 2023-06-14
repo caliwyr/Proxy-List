@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|404|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|404|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|404|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|395|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|395|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|395|
 
 ## Sources
 
@@ -48,25 +48,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|52.53.154.55|3128|United States|San Jose|Amazon.com, Inc.|
-|2|195.248.240.25|80|Germany|Nuremberg|BitCommand|
-|3|191.186.106.34|8080|Brazil|São Paulo|Claro NXT Telecomunicacoes Ltda|
-|4|142.132.201.86|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|5|18.228.173.143|3128|Brazil|São Paulo|Amazon Technologies Inc.|
-|6|8.209.114.72|3129|Germany|Frankfurt am Main|Alibaba.com Singapore E-Commerce Private Limited|
-|7|18.228.173.222|3128|Brazil|São Paulo|Amazon Technologies Inc.|
-|8|51.81.24.36|3128|United States|New York|OVH US LLC|
-|9|51.81.24.36|3128|United States|New York|OVH US LLC|
-|10|45.89.55.138|3128|Serbia|Belgrade|Maxim Azarov trading as Obrada podataka i hosting eServer Krusevac|
-|11|207.244.243.237|3128|United States|St Louis|Nubes, LLC|
-|12|198.44.189.71|45787|Japan|Tokyo|Zenlayer Inc|
-|13|18.143.215.49|80|Singapore|Singapore|Amazon Technologies Inc.|
-|14|5.188.154.104|8080|Kazakhstan|Almaty|NLS|
-|15|144.91.81.25|3128|Germany|Nuremberg|Contabo GmbH|
-|16|148.251.110.152|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|17|211.75.214.175|3128|Taiwan|Taichung|Chunghwa Telecom Co., Ltd.|
-|18|144.217.131.61|3148|Canada|Beauharnois|OVH Hosting|
-|19|202.46.145.4|8080|Indonesia|Pela Mampang|Pt Mithaharum Abadi|
-|20|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
+|2|191.186.106.34|8080|Brazil|São Paulo|Claro NXT Telecomunicacoes Ltda|
+|3|195.248.240.25|80|Germany|Nuremberg|BitCommand|
+|4|18.228.173.143|3128|Brazil|São Paulo|Amazon Technologies Inc.|
+|5|8.209.114.72|3129|Germany|Frankfurt am Main|Alibaba.com Singapore E-Commerce Private Limited|
+|6|148.251.110.152|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|7|18.143.215.49|80|Singapore|Singapore|Amazon Technologies Inc.|
+|8|5.188.154.104|8080|Kazakhstan|Almaty|NLS|
+|9|142.132.201.86|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|10|144.217.131.61|3148|Canada|Beauharnois|OVH Hosting|
+|11|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
+|12|103.66.168.20|80|Bangladesh|Dhaka|Simec System Ltd.|
+|13|202.46.145.4|8080|Indonesia|Pela Mampang|Pt Mithaharum Abadi|
+|14|209.38.254.44|45212|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|15|52.53.154.55|3128|United States|San Jose|Amazon.com, Inc.|
+|16|174.138.41.23|8080|United States|North Bergen|DigitalOcean, LLC|
+|17|149.102.243.148|12000|United States|Los Angeles|Datacamp Limited|
+|18|180.184.91.187|443|China|Beijing|Beijing Volcano Engine Technology Co., Ltd.|
+|19|123.126.158.184|80|China|Beijing|China Unicom Beijing Province Network|
+|20|47.74.154.143|8787|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 
 
 
