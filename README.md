@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **9979** proxies at the latest update. Usable proxies are below.
+> Scraper found **10068** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|704|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|704|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|704|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|417|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|417|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|417|
 
 ## Sources
 
@@ -37,7 +37,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|2|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1212|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1301|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1138|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|6544|✅|
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|174.138.41.23|8080|United States|North Bergen|DigitalOcean, LLC|
-|2|167.99.238.23|8080|United States|North Bergen|DigitalOcean, LLC|
-|3|191.186.106.34|8080|Brazil|São Paulo|Claro NXT Telecomunicacoes Ltda|
-|4|167.99.225.112|8080|United States|North Bergen|DigitalOcean, LLC|
-|5|50.225.202.9|3128|United States|Brooklyn Park|Comcast Cable Communications, LLC|
-|6|165.232.114.200|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|7|35.240.156.235|8080|Singapore|Singapore|Google LLC|
-|8|192.169.119.183|3128|Taiwan|Taipei|Zenlayer Inc|
-|9|174.138.41.23|8080|United States|North Bergen|DigitalOcean, LLC|
-|10|186.97.102.69|999|Colombia|Medellín|Colombia Móvil|
-|11|50.225.202.9|3128|United States|Brooklyn Park|Comcast Cable Communications, LLC|
-|12|209.38.250.139|45212|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|49.51.189.190|443|United States|Los Angeles|OPHL|
-|14|191.98.174.168|999|Peru|Huancayo|Optical Technologies S.A.C.|
-|15|20.44.206.138|80|Singapore|Singapore|Microsoft Corporation|
-|16|5.188.154.104|8080|Kazakhstan|Almaty|NLS|
-|17|161.117.177.202|3128|Singapore|Singapore|Alibaba (US) Technology Co.|
-|18|146.196.54.68|80|Hong Kong|Kwun Tong|Layerstack Limited|
-|19|195.248.240.25|80|Germany|Nuremberg|BitCommand|
-|20|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|1|49.51.189.190|443|United States|Los Angeles|OPHL|
+|2|104.128.237.114|443|United States|Los Angeles|HostUS Solutions LLC|
+|3|149.102.243.148|12000|United States|Los Angeles|Datacamp Limited|
+|4|174.138.41.23|8080|United States|North Bergen|DigitalOcean, LLC|
+|5|195.248.240.25|80|Germany|Nuremberg|BitCommand|
+|6|167.99.238.23|8080|United States|North Bergen|DigitalOcean, LLC|
+|7|104.128.237.114|443|United States|Los Angeles|HostUS Solutions LLC|
+|8|35.240.156.235|8080|Singapore|Singapore|Google LLC|
+|9|18.143.215.49|80|Singapore|Singapore|Amazon Technologies Inc.|
+|10|192.169.119.183|3128|Taiwan|Taipei|Zenlayer Inc|
+|11|191.186.106.34|8080|Brazil|São Paulo|Claro NXT Telecomunicacoes Ltda|
+|12|174.138.41.23|8080|United States|North Bergen|DigitalOcean, LLC|
+|13|20.44.206.138|80|Singapore|Singapore|Microsoft Corporation|
+|14|50.225.202.9|3128|United States|Brooklyn Park|Comcast Cable Communications, LLC|
+|15|49.51.189.190|443|United States|Los Angeles|OPHL|
+|16|46.16.201.51|3129|Switzerland|Bern|Hosteur SA|
+|17|149.57.11.129|8181|United States|Frankton|Swayzee Telephone Company, Inc.|
+|18|191.98.174.168|999|Peru|Huancayo|Optical Technologies S.A.C.|
+|19|209.38.250.139|45212|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|20|149.102.243.148|12000|United States|Los Angeles|Datacamp Limited|
 
 
 
