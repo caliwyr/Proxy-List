@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|562|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|562|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|562|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|518|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|518|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|518|
 
 ## Sources
 
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|115.144.101.201|10001|South Korea|Mapo-gu|Korea Telecom|
-|2|1.4.251.77|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|3|195.248.240.25|80|Germany|Nuremberg|BitCommand|
-|4|203.109.19.137|12241|South Korea|Mapo-gu|HAIonNet|
-|5|173.176.14.246|3128|Canada|Vaudreuil-Dorion|Le Groupe Videotron Ltee|
-|6|50.225.202.9|3128|United States|Brooklyn Park|Comcast Cable Communications, LLC|
+|1|66.135.14.166|443|United States|Piscataway|The Constant Company, LLC|
+|2|35.240.219.50|8080|Singapore|Singapore|Google LLC|
+|3|173.176.14.246|3128|Canada|Vaudreuil-Dorion|Le Groupe Videotron Ltee|
+|4|66.135.14.166|443|United States|Piscataway|The Constant Company, LLC|
+|5|195.248.240.25|80|Germany|Nuremberg|BitCommand|
+|6|51.79.50.22|9300|Canada|Beauharnois|OVH SAS|
 |7|51.195.117.105|3128|Germany|Limburg an der Lahn|OVH SAS|
-|8|209.38.201.164|45212|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|46.16.201.51|3129|Switzerland|Bern|Hosteur SA|
-|10|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
-|11|192.99.182.243|3128|United States|Newark|OVH Hosting|
-|12|50.225.202.9|3128|United States|Brooklyn Park|Comcast Cable Communications, LLC|
-|13|20.44.206.138|80|Singapore|Singapore|Microsoft Corporation|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|15|51.195.117.105|3128|Germany|Limburg an der Lahn|OVH SAS|
-|16|8.209.114.72|3129|Germany|Frankfurt am Main|Alibaba.com Singapore E-Commerce Private Limited|
-|17|146.196.54.75|80|Hong Kong|Kwun Tong|Layerstack Limited|
-|18|118.69.111.51|8080|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|19|142.132.201.86|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|20|46.98.195.22|8080|Ukraine|Poltava|ISP "Fregat"|
+|8|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
+|9|1.4.251.77|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|10|129.154.225.163|8100|India|Mumbai|Oracle Corporation|
+|11|51.195.117.105|3128|Germany|Limburg an der Lahn|OVH SAS|
+|12|118.69.111.51|8080|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|13|192.99.182.243|3128|United States|Newark|OVH Hosting|
+|14|146.196.54.68|80|Hong Kong|Kwun Tong|Layerstack Limited|
+|15|146.196.54.75|80|Hong Kong|Kwun Tong|Layerstack Limited|
+|16|50.225.202.9|3128|United States|Brooklyn Park|Comcast Cable Communications, LLC|
+|17|46.98.195.22|8080|Ukraine|Poltava|ISP "Fregat"|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|19|144.217.119.85|3207|Canada|Beauharnois|OVH Hosting|
+|20|102.220.121.56|3128|South Africa|Middelburg|Net4 Telecoms|
 
 
 
