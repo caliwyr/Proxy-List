@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|469|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|469|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|469|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|460|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|460|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|460|
 
 ## Sources
 
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|185.128.70.46|8080|Germany|Frankfurt am Main|1&1 Versatel Deutschland GmbH|
-|2|144.217.119.85|3207|Canada|Beauharnois|OVH Hosting|
+|1|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
+|2|51.254.130.240|1985|France|Gravelines|OVH SAS|
 |3|51.158.147.163|1234|France|Paris|SCALEWAY|
-|4|142.132.201.86|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|5|192.99.182.243|3128|United States|Newark|OVH Hosting|
-|6|183.109.80.229|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
-|7|202.46.145.4|8080|Indonesia|Pela Mampang|Pt Mithaharum Abadi|
-|8|195.248.240.25|80|Germany|Nuremberg|BitCommand|
-|9|203.109.19.137|12241|South Korea|Mapo-gu|HAIonNet|
-|10|8.209.114.72|3129|Germany|Frankfurt am Main|Alibaba.com Singapore E-Commerce Private Limited|
-|11|146.196.54.68|80|Hong Kong|Kwun Tong|Layerstack Limited|
-|12|51.254.130.240|1985|France|Gravelines|OVH SAS|
-|13|146.196.54.75|80|Hong Kong|Kwun Tong|Layerstack Limited|
-|14|191.186.106.34|8080|Brazil|São Paulo|Claro NXT Telecomunicacoes Ltda|
-|15|34.143.228.238|8080|Singapore|Singapore|Google LLC|
-|16|47.243.75.249|59394|Hong Kong|Central|Alibaba (US) Technology Co., Ltd.|
-|17|179.49.237.101|999|Chile|Santiago|Sitelco SPA|
-|18|20.44.206.138|80|Singapore|Singapore|Microsoft Corporation|
-|19|158.69.53.98|9300|Canada|Montreal|OVH SAS|
-|20|116.105.248.215|10024|Vietnam|Hanoi|Viettel Corporation|
+|4|192.99.182.243|3128|United States|Newark|OVH Hosting|
+|5|144.217.119.85|3207|Canada|Beauharnois|OVH Hosting|
+|6|88.99.21.162|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|7|142.132.201.86|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|8|183.109.80.229|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
+|9|192.169.119.183|3128|Taiwan|Taipei|Zenlayer Inc|
+|10|136.243.55.199|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|11|195.248.240.25|80|Germany|Nuremberg|BitCommand|
+|12|90.154.124.211|8080|Russia|Moscow|CTC-B2B|
+|13|8.209.114.72|3129|Germany|Frankfurt am Main|Alibaba.com Singapore E-Commerce Private Limited|
+|14|147.182.154.76|3128|Canada|Toronto|DigitalOcean, LLC|
+|15|191.186.106.34|8080|Brazil|São Paulo|Claro NXT Telecomunicacoes Ltda|
+|16|129.154.225.163|8100|India|Mumbai|Oracle Corporation|
+|17|47.243.75.249|59394|Hong Kong|Central|Alibaba (US) Technology Co., Ltd.|
+|18|64.226.110.184|45212|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|19|209.38.201.164|45212|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|20|146.196.54.68|80|Hong Kong|Kwun Tong|Layerstack Limited|
 
 
 
