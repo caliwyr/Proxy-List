@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **9986** proxies at the latest update. Usable proxies are below.
+> Scraper found **9998** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|447|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|447|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|447|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|653|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|653|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|653|
 
 ## Sources
 
@@ -36,8 +36,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|1|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1234|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|3|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1244|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1299|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|6369|✅|
@@ -48,25 +48,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|104.40.148.100|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|2|49.51.189.190|443|United States|Los Angeles|OPHL|
-|3|13.93.68.176|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|4|88.99.21.162|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|5|135.148.28.56|3128|United States|Warrenton|OVH US LLC|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|51.81.24.36|3128|United States|New York|OVH US LLC|
-|8|37.252.7.112|3128|Poland|Gdansk|Artnet Sp. z o.o.|
-|9|93.84.70.86|3128|Belarus|Gomel|Republican Unitary Telecommunication Enterprise Beltelecom|
-|10|136.243.55.199|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|11|18.143.215.49|80|Singapore|Singapore|Amazon Technologies Inc.|
-|12|135.148.28.56|3128|United States|Warrenton|OVH US LLC|
-|13|50.225.202.9|3128|United States|Brooklyn Park|Comcast Cable Communications, LLC|
-|14|51.81.24.36|3128|United States|New York|OVH US LLC|
-|15|78.46.190.133|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|16|142.132.201.86|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|17|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
-|18|5.188.154.104|8080|Kazakhstan|Almaty|NLS|
-|19|200.105.215.22|33630|Bolivia|La Paz|AXS Bolivia S. A.|
-|20|35.244.25.186|3128|India|Mumbai|Google LLC|
+|2|13.93.68.176|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|3|18.143.215.49|80|Singapore|Singapore|Amazon Technologies Inc.|
+|4|209.38.250.139|45212|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|5|88.99.21.162|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|6|135.148.28.56|3128|United States|Warrenton|OVH US LLC|
+|7|37.252.7.112|3128|Poland|Gdansk|Artnet Sp. z o.o.|
+|8|93.84.70.86|3128|Belarus|Gomel|Republican Unitary Telecommunication Enterprise Beltelecom|
+|9|136.243.55.199|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|10|51.81.24.36|3128|United States|New York|OVH US LLC|
+|11|157.245.27.9|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|142.132.201.86|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|14|35.244.25.186|3128|India|Mumbai|Google LLC|
+|15|135.148.28.56|3128|United States|Warrenton|OVH US LLC|
+|16|5.188.154.104|8080|Kazakhstan|Almaty|NLS|
+|17|82.165.184.53|80|Poland|Warsaw|IONOS SE|
+|18|151.236.194.122|3128|Kazakhstan|Almaty|Smartnet TOO|
+|19|38.154.239.218|3128|United States|Piscataway|B2 Net Solutions Inc.|
+|20|146.196.54.68|80|Hong Kong|Kwun Tong|Layerstack Limited|
 
 
 
