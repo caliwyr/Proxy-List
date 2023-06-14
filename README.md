@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|574|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|574|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|574|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|587|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|587|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|587|
 
 ## Sources
 
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|144.217.119.85|3207|Canada|Beauharnois|OVH Hosting|
-|2|158.69.185.37|3129|Canada|Montreal|OVH SAS|
-|3|144.217.131.61|3148|Canada|Beauharnois|OVH Hosting|
-|4|195.248.240.25|80|Germany|Nuremberg|BitCommand|
-|5|51.195.117.105|3128|Germany|Limburg an der Lahn|OVH SAS|
-|6|185.128.70.46|8080|Germany|Frankfurt am Main|1&1 Versatel Deutschland GmbH|
-|7|47.243.75.249|59394|Hong Kong|Central|Alibaba (US) Technology Co., Ltd.|
-|8|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
-|9|51.195.117.105|3128|Germany|Limburg an der Lahn|OVH SAS|
-|10|142.132.201.86|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|129.154.225.163|8100|India|Mumbai|Oracle Corporation|
-|13|209.38.250.139|45212|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|14|20.44.206.138|80|Singapore|Singapore|Microsoft Corporation|
-|15|46.16.201.51|3129|Switzerland|Bern|Hosteur SA|
-|16|200.105.215.22|33630|Bolivia|La Paz|AXS Bolivia S. A.|
-|17|146.196.54.75|80|Hong Kong|Kwun Tong|Layerstack Limited|
-|18|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
-|19|209.38.254.44|45212|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|20|173.176.14.246|3128|Canada|Vaudreuil-Dorion|Le Groupe Videotron Ltee|
+|1|195.248.240.25|80|Germany|Nuremberg|BitCommand|
+|2|8.209.114.72|3129|Germany|Frankfurt am Main|Alibaba.com Singapore E-Commerce Private Limited|
+|3|173.176.14.246|3128|Canada|Vaudreuil-Dorion|Le Groupe Videotron Ltee|
+|4|51.195.117.105|3128|Germany|Limburg an der Lahn|OVH SAS|
+|5|51.158.147.163|1234|France|Paris|SCALEWAY|
+|6|129.154.225.163|8100|India|Mumbai|Oracle Corporation|
+|7|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
+|8|144.217.119.85|3207|Canada|Beauharnois|OVH Hosting|
+|9|142.132.201.86|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|10|209.38.254.44|45212|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|158.69.53.98|9300|Canada|Montreal|OVH SAS|
+|12|118.69.111.51|8080|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|13|51.195.117.105|3128|Germany|Limburg an der Lahn|OVH SAS|
+|14|46.16.201.51|3129|Switzerland|Bern|Hosteur SA|
+|15|136.243.55.199|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|17|177.87.144.122|8086|Brazil|Sao Sebastiao da Grama|Videomar Rede Nordeste S/A|
+|18|34.143.228.238|8080|Singapore|Singapore|Google LLC|
+|19|200.105.215.22|33630|Bolivia|La Paz|AXS Bolivia S. A.|
+|20|20.44.206.138|80|Singapore|Singapore|Microsoft Corporation|
 
 
 
