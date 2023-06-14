@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **9834** proxies at the latest update. Usable proxies are below.
+> Scraper found **9876** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|471|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|471|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|471|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|719|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|719|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|719|
 
 ## Sources
 
@@ -36,8 +36,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|19|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1144|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|22|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1183|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1136|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|6452|✅|
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|51.81.24.36|3128|United States|New York|OVH US LLC|
-|2|34.143.228.238|8080|Singapore|Singapore|Google LLC|
-|3|37.252.7.112|3128|Poland|Gdansk|Artnet Sp. z o.o.|
-|4|8.209.114.72|3129|Germany|Frankfurt am Main|Alibaba.com Singapore E-Commerce Private Limited|
-|5|140.99.21.216|3128|United States|Brooklyn|EpicUp Holdings Inc|
+|1|37.252.7.112|3128|Poland|Gdansk|Artnet Sp. z o.o.|
+|2|18.143.215.49|80|Singapore|Singapore|Amazon Technologies Inc.|
+|3|115.144.16.101|10471|South Korea|Hwaseong-si|Korea Telecom|
+|4|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
+|5|118.69.111.51|8080|Vietnam|Ho Chi Minh City|FPT Telecom Company|
 |6|50.225.202.9|3128|United States|Brooklyn Park|Comcast Cable Communications, LLC|
-|7|115.144.102.132|10041|South Korea|Gangdong-gu|Korea Telecom|
-|8|213.241.205.2|8080|Russia|Rostov-on-Don|RTCOMM-YUG|
-|9|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|10|18.143.215.49|80|Singapore|Singapore|Amazon Technologies Inc.|
-|11|35.240.156.235|8080|Singapore|Singapore|Google LLC|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
-|14|107.148.193.162|1080|United States|San Jose|PEG TECH INC|
-|15|115.144.16.101|10471|South Korea|Hwaseong-si|Korea Telecom|
-|16|103.31.251.124|8080|Indonesia|Jakarta|ARGON|
-|17|34.66.207.147|3128|United States|Council Bluffs|Google LLC|
-|18|211.75.214.175|3128|Taiwan|Taichung|Chunghwa Telecom Co., Ltd.|
-|19|103.151.177.105|80|Indonesia|Jakarta|PT JASAMARGA TOLLROAD OPERATOR|
-|20|202.40.177.69|80|Bangladesh|Azimpur|Ranks ITT|
+|7|8.209.114.72|3129|Germany|Frankfurt am Main|Alibaba.com Singapore E-Commerce Private Limited|
+|8|200.105.215.22|33630|Bolivia|La Paz|AXS Bolivia S. A.|
+|9|114.7.27.98|8080|Indonesia|Baru Ilir|PT. INDOSAT Tbk|
+|10|190.214.52.226|53281|Ecuador|Guayaquil|Corporacion Nacional De Telecomunicaciones - CNT EP|
+|11|50.204.36.138|60808|United States|Chicago|Comcast Cable Communications, LLC|
+|12|103.140.109.91|8080|Indonesia|Jakarta|PT. Fiber Networks Indonesia|
+|13|202.40.177.69|80|Bangladesh|Azimpur|Ranks ITT|
+|14|103.184.50.26|8080|Indonesia|Sragen|PT Aktech Digital Solutions|
+|15|115.144.102.132|10041|South Korea|Gangdong-gu|Korea Telecom|
+|16|64.225.8.82|9992|United States|Clifton|DigitalOcean, LLC|
+|17|140.99.21.216|3128|United States|Brooklyn|EpicUp Holdings Inc|
+|18|119.8.10.18|7890|Mexico|Mexico City|Huawei International Pte. LTD|
+|19|103.137.198.5|8080|India|Hyderabad|Bcm Airwaysroute|
+|20|189.232.89.175|8080|Mexico|Atitalaquia|Uninet S.A. de C.V.|
 
 
 
