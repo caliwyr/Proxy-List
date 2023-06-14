@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|359|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|359|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|359|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|360|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|360|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|360|
 
 ## Sources
 
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|157.245.27.9|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|2|158.69.66.247|9300|Canada|Montreal|OVH SAS|
-|3|5.188.154.104|8080|Kazakhstan|Almaty|NLS|
-|4|119.252.171.50|8080|Indonesia|Kapasari|PT Indonesia Comnets Plus|
-|5|209.38.201.164|45212|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|6|51.158.147.163|1234|France|Paris|SCALEWAY|
-|7|200.82.153.211|999|Venezuela|Barquisimeto|Corporación Telemic C.A.|
-|8|190.53.46.11|38525|Nicaragua|Managua|Amnet Telecomunicaciones S.A.|
-|9|24.152.40.49|8080|Paraguay|Coronel Oviedo|TV MAX CABLE S.A.|
-|10|186.97.102.69|999|Colombia|Medellín|Colombia Móvil|
-|11|167.235.154.74|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|1|213.171.44.134|3128|Russia|Moscow|JSC Comcor|
+|2|157.245.27.9|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|3|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|4|209.38.254.44|45212|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|5|190.12.121.37|999|Argentina|Avellaneda|CPS|
+|6|5.188.154.104|8080|Kazakhstan|Almaty|NLS|
+|7|191.243.46.30|43241|Brazil|Nova Crixas|Microturbo Telecomunicacoes Ltda-me|
+|8|200.105.215.22|33630|Bolivia|La Paz|AXS Bolivia S. A.|
+|9|119.252.171.50|8080|Indonesia|Kapasari|PT Indonesia Comnets Plus|
+|10|209.38.250.139|45212|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|200.25.254.193|54240|Colombia|Neiva|Andinet ON Line|
 |12|190.26.201.194|8080|Colombia|Bogotá|ETB - Colombia|
-|13|37.237.134.179|32650|Iraq|Baghdad|BROADBAND-SUBSCRIBERS|
-|14|37.252.7.112|3128|Poland|Gdansk|Artnet Sp. z o.o.|
-|15|180.184.91.187|443|China|Beijing|Beijing Volcano Engine Technology Co., Ltd.|
-|16|154.70.107.81|3128|Cameroon|Douala|MTN Network Solutions (Cameroon)|
-|17|47.74.154.143|8787|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|18|64.32.22.153|3128|United States|Chicago|Sharktech|
-|19|200.24.130.138|999|Ecuador|Guayaquil|Nedetel S.A.|
-|20|109.111.212.78|8080|United Kingdom|Chester|Metronet|
+|13|186.97.102.69|999|Colombia|Medellín|Colombia Móvil|
+|14|167.235.154.74|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|15|124.198.11.101|12425|South Korea|Suwon|HAIonNet|
+|16|64.32.22.153|3128|United States|Chicago|Sharktech|
+|17|191.186.106.34|8080|Brazil|São Paulo|Claro NXT Telecomunicacoes Ltda|
+|18|37.252.7.112|3128|Poland|Gdansk|Artnet Sp. z o.o.|
+|19|154.70.107.81|3128|Cameroon|Douala|MTN Network Solutions (Cameroon)|
+|20|123.126.158.50|80|China|Beijing|China Unicom Beijing Province Network|
 
 
 
