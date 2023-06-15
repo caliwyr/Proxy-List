@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **9899** proxies at the latest update. Usable proxies are below.
+> Scraper found **9787** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|536|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|536|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|536|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|505|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|505|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|505|
 
 ## Sources
 
@@ -37,7 +37,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1245|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1133|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1129|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|6442|✅|
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|115.144.101.201|10001|South Korea|Mapo-gu|Korea Telecom|
-|2|195.154.185.32|3128|France|Vitry-sur-Seine|Online S.A.S.|
-|3|191.186.106.34|8080|Brazil|São Paulo|Claro NXT Telecomunicacoes Ltda|
-|4|144.217.253.209|9300|Canada|Beauharnois|OVH SAS|
-|5|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|6|200.105.215.22|33630|Bolivia|La Paz|AXS Bolivia S. A.|
-|7|136.243.55.199|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|8|103.168.58.150|3128|Vietnam|Cau Giay|Floor 5, 255 Tran Dang Ninh, Dich Vong, Cau Giay District, Ha Noi City|
-|9|209.38.254.44|45212|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|209.38.201.164|45212|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|103.177.176.70|4343|Indonesia|Klender|PT Milenial Inti Telekomunikasi|
-|12|5.188.154.104|8080|Kazakhstan|Almaty|NLS|
-|13|103.115.20.4|8181|Indonesia|Subang|PMYNET|
-|14|37.120.192.154|8080|Netherlands|Amsterdam|M247 Europe SRL|
-|15|212.174.17.73|8085|Turkey|Gaziantep|Turk Telekomunikasyon Anonim Sirketi|
-|16|94.228.204.225|41890|Russia|Moscow|Uniontel ZAO network|
-|17|58.69.32.226|8081|Philippines|Mandaluyong City|Philippine Long Distance Telephone Co.|
-|18|64.225.8.115|9968|United States|Clifton|DigitalOcean, LLC|
-|19|190.12.121.35|999|Argentina|Avellaneda|CPS|
-|20|217.117.29.68|3128|Lithuania|Vilnius|UAB "Baltnetos komunikacijos"|
+|1|191.186.106.34|8080|Brazil|São Paulo|Claro NXT Telecomunicacoes Ltda|
+|2|209.38.201.164|45212|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|3|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|4|149.102.243.148|12000|United States|Los Angeles|Datacamp Limited|
+|5|195.154.185.32|3128|France|Vitry-sur-Seine|Online S.A.S.|
+|6|5.188.154.104|8080|Kazakhstan|Almaty|NLS|
+|7|119.8.120.4|80|Hong Kong|Hong Kong|Huawei International Pte. LTD|
+|8|209.38.254.44|45212|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|58.69.32.226|8081|Philippines|Mandaluyong City|Philippine Long Distance Telephone Co.|
+|10|103.169.254.164|8061|Indonesia|Banyuwangi|PT Master Star Network|
+|11|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|12|181.78.104.178|999|Guatemala|Guatemala City|Ufinet Panama S.A.|
+|13|103.186.101.94|3128|Vietnam|Quan Mot|DATAHUB|
+|14|103.118.46.105|32650|Cambodia|Phnom Penh|ANGKOR E & C (CAMBODIA) Co., Ltd.|
+|15|64.225.4.63|9971|United States|Clifton|DigitalOcean, LLC|
+|16|134.79.23.30|3128|United States|Menlo Park|SLAC National Accelerator Laboratory|
+|17|149.102.243.148|12000|United States|Los Angeles|Datacamp Limited|
+|18|64.225.8.115|9985|United States|Clifton|DigitalOcean, LLC|
+|19|217.117.29.68|3128|Lithuania|Vilnius|UAB "Baltnetos komunikacijos"|
+|20|191.186.106.34|8080|Brazil|São Paulo|Claro NXT Telecomunicacoes Ltda|
 
 
 
