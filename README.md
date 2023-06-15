@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **9077** proxies at the latest update. Usable proxies are below.
+> Scraper found **9078** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|344|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|344|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|344|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|381|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|381|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|381|
 
 ## Sources
 
@@ -37,7 +37,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|879|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|880|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|839|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|6276|✅|
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|13.58.251.81|3128|United States|Dublin|Amazon.com, Inc.|
-|2|51.81.88.73|3128|United States|Warrenton|OVH US LLC|
-|3|191.186.106.34|8080|Brazil|São Paulo|Claro NXT Telecomunicacoes Ltda|
-|4|128.199.6.201|10086|United States|Santa Clara|DigitalOcean, LLC|
-|5|51.81.24.36|3128|United States|New York|OVH US LLC|
-|6|18.197.33.53|3128|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|7|14.39.181.25|8080|South Korea|Yongsan-gu|Korea Telecom|
-|8|18.143.215.49|80|Singapore|Singapore|Amazon Technologies Inc.|
-|9|118.69.111.51|8080|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|10|13.58.251.81|3128|United States|Dublin|Amazon.com, Inc.|
-|11|175.181.154.244|3128|Taiwan|Taipei|Digital United Inc.|
-|12|51.81.24.38|3128|United States|New York|OVH US LLC|
-|13|135.148.28.56|3128|United States|Warrenton|OVH US LLC|
-|14|180.183.109.51|8080|Thailand|Kanchanaburi|Triple T Broadband Public Company Limited|
-|15|51.81.88.73|3128|United States|Warrenton|OVH US LLC|
-|16|51.81.24.38|3128|United States|New York|OVH US LLC|
-|17|47.90.162.160|8080|United States|Charlottesville|Alibaba.com LLC|
-|18|116.105.248.215|10024|Vietnam|Hanoi|Viettel Corporation|
-|19|3.82.161.193|3128|United States|Ashburn|Amazon Technologies Inc.|
-|20|185.103.128.138|8080|Iran|Tehran|Pishgaman Toseeh Ertebatat Company (Private Joint Stock)|
+|1|3.122.226.26|3128|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|2|191.186.106.34|8080|Brazil|São Paulo|Claro NXT Telecomunicacoes Ltda|
+|3|189.232.96.231|8080|Mexico|Tula de Allende|Uninet S.A. de C.V.|
+|4|51.81.88.73|3128|United States|Warrenton|OVH US LLC|
+|5|135.148.28.56|3128|United States|Warrenton|OVH US LLC|
+|6|51.81.24.38|3128|United States|New York|OVH US LLC|
+|7|51.81.24.36|3128|United States|New York|OVH US LLC|
+|8|13.58.251.81|3128|United States|Dublin|Amazon.com, Inc.|
+|9|3.34.139.240|3128|South Korea|Seoul|Amazon.com, Inc.|
+|10|52.66.243.1|3128|India|Mumbai|Amazon Technologies Inc.|
+|11|8.209.114.72|3129|Germany|Frankfurt am Main|Alibaba.com Singapore E-Commerce Private Limited|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|190.113.41.131|999|Dominican Republic|Santo Domingo Este|MR Networking, SRL|
+|14|3.82.161.193|3128|United States|Ashburn|Amazon Technologies Inc.|
+|15|27.77.151.170|50003|Vietnam|Hanoi|Viettel Group|
+|16|13.58.251.81|3128|United States|Dublin|Amazon.com, Inc.|
+|17|51.81.88.73|3128|United States|Warrenton|OVH US LLC|
+|18|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|19|175.181.154.244|3128|Taiwan|Taipei|Digital United Inc.|
+|20|200.25.254.193|54240|Colombia|Neiva|Andinet ON Line|
 
 
 
