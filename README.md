@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **9198** proxies at the latest update. Usable proxies are below.
+> Scraper found **9091** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|404|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|404|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|404|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|363|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|363|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|363|
 
 ## Sources
 
@@ -36,8 +36,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|6|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|932|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|15|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|816|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|916|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|6261|✅|
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|191.186.106.34|8080|Brazil|São Paulo|Claro NXT Telecomunicacoes Ltda|
-|2|37.252.7.112|3128|Poland|Gdansk|Artnet Sp. z o.o.|
-|3|8.209.114.72|3129|Germany|Frankfurt am Main|Alibaba.com Singapore E-Commerce Private Limited|
-|4|18.143.215.49|80|Singapore|Singapore|Amazon Technologies Inc.|
-|5|190.131.250.105|999|Colombia|Itaguei|Columbus Networks Colombia|
-|6|51.79.50.31|9300|Canada|Beauharnois|OVH SAS|
-|7|188.132.222.8|8080|Turkey|Istanbul|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|8|119.12.173.122|3128|Hong Kong|Hong Kong|Huawei International Pte. Ltd.|
-|9|20.219.180.105|3129|India|Pune|Microsoft Corporation|
-|10|14.39.181.25|8080|South Korea|Yongsan-gu|Korea Telecom|
-|11|190.110.35.18|999|Dominican Republic|Santiago de los Caballeros|WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L|
-|12|171.227.1.27|10066|Vietnam|Gia Nghia|Viettel Corporation|
-|13|173.176.14.246|3128|Canada|Vaudreuil-Dorion|Le Groupe Videotron Ltee|
-|14|144.217.253.209|9300|Canada|Beauharnois|OVH SAS|
-|15|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
-|16|183.89.165.78|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
-|17|213.241.205.2|8080|Russia|Rostov-on-Don|RTCOMM-YUG|
-|18|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|19|107.178.9.186|8080|United States|Waco|Nextlink Broadband|
-|20|107.178.9.186|8080|United States|Waco|Nextlink Broadband|
+|1|183.109.80.229|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
+|2|8.209.114.72|3129|Germany|Frankfurt am Main|Alibaba.com Singapore E-Commerce Private Limited|
+|3|18.143.215.49|80|Singapore|Singapore|Amazon Technologies Inc.|
+|4|119.12.173.122|3128|Hong Kong|Hong Kong|Huawei International Pte. Ltd.|
+|5|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|50.204.36.138|60808|United States|Chicago|Comcast Cable Communications, LLC|
+|8|178.128.88.72|10000|Singapore|Singapore|DigitalOcean, LLC|
+|9|191.186.106.34|8080|Brazil|São Paulo|Claro NXT Telecomunicacoes Ltda|
+|10|193.107.104.57|3128|Ukraine|Vinnytsia|Stasishen Aleksandr Afanasiyovich|
+|11|171.227.1.27|10066|Vietnam|Gia Nghia|Viettel Corporation|
+|12|103.134.44.176|8080|India|Haridwar|Countrylink Communiction Pvt Ltd|
+|13|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|14|128.199.6.201|10086|United States|Santa Clara|DigitalOcean, LLC|
+|15|158.69.71.245|9300|Canada|Montreal|OVH SAS|
+|16|189.232.96.231|8080|Mexico|Tula de Allende|Uninet S.A. de C.V.|
+|17|190.92.208.146|7890|Singapore|Singapore|Huawei International Pte. LTD|
+|18|95.111.194.14|2659|Singapore|Singapore|UpCloud Ltd|
+|19|135.181.89.201|8080|Finland|Helsinki|Hetzner Online GmbH|
+|20|189.36.195.226|3128|Brazil|Fortaleza|Orion Telecomunicações Comercio e Serviços LTDA|
 
 
 
