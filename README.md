@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **8473** proxies at the latest update. Usable proxies are below.
+> Scraper found **9493** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|351|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|351|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|351|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|466|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|466|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|466|
 
 ## Sources
 
@@ -36,8 +36,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|0|🚫|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1020|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|948|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|6442|✅|
@@ -49,24 +49,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|207.154.238.26|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |2|139.144.40.229|3128|United States|Richardson|Akamai Technologies, Inc.|
-|3|217.117.29.68|3128|Lithuania|Vilnius|UAB "Baltnetos komunikacijos"|
-|4|164.52.12.230|3128|Hong Kong|Central|CDS Global Cloud Co.|
-|5|94.103.84.55|3128|Russia|Moscow|VDSINA|
-|6|64.225.8.82|9983|United States|Clifton|DigitalOcean, LLC|
-|7|51.195.117.105|3128|Germany|Limburg an der Lahn|OVH SAS|
-|8|154.26.129.251|443|Singapore|Singapore|Cogent Communications|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|171.243.23.212|15021|Vietnam|Nha Trang|Viettel Corporation|
-|11|103.27.22.65|32650|Pakistan|Karachi|Supernet|
-|12|129.154.225.163|8100|India|Mumbai|Oracle Corporation|
-|13|41.76.145.136|443|Mozambique|Maputo|VM  S.A|
-|14|118.97.100.75|8080|Indonesia|Menteng|PT. Telekomunikasi Indonesia|
-|15|103.174.81.66|8080|India|Ghatkesar|CtrlS|
-|16|183.221.242.102|9443|China|Mianyang|China Mobile|
-|17|171.227.5.65|10066|Vietnam|Gia Nghia|Viettel Corporation|
-|18|27.79.52.34|50003|Vietnam|Tan Tien|Viettel Group|
-|19|81.211.10.161|3128|Russia|Moscow|EDN Sovintel|
-|20|187.141.184.235|8080|Mexico|San José del Cabo|Uninet S.A. de C.V.|
+|3|94.103.84.55|3128|Russia|Moscow|VDSINA|
+|4|154.26.129.251|443|Singapore|Singapore|Cogent Communications|
+|5|51.195.117.105|3128|Germany|Limburg an der Lahn|OVH SAS|
+|6|181.65.128.140|999|Peru|Arequipa|Telefonica del Peru S.A.A.|
+|7|64.225.8.82|9983|United States|Clifton|DigitalOcean, LLC|
+|8|164.52.12.230|3128|Hong Kong|Central|CDS Global Cloud Co.|
+|9|183.221.242.102|9443|China|Mianyang|China Mobile|
+|10|41.76.145.136|443|Mozambique|Maputo|VM  S.A|
+|11|129.154.225.163|8100|India|Mumbai|Oracle Corporation|
+|12|66.85.128.252|8080|United States|Phoenix|Secured Servers LLC|
+|13|114.129.18.94|8080|Indonesia|Nusa Dua|PT Hipernet Indodata|
+|14|85.133.151.143|3128|Iran|Tehran|Stack Network Limited|
+|15|84.38.183.143|8080|Russia|St Petersburg|OOO "Network of data-centers "Selectel"|
+|16|64.225.4.63|9998|United States|Clifton|DigitalOcean, LLC|
+|17|174.138.41.23|8080|United States|North Bergen|DigitalOcean, LLC|
+|18|64.225.8.82|9983|United States|Clifton|DigitalOcean, LLC|
+|19|172.104.30.222|8080|United States|Cedar Knolls|Akamai Technologies|
+|20|103.154.146.66|8080|Indonesia|Surabaya|MORATELINDONAP|
 
 
 
