@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **8830** proxies at the latest update. Usable proxies are below.
+> Scraper found **8863** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|313|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|313|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|313|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|366|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|366|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|366|
 
 ## Sources
 
@@ -37,7 +37,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|783|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|816|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|819|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|6145|✅|
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|187.251.230.10|3128|Mexico|Puebla City|Total Play Telecomunicaciones SA De CV|
-|2|157.245.27.9|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|3|51.79.50.22|9300|Canada|Beauharnois|OVH SAS|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|119.8.10.18|7890|Mexico|Mexico City|Huawei International Pte. LTD|
-|6|178.128.88.72|10000|Singapore|Singapore|DigitalOcean, LLC|
-|7|18.143.215.49|80|Singapore|Singapore|Amazon Technologies Inc.|
-|8|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
-|9|102.213.87.52|8080|Nigeria|Lagos|Globacom Limited|
-|10|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|11|185.103.128.138|8080|Iran|Tehran|Pishgaman Toseeh Ertebatat Company (Private Joint Stock)|
-|12|64.225.4.63|9985|United States|Clifton|DigitalOcean, LLC|
-|13|189.36.195.226|3128|Brazil|Fortaleza|Orion Telecomunicações Comercio e Serviços LTDA|
-|14|95.217.167.241|8080|Finland|Helsinki|Hetzner Online GmbH|
-|15|135.181.25.11|8080|Finland|Helsinki|Hetzner Online GmbH|
-|16|60.250.226.154|8080|Taiwan|New Taipei|Chunghwa Telecom Co., Ltd.|
-|17|84.38.183.143|8080|Russia|St Petersburg|OOO "Network of data-centers "Selectel"|
-|18|64.32.22.153|3128|United States|Chicago|Sharktech|
-|19|185.15.172.212|3128|Russia|Moscow|SafeData LLC|
-|20|27.66.108.112|3128|Vietnam|Hanoi|Viettel Group|
+|1|192.169.119.183|3128|Taiwan|Taipei|Zenlayer Inc|
+|2|107.148.193.162|1080|United States|San Jose|PEG TECH INC|
+|3|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
+|4|187.251.230.10|3128|Mexico|Puebla City|Total Play Telecomunicaciones SA De CV|
+|5|5.9.118.41|8889|Germany|Falkenstein|Hetzner Online GmbH|
+|6|18.143.215.49|80|Singapore|Singapore|Amazon Technologies Inc.|
+|7|78.138.98.115|3128|France|Strasbourg|Host Europe GmbH|
+|8|118.69.111.51|8080|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|9|178.128.88.72|10000|Singapore|Singapore|DigitalOcean, LLC|
+|10|78.46.190.133|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|11|185.15.172.212|3128|Russia|Moscow|SafeData LLC|
+|12|189.193.224.222|999|Mexico|Puebla City|Mega Cable, S.A. de C.V.|
+|13|45.174.79.193|999|Mexico|Ciudad Delicias|Raul Duarte Urita|
+|14|183.109.80.229|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
+|15|47.74.154.143|8787|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|16|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|17|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|18|82.165.184.53|80|Poland|Warsaw|IONOS SE|
+|19|188.166.28.70|3310|Netherlands|Amsterdam|DigitalOcean, LLC|
+|20|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
 
 
 
