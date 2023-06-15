@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|289|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|289|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|289|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|322|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|322|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|322|
 
 ## Sources
 
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|191.186.106.34|8080|Brazil|São Paulo|Claro NXT Telecomunicacoes Ltda|
-|3|18.143.215.49|80|Singapore|Singapore|Amazon Technologies Inc.|
-|4|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
+|1|8.209.114.72|3129|Germany|Frankfurt am Main|Alibaba.com Singapore E-Commerce Private Limited|
+|2|14.39.181.25|8080|South Korea|Yongsan-gu|Korea Telecom|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|18.143.215.49|80|Singapore|Singapore|Amazon Technologies Inc.|
 |5|20.44.206.138|80|Singapore|Singapore|Microsoft Corporation|
-|6|171.227.1.27|10066|Vietnam|Gia Nghia|Viettel Corporation|
-|7|116.105.248.215|10024|Vietnam|Hanoi|Viettel Corporation|
-|8|194.186.248.97|80|Russia|Krasnoyarsk|GOLDEN Telecom|
+|6|191.186.106.34|8080|Brazil|São Paulo|Claro NXT Telecomunicacoes Ltda|
+|7|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
+|8|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
 |9|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
-|10|200.105.215.22|33630|Bolivia|La Paz|AXS Bolivia S. A.|
-|11|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|12|47.74.154.143|8787|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|13|46.182.6.51|3129|France|Paris|Hosteur SAS|
-|14|23.132.48.1|999|Puerto Rico|Gurabo|Urban Wifi Networks LLC|
-|15|119.12.173.122|3128|Hong Kong|Hong Kong|Huawei International Pte. Ltd.|
-|16|131.153.48.254|8080|Singapore|Singapore|Secured Servers LLC|
-|17|27.79.11.206|50003|Vietnam|Tan Tien|Viettel Corporation|
-|18|18.143.215.49|80|Singapore|Singapore|Amazon Technologies Inc.|
-|19|123.126.158.184|80|China|Beijing|China Unicom Beijing Province Network|
-|20|201.182.251.142|999|Colombia|Pasto|SP SISTEMAS PALACIOS LTDA|
+|10|194.186.248.97|80|Russia|Krasnoyarsk|GOLDEN Telecom|
+|11|5.188.154.104|8080|Kazakhstan|Almaty|NLS|
+|12|116.105.248.215|10024|Vietnam|Hanoi|Viettel Corporation|
+|13|171.227.1.27|10066|Vietnam|Gia Nghia|Viettel Corporation|
+|14|47.74.154.143|8787|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|15|51.81.24.38|3128|United States|New York|OVH US LLC|
+|16|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|17|200.105.215.22|33630|Bolivia|La Paz|AXS Bolivia S. A.|
+|18|66.135.14.166|443|United States|Piscataway|The Constant Company, LLC|
+|19|103.17.150.33|8080|Bangladesh|Dhaka|SYSSOLUTION|
+|20|8.209.114.72|3129|Germany|Frankfurt am Main|Alibaba.com Singapore E-Commerce Private Limited|
 
 
 
