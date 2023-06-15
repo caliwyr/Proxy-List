@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|375|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|375|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|375|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|351|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|351|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|351|
 
 ## Sources
 
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|143.198.34.250|3128|Canada|Toronto|DigitalOcean, LLC|
-|2|190.26.201.194|8080|Colombia|Bogotá|ETB - Colombia|
-|3|8.209.114.72|3129|Germany|Frankfurt am Main|Alibaba.com Singapore E-Commerce Private Limited|
-|4|189.232.89.175|8080|Mexico|Atitalaquia|Uninet S.A. de C.V.|
-|5|176.95.54.202|83|Germany|Pohlheim|Vodafone GmbH|
-|6|14.39.181.25|8080|South Korea|Yongsan-gu|Korea Telecom|
-|7|209.38.201.164|45212|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|1|189.232.89.175|8080|Mexico|Atitalaquia|Uninet S.A. de C.V.|
+|2|8.209.114.72|3129|Germany|Frankfurt am Main|Alibaba.com Singapore E-Commerce Private Limited|
+|3|154.26.129.251|443|Singapore|Singapore|Cogent Communications|
+|4|118.69.111.51|8080|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|5|149.102.243.148|12000|United States|Los Angeles|Datacamp Limited|
+|6|171.243.23.212|15021|Vietnam|Nha Trang|Viettel Corporation|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |8|107.148.193.162|1080|United States|San Jose|PEG TECH INC|
-|9|209.38.250.139|45212|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|154.26.129.251|443|Singapore|Singapore|Cogent Communications|
-|11|176.99.2.43|1081|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|149.102.243.148|12000|United States|Los Angeles|Datacamp Limited|
+|9|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
+|10|149.102.243.148|12000|United States|Los Angeles|Datacamp Limited|
+|11|103.174.81.66|8080|India|Ghatkesar|CtrlS|
+|12|143.198.34.250|3128|Canada|Toronto|DigitalOcean, LLC|
+|13|209.38.250.139|45212|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |14|139.144.40.229|3128|United States|Richardson|Akamai Technologies, Inc.|
-|15|88.135.210.179|8080|Ukraine|Ivano-Frankivsk|Uteam LTD|
-|16|27.79.10.131|50003|Vietnam|Tan Tien|Viettel Corporation|
-|17|149.102.243.148|12000|United States|Los Angeles|Datacamp Limited|
-|18|190.92.208.146|7890|Singapore|Singapore|Huawei International Pte. LTD|
-|19|27.79.54.74|50003|Vietnam|Tan Tien|Viettel Corporation|
-|20|41.254.45.128|8080|Libya|Benghazi|LTT Network Backbone and POPs|
+|15|191.97.96.86|8080|Argentina|General Roca|Vision NET|
+|16|171.227.5.65|10066|Vietnam|Gia Nghia|Viettel Corporation|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|18|171.227.2.72|10066|Vietnam|Gia Nghia|Viettel Corporation|
+|19|107.178.9.186|8080|United States|Waco|Nextlink Broadband|
+|20|109.111.212.78|8080|United Kingdom|Chester|Metronet|
 
 
 
