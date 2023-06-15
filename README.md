@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **9281** proxies at the latest update. Usable proxies are below.
+> Scraper found **9239** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|454|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|454|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|454|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|383|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|383|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|383|
 
 ## Sources
 
@@ -37,7 +37,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|22|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|891|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|849|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1009|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|6276|✅|
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|195.248.240.25|80|Germany|Nuremberg|BitCommand|
-|2|173.176.14.246|3128|Canada|Vaudreuil-Dorion|Le Groupe Videotron Ltee|
-|3|129.154.225.163|8100|India|Mumbai|Oracle Corporation|
+|1|18.130.255.36|3128|United Kingdom|London|Amazon Technologies Inc.|
+|2|191.186.106.34|8080|Brazil|São Paulo|Claro NXT Telecomunicacoes Ltda|
+|3|18.143.215.49|80|Singapore|Singapore|Amazon Technologies Inc.|
 |4|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|5|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|46.16.201.51|3129|Switzerland|Bern|Hosteur SA|
-|8|27.77.151.170|50003|Vietnam|Hanoi|Viettel Group|
-|9|27.79.11.0|50003|Vietnam|Tan Tien|Viettel Corporation|
-|10|103.115.20.18|8181|Indonesia|Subang|PMYNET|
-|11|47.74.154.143|8787|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|12|5.188.154.104|8080|Kazakhstan|Almaty|NLS|
-|13|66.85.128.252|8080|United States|Phoenix|Secured Servers LLC|
-|14|159.255.188.134|41258|Poland|Warsaw|TOM-NET s.c. Dariusz Koper|
-|15|159.255.188.134|41258|Poland|Warsaw|TOM-NET s.c. Dariusz Koper|
-|16|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
-|17|41.76.145.136|443|Mozambique|Maputo|VM  S.A|
-|18|107.148.193.162|1080|United States|San Jose|PEG TECH INC|
-|19|3.8.156.207|3128|United Kingdom|London|Amazon Technologies Inc.|
-|20|191.186.106.34|8080|Brazil|São Paulo|Claro NXT Telecomunicacoes Ltda|
+|5|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
+|6|109.194.101.128|3128|Russia|Yoshkar-Ola|CJSC "ER-Telecom Holding" Yoshkar-Ola branch|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|129.154.225.163|8100|India|Mumbai|Oracle Corporation|
+|9|5.188.154.104|8080|Kazakhstan|Almaty|NLS|
+|10|173.176.14.246|3128|Canada|Vaudreuil-Dorion|Le Groupe Videotron Ltee|
+|11|185.103.128.138|8080|Iran|Tehran|Pishgaman Toseeh Ertebatat Company (Private Joint Stock)|
+|12|195.248.240.25|4443|Germany|Nuremberg|BitCommand|
+|13|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|14|110.34.3.229|3128|Nepal|Bharatpur|SUBISU C7|
+|15|103.118.175.200|3127|Singapore|Singapore|AXGN|
+|16|137.184.185.176|3128|United States|Santa Clara|DigitalOcean, LLC|
+|17|191.186.106.34|8080|Brazil|São Paulo|Claro NXT Telecomunicacoes Ltda|
+|18|5.161.59.111|8080|United States|Ashburn|Hetzner Online GmbH|
+|19|69.64.59.98|3128|United States|St Louis|GoDaddy.com, LLC|
+|20|165.232.114.200|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
 
 
 
