@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|303|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|303|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|303|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|351|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|351|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|351|
 
 ## Sources
 
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.144.40.229|3128|United States|Richardson|Akamai Technologies, Inc.|
-|2|154.26.129.251|443|Singapore|Singapore|Cogent Communications|
-|3|207.154.238.26|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|4|139.144.40.229|3128|United States|Richardson|Akamai Technologies, Inc.|
-|5|51.195.117.105|3128|Germany|Limburg an der Lahn|OVH SAS|
-|6|217.117.29.68|3128|Lithuania|Vilnius|UAB "Baltnetos komunikacijos"|
-|7|94.103.84.55|3128|Russia|Moscow|VDSINA|
-|8|119.8.120.4|80|Hong Kong|Hong Kong|Huawei International Pte. LTD|
-|9|164.52.12.230|3128|Hong Kong|Central|CDS Global Cloud Co.|
-|10|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
-|11|152.0.186.48|999|Dominican Republic|Santo Domingo Oeste|Compañía Dominicana de Teléfonos S. A.|
-|12|183.221.242.103|9443|China|Mianyang|China Mobile|
-|13|129.154.225.163|8100|India|Mumbai|Oracle Corporation|
-|14|191.186.106.34|8080|Brazil|São Paulo|Claro NXT Telecomunicacoes Ltda|
-|15|8.209.114.72|3129|Germany|Frankfurt am Main|Alibaba.com Singapore E-Commerce Private Limited|
-|16|201.182.251.142|999|Colombia|Pasto|SP SISTEMAS PALACIOS LTDA|
-|17|183.221.242.107|8443|China|Mianyang|China Mobile|
-|18|103.168.44.167|9191|Indonesia|Tangerang|PT CYB Media Group|
-|19|187.141.184.235|8080|Mexico|San José del Cabo|Uninet S.A. de C.V.|
-|20|183.221.242.102|9443|China|Mianyang|China Mobile|
+|1|207.154.238.26|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|2|139.144.40.229|3128|United States|Richardson|Akamai Technologies, Inc.|
+|3|217.117.29.68|3128|Lithuania|Vilnius|UAB "Baltnetos komunikacijos"|
+|4|164.52.12.230|3128|Hong Kong|Central|CDS Global Cloud Co.|
+|5|94.103.84.55|3128|Russia|Moscow|VDSINA|
+|6|64.225.8.82|9983|United States|Clifton|DigitalOcean, LLC|
+|7|51.195.117.105|3128|Germany|Limburg an der Lahn|OVH SAS|
+|8|154.26.129.251|443|Singapore|Singapore|Cogent Communications|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|171.243.23.212|15021|Vietnam|Nha Trang|Viettel Corporation|
+|11|103.27.22.65|32650|Pakistan|Karachi|Supernet|
+|12|129.154.225.163|8100|India|Mumbai|Oracle Corporation|
+|13|41.76.145.136|443|Mozambique|Maputo|VM  S.A|
+|14|118.97.100.75|8080|Indonesia|Menteng|PT. Telekomunikasi Indonesia|
+|15|103.174.81.66|8080|India|Ghatkesar|CtrlS|
+|16|183.221.242.102|9443|China|Mianyang|China Mobile|
+|17|171.227.5.65|10066|Vietnam|Gia Nghia|Viettel Corporation|
+|18|27.79.52.34|50003|Vietnam|Tan Tien|Viettel Group|
+|19|81.211.10.161|3128|Russia|Moscow|EDN Sovintel|
+|20|187.141.184.235|8080|Mexico|San José del Cabo|Uninet S.A. de C.V.|
 
 
 
