@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **9122** proxies at the latest update. Usable proxies are below.
+> Scraper found **9064** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|426|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|426|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|426|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|403|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|403|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|403|
 
 ## Sources
 
@@ -37,7 +37,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|22|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|925|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|867|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|912|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|6180|✅|
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|181.232.190.234|999|Dominican Republic|Santo Domingo Este|Airtime Technology SRL|
-|2|191.186.106.34|8080|Brazil|São Paulo|Claro NXT Telecomunicacoes Ltda|
-|3|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|4|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
-|5|143.202.77.106|999|Mexico|Tijuana|Tecnologías Avanzadas S. de R.L. de C.V.|
-|6|195.133.45.149|7788|Russia|Moscow|VDS|
-|7|18.143.215.49|80|Singapore|Singapore|Amazon Technologies Inc.|
+|1|191.186.106.34|8080|Brazil|São Paulo|Claro NXT Telecomunicacoes Ltda|
+|2|3.8.176.128|3128|United Kingdom|London|Amazon Technologies Inc.|
+|3|8.209.114.72|3129|Germany|Frankfurt am Main|Alibaba.com Singapore E-Commerce Private Limited|
+|4|181.232.190.234|999|Dominican Republic|Santo Domingo Este|Airtime Technology SRL|
+|5|51.79.50.31|9300|Canada|Beauharnois|OVH SAS|
+|6|129.154.225.163|8100|India|Mumbai|Oracle Corporation|
+|7|37.120.192.154|8080|Netherlands|Amsterdam|M247 Europe SRL|
 |8|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
-|9|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|10|144.217.253.209|9300|Canada|Beauharnois|OVH SAS|
-|11|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
-|12|158.69.53.98|9300|Canada|Montreal|OVH SAS|
-|13|158.69.73.79|9300|Canada|Montreal|OVH SAS|
-|14|144.217.240.185|9300|Canada|Beauharnois|OVH SAS|
-|15|151.234.44.247|8080|Iran|Urmia|Iran Telecommunication Company PJS|
-|16|66.70.178.214|9300|Canada|Beauharnois|OVH SAS|
-|17|129.154.225.163|8100|India|Mumbai|Oracle Corporation|
-|18|158.69.71.245|9300|Canada|Montreal|OVH SAS|
-|19|103.136.25.86|8080|Indonesia|Jakarta|Telemedia Dinamika Sarana|
-|20|51.158.147.163|1234|France|Paris|SCALEWAY|
+|9|18.143.215.49|80|Singapore|Singapore|Amazon Technologies Inc.|
+|10|134.122.119.9|3128|United States|North Bergen|DigitalOcean, LLC|
+|11|158.69.73.79|9300|Canada|Montreal|OVH SAS|
+|12|20.44.206.138|80|Singapore|Singapore|Microsoft Corporation|
+|13|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|14|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
+|15|103.227.61.51|8899|Australia|Sydney|Origin Net Pty Ltd|
+|16|173.176.14.246|3128|Canada|Vaudreuil-Dorion|Le Groupe Videotron Ltee|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|18|38.51.243.145|999|Colombia|Tuquerres|INTERCOMM DE NARIÑO SAS|
+|19|51.158.147.163|1234|France|Paris|SCALEWAY|
+|20|52.53.237.38|3128|United States|San Jose|Amazon.com, Inc.|
 
 
 
