@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **9026** proxies at the latest update. Usable proxies are below.
+> Scraper found **9010** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|407|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|407|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|407|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|364|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|364|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|364|
 
 ## Sources
 
@@ -36,10 +36,10 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|57|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1127|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|69|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|882|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|764|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|981|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5995|✅|
 
 
@@ -48,25 +48,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|14.39.181.25|8080|South Korea|Yongsan-gu|Korea Telecom|
-|2|170.254.28.185|8080|Ecuador|Guayaquil|María Teresa Vivar|
-|3|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
-|4|116.105.188.189|10000|Vietnam|Hanoi|Viettel Corporation|
-|5|129.154.225.163|8100|India|Mumbai|Oracle Corporation|
-|6|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|7|200.25.254.193|54240|Colombia|Neiva|Andinet ON Line|
-|8|119.76.173.150|8080|Thailand|Bangkok|True Internet Co., Ltd.|
-|9|3.10.214.36|8888|United Kingdom|London|Amazon Technologies Inc.|
-|10|8.209.114.72|3129|Germany|Frankfurt am Main|Alibaba.com Singapore E-Commerce Private Limited|
-|11|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|12|188.132.221.173|8080|Turkey|Istanbul|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|13|202.46.145.4|8080|Indonesia|Pela Mampang|Pt Mithaharum Abadi|
-|14|51.158.147.163|1234|France|Paris|SCALEWAY|
-|15|103.134.44.176|8080|India|Haridwar|Countrylink Communiction Pvt Ltd|
-|16|91.151.88.12|8080|Turkey|Istanbul|Talha Bogaz|
-|17|183.88.223.1|8080|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
-|18|96.95.164.43|3128|United States|Unionville|Comcast Cable Communications, LLC|
-|19|62.171.161.88|2018|Germany|Nuremberg|Contabo GmbH|
-|20|14.39.181.25|8080|South Korea|Yongsan-gu|Korea Telecom|
+|2|46.16.201.51|3129|Switzerland|Bern|Hosteur SA|
+|3|51.81.24.36|3128|United States|New York|OVH US LLC|
+|4|20.44.206.138|80|Singapore|Singapore|Microsoft Corporation|
+|5|178.128.88.72|10000|Singapore|Singapore|DigitalOcean, LLC|
+|6|103.134.44.176|8080|India|Haridwar|Countrylink Communiction Pvt Ltd|
+|7|158.69.73.79|9300|Canada|Montreal|OVH SAS|
+|8|64.225.8.115|9996|United States|Clifton|DigitalOcean, LLC|
+|9|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|10|202.46.145.4|8080|Indonesia|Pela Mampang|Pt Mithaharum Abadi|
+|11|37.120.192.154|8080|Netherlands|Amsterdam|M247 Europe SRL|
+|12|129.154.225.163|8100|India|Mumbai|Oracle Corporation|
+|13|118.69.111.51|8080|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|14|194.244.232.53|8080|Italy|Lignano Sabbiadoro|Irideos S.P.A.|
+|15|171.227.1.137|10066|Vietnam|Gia Nghia|Viettel Corporation|
+|16|200.105.215.22|33630|Bolivia|La Paz|AXS Bolivia S. A.|
+|17|51.81.24.36|3128|United States|New York|OVH US LLC|
+|18|95.217.167.241|8080|Finland|Helsinki|Hetzner Online GmbH|
+|19|14.39.181.25|8080|South Korea|Yongsan-gu|Korea Telecom|
+|20|62.171.161.88|2018|Germany|Nuremberg|Contabo GmbH|
 
 
 
