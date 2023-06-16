@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **8998** proxies at the latest update. Usable proxies are below.
+> Scraper found **8970** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|346|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|346|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|346|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|328|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|328|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|328|
 
 ## Sources
 
@@ -37,7 +37,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|974|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|946|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|946|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5995|✅|
@@ -50,23 +50,23 @@ Click the file format that you want and copy the URL.
 |1|34.222.74.187|3128|United States|Portland|Amazon.com, Inc.|
 |2|3.8.174.63|3128|United Kingdom|London|Amazon Technologies Inc.|
 |3|3.8.123.51|3128|United Kingdom|London|Amazon Technologies Inc.|
-|4|191.186.106.34|8080|Brazil|São Paulo|Claro NXT Telecomunicacoes Ltda|
-|5|65.0.65.18|3128|India|Mumbai|Amazon.com|
-|6|34.87.55.162|8080|Singapore|Singapore|Google LLC|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|171.227.1.199|10066|Vietnam|Gia Nghia|Viettel Corporation|
-|9|34.222.74.187|3128|United States|Portland|Amazon.com, Inc.|
-|10|206.62.165.6|999|Venezuela|Maracaibo|Airtek Solutions C.A.|
-|11|191.186.106.34|8080|Brazil|São Paulo|Claro NXT Telecomunicacoes Ltda|
-|12|91.121.106.55|4444|France|Roubaix|OVH SAS|
-|13|18.143.215.49|80|Singapore|Singapore|Amazon Technologies Inc.|
-|14|191.186.106.34|8080|Brazil|São Paulo|Claro NXT Telecomunicacoes Ltda|
-|15|154.26.129.251|443|Singapore|Singapore|Cogent Communications|
-|16|159.255.188.134|41258|Poland|Warsaw|TOM-NET s.c. Dariusz Koper|
-|17|84.38.183.143|8080|Russia|St Petersburg|OOO "Network of data-centers "Selectel"|
-|18|103.81.194.213|88|Indonesia|Bogor|PT Rtiga Global Media|
-|19|173.176.14.246|3128|Canada|Vaudreuil-Dorion|Le Groupe Videotron Ltee|
-|20|36.138.120.73|3128|China|Shenzhen|China Mobile|
+|4|20.44.206.138|80|Singapore|Singapore|Microsoft Corporation|
+|5|191.186.106.34|8080|Brazil|São Paulo|Claro NXT Telecomunicacoes Ltda|
+|6|65.0.65.18|3128|India|Mumbai|Amazon.com|
+|7|178.128.88.72|10000|Singapore|Singapore|DigitalOcean, LLC|
+|8|188.40.90.62|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|200.105.215.22|33630|Bolivia|La Paz|AXS Bolivia S. A.|
+|11|200.25.254.193|54240|Colombia|Neiva|Andinet ON Line|
+|12|51.75.83.65|8082|Germany|Limburg an der Lahn|OVH SAS|
+|13|34.222.74.187|3128|United States|Portland|Amazon.com, Inc.|
+|14|157.245.27.9|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|15|191.186.106.34|8080|Brazil|São Paulo|Claro NXT Telecomunicacoes Ltda|
+|16|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
+|17|178.128.88.72|10000|Singapore|Singapore|DigitalOcean, LLC|
+|18|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
+|19|84.38.183.143|8080|Russia|St Petersburg|OOO "Network of data-centers "Selectel"|
+|20|154.70.107.81|3128|Cameroon|Douala|MTN Network Solutions (Cameroon)|
 
 
 
