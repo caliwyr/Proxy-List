@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **8775** proxies at the latest update. Usable proxies are below.
+> Scraper found **8788** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -36,8 +36,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|25|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|828|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|27|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|839|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|709|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|6130|✅|
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|66.135.14.166|443|United States|Piscataway|The Constant Company, LLC|
-|2|142.132.186.193|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|3|66.135.14.166|443|United States|Piscataway|The Constant Company, LLC|
+|1|24.199.83.216|8080|United States|North Bergen|DigitalOcean, LLC|
+|2|195.133.45.149|7788|Russia|Moscow|VDS|
+|3|191.186.106.34|8080|Brazil|São Paulo|Claro NXT Telecomunicacoes Ltda|
 |4|52.53.148.183|3128|United States|San Jose|Amazon.com, Inc.|
-|5|191.186.106.34|8080|Brazil|São Paulo|Claro NXT Telecomunicacoes Ltda|
-|6|178.234.31.40|3128|Russia|Lipetsk|Address point-to-point Lipetsk Regional Public Network BBN-3/1/1 General|
-|7|140.238.58.147|80|Japan|Tokyo|Oracle Corporation|
+|5|140.238.58.147|80|Japan|Tokyo|Oracle Corporation|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|66.135.14.166|443|United States|Piscataway|The Constant Company, LLC|
 |8|18.143.215.49|80|Singapore|Singapore|Amazon Technologies Inc.|
-|9|118.69.111.51|8080|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|10|20.44.206.138|80|Singapore|Singapore|Microsoft Corporation|
-|11|202.46.145.4|8080|Indonesia|Pela Mampang|Pt Mithaharum Abadi|
-|12|47.90.162.160|8080|United States|Charlottesville|Alibaba.com LLC|
-|13|217.146.217.178|3128|Iran|Tehran|Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS|
-|14|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
-|15|158.69.72.138|9300|Canada|Montreal|OVH SAS|
+|9|178.234.31.40|3128|Russia|Lipetsk|Address point-to-point Lipetsk Regional Public Network BBN-3/1/1 General|
+|10|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
+|11|118.69.111.51|8080|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|12|20.44.206.138|80|Singapore|Singapore|Microsoft Corporation|
+|13|116.105.248.215|10024|Vietnam|Hanoi|Viettel Corporation|
+|14|202.46.145.4|8080|Indonesia|Pela Mampang|Pt Mithaharum Abadi|
+|15|24.199.83.216|8080|United States|North Bergen|DigitalOcean, LLC|
 |16|52.53.148.183|3128|United States|San Jose|Amazon.com, Inc.|
-|17|119.8.10.18|7890|Mexico|Mexico City|Huawei International Pte. LTD|
-|18|64.225.4.29|9865|United States|Clifton|DigitalOcean, LLC|
-|19|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|20|103.134.44.176|8080|India|Haridwar|Countrylink Communiction Pvt Ltd|
+|17|103.134.44.176|8080|India|Haridwar|Countrylink Communiction Pvt Ltd|
+|18|158.69.72.138|9300|Canada|Montreal|OVH SAS|
+|19|200.105.215.22|33630|Bolivia|La Paz|AXS Bolivia S. A.|
+|20|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
 
 
 
