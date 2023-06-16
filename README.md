@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **9210** proxies at the latest update. Usable proxies are below.
+> Scraper found **9192** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|447|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|447|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|447|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|429|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|429|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|429|
 
 ## Sources
 
@@ -36,8 +36,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|2|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1064|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|5|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1043|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|878|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|6183|✅|
@@ -49,24 +49,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|107.148.94.92|80|United States|Los Angeles|PEG TECH INC|
 |2|107.148.94.92|80|United States|Los Angeles|PEG TECH INC|
-|3|3.8.114.236|3128|United Kingdom|London|Amazon Technologies Inc.|
-|4|191.186.106.34|8080|Brazil|São Paulo|Claro NXT Telecomunicacoes Ltda|
-|5|8.209.114.72|3129|Germany|Frankfurt am Main|Alibaba.com Singapore E-Commerce Private Limited|
-|6|51.158.147.163|1234|France|Paris|SCALEWAY|
-|7|35.240.156.235|8080|Singapore|Singapore|Google LLC|
-|8|18.143.215.49|80|Singapore|Singapore|Amazon Technologies Inc.|
-|9|31.25.106.70|3128|Iran|Nā’īn|Ariana Gostar Spadana|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|103.134.44.176|8080|India|Haridwar|Countrylink Communiction Pvt Ltd|
-|12|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
-|13|115.127.94.18|32650|Bangladesh|Dhaka|BRACNet Limited|
-|14|54.183.251.57|3128|United States|San Jose|Amazon.com, Inc.|
-|15|41.77.13.186|53281|Malawi|Limbe|Globe LLW SR|
-|16|34.220.121.241|3128|United States|Portland|Amazon.com, Inc.|
-|17|18.222.233.98|3128|United States|Dublin|Amazon.com, Inc.|
-|18|165.227.164.49|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|19|34.84.37.187|443|Japan|Tokyo|Google LLC|
-|20|143.198.161.208|3128|United States|North Bergen|DigitalOcean, LLC|
+|3|35.240.156.235|8080|Singapore|Singapore|Google LLC|
+|4|3.8.114.236|3128|United Kingdom|London|Amazon Technologies Inc.|
+|5|18.143.215.49|80|Singapore|Singapore|Amazon Technologies Inc.|
+|6|213.171.44.134|3128|Russia|Moscow|JSC Comcor|
+|7|8.209.114.72|3129|Germany|Frankfurt am Main|Alibaba.com Singapore E-Commerce Private Limited|
+|8|3.73.177.183|8888|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|9|47.250.45.81|7890|Malaysia|Kuala Lumpur|Alibaba.com LLC|
+|10|45.5.116.152|999|Guatemala|Guatemala City|Inversiones Grajeda Andrade S.A|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|144.217.119.85|3207|Canada|Beauharnois|OVH Hosting|
+|13|200.37.42.43|999|Peru|Caraz|Telefonica del Peru S.A.A.|
+|14|103.134.44.176|8080|India|Haridwar|Countrylink Communiction Pvt Ltd|
+|15|51.158.147.163|1234|France|Paris|SCALEWAY|
+|16|114.7.27.98|8080|Indonesia|Baru Ilir|PT. INDOSAT Tbk|
+|17|203.150.128.213|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|18|54.183.251.57|3128|United States|San Jose|Amazon.com, Inc.|
+|19|34.220.121.241|3128|United States|Portland|Amazon.com, Inc.|
+|20|165.227.164.49|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
 
 
 
