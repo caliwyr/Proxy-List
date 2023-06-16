@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **8761** proxies at the latest update. Usable proxies are below.
+> Scraper found **8682** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|327|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|327|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|327|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|333|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|333|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|333|
 
 ## Sources
 
@@ -36,8 +36,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|23|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|796|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|740|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|729|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|6130|✅|
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|66.135.14.166|443|United States|Piscataway|The Constant Company, LLC|
-|2|3.120.157.28|3128|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|3|191.186.106.34|8080|Brazil|São Paulo|Claro NXT Telecomunicacoes Ltda|
-|4|20.219.183.188|3129|India|Pune|Microsoft Corporation|
+|1|54.193.214.112|3128|United States|San Jose|Amazon.com, Inc.|
+|2|13.57.201.132|3128|United States|San Jose|Amazon.com, Inc.|
+|3|3.8.148.219|3128|United Kingdom|London|Amazon Technologies Inc.|
+|4|135.148.118.109|3128|United States|Sterling|OVH US LLC|
 |5|20.219.180.149|3129|India|Pune|Microsoft Corporation|
-|6|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|7|31.25.106.70|3128|Iran|Nā’īn|Ariana Gostar Spadana|
-|8|20.44.206.138|80|Singapore|Singapore|Microsoft Corporation|
-|9|103.134.44.176|8080|India|Haridwar|Countrylink Communiction Pvt Ltd|
-|10|46.16.201.51|3129|Switzerland|Bern|Hosteur SA|
-|11|66.135.14.166|443|United States|Piscataway|The Constant Company, LLC|
-|12|5.161.105.227|3128|United States|Ashburn|Hetzner Online GmbH|
-|13|173.176.14.246|3128|Canada|Vaudreuil-Dorion|Le Groupe Videotron Ltee|
-|14|18.143.215.49|80|Singapore|Singapore|Amazon Technologies Inc.|
-|15|20.219.177.85|3129|India|Pune|Microsoft Corporation|
-|16|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|17|167.71.225.180|3128|India|Bengaluru|DigitalOcean, LLC|
-|18|123.126.158.50|80|China|Beijing|China Unicom Beijing Province Network|
-|19|123.126.158.50|80|China|Beijing|China Unicom Beijing Province Network|
-|20|165.232.114.200|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|6|191.186.106.34|8080|Brazil|São Paulo|Claro NXT Telecomunicacoes Ltda|
+|7|20.44.206.138|80|Singapore|Singapore|Microsoft Corporation|
+|8|31.25.106.70|3128|Iran|Nā’īn|Ariana Gostar Spadana|
+|9|38.52.222.250|999|Dominican Republic|Santo Domingo Este|TELECABLE DOMINICANO, S.A.|
+|10|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|11|47.74.154.143|8787|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|12|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
+|13|165.0.50.110|8080|South Africa|Cape Town|RSAWEB (PTY) LTD|
+|14|13.57.201.132|3128|United States|San Jose|Amazon.com, Inc.|
+|15|54.193.214.112|3128|United States|San Jose|Amazon.com, Inc.|
+|16|134.35.12.253|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|17|135.148.118.109|3128|United States|Sterling|OVH US LLC|
+|18|94.103.84.55|3128|Russia|Moscow|VDSINA|
+|19|20.219.182.59|3129|India|Pune|Microsoft Corporation|
+|20|20.204.212.76|3129|India|Pune|Microsoft Corporation|
 
 
 
