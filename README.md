@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **9842** proxies at the latest update. Usable proxies are below.
+> Scraper found **10120** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|639|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|639|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|639|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|606|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|606|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|606|
 
 ## Sources
 
@@ -36,8 +36,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1337|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|82|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1533|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1092|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|6330|✅|
@@ -50,23 +50,23 @@ Click the file format that you want and copy the URL.
 |1|3.16.187.96|3128|United States|Dublin|Amazon.com, Inc.|
 |2|18.224.14.38|3128|United States|Dublin|Amazon.com, Inc.|
 |3|163.172.31.44|80|France|Paris|Online S.A.S.|
-|4|3.16.187.96|3128|United States|Dublin|Amazon.com, Inc.|
-|5|18.224.14.38|3128|United States|Dublin|Amazon.com, Inc.|
-|6|54.190.46.121|3128|United States|Portland|Amazon.com, Inc.|
-|7|172.104.30.222|8080|United States|Cedar Knolls|Akamai Technologies|
-|8|185.143.42.54|8080|Iraq|Hīt|LinkiWay DMCC|
-|9|140.99.150.98|3128|United States|Crestwood|EpicUp Holdings Inc|
-|10|211.75.214.175|3128|Taiwan|Taichung|Chunghwa Telecom Co., Ltd.|
-|11|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
-|12|64.225.8.82|9989|United States|Clifton|DigitalOcean, LLC|
-|13|95.217.167.241|8080|Finland|Helsinki|Hetzner Online GmbH|
-|14|158.69.48.228|3128|Canada|Montreal|OVH SAS|
-|15|135.181.25.11|8080|Finland|Helsinki|Hetzner Online GmbH|
-|16|216.176.200.36|3128|United States|San Diego|Krypt Technologies|
-|17|210.13.117.18|443|China|Shanghai|cuii shanghai|
-|18|91.238.211.110|8080|Russia|Omsk|New Technology Ltd|
-|19|64.225.8.179|9979|United States|Clifton|DigitalOcean, LLC|
-|20|178.79.153.224|8080|United Kingdom|London|Linode|
+|4|185.15.172.212|3128|Russia|Moscow|SafeData LLC|
+|5|211.75.214.175|3128|Taiwan|Taichung|Chunghwa Telecom Co., Ltd.|
+|6|101.51.55.153|8080|Thailand|Bangkok|TOT Public Company Limited|
+|7|115.144.16.101|10471|South Korea|Hwaseong-si|Korea Telecom|
+|8|3.16.187.96|3128|United States|Dublin|Amazon.com, Inc.|
+|9|18.224.14.38|3128|United States|Dublin|Amazon.com, Inc.|
+|10|119.8.10.18|7890|Mexico|Mexico City|Huawei International Pte. LTD|
+|11|1.15.60.81|5230|China|Beijing|Tencent Cloud Computing (Beijing) Co. Ltd.|
+|12|23.254.161.181|80|United States|Seattle|Hostwinds LLC.|
+|13|94.232.11.178|46449|Russia|Moscow|PJSC MegaFon|
+|14|54.190.46.121|3128|United States|Portland|Amazon.com, Inc.|
+|15|143.198.157.70|3128|United States|Santa Clara|DigitalOcean, LLC|
+|16|198.244.175.232|8080|United Kingdom|London|OVH SAS|
+|17|185.143.42.54|8080|Iraq|Hīt|LinkiWay DMCC|
+|18|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
+|19|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
+|20|124.71.153.13|3128|China|Shanghai|Huawei Cloud Service data center|
 
 
 
