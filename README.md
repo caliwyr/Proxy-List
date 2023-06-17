@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **9377** proxies at the latest update. Usable proxies are below.
+> Scraper found **9490** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|428|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|428|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|428|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|432|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|432|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|432|
 
 ## Sources
 
@@ -36,8 +36,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|982|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|59|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1036|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|713|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|6599|✅|
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|192.99.144.208|8080|Canada|Beauharnois|OVH SAS|
-|2|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|3|95.92.206.174|3128|Portugal|Olhao|NOS Comunicacoes S.A.|
-|4|118.69.111.51|8080|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|5|200.105.215.22|33630|Bolivia|La Paz|AXS Bolivia S. A.|
-|6|66.70.178.214|9300|Canada|Beauharnois|OVH SAS|
-|7|173.176.14.246|3128|Canada|Vaudreuil-Dorion|Le Groupe Videotron Ltee|
-|8|135.125.68.145|3128|France|Roubaix|OVH SAS|
-|9|51.81.24.38|3128|United States|New York|OVH US LLC|
-|10|147.135.54.182|3128|United States|Reston|OVH SAS|
-|11|38.154.239.218|3128|United States|Piscataway|B2 Net Solutions Inc.|
-|12|46.16.201.51|3129|Switzerland|Bern|Hosteur SA|
-|13|37.27.1.95|8080|Finland|Helsinki|Hetzner Online GmbH|
-|14|112.137.142.8|3128|Vietnam|Hanoi|VietNam National University|
-|15|78.47.72.144|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|16|209.222.98.213|58611|United States|Wilmington|ReliableSite.Net LLC|
-|17|18.143.215.49|80|Singapore|Singapore|Amazon Technologies Inc.|
-|18|135.181.89.201|8080|Finland|Helsinki|Hetzner Online GmbH|
-|19|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
-|20|210.13.117.18|80|China|Shanghai|cuii shanghai|
+|1|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|2|173.176.14.246|3128|Canada|Vaudreuil-Dorion|Le Groupe Videotron Ltee|
+|3|107.148.94.92|80|United States|Los Angeles|PEG TECH INC|
+|4|18.143.215.49|80|Singapore|Singapore|Amazon Technologies Inc.|
+|5|147.135.54.182|3128|United States|Reston|OVH SAS|
+|6|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|144.217.253.209|9300|Canada|Beauharnois|OVH SAS|
+|9|200.105.215.22|33630|Bolivia|La Paz|AXS Bolivia S. A.|
+|10|37.27.1.95|8080|Finland|Helsinki|Hetzner Online GmbH|
+|11|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|12|118.69.111.51|8080|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|13|41.60.232.186|8080|Kenya|Nairobi|Maintainer Liquid Telecommunications Operations Limited|
+|14|37.252.7.112|3128|Poland|Gdansk|Artnet Sp. z o.o.|
+|15|66.85.128.252|8080|United States|Phoenix|Secured Servers LLC|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|17|210.13.117.18|80|China|Shanghai|cuii shanghai|
+|18|118.69.111.51|8080|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|19|144.217.253.209|9300|Canada|Beauharnois|OVH SAS|
+|20|165.232.114.200|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
 
 
 
