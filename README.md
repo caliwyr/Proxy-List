@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **10056** proxies at the latest update. Usable proxies are below.
+> Scraper found **10023** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|680|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|680|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|680|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|657|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|657|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|657|
 
 ## Sources
 
@@ -37,7 +37,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|115|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1374|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1341|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1154|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|6330|✅|
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|18.184.140.136|3128|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|2|34.220.192.131|3128|United States|Portland|Amazon.com, Inc.|
-|3|3.8.134.74|3128|United Kingdom|London|Amazon Technologies Inc.|
-|4|136.243.55.199|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|5|186.4.255.178|8080|Ecuador|Quito|Telconet S.A|
-|6|18.231.186.248|3128|Brazil|São Paulo|Amazon Technologies Inc.|
-|7|34.220.192.131|3128|United States|Portland|Amazon.com, Inc.|
-|8|191.186.106.34|8080|Brazil|São Paulo|Claro NXT Telecomunicacoes Ltda|
-|9|51.79.50.22|9300|Canada|Beauharnois|OVH SAS|
+|1|34.220.192.131|3128|United States|Portland|Amazon.com, Inc.|
+|2|3.8.134.74|3128|United Kingdom|London|Amazon Technologies Inc.|
+|3|18.231.186.248|3128|Brazil|São Paulo|Amazon Technologies Inc.|
+|4|18.184.140.136|3128|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|5|34.220.192.131|3128|United States|Portland|Amazon.com, Inc.|
+|6|191.186.106.34|8080|Brazil|São Paulo|Claro NXT Telecomunicacoes Ltda|
+|7|18.143.215.49|80|Singapore|Singapore|Amazon Technologies Inc.|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|185.78.29.95|3128|Russia|St Petersburg|System servers virtual hosting BEGET.RU|
 |10|118.69.111.51|8080|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|11|18.143.215.49|80|Singapore|Singapore|Amazon Technologies Inc.|
-|12|63.151.67.7|8080|United States|Hayden|Visionary Communications, Inc.|
-|13|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|14|64.251.22.20|80|United States|Miami|Infolink Global Corporation|
-|15|115.144.221.125|10761|South Korea|Nowon-gu|HAIonNet|
-|16|103.92.26.190|4002|Vietnam|Quận Phú Nhuận|TLSOFT|
-|17|105.213.105.100|4415|South Africa|Midstream|MTN SA|
-|18|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
-|19|115.144.16.101|10471|South Korea|Hwaseong-si|Korea Telecom|
-|20|211.75.214.175|3128|Taiwan|Taichung|Chunghwa Telecom Co., Ltd.|
+|11|115.144.16.101|10471|South Korea|Hwaseong-si|Korea Telecom|
+|12|64.225.8.121|9997|United States|Clifton|DigitalOcean, LLC|
+|13|103.92.26.190|4002|Vietnam|Quận Phú Nhuận|TLSOFT|
+|14|200.105.215.22|33630|Bolivia|La Paz|AXS Bolivia S. A.|
+|15|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|16|171.227.4.201|10066|Vietnam|Gia Nghia|Viettel Corporation|
+|17|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
+|18|103.133.223.230|8080|Indonesia|Jakarta|PT Cloud Teknologi Nusantara|
+|19|136.243.55.199|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|20|181.129.183.19|53281|Colombia|Bucaramanga|EPM Telecomunicaciones S.A. E.S.P.|
 
 
 
