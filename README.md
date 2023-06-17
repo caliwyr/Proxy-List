@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|388|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|388|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|388|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|629|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|629|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|629|
 
 ## Sources
 
@@ -36,8 +36,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1347|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|1|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1346|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1006|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|6330|✅|
@@ -47,25 +47,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|107.148.193.162|1080|United States|San Jose|PEG TECH INC|
-|2|115.144.102.132|10041|South Korea|Mapo-gu|Korea Telecom|
+|1|51.81.24.36|3128|United States|New York|OVH US LLC|
+|2|115.144.221.125|10761|South Korea|Nowon-gu|HAIonNet|
 |3|158.69.48.228|3128|Canada|Montreal|OVH SAS|
-|4|179.61.229.126|999|Dominican Republic|Santo Domingo Este|TELERY NETWORKS, S.R.L|
-|5|20.44.206.138|80|Singapore|Singapore|Microsoft Corporation|
-|6|35.240.219.50|8080|Singapore|Singapore|Google LLC|
-|7|107.148.193.162|1080|United States|San Jose|PEG TECH INC|
-|8|51.81.24.36|3128|United States|New York|OVH US LLC|
-|9|213.241.205.2|8080|Russia|Rostov-on-Don|RTCOMM-YUG|
-|10|142.132.186.193|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|11|51.195.117.105|3128|Germany|Limburg an der Lahn|OVH SAS|
-|12|85.133.151.156|3128|Iran|Tehran|Stack Network Limited|
-|13|51.81.24.38|3128|United States|New York|OVH US LLC|
-|14|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
-|15|8.209.114.72|3129|Germany|Frankfurt am Main|Alibaba.com Singapore E-Commerce Private Limited|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|17|171.227.4.201|10066|Vietnam|Gia Nghia|Viettel Corporation|
-|18|185.98.23.229|3128|France|Valence|ITMETRIX|
-|19|118.99.102.169|8080|Indonesia|Jakarta|Biznet Metronet|
+|4|64.225.8.82|9981|United States|Clifton|DigitalOcean, LLC|
+|5|158.69.73.79|9300|Canada|Montreal|OVH SAS|
+|6|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
+|7|115.144.99.223|11119|South Korea|Mapo-gu|HAIonNet|
+|8|62.138.7.104|8646|France|Strasbourg|Host Europe Group|
+|9|20.44.206.138|80|Singapore|Singapore|Microsoft Corporation|
+|10|86.98.0.231|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
+|11|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
+|12|213.139.209.46|80|Russia|St Petersburg|BEGET.RU|
+|13|171.227.4.201|10066|Vietnam|Gia Nghia|Viettel Corporation|
+|14|179.61.229.126|999|Dominican Republic|Santo Domingo Este|TELERY NETWORKS, S.R.L|
+|15|46.182.6.51|3129|France|Paris|Hosteur SAS|
+|16|110.34.3.229|3128|Nepal|Bharatpur|SUBISU C7|
+|17|115.144.101.201|10001|South Korea|Mapo-gu|Korea Telecom|
+|18|62.201.223.163|8186|Iraq|Raniye|NETWORKS-SULY2|
+|19|103.38.183.10|83|India|Sanchor|Reis Network Solutions|
 |20|103.169.187.147|8080|Indonesia|Bondowoso|PT. PRATAMA HASTA UTAMA SOLUSINDO|
 
 
