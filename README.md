@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **9747** proxies at the latest update. Usable proxies are below.
+> Scraper found **9760** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|508|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|508|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|508|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|498|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|498|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|498|
 
 ## Sources
 
@@ -37,7 +37,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|5|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1132|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1145|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|904|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|6623|✅|
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|3.8.97.172|3128|United Kingdom|London|Amazon Technologies Inc.|
-|2|18.237.32.28|3128|United States|Portland|Amazon.com, Inc.|
-|3|37.252.7.112|3128|Poland|Gdansk|Artnet Sp. z o.o.|
-|4|18.193.127.110|3128|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|5|15.206.190.156|3128|India|Mumbai|Amazon Technologies Inc.|
-|6|18.237.32.28|3128|United States|Portland|Amazon.com, Inc.|
-|7|18.143.215.49|80|Singapore|Singapore|Amazon Technologies Inc.|
-|8|49.51.189.190|443|United States|Los Angeles|OPHL|
-|9|157.245.27.9|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|103.92.26.190|4002|Vietnam|Quận Phú Nhuận|TLSOFT|
-|11|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
-|12|185.78.29.95|3128|Russia|St Petersburg|System servers virtual hosting BEGET.RU|
-|13|103.134.44.176|8080|India|Haridwar|Countrylink Communiction Pvt Ltd|
-|14|200.25.254.193|54240|Colombia|Neiva|Andinet ON Line|
-|15|85.94.81.194|8080|Croatia|Zagreb|Terrakom d.o.o.|
-|16|107.148.94.92|80|United States|Los Angeles|PEG TECH INC|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|18|177.52.221.99|999|Dominican Republic|Santiago de los Caballeros|TELERY NETWORKS, S.R.L|
-|19|64.225.8.191|9968|United States|Clifton|DigitalOcean, LLC|
-|20|159.255.188.134|41258|Poland|Warsaw|TOM-NET s.c. Dariusz Koper|
+|1|18.237.32.28|3128|United States|Portland|Amazon.com, Inc.|
+|2|18.193.127.110|3128|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|3|18.237.32.28|3128|United States|Portland|Amazon.com, Inc.|
+|4|15.206.190.156|3128|India|Mumbai|Amazon Technologies Inc.|
+|5|34.124.225.130|8080|Singapore|Singapore|Google LLC|
+|6|18.143.215.49|80|Singapore|Singapore|Amazon Technologies Inc.|
+|7|115.144.16.101|10471|South Korea|Hwaseong-si|Korea Telecom|
+|8|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
+|9|200.25.254.193|54240|Colombia|Neiva|Andinet ON Line|
+|10|185.78.29.95|3128|Russia|St Petersburg|System servers virtual hosting BEGET.RU|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|51.81.24.36|3128|United States|New York|OVH US LLC|
+|13|135.148.118.109|3128|United States|Sterling|OVH US LLC|
+|14|47.90.162.160|8080|United States|Charlottesville|Alibaba.com LLC|
+|15|103.134.44.176|8080|India|Haridwar|Countrylink Communiction Pvt Ltd|
+|16|49.51.189.190|443|United States|Los Angeles|OPHL|
+|17|135.148.118.109|3128|United States|Sterling|OVH US LLC|
+|18|46.182.6.51|3129|France|Paris|Hosteur SAS|
+|19|51.81.24.38|3128|United States|New York|OVH US LLC|
+|20|107.148.94.92|80|United States|Los Angeles|PEG TECH INC|
 
 
 
