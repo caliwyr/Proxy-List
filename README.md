@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **9308** proxies at the latest update. Usable proxies are below.
+> Scraper found **9188** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|581|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|581|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|581|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|350|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|350|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|350|
 
 ## Sources
 
@@ -37,7 +37,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|29|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1164|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1044|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|824|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|6208|✅|
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|3.16.22.216|3128|United States|Dublin|Amazon.com, Inc.|
-|2|107.175.172.143|3128|United States|Dallas|ColoCrossing|
-|3|118.67.133.75|3128|South Korea|Seongnam-si|Naver Business Platform Asia Pacific Pte. Ltd.|
-|4|37.252.7.112|3128|Poland|Gdansk|Artnet Sp. z o.o.|
-|5|3.16.22.216|3128|United States|Dublin|Amazon.com, Inc.|
-|6|140.99.21.154|3128|United States|Brooklyn|EpicUp Holdings Inc|
-|7|107.175.172.143|3128|United States|Dallas|ColoCrossing|
-|8|136.243.55.199|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|9|185.98.23.229|3128|France|Valence|ITMETRIX|
-|10|20.44.206.138|80|Singapore|Singapore|Microsoft Corporation|
-|11|8.209.114.72|3129|Germany|Frankfurt am Main|Alibaba.com Singapore E-Commerce Private Limited|
-|12|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
-|13|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|14|191.186.106.34|8080|Brazil|São Paulo|Claro NXT Telecomunicacoes Ltda|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|16|167.250.180.107|999|Ecuador|La Mana|Nedetel S.A|
-|17|135.148.118.109|3128|United States|Sterling|OVH US LLC|
-|18|46.16.201.51|3129|Switzerland|Bern|Hosteur SA|
-|19|27.79.54.251|10024|Vietnam|Tan Tien|Viettel Corporation|
-|20|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|1|3.8.236.104|3128|United Kingdom|London|Amazon Technologies Inc.|
+|2|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|3|107.175.172.143|3128|United States|Dallas|ColoCrossing|
+|4|75.2.108.203|80|United States|Seattle|Amazon.com, Inc.|
+|5|47.90.162.160|8080|United States|Charlottesville|Alibaba.com LLC|
+|6|20.44.206.138|80|Singapore|Singapore|Microsoft Corporation|
+|7|116.198.48.6|8080|China|Haidian|Beijing Jingdong 360 Degree E-commerce Co., Ltd.|
+|8|171.15.139.162|3128|China|Zhengzhou|China Telecom|
+|9|173.176.14.246|3128|Canada|Vaudreuil-Dorion|Le Groupe Videotron Ltee|
+|10|139.59.247.136|80|Singapore|Singapore|DigitalOcean, LLC|
+|11|191.98.174.168|999|Peru|Huancayo|Optical Technologies S.A.C.|
+|12|104.215.198.229|3128|Singapore|Singapore|Microsoft Corporation|
+|13|191.186.106.34|8080|Brazil|São Paulo|Claro NXT Telecomunicacoes Ltda|
+|14|180.184.91.187|443|China|Beijing|Beijing Volcano Engine Technology Co., Ltd.|
+|15|64.225.8.179|9983|United States|Clifton|DigitalOcean, LLC|
+|16|124.220.149.230|7890|China|Shanghai|China Internet Network Information Center|
+|17|107.175.172.143|3128|United States|Dallas|ColoCrossing|
+|18|64.225.8.115|9980|United States|Clifton|DigitalOcean, LLC|
+|19|209.222.98.213|57243|United States|Wilmington|ReliableSite.Net LLC|
+|20|47.74.154.143|8787|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 
 
 
