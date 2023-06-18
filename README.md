@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|382|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|382|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|382|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|360|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|360|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|360|
 
 ## Sources
 
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|88.99.21.162|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|2|37.252.7.112|3128|Poland|Gdansk|Artnet Sp. z o.o.|
-|3|20.44.206.138|80|Singapore|Singapore|Microsoft Corporation|
-|4|185.98.23.229|3128|France|Valence|ITMETRIX|
-|5|35.240.156.235|8080|Singapore|Singapore|Google LLC|
-|6|140.238.245.116|8100|India|Mumbai|Oracle Corporation|
-|7|213.171.44.134|3128|Russia|Moscow|JSC Comcor|
-|8|46.16.201.51|3129|Switzerland|Bern|Hosteur SA|
-|9|158.69.71.245|9300|Canada|Montreal|OVH SAS|
-|10|103.169.254.164|8061|Indonesia|Banyuwangi|PT Master Star Network|
-|11|186.215.68.51|3127|Brazil|Brasília|Vivo|
-|12|134.122.119.9|3128|United States|North Bergen|DigitalOcean, LLC|
-|13|185.103.128.138|8080|Iran|Tehran|Pishgaman Toseeh Ertebatat Company (Private Joint Stock)|
-|14|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|15|164.90.155.209|3128|United States|Santa Clara|DigitalOcean, LLC|
-|16|200.71.237.238|23500|Argentina|Marcelino Escalada|Telecom Argentina S.A.|
-|17|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
-|18|95.217.167.241|8080|Finland|Helsinki|Hetzner Online GmbH|
-|19|36.64.1.5|80|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|20|145.40.68.197|9443|Netherlands|Amsterdam|Packet Host, Inc.|
+|1|206.189.98.104|8118|Netherlands|Amsterdam|DigitalOcean, LLC|
+|2|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
+|3|37.252.7.112|3128|Poland|Gdansk|Artnet Sp. z o.o.|
+|4|213.241.205.2|8080|Russia|Rostov-on-Don|RTCOMM-YUG|
+|5|20.44.206.138|80|Singapore|Singapore|Microsoft Corporation|
+|6|86.98.0.231|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
+|7|140.238.245.116|8100|India|Mumbai|Oracle Corporation|
+|8|1.20.169.107|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|9|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
+|10|185.103.128.138|8080|Iran|Tehran|Pishgaman Toseeh Ertebatat Company (Private Joint Stock)|
+|11|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|12|8.209.114.72|3129|Germany|Frankfurt am Main|Alibaba.com Singapore E-Commerce Private Limited|
+|13|94.130.92.53|443|Germany|Falkenstein|Hetzner Online GmbH|
+|14|18.143.215.49|80|Singapore|Singapore|Amazon Technologies Inc.|
+|15|116.198.48.6|8080|China|Haidian|Beijing Jingdong 360 Degree E-commerce Co., Ltd.|
+|16|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
+|17|103.168.44.167|9191|Indonesia|Tangerang|PT CYB Media Group|
+|18|112.87.140.162|9443|China|Shanghai|China Unicom CHINA169 Jiangsu Province Network|
+|19|163.177.106.4|8001|China|Shenzhen|China Unicom Guangdong Province Network|
+|20|116.90.119.1|8080|Pakistan|Lahore|Gerrys Information Technology (PVT) Ltd|
 
 
 
