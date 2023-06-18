@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **9890** proxies at the latest update. Usable proxies are below.
+> Scraper found **9803** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|436|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|436|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|436|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|457|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|457|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|457|
 
 ## Sources
 
@@ -36,8 +36,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|53|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1313|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|54|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1225|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|854|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|6587|✅|
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|3.138.85.61|3128|United States|Dublin|Amazon.com, Inc.|
+|1|8.209.114.72|3129|Germany|Frankfurt am Main|Alibaba.com Singapore E-Commerce Private Limited|
 |2|186.68.83.50|999|Ecuador|Milagro|Satnet|
 |3|191.186.106.34|8080|Brazil|São Paulo|Claro NXT Telecomunicacoes Ltda|
-|4|18.143.215.49|80|Singapore|Singapore|Amazon Technologies Inc.|
-|5|81.12.44.197|3129|Iran|Tehran|RESPINA Networks|
-|6|170.233.193.129|999|Chile|Santiago|MI INTERNET SPA|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|200.105.215.22|33630|Bolivia|La Paz|AXS Bolivia S. A.|
-|9|144.217.240.185|9300|Canada|Beauharnois|OVH SAS|
-|10|3.138.85.61|3128|United States|Dublin|Amazon.com, Inc.|
-|11|110.34.3.229|3128|Nepal|Bharatpur|SUBISU C7|
-|12|188.142.224.225|80|Hungary|Veszprém|Vodafone Hungary Ltd.|
-|13|217.73.177.180|33077|Poland|Orzesze|PIRXNET|
-|14|119.76.142.143|8080|Thailand|Nakhon Pathom|True Internet Co., Ltd.|
-|15|157.100.7.146|999|Ecuador|Quito|Telconet S.A|
-|16|3.110.142.87|80|India|Mumbai|Amazon Technologies Inc.|
-|17|145.40.68.197|9443|Netherlands|Amsterdam|Packet Host, Inc.|
-|18|137.184.142.151|3128|United States|North Bergen|DigitalOcean, LLC|
-|19|37.252.7.112|3128|Poland|Gdansk|Artnet Sp. z o.o.|
-|20|46.182.6.51|3129|France|Paris|Hosteur SAS|
+|4|47.74.154.143|8787|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|8|23.132.185.101|53128|Norway|Sandefjord|Joseph Farnell|
+|9|94.228.194.18|41890|Russia|Moscow|Uniontel ZAO network|
+|10|47.242.3.214|8081|Hong Kong|Hong Kong|Alibaba.com LLC|
+|11|145.40.68.197|9443|Netherlands|Amsterdam|Packet Host, Inc.|
+|12|115.144.1.222|12089|South Korea|Gapyeong County|HAIonNet|
+|13|49.51.189.190|443|United States|Los Angeles|OPHL|
+|14|103.224.195.41|3128|Taiwan|Neihu District|Taiwan Fixed Network|
+|15|103.165.155.61|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|16|8.209.114.72|3129|Germany|Frankfurt am Main|Alibaba.com Singapore E-Commerce Private Limited|
+|17|37.252.7.112|3128|Poland|Gdansk|Artnet Sp. z o.o.|
+|18|119.8.10.18|7890|Mexico|Mexico City|Huawei International Pte. LTD|
+|19|103.123.5.58|8080|China|Yangjiaping|CHINA UNICOM China169 Backbone|
+|20|116.197.132.168|8989|Indonesia|Tangerang|PT. Fiber Networks Indonesia|
 
 
 
