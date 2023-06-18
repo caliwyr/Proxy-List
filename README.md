@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **9381** proxies at the latest update. Usable proxies are below.
+> Scraper found **9395** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|383|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|383|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|383|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|384|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|384|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|384|
 
 ## Sources
 
@@ -37,7 +37,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|5|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|976|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|990|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|922|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|6395|✅|
@@ -48,25 +48,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|172.105.128.71|56444|United States|Cedar Knolls|Akamai Technologies|
-|2|140.238.58.147|80|Japan|Tokyo|Oracle Corporation|
-|3|172.105.128.71|56444|United States|Cedar Knolls|Akamai Technologies|
-|4|34.124.225.130|8080|Singapore|Singapore|Google LLC|
-|5|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
-|6|81.12.44.197|3129|Iran|Tehran|RESPINA Networks|
-|7|103.109.197.44|8010|Indonesia|Bandung|PT Cyberindo Aditama|
-|8|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|9|187.188.17.138|1994|Mexico|Querétaro City|Total Play Telecomunicaciones SA De CV|
-|10|137.184.180.11|443|United States|Santa Clara|DigitalOcean, LLC|
-|11|47.74.154.143|8787|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|12|104.215.198.229|3128|Singapore|Singapore|Microsoft Corporation|
-|13|200.105.215.22|33630|Bolivia|La Paz|AXS Bolivia S. A.|
-|14|64.251.22.20|80|United States|Miami|Infolink Global Corporation|
-|15|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
-|16|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
-|17|191.186.106.34|8080|Brazil|São Paulo|Claro NXT Telecomunicacoes Ltda|
-|18|191.186.106.34|8080|Brazil|São Paulo|Claro NXT Telecomunicacoes Ltda|
-|19|34.82.217.181|5555|United States|The Dalles|Google LLC|
-|20|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|200.105.215.22|33630|Bolivia|La Paz|AXS Bolivia S. A.|
+|3|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
+|4|140.238.58.147|80|Japan|Tokyo|Oracle Corporation|
+|5|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|6|103.92.26.190|4002|Vietnam|Quận Phú Nhuận|TLSOFT|
+|7|217.66.22.197|8090|Russia|Kazan'|"MTS" OJSC|
+|8|172.105.128.71|56444|United States|Cedar Knolls|Akamai Technologies|
+|9|172.104.30.222|8080|United States|Cedar Knolls|Akamai Technologies|
+|10|20.44.206.138|80|Singapore|Singapore|Microsoft Corporation|
+|11|145.40.68.197|9443|Netherlands|Amsterdam|Packet Host, Inc.|
+|12|154.70.107.81|3128|Cameroon|Douala|MTN Network Solutions (Cameroon)|
+|13|145.40.68.197|9443|Netherlands|Amsterdam|Packet Host, Inc.|
+|14|64.225.4.29|9862|United States|Clifton|DigitalOcean, LLC|
+|15|103.224.195.41|3128|Taiwan|Neihu District|Taiwan Fixed Network|
+|16|116.198.48.6|8080|China|Haidian|Beijing Jingdong 360 Degree E-commerce Co., Ltd.|
+|17|35.240.219.50|8080|Singapore|Singapore|Google LLC|
+|18|161.117.177.202|3128|Singapore|Singapore|Alibaba (US) Technology Co.|
+|19|4.193.164.48|3128|Singapore|Singapore|Microsoft Corporation|
+|20|36.138.120.73|3128|China|Shenzhen|China Mobile|
 
 
 
