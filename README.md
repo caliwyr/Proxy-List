@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|467|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|467|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|467|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|547|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|547|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|547|
 
 ## Sources
 
@@ -36,8 +36,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|53|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1163|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1216|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1061|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|6401|✅|
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|51.81.24.38|3128|United States|New York|OVH US LLC|
-|2|135.148.118.109|3128|United States|Sterling|OVH US LLC|
-|3|178.234.31.40|3128|Russia|Lipetsk|Address point-to-point Lipetsk Regional Public Network BBN-3/1/1 General|
-|4|8.209.114.72|3129|Germany|Frankfurt am Main|Alibaba.com Singapore E-Commerce Private Limited|
-|5|20.44.206.138|80|Singapore|Singapore|Microsoft Corporation|
-|6|66.135.14.166|443|United States|Piscataway|The Constant Company, LLC|
-|7|136.243.55.199|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|8|51.81.24.36|3128|United States|New York|OVH US LLC|
-|9|144.217.240.185|9300|Canada|Beauharnois|OVH SAS|
-|10|78.138.98.115|3128|France|Strasbourg|Host Europe GmbH|
-|11|135.148.118.109|3128|United States|Sterling|OVH US LLC|
-|12|18.143.215.49|80|Singapore|Singapore|Amazon Technologies Inc.|
-|13|51.81.24.36|3128|United States|New York|OVH US LLC|
-|14|51.81.24.38|3128|United States|New York|OVH US LLC|
-|15|37.252.7.112|3128|Poland|Gdansk|Artnet Sp. z o.o.|
-|16|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|17|140.99.21.133|3128|United States|Brooklyn|EpicUp Holdings Inc|
-|18|181.48.68.102|3128|Colombia|Bogotá|Telmex Colombia S.A.|
-|19|116.0.61.122|3128|Pakistan|Karachi|Telecard|
-|20|140.238.245.116|8100|India|Mumbai|Oracle Corporation|
+|1|51.81.24.36|3128|United States|New York|OVH US LLC|
+|2|49.51.189.190|443|United States|Los Angeles|OPHL|
+|3|18.217.66.90|3128|United States|Dublin|Amazon.com, Inc.|
+|4|34.209.27.151|3128|United States|Portland|Amazon.com, Inc.|
+|5|3.8.118.91|3128|United Kingdom|London|Amazon Technologies Inc.|
+|6|51.81.24.38|3128|United States|New York|OVH US LLC|
+|7|135.148.118.109|3128|United States|Sterling|OVH US LLC|
+|8|5.154.147.96|8089|Germany|Frankfurt am Main|CTE|
+|9|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|10|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
+|11|34.87.55.162|8080|Singapore|Singapore|Google LLC|
+|12|136.243.55.199|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|13|195.133.45.149|7788|Russia|Moscow|VDS|
+|14|51.81.24.36|3128|United States|New York|OVH US LLC|
+|15|51.81.24.38|3128|United States|New York|OVH US LLC|
+|16|140.99.21.133|3128|United States|Brooklyn|EpicUp Holdings Inc|
+|17|18.217.66.90|3128|United States|Dublin|Amazon.com, Inc.|
+|18|18.136.196.143|3128|Singapore|Singapore|Amazon Technologies Inc.|
+|19|142.132.186.193|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|20|46.16.201.51|3129|Switzerland|Bern|Hosteur SA|
 
 
 
