@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **9643** proxies at the latest update. Usable proxies are below.
+> Scraper found **10226** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|477|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|477|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|477|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|570|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|570|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|570|
 
 ## Sources
 
@@ -37,36 +37,36 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|1|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1281|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1371|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1021|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|6257|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|6750|✅|
 
 
 ## Sample Proxies With Geolocation Info
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|170.254.28.185|8080|Ecuador|Guayaquil|María Teresa Vivar|
-|2|18.236.203.28|3128|United States|Portland|Amazon.com, Inc.|
-|3|88.99.21.162|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|4|35.176.243.2|3128|United Kingdom|London|Amazon Technologies Inc.|
+|1|137.184.180.11|443|United States|Santa Clara|DigitalOcean, LLC|
+|2|54.187.36.198|3128|United States|Portland|Amazon.com, Inc.|
+|3|34.220.115.163|3128|United States|Portland|Amazon.com, Inc.|
+|4|170.254.28.185|8080|Ecuador|Guayaquil|María Teresa Vivar|
 |5|191.186.106.34|8080|Brazil|São Paulo|Claro NXT Telecomunicacoes Ltda|
-|6|3.8.92.223|3128|United Kingdom|London|Amazon Technologies Inc.|
-|7|3.8.6.147|3128|United Kingdom|London|Amazon Technologies Inc.|
-|8|18.197.83.161|3128|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|3.8.141.154|3128|United Kingdom|London|Amazon Technologies Inc.|
-|11|34.87.55.162|8080|Singapore|Singapore|Google LLC|
-|12|18.130.252.118|3128|United Kingdom|London|Amazon Technologies Inc.|
-|13|35.240.219.50|8080|Singapore|Singapore|Google LLC|
-|14|66.135.14.166|443|United States|Piscataway|The Constant Company, LLC|
-|15|66.135.14.166|443|United States|Piscataway|The Constant Company, LLC|
-|16|18.236.203.28|3128|United States|Portland|Amazon.com, Inc.|
-|17|108.61.191.222|1994|United States|Piscataway|The Constant Company|
-|18|51.195.91.32|3128|Germany|Limburg an der Lahn|OVH SAS|
-|19|20.44.206.138|80|Singapore|Singapore|Microsoft Corporation|
-|20|144.217.253.209|9300|Canada|Beauharnois|OVH SAS|
+|6|157.245.27.9|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|7|137.184.180.11|443|United States|Santa Clara|DigitalOcean, LLC|
+|8|43.135.158.217|80|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|9|34.220.115.163|3128|United States|Portland|Amazon.com, Inc.|
+|10|43.135.158.217|80|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|11|198.27.74.6|9300|Canada|Beauharnois|OVH SAS|
+|12|54.187.36.198|3128|United States|Portland|Amazon.com, Inc.|
+|13|34.143.228.238|8080|Singapore|Singapore|Google LLC|
+|14|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|16|18.143.215.49|80|Singapore|Singapore|Amazon Technologies Inc.|
+|17|190.61.84.166|9812|Costa Rica|San José|Ufinet Costa Rica|
+|18|20.44.206.138|80|Singapore|Singapore|Microsoft Corporation|
+|19|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|20|115.144.99.220|11116|South Korea|Mapo-gu|HAIonNet|
 
 
 
