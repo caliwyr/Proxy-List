@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **10015** proxies at the latest update. Usable proxies are below.
+> Scraper found **10168** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|553|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|553|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|553|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|568|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|568|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|568|
 
 ## Sources
 
@@ -37,7 +37,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|13|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1231|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1384|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|938|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|6750|✅|
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|173.176.14.246|3128|Canada|Vaudreuil-Dorion|Le Groupe Videotron Ltee|
-|2|191.186.106.34|8080|Brazil|São Paulo|Claro NXT Telecomunicacoes Ltda|
-|3|18.143.215.49|80|Singapore|Singapore|Amazon Technologies Inc.|
-|4|37.252.7.112|3128|Poland|Gdansk|Artnet Sp. z o.o.|
-|5|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
-|6|140.238.58.147|80|Japan|Tokyo|Oracle Corporation|
-|7|195.19.250.2|3126|Russia|Novyye Mesta|Saint Petersburg State University|
-|8|185.98.23.229|3128|France|Valence|ITMETRIX|
-|9|213.171.44.134|3128|Russia|Moscow|JSC Comcor|
-|10|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|11|20.44.206.138|80|Singapore|Singapore|Microsoft Corporation|
-|12|140.238.245.116|8100|India|Mumbai|Oracle Corporation|
-|13|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|14|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
-|15|115.144.99.220|11116|South Korea|Mapo-gu|HAIonNet|
-|16|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|17|37.120.192.154|8080|Netherlands|Amsterdam|M247 Europe SRL|
-|18|211.75.214.175|3128|Taiwan|Taichung|Chunghwa Telecom Co., Ltd.|
-|19|185.103.128.138|8080|Iran|Tehran|Pishgaman Toseeh Ertebatat Company (Private Joint Stock)|
-|20|51.68.177.235|8080|Germany|Limburg an der Lahn|OVH SAS|
+|1|191.186.106.34|8080|Brazil|São Paulo|Claro NXT Telecomunicacoes Ltda|
+|2|185.98.23.229|3128|France|Valence|ITMETRIX|
+|3|107.148.94.92|80|United States|Los Angeles|PEG TECH INC|
+|4|173.176.14.246|3128|Canada|Vaudreuil-Dorion|Le Groupe Videotron Ltee|
+|5|140.238.245.116|8100|India|Mumbai|Oracle Corporation|
+|6|64.225.8.191|9988|United States|Clifton|DigitalOcean, LLC|
+|7|192.99.144.208|8080|Canada|Beauharnois|OVH SAS|
+|8|195.19.250.2|3126|Russia|Novyye Mesta|Saint Petersburg State University|
+|9|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|10|18.143.215.49|80|Singapore|Singapore|Amazon Technologies Inc.|
+|11|13.113.168.152|3128|Japan|Tokyo|Amazon Technologies Inc|
+|12|75.2.108.203|80|United States|Seattle|Amazon.com, Inc.|
+|13|37.252.7.112|3128|Poland|Gdansk|Artnet Sp. z o.o.|
+|14|75.2.108.203|80|United States|Seattle|Amazon.com, Inc.|
+|15|20.44.206.138|80|Singapore|Singapore|Microsoft Corporation|
+|16|20.219.180.105|3129|India|Pune|Microsoft Corporation|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|18|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
+|19|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|20|38.7.3.6|999|Venezuela|Maracaibo|GIGAPOP, C.A.|
 
 
 
