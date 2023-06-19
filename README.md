@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **10500** proxies at the latest update. Usable proxies are below.
+> Scraper found **10588** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|722|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|722|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|722|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|493|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|493|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|493|
 
 ## Sources
 
@@ -37,7 +37,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|1|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1384|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1472|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1299|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|6733|✅|
@@ -48,25 +48,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|5.161.105.227|3128|United States|Ashburn|Hetzner Online GmbH|
-|2|66.135.14.166|443|United States|Piscataway|The Constant Company, LLC|
+|2|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
 |3|89.58.6.205|8080|Germany|Nuremberg|netcup GmbH|
-|4|104.167.6.218|80|United States|Miami|Cloud South|
-|5|66.135.14.166|443|United States|Piscataway|The Constant Company, LLC|
-|6|5.161.105.227|3128|United States|Ashburn|Hetzner Online GmbH|
-|7|88.99.21.184|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|8|178.128.121.196|8000|Singapore|Singapore|DigitalOcean, LLC|
-|9|51.79.50.22|9300|Canada|Beauharnois|OVH SAS|
-|10|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
+|4|66.135.14.166|443|United States|Piscataway|The Constant Company, LLC|
+|5|107.148.193.162|1080|United States|San Jose|PEG TECH INC|
+|6|66.135.14.166|443|United States|Piscataway|The Constant Company, LLC|
+|7|5.161.105.227|3128|United States|Ashburn|Hetzner Online GmbH|
+|8|103.52.213.131|80|Indonesia|South Tangerang|Kementerian Lingkungan Hidup|
+|9|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
+|10|88.99.21.184|3128|Germany|Falkenstein|Hetzner Online GmbH|
 |11|14.231.161.89|8080|Vietnam|Hanoi|VNPT|
 |12|158.69.71.245|9300|Canada|Montreal|OVH SAS|
-|13|110.34.3.229|3128|Nepal|Bharatpur|SUBISU C7|
-|14|1.234.23.159|80|South Korea|Seoul|SK Broadband Co Ltd|
-|15|8.218.247.144|80|Hong Kong|Central|Alibaba (US) Technology Co., Ltd.|
-|16|51.91.109.83|80|France|Strasbourg|OVH SAS|
-|17|149.202.83.204|7080|France|Gravelines|OVH SAS|
-|18|45.55.220.123|9900|United States|Clifton|DigitalOcean, LLC|
-|19|82.115.26.10|80|Germany|Nuremberg|BitCommand LLC|
-|20|188.166.28.70|3310|Netherlands|Amsterdam|DigitalOcean, LLC|
+|13|188.43.247.36|3128|Russia|Vladivostok|Joint Stock Company TransTeleCom|
+|14|202.40.177.69|80|Bangladesh|Azimpur|Ranks ITT|
+|15|1.234.23.159|80|South Korea|Seoul|SK Broadband Co Ltd|
+|16|82.115.26.10|80|Germany|Nuremberg|BitCommand LLC|
+|17|125.167.12.239|8080|Indonesia|Pasuruan|PT. TELKOM INDONESIA|
+|18|165.0.50.110|8080|South Africa|Cape Town|RSAWEB (PTY) LTD|
+|19|104.167.6.218|80|United States|Miami|Cloud South|
+|20|45.55.220.123|9900|United States|Clifton|DigitalOcean, LLC|
 
 
 
