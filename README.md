@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **9794** proxies at the latest update. Usable proxies are below.
+> Scraper found **9813** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|465|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|465|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|465|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|435|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|435|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|435|
 
 ## Sources
 
@@ -37,7 +37,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|7|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1235|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1254|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|946|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|6523|✅|
@@ -48,25 +48,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|107.148.94.92|80|United States|Los Angeles|PEG TECH INC|
-|2|3.8.97.203|3128|United Kingdom|London|Amazon Technologies Inc.|
-|3|213.171.44.134|3128|Russia|Moscow|JSC Comcor|
-|4|20.204.190.254|3129|India|Pune|Microsoft Corporation|
-|5|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|6|20.219.182.59|3129|India|Pune|Microsoft Corporation|
-|7|20.219.180.105|3129|India|Pune|Microsoft Corporation|
-|8|179.0.43.70|999|Ecuador|Guayaquil|Intercommerce S.A.|
-|9|152.32.67.243|10101|Philippines|Mandaluyong City|Converge ICT Solution Inc|
-|10|181.210.25.42|8080|Honduras|Tegucigalpa|Hondutel|
-|11|45.225.184.145|999|Chile|Melipilla|MJL NETWORK EIRL|
-|12|101.79.13.137|3128|South Korea|Naju-si|Naver Business Platform Asia Pacific Pte. Ltd.|
-|13|107.148.94.92|80|United States|Los Angeles|PEG TECH INC|
-|14|43.153.17.52|8080|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|15|116.203.212.221|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|16|80.87.148.45|5050|Russia|Moscow|"C.S.T". Ltd|
-|17|161.117.177.202|3128|Singapore|Singapore|Alibaba (US) Technology Co.|
-|18|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
-|19|181.78.107.117|999|Guatemala|Guatemala City|UFINET Guatemala S. A|
-|20|145.40.68.197|9443|Netherlands|Amsterdam|Packet Host, Inc.|
+|2|20.204.190.254|3129|India|Pune|Microsoft Corporation|
+|3|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|4|20.219.180.105|3129|India|Pune|Microsoft Corporation|
+|5|20.219.182.59|3129|India|Pune|Microsoft Corporation|
+|6|107.148.94.92|80|United States|Los Angeles|PEG TECH INC|
+|7|66.135.14.166|443|United States|Piscataway|The Constant Company, LLC|
+|8|143.202.77.106|999|Mexico|Tijuana|Tecnologías Avanzadas S. de R.L. de C.V.|
+|9|31.42.57.1|8080|Ukraine|Smila|Limited Liability Company AVATOR ISP|
+|10|161.117.177.202|3128|Singapore|Singapore|Alibaba (US) Technology Co.|
+|11|195.19.250.2|3126|Russia|Novyye Mesta|Saint Petersburg State University|
+|12|145.40.68.197|9443|Netherlands|Amsterdam|Packet Host, Inc.|
+|13|20.44.206.138|80|Singapore|Singapore|Microsoft Corporation|
+|14|101.34.30.200|8081|China|Shanghai|Shenzhen Tencent Computer Systems Company Limited|
+|15|191.186.106.34|8080|Brazil|São Paulo|Claro NXT Telecomunicacoes Ltda|
+|16|20.219.183.188|3129|India|Pune|Microsoft Corporation|
+|17|181.78.107.117|999|Guatemala|Guatemala City|UFINET Guatemala S. A|
+|18|182.253.183.192|80|Indonesia|Yogyakarta|BIZNET|
+|19|135.181.25.11|8080|Finland|Helsinki|Hetzner Online GmbH|
+|20|84.38.183.143|8080|Russia|St Petersburg|OOO "Network of data-centers "Selectel"|
 
 
 
