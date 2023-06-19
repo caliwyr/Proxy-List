@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **9834** proxies at the latest update. Usable proxies are below.
+> Scraper found **8834** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|548|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|548|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|548|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|437|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|437|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|437|
 
 ## Sources
 
@@ -36,8 +36,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1073|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|73|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|0|🚫|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1060|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|6618|✅|
@@ -48,25 +48,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|34.222.165.180|3128|United States|Portland|Amazon.com, Inc.|
-|2|64.225.4.29|9498|United States|Clifton|DigitalOcean, LLC|
-|3|140.238.58.147|80|Japan|Tokyo|Oracle Corporation|
-|4|75.2.108.203|80|United States|Seattle|Amazon.com, Inc.|
-|5|119.8.10.18|7890|Mexico|Mexico City|Huawei International Pte. LTD|
-|6|35.240.219.50|8080|Singapore|Singapore|Google LLC|
-|7|34.143.228.238|8080|Singapore|Singapore|Google LLC|
-|8|179.108.107.63|80|Brazil|Belo Horizonte|ALGAR TELECOM S/A|
-|9|46.16.201.51|3129|Switzerland|Bern|Hosteur SA|
-|10|180.183.229.153|8080|Thailand|Chiang Mai|Triple T Broadband Public Company Limited|
-|11|35.240.156.235|8080|Singapore|Singapore|Google LLC|
-|12|46.182.6.51|3129|France|Paris|Hosteur SAS|
-|13|101.109.187.210|8080|Thailand|Bangkok|TOT Public Company Limited|
-|14|188.40.15.9|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|15|129.154.225.163|8100|India|Mumbai|Oracle Corporation|
-|16|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|17|176.9.238.155|16379|Germany|Falkenstein|Hetzner|
-|18|103.134.44.176|8080|India|Haridwar|Countrylink Communiction Pvt Ltd|
-|19|177.93.45.154|999|Colombia|Tunja|TV AZTECA SUCURSAL COLOMBIA|
-|20|202.154.18.4|8080|Indonesia|Lamongan|DIGITNET|
+|2|89.58.6.205|8080|Germany|Nuremberg|netcup GmbH|
+|3|75.2.108.203|80|United States|Seattle|Amazon.com, Inc.|
+|4|34.124.225.130|8080|Singapore|Singapore|Google LLC|
+|5|35.240.219.50|8080|Singapore|Singapore|Google LLC|
+|6|180.183.229.153|8080|Thailand|Chiang Mai|Triple T Broadband Public Company Limited|
+|7|116.0.61.122|3128|Pakistan|Karachi|Telecard|
+|8|135.125.68.145|3128|France|Roubaix|OVH SAS|
+|9|129.154.225.163|8100|India|Mumbai|Oracle Corporation|
+|10|179.108.107.63|80|Brazil|Belo Horizonte|ALGAR TELECOM S/A|
+|11|103.46.8.32|8181|Indonesia|Malang|PT JARINGANKU SARANA NUSANTARA|
+|12|185.57.237.32|4411|Russia|Yablonitsy|LTD AtelRybinsk|
+|13|103.170.22.52|8089|Indonesia|Cilacap|PT Puskomedia Indonesia Kreatif|
+|14|94.206.193.187|8080|United Arab Emirates|Dubai|Emirates Integrated Telecommunications Company PJSC|
+|15|34.222.165.180|3128|United States|Portland|Amazon.com, Inc.|
+|16|43.153.17.52|8080|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|17|103.7.27.186|8080|Cambodia|Phnom Penh|NTT (Thailand) Limited|
+|18|176.99.2.43|1081|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
+|19|185.78.29.95|3128|Russia|St Petersburg|System servers virtual hosting BEGET.RU|
+|20|135.181.89.201|8080|Finland|Helsinki|Hetzner Online GmbH|
 
 
 
