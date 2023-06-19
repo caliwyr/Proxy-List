@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **10012** proxies at the latest update. Usable proxies are below.
+> Scraper found **10056** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -36,8 +36,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|49|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1180|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|71|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1202|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1082|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|6618|✅|
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|49.51.189.190|443|United States|Los Angeles|OPHL|
-|2|142.132.186.193|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|3|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
-|4|35.178.11.252|3128|United Kingdom|London|Amazon Technologies Inc.|
-|5|43.153.17.52|8080|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|6|5.161.218.180|3128|United States|Ashburn|Hetzner Online GmbH|
-|7|119.8.10.18|7890|Mexico|Mexico City|Huawei International Pte. LTD|
-|8|66.70.178.214|9300|Canada|Beauharnois|OVH SAS|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|35.243.91.141|80|Japan|Tokyo|Google LLC|
-|11|5.161.218.180|3128|United States|Ashburn|Hetzner Online GmbH|
-|12|43.153.17.52|8080|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|13|88.99.21.184|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|14|203.150.128.253|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|15|129.154.225.163|8100|India|Mumbai|Oracle Corporation|
-|16|89.58.6.205|8080|Germany|Nuremberg|netcup GmbH|
-|17|1.10.141.115|8080|Thailand|Bangkok|TOT Public Company Limited|
-|18|176.9.238.155|16379|Germany|Falkenstein|Hetzner|
-|19|140.238.245.116|8100|India|Mumbai|Oracle Corporation|
-|20|103.178.88.138|8080|Indonesia|Keputih|PT INTER MEDIALINK SOLUSI|
+|1|34.221.114.58|3128|United States|Portland|Amazon.com, Inc.|
+|2|88.99.21.162|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|3|37.252.7.112|3128|Poland|Gdansk|Artnet Sp. z o.o.|
+|4|92.182.17.190|8080|France|Saint-Paul-de-Vence|MB Network|
+|5|89.58.6.205|8080|Germany|Nuremberg|netcup GmbH|
+|6|34.221.114.58|3128|United States|Portland|Amazon.com, Inc.|
+|7|49.51.189.190|443|United States|Los Angeles|OPHL|
+|8|43.153.17.52|8080|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|9|88.99.21.184|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|10|213.171.44.134|3128|Russia|Moscow|JSC Comcor|
+|11|35.240.156.235|8080|Singapore|Singapore|Google LLC|
+|12|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|13|43.153.17.52|8080|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|14|129.154.225.163|8100|India|Mumbai|Oracle Corporation|
+|15|116.105.254.177|10024|Vietnam|Hanoi|Viettel Corporation|
+|16|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|18|103.178.88.138|8080|Indonesia|Keputih|PT INTER MEDIALINK SOLUSI|
+|19|46.16.201.51|3129|Switzerland|Bern|Hosteur SA|
+|20|119.8.10.18|7890|Mexico|Mexico City|Huawei International Pte. LTD|
 
 
 
