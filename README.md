@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **9902** proxies at the latest update. Usable proxies are below.
+> Scraper found **9847** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|435|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|435|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|435|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|332|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|332|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|332|
 
 ## Sources
 
@@ -36,10 +36,10 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|5|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1058|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|3|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1075|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1051|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|981|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|6705|✅|
 
 
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.15.153.144|3128|United States|Los Angeles|DediPath|
-|2|51.81.24.38|3128|United States|New York|OVH US LLC|
-|3|101.79.13.137|3128|South Korea|Naju-si|Naver Business Platform Asia Pacific Pte. Ltd.|
-|4|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|5|191.186.106.34|8080|Brazil|São Paulo|Claro NXT Telecomunicacoes Ltda|
-|6|5.188.154.104|8080|Kazakhstan|Almaty|NLS|
-|7|18.143.215.49|80|Singapore|Singapore|Amazon Technologies Inc.|
-|8|185.211.56.125|4016|Iran|Tehran|Mahdiar Rafiee|
-|9|81.16.1.188|32650|Armenia|Yerevan|Ucom CJSC|
-|10|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|11|193.41.88.58|53281|Ukraine|Kyiv|Kyiv National Taras Shevchenko University|
-|12|66.85.129.220|8080|United States|Phoenix|Secured Servers LLC|
-|13|103.224.195.41|3128|Taiwan|Neihu District|Taiwan Fixed Network|
-|14|116.203.212.221|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|15|123.126.158.184|80|China|Beijing|China Unicom Beijing Province Network|
-|16|191.186.106.34|8080|Brazil|São Paulo|Claro NXT Telecomunicacoes Ltda|
-|17|163.177.106.4|8001|China|Shenzhen|China Unicom Guangdong Province Network|
-|18|31.186.241.8|8888|Netherlands|Amsterdam|InterNAP Network Services|
-|19|185.49.170.20|43626|Spain|Madrid|OLIVE|
-|20|101.79.13.137|3128|South Korea|Naju-si|Naver Business Platform Asia Pacific Pte. Ltd.|
+|1|192.241.238.167|31028|United States|San Francisco|DigitalOcean, LLC|
+|2|143.47.248.136|80|United Kingdom|London|Oracle Corporation|
+|3|45.55.220.123|9900|United States|Clifton|DigitalOcean, LLC|
+|4|45.55.36.191|3333|United States|Clifton|DigitalOcean, LLC|
+|5|112.217.162.5|3128|South Korea|Gyeyang-gu|LG DACOM Corporation|
+|6|192.241.238.167|31028|United States|San Francisco|DigitalOcean, LLC|
+|7|45.15.153.144|3128|United States|Los Angeles|DediPath|
+|8|103.134.44.176|8080|India|Haridwar|Countrylink Communiction Pvt Ltd|
+|9|144.217.240.185|9300|Canada|Beauharnois|OVH SAS|
+|10|157.245.27.9|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|34.124.225.130|8080|Singapore|Singapore|Google LLC|
+|12|88.99.21.162|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|13|20.44.206.138|80|Singapore|Singapore|Microsoft Corporation|
+|14|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
+|15|46.16.201.51|3129|Switzerland|Bern|Hosteur SA|
+|16|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|17|5.188.154.104|8080|Kazakhstan|Almaty|NLS|
+|18|185.211.56.125|4016|Iran|Tehran|Mahdiar Rafiee|
+|19|80.78.64.70|8080|Albania|Tirana|ABCom|
+|20|38.44.237.54|999|Peru|Lima|Latin Cable|
 
 
 
