@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **10611** proxies at the latest update. Usable proxies are below.
+> Scraper found **10583** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|805|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|805|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|805|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|707|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|707|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|707|
 
 ## Sources
 
@@ -37,7 +37,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|1|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1458|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1430|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1336|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|6733|✅|
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|5.161.105.227|3128|United States|Ashburn|Hetzner Online GmbH|
-|2|34.222.77.146|3128|United States|Portland|Amazon.com, Inc.|
-|3|3.120.237.183|3128|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|4|8.209.114.72|3129|Germany|Frankfurt am Main|Alibaba.com Singapore E-Commerce Private Limited|
-|5|47.90.162.160|8080|United States|Charlottesville|Alibaba.com LLC|
-|6|52.43.254.187|3128|United States|Portland|Amazon.com, Inc.|
-|7|89.58.6.205|8080|Germany|Nuremberg|netcup GmbH|
-|8|107.148.193.162|1080|United States|San Jose|PEG TECH INC|
-|9|52.43.254.187|3128|United States|Portland|Amazon.com, Inc.|
-|10|35.192.11.186|3128|United States|Council Bluffs|Google LLC|
-|11|3.104.228.192|3128|Australia|Sydney|Amazon Technologies Inc.|
-|12|34.143.228.238|8080|Singapore|Singapore|Google LLC|
-|13|192.241.189.47|31028|United States|New York|DigitalOcean, LLC|
-|14|180.183.115.26|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
-|15|157.245.27.9|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|16|176.95.54.202|83|Germany|Pohlheim|Vodafone GmbH|
-|17|18.143.215.49|80|Singapore|Singapore|Amazon Technologies Inc.|
-|18|107.148.193.162|1080|United States|San Jose|PEG TECH INC|
-|19|67.205.179.93|31028|United States|North Bergen|DigitalOcean, LLC|
-|20|67.205.179.93|31028|United States|North Bergen|DigitalOcean, LLC|
+|1|144.34.162.125|80|United States|Los Angeles|IT7 Networks Inc|
+|2|158.69.73.79|9300|Canada|Montreal|OVH SAS|
+|3|8.209.114.72|3129|Germany|Frankfurt am Main|Alibaba.com Singapore E-Commerce Private Limited|
+|4|89.58.6.205|8080|Germany|Nuremberg|netcup GmbH|
+|5|5.161.105.227|3128|United States|Ashburn|Hetzner Online GmbH|
+|6|51.79.50.22|9300|Canada|Beauharnois|OVH SAS|
+|7|3.120.237.183|3128|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|8|190.44.115.145|3128|Chile|Puente Alto|VTR BANDA ANCHA S.A.|
+|9|54.202.238.21|3128|United States|Portland|Amazon.com, Inc.|
+|10|192.99.144.208|8080|Canada|Beauharnois|OVH SAS|
+|11|176.95.54.202|83|Germany|Pohlheim|Vodafone GmbH|
+|12|144.34.162.125|80|United States|Los Angeles|IT7 Networks Inc|
+|13|191.186.106.34|8080|Brazil|São Paulo|Claro NXT Telecomunicacoes Ltda|
+|14|192.241.189.47|31028|United States|New York|DigitalOcean, LLC|
+|15|35.180.229.150|3128|France|Paris|Amazon Technologies Inc.|
+|16|157.245.27.9|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|17|161.35.57.8|8048|United States|North Bergen|DigitalOcean, LLC|
+|18|161.35.57.8|8048|United States|North Bergen|DigitalOcean, LLC|
+|19|5.161.105.227|3128|United States|Ashburn|Hetzner Online GmbH|
+|20|35.192.11.186|3128|United States|Council Bluffs|Google LLC|
 
 
 
