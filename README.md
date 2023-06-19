@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **10013** proxies at the latest update. Usable proxies are below.
+> Scraper found **9902** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|424|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|424|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|424|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|435|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|435|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|435|
 
 ## Sources
 
@@ -37,7 +37,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|5|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1169|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1058|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1051|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|6705|✅|
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|66.135.14.166|443|United States|Piscataway|The Constant Company, LLC|
-|2|66.135.14.166|443|United States|Piscataway|The Constant Company, LLC|
-|3|52.197.156.5|3128|Japan|Tokyo|Amazon Technologies Inc.|
+|1|45.15.153.144|3128|United States|Los Angeles|DediPath|
+|2|51.81.24.38|3128|United States|New York|OVH US LLC|
+|3|101.79.13.137|3128|South Korea|Naju-si|Naver Business Platform Asia Pacific Pte. Ltd.|
 |4|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|5|181.232.190.130|999|Dominican Republic|Santo Domingo Este|Airtime Technology SRL|
-|6|20.44.206.138|80|Singapore|Singapore|Microsoft Corporation|
-|7|191.186.106.34|8080|Brazil|São Paulo|Claro NXT Telecomunicacoes Ltda|
-|8|101.79.13.137|3128|South Korea|Naju-si|Naver Business Platform Asia Pacific Pte. Ltd.|
-|9|157.230.34.143|8080|Singapore|Singapore|DigitalOcean, LLC|
-|10|5.188.154.104|8080|Kazakhstan|Almaty|NLS|
-|11|84.19.189.195|3128|Germany|Erfurt|Keyweb AG IP Network|
-|12|18.143.215.49|80|Singapore|Singapore|Amazon Technologies Inc.|
-|13|112.217.162.5|3128|South Korea|Gyeyang-gu|LG DACOM Corporation|
-|14|150.136.68.118|80|United States|Ashburn|Oracle Corporation|
-|15|47.74.154.143|8787|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|16|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
-|17|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
-|18|20.243.19.253|3128|Japan|Tokyo|Microsoft Corporation|
-|19|107.152.38.199|8080|United States|Chicago|tzulo, inc.|
-|20|195.19.250.2|3126|Russia|Novyye Mesta|Saint Petersburg State University|
+|5|191.186.106.34|8080|Brazil|São Paulo|Claro NXT Telecomunicacoes Ltda|
+|6|5.188.154.104|8080|Kazakhstan|Almaty|NLS|
+|7|18.143.215.49|80|Singapore|Singapore|Amazon Technologies Inc.|
+|8|185.211.56.125|4016|Iran|Tehran|Mahdiar Rafiee|
+|9|81.16.1.188|32650|Armenia|Yerevan|Ucom CJSC|
+|10|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|11|193.41.88.58|53281|Ukraine|Kyiv|Kyiv National Taras Shevchenko University|
+|12|66.85.129.220|8080|United States|Phoenix|Secured Servers LLC|
+|13|103.224.195.41|3128|Taiwan|Neihu District|Taiwan Fixed Network|
+|14|116.203.212.221|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|15|123.126.158.184|80|China|Beijing|China Unicom Beijing Province Network|
+|16|191.186.106.34|8080|Brazil|São Paulo|Claro NXT Telecomunicacoes Ltda|
+|17|163.177.106.4|8001|China|Shenzhen|China Unicom Guangdong Province Network|
+|18|31.186.241.8|8888|Netherlands|Amsterdam|InterNAP Network Services|
+|19|185.49.170.20|43626|Spain|Madrid|OLIVE|
+|20|101.79.13.137|3128|South Korea|Naju-si|Naver Business Platform Asia Pacific Pte. Ltd.|
 
 
 
