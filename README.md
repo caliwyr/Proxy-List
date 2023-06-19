@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **10391** proxies at the latest update. Usable proxies are below.
+> Scraper found **10245** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|592|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|592|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|592|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|509|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|509|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|509|
 
 ## Sources
 
@@ -36,8 +36,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|116|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1360|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1330|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1202|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|6630|✅|
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|66.135.14.166|443|United States|Piscataway|The Constant Company, LLC|
-|2|46.16.201.51|3129|Switzerland|Bern|Hosteur SA|
-|3|34.219.139.145|3128|United States|Portland|Amazon.com, Inc.|
-|4|137.184.6.117|3128|United States|Santa Clara|DigitalOcean, LLC|
-|5|191.186.106.34|8080|Brazil|São Paulo|Claro NXT Telecomunicacoes Ltda|
-|6|18.184.92.147|3128|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|7|115.144.16.101|10471|South Korea|Hwaseong-si|Korea Telecom|
-|8|34.124.225.130|8080|Singapore|Singapore|Google LLC|
-|9|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|10|158.69.73.79|9300|Canada|Montreal|OVH SAS|
-|11|66.135.14.166|443|United States|Piscataway|The Constant Company, LLC|
-|12|137.184.6.117|3128|United States|Santa Clara|DigitalOcean, LLC|
-|13|159.203.132.96|3128|United States|Clifton|DigitalOcean, LLC|
-|14|34.219.139.145|3128|United States|Portland|Amazon.com, Inc.|
-|15|107.148.94.92|80|United States|Los Angeles|PEG TECH INC|
-|16|103.180.125.61|3128|Indonesia|Ponorogo|PT TOKO MIRING BERJAYA|
-|17|129.154.225.163|8100|India|Mumbai|Oracle Corporation|
-|18|159.203.132.96|3128|United States|Clifton|DigitalOcean, LLC|
-|19|103.216.63.87|8123|Iran|Tehran|Sindad Network Technology Ltd.|
-|20|101.79.13.137|3128|South Korea|Naju-si|Naver Business Platform Asia Pacific Pte. Ltd.|
+|1|137.184.6.117|3128|United States|Santa Clara|DigitalOcean, LLC|
+|2|18.143.215.49|80|Singapore|Singapore|Amazon Technologies Inc.|
+|3|137.184.6.117|3128|United States|Santa Clara|DigitalOcean, LLC|
+|4|191.186.106.34|8080|Brazil|São Paulo|Claro NXT Telecomunicacoes Ltda|
+|5|84.19.188.193|3128|Germany|Erfurt|Keyweb AG IP Network|
+|6|129.154.225.163|8100|India|Mumbai|Oracle Corporation|
+|7|119.8.10.18|7890|Mexico|Mexico City|Huawei International Pte. LTD|
+|8|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
+|9|181.48.68.102|3128|Colombia|Bogotá|Telmex Colombia S.A.|
+|10|161.35.132.169|8888|United States|Clifton|DigitalOcean, LLC|
+|11|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|12|103.170.115.209|2020|Indonesia|Bengkalis|PT Mega Data Akses|
+|13|43.153.17.52|8080|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|14|200.25.254.193|54240|Colombia|Neiva|Andinet ON Line|
+|15|18.184.92.147|3128|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|16|101.79.13.137|3128|South Korea|Naju-si|Naver Business Platform Asia Pacific Pte. Ltd.|
+|17|140.238.245.116|8100|India|Mumbai|Oracle Corporation|
+|18|103.123.5.58|8080|China|Yangjiaping|CHINA UNICOM China169 Backbone|
+|19|185.211.56.125|4016|Iran|Tehran|Mahdiar Rafiee|
+|20|145.40.68.197|9443|Netherlands|Amsterdam|Packet Host, Inc.|
 
 
 
