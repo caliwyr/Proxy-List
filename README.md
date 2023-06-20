@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **9838** proxies at the latest update. Usable proxies are below.
+> Scraper found **9722** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|556|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|556|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|556|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|487|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|487|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|487|
 
 ## Sources
 
@@ -36,8 +36,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|62|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1336|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|67|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1215|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1072|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|6385|✅|
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.238.58.147|80|Japan|Tokyo|Oracle Corporation|
-|2|142.132.186.193|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|3|89.58.60.238|8080|Austria|Vienna|netcup GmbH|
-|4|67.205.179.93|31028|United States|North Bergen|DigitalOcean, LLC|
-|5|67.205.179.93|31028|United States|North Bergen|DigitalOcean, LLC|
-|6|103.180.125.61|3128|Indonesia|Ponorogo|PT TOKO MIRING BERJAYA|
-|7|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|8|49.51.189.190|443|United States|Los Angeles|OPHL|
-|9|49.51.189.190|443|United States|Los Angeles|OPHL|
-|10|47.74.154.143|8787|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|11|103.155.197.50|8080|Indonesia|Selong|JEMBATANDATA|
-|12|115.144.99.220|11116|South Korea|Mapo-gu|HAIonNet|
+|1|107.148.193.162|1080|United States|San Jose|PEG TECH INC|
+|2|43.153.17.52|8080|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|3|161.35.57.8|8048|United States|North Bergen|DigitalOcean, LLC|
+|4|173.176.14.246|3128|Canada|Vaudreuil-Dorion|Le Groupe Videotron Ltee|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|142.132.186.193|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|7|140.238.58.147|80|Japan|Tokyo|Oracle Corporation|
+|8|43.153.17.52|8080|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|9|107.148.193.162|1080|United States|San Jose|PEG TECH INC|
+|10|161.35.57.8|8048|United States|North Bergen|DigitalOcean, LLC|
+|11|192.241.238.167|31028|United States|San Francisco|DigitalOcean, LLC|
+|12|188.132.221.2|8080|Turkey|Istanbul|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
 |13|192.241.189.47|31028|United States|New York|DigitalOcean, LLC|
-|14|5.161.105.227|3128|United States|Ashburn|Hetzner Online GmbH|
-|15|5.161.218.180|3128|United States|Ashburn|Hetzner Online GmbH|
-|16|119.8.10.18|7890|Mexico|Mexico City|Huawei International Pte. LTD|
-|17|20.120.240.49|80|United States|Quincy|Microsoft Corporation|
-|18|52.118.150.112|3128|United States|Dallas|SoftLayer|
-|19|111.225.153.66|8089|China|Zhoutou|Chinanet|
-|20|66.85.128.252|8080|United States|Phoenix|Secured Servers LLC|
+|14|188.40.90.62|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|15|192.241.189.47|31028|United States|New York|DigitalOcean, LLC|
+|16|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|17|18.143.215.49|80|Singapore|Singapore|Amazon Technologies Inc.|
+|18|47.74.154.143|8787|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|19|185.245.182.5|80|Germany|Düsseldorf|Contabo GmbH|
+|20|67.205.179.93|31028|United States|North Bergen|DigitalOcean, LLC|
 
 
 
