@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **10443** proxies at the latest update. Usable proxies are below.
+> Scraper found **10160** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|678|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|678|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|678|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|435|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|435|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|435|
 
 ## Sources
 
@@ -37,7 +37,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|1|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1587|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1304|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1266|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|6506|✅|
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|173.176.14.246|3128|Canada|Vaudreuil-Dorion|Le Groupe Videotron Ltee|
-|2|146.196.54.75|80|Hong Kong|Kwun Tong|Layerstack Limited|
-|3|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|4|123.253.62.19|3128|Thailand|Bang Khen|Colodee Digital Network CO|
-|5|101.79.13.137|3128|South Korea|Naju-si|Naver Business Platform Asia Pacific Pte. Ltd.|
-|6|112.217.162.5|3128|South Korea|Gyeyang-gu|LG DACOM Corporation|
-|7|123.253.62.28|3128|Thailand|Bang Khen|Colodee Digital Network CO|
-|8|13.212.107.26|3128|Singapore|Singapore|Amazon Technologies Inc.|
-|9|181.48.68.102|3128|Colombia|Bogotá|Telmex Colombia S.A.|
-|10|43.153.17.52|8080|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|11|8.209.114.72|3129|Germany|Frankfurt am Main|Alibaba.com Singapore E-Commerce Private Limited|
-|12|191.186.106.34|8080|Brazil|São Paulo|Claro NXT Telecomunicacoes Ltda|
-|13|213.171.44.134|3128|Russia|Moscow|JSC Comcor|
-|14|75.2.108.203|80|United States|Seattle|Amazon.com, Inc.|
-|15|46.16.201.51|3129|Switzerland|Bern|Hosteur SA|
-|16|67.205.179.93|31028|United States|North Bergen|DigitalOcean, LLC|
-|17|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|18|115.144.99.220|11116|South Korea|Mapo-gu|HAIonNet|
-|19|88.99.188.213|8585|Germany|Nuremberg|Hetzner Online GmbH|
-|20|136.243.55.199|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|1|67.205.179.93|31028|United States|North Bergen|DigitalOcean, LLC|
+|2|43.153.17.52|8080|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|3|146.196.54.75|80|Hong Kong|Kwun Tong|Layerstack Limited|
+|4|115.144.221.125|10761|South Korea|Nowon-gu|HAIonNet|
+|5|14.231.161.89|8080|Vietnam|Hanoi|VNPT|
+|6|43.153.17.52|8080|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|7|123.253.62.37|3128|Thailand|Bang Khen|Colodee Digital Network CO|
+|8|123.253.62.36|3128|Thailand|Bang Khen|Colodee Digital Network CO|
+|9|67.205.179.93|31028|United States|North Bergen|DigitalOcean, LLC|
+|10|137.184.250.236|7890|Singapore|Singapore|DigitalOcean, LLC|
+|11|115.144.16.101|10471|South Korea|Hwaseong-si|Korea Telecom|
+|12|192.241.238.167|31028|United States|San Francisco|DigitalOcean, LLC|
+|13|173.176.14.246|3128|Canada|Vaudreuil-Dorion|Le Groupe Videotron Ltee|
+|14|123.253.62.19|3128|Thailand|Bang Khen|Colodee Digital Network CO|
+|15|31.25.106.70|3128|Iran|Nā’īn|Ariana Gostar Spadana|
+|16|131.100.48.73|999|Colombia|La Argentina|Fibernet TV SAS|
+|17|75.2.108.203|80|United States|Seattle|Amazon.com, Inc.|
+|18|192.241.238.167|31028|United States|San Francisco|DigitalOcean, LLC|
+|19|123.253.62.34|3128|Thailand|Bang Khen|Colodee Digital Network CO|
+|20|123.253.62.28|3128|Thailand|Bang Khen|Colodee Digital Network CO|
 
 
 
