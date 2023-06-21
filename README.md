@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **9760** proxies at the latest update. Usable proxies are below.
+> Scraper found **9664** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|561|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|561|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|561|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|456|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|456|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|456|
 
 ## Sources
 
@@ -37,7 +37,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|1|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1300|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1204|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1136|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|6340|✅|
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|64.251.22.20|80|United States|Miami|Infolink Global Corporation|
-|2|213.171.44.134|3128|Russia|Moscow|JSC Comcor|
-|3|51.79.50.22|9300|Canada|Beauharnois|OVH SAS|
-|4|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|5|73.242.86.12|8118|United States|Minnetonka|Comcast Cable Communications|
-|6|34.87.55.162|8080|Singapore|Singapore|Google LLC|
-|7|64.251.22.20|80|United States|Miami|Infolink Global Corporation|
-|8|203.57.50.118|40612|Australia|Brisbane|Mammoth Media Pty Ltd|
-|9|67.205.179.93|31028|United States|North Bergen|DigitalOcean, LLC|
-|10|107.148.94.92|80|United States|Los Angeles|PEG TECH INC|
-|11|49.51.189.190|443|United States|Los Angeles|OPHL|
-|12|192.241.238.167|31028|United States|San Francisco|DigitalOcean, LLC|
-|13|213.136.101.37|3128|Ivory Coast|Abidjan|ORANGE COTE D'IVOIRE|
-|14|80.106.247.145|53410|Greece|Athens|Ote SA (Hellenic Telecommunications Organisation)|
-|15|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
-|16|115.144.102.39|10080|South Korea|Mapo-gu|Korea Telecom|
-|17|213.136.101.36|3128|Ivory Coast|Abidjan|ORANGE COTE D'IVOIRE|
-|18|41.186.44.106|3128|Rwanda|Kigali|MTN Rwandacell|
-|19|192.241.238.167|31028|United States|San Francisco|DigitalOcean, LLC|
-|20|194.163.132.232|3128|Germany|Düsseldorf|Contabo GmbH|
+|1|132.145.68.136|80|United Kingdom|London|Oracle Corporation|
+|2|35.240.219.50|8080|Singapore|Singapore|Google LLC|
+|3|34.87.55.162|8080|Singapore|Singapore|Google LLC|
+|4|192.99.144.208|8080|Canada|Beauharnois|OVH SAS|
+|5|213.171.44.134|3128|Russia|Moscow|JSC Comcor|
+|6|182.18.208.107|3128|Philippines|Iloilo City|SKYBROADBAND|
+|7|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|8|112.217.162.5|3128|South Korea|Gyeyang-gu|LG DACOM Corporation|
+|9|213.136.101.37|3128|Ivory Coast|Abidjan|ORANGE COTE D'IVOIRE|
+|10|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
+|11|161.35.57.8|8048|United States|North Bergen|DigitalOcean, LLC|
+|12|123.30.154.38|2008|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|13|213.136.101.36|3128|Ivory Coast|Abidjan|ORANGE COTE D'IVOIRE|
+|14|43.135.158.217|80|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|15|5.196.239.79|8000|Netherlands|Rotterdam|OVH SAS|
+|16|115.144.16.101|10471|South Korea|Hwaseong-si|Korea Telecom|
+|17|192.241.238.167|31028|United States|San Francisco|DigitalOcean, LLC|
+|18|47.90.162.160|8080|United States|Charlottesville|Alibaba.com LLC|
+|19|161.35.57.8|8048|United States|North Bergen|DigitalOcean, LLC|
+|20|113.125.82.11|3128|China|Xintai|Cloud Computing Corporation|
 
 
 
