@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|357|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|357|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|357|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|344|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|344|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|344|
 
 ## Sources
 
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|194.163.132.232|3128|Germany|Düsseldorf|Contabo GmbH|
-|2|66.70.178.214|9300|Canada|Beauharnois|OVH SAS|
-|3|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|4|43.132.175.181|81|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|5|18.143.215.49|80|Singapore|Singapore|Amazon Technologies Inc.|
-|6|81.12.36.51|3128|Iran|Tehran|Respina Networks & Beyond PJSC|
-|7|88.99.21.162|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|1|192.99.144.208|8080|Canada|Beauharnois|OVH SAS|
+|2|193.107.104.57|3128|Ukraine|Vinnytsia|Stasishen Aleksandr Afanasiyovich|
+|3|50.116.41.119|3128|United States|Atlanta|Akamai Technologies, Inc.|
+|4|67.205.179.93|31028|United States|North Bergen|DigitalOcean, LLC|
+|5|18.116.27.91|443|United States|Dublin|Amazon.com, Inc.|
+|6|112.217.162.5|3128|South Korea|Gyeyang-gu|LG DACOM Corporation|
+|7|115.144.221.125|10761|South Korea|Nowon-gu|HAIonNet|
 |8|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
-|9|112.217.162.5|3128|South Korea|Gyeyang-gu|LG DACOM Corporation|
-|10|46.182.6.51|3129|France|Paris|Hosteur SAS|
-|11|103.169.254.164|8061|Indonesia|Banyuwangi|PT Master Star Network|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|67.205.179.93|31028|United States|North Bergen|DigitalOcean, LLC|
-|14|50.116.41.119|3128|United States|Atlanta|Akamai Technologies, Inc.|
-|15|115.144.221.125|10761|South Korea|Nowon-gu|HAIonNet|
-|16|20.120.240.49|80|United States|Quincy|Microsoft Corporation|
-|17|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|18|104.248.235.205|3128|United States|North Bergen|DigitalOcean, LLC|
-|19|171.240.184.18|50003|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|20|161.35.57.8|8048|United States|North Bergen|DigitalOcean, LLC|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|18.143.215.49|80|Singapore|Singapore|Amazon Technologies Inc.|
+|11|66.135.14.166|443|United States|Piscataway|The Constant Company, LLC|
+|12|183.89.247.182|8080|Thailand|Nonthaburi|Triple T Broadband Public Company Limited|
+|13|190.12.121.35|999|Argentina|Avellaneda|CPS|
+|14|115.144.102.132|10041|South Korea|Mapo-gu|Korea Telecom|
+|15|121.126.200.123|11361|South Korea|Gwanak-gu|HAIonNet|
+|16|216.128.141.55|7777|United States|Dallas|The Constant Company|
+|17|167.86.99.172|8080|Germany|Nuremberg|Contabo GmbH|
+|18|103.166.194.67|8080|Indonesia|Jakarta|Hipernet Indodata|
+|19|20.222.85.98|3128|Japan|Tokyo|Microsoft Corporation|
+|20|195.133.45.149|7788|Russia|Moscow|VDS|
 
 
 
