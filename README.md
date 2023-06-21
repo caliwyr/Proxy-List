@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **9394** proxies at the latest update. Usable proxies are below.
+> Scraper found **9417** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|340|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|340|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|340|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|387|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|387|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|387|
 
 ## Sources
 
@@ -37,7 +37,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|1|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1102|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1125|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|932|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|6376|✅|
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|13.52.97.126|3128|United States|San Jose|Amazon.com, Inc.|
-|2|3.1.203.62|3128|Singapore|Singapore|Amazon Technologies Inc.|
-|3|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
-|4|45.91.132.121|8080|Thailand|Nonthaburi|CAT Telecom Public Company Limited|
-|5|103.101.82.114|8080|Cambodia|Phnom Penh|Turbotech CO.|
-|6|13.52.97.126|3128|United States|San Jose|Amazon.com, Inc.|
-|7|89.211.165.224|8080|Qatar|Doha|Ooredoo Q.S.C.|
-|8|107.148.94.92|80|United States|Los Angeles|PEG TECH INC|
-|9|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
-|10|157.230.85.206|3128|United States|North Bergen|DigitalOcean, LLC|
-|11|52.118.150.112|3128|United States|Dallas|SoftLayer|
-|12|195.133.45.149|7788|Russia|Moscow|VDS|
-|13|84.38.183.143|8080|Russia|St Petersburg|OOO "Network of data-centers "Selectel"|
-|14|104.248.235.205|3128|United States|North Bergen|DigitalOcean, LLC|
-|15|195.19.250.2|3126|Russia|Novyye Mesta|Saint Petersburg State University|
-|16|161.117.177.202|3128|Singapore|Singapore|Alibaba (US) Technology Co.|
-|17|181.78.19.47|999|Colombia|Valledupar|IFX Networks Argentina S.R.L|
-|18|66.206.32.162|3128|United States|Latham|Turnkey Internet Inc.|
-|19|20.219.108.109|8080|India|Chennai|Microsoft Corporation|
-|20|183.221.242.102|9443|China|Mianyang|China Mobile|
+|1|3.101.140.140|3128|United States|San Jose|Amazon.com, Inc.|
+|2|18.237.32.26|3128|United States|Portland|Amazon.com, Inc.|
+|3|49.51.189.190|443|United States|Los Angeles|OPHL|
+|4|200.69.83.205|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|5|3.101.140.140|3128|United States|San Jose|Amazon.com, Inc.|
+|6|3.8.131.164|3128|United Kingdom|London|Amazon Technologies Inc.|
+|7|18.133.224.39|3128|United Kingdom|London|Amazon Technologies Inc.|
+|8|18.237.32.26|3128|United States|Portland|Amazon.com, Inc.|
+|9|45.91.132.121|8080|Thailand|Nonthaburi|CAT Telecom Public Company Limited|
+|10|3.1.203.62|3128|Singapore|Singapore|Amazon Technologies Inc.|
+|11|49.51.189.190|443|United States|Los Angeles|OPHL|
+|12|103.101.82.114|8080|Cambodia|Phnom Penh|Turbotech CO.|
+|13|154.53.42.181|3128|United States|St Louis|Nubes, LLC|
+|14|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|15|185.183.160.207|80|Russia|Dolgoprudny|LLC "Internet Tehnologii"|
+|16|159.255.188.134|41258|Poland|Warsaw|TOM-NET s.c. Dariusz Koper|
+|17|159.255.188.134|41258|Poland|Warsaw|TOM-NET s.c. Dariusz Koper|
+|18|66.85.128.252|8080|United States|Phoenix|Secured Servers LLC|
+|19|95.217.167.241|8080|Finland|Helsinki|Hetzner Online GmbH|
+|20|139.144.24.46|8080|United States|Atlanta|Akamai Technologies, Inc.|
 
 
 
