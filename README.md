@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **9616** proxies at the latest update. Usable proxies are below.
+> Scraper found **9664** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|510|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|510|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|510|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|471|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|471|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|471|
 
 ## Sources
 
@@ -37,7 +37,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|2|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1190|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1238|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1101|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|6340|✅|
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|107.148.94.92|80|United States|Los Angeles|PEG TECH INC|
-|2|107.148.94.92|80|United States|Los Angeles|PEG TECH INC|
-|3|182.18.208.107|3128|Philippines|Iloilo City|SKYBROADBAND|
-|4|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
-|5|192.99.144.208|8080|Canada|Beauharnois|OVH SAS|
-|6|187.49.191.17|999|Honduras|Juticalpa|Olancho NET S.r.l. De C.V.|
-|7|5.154.147.96|8089|Germany|Frankfurt am Main|CTE|
-|8|147.50.253.79|8080|Thailand|Huai Khwang|DC-CLOUDFOREST3|
-|9|165.232.169.44|8080|Singapore|Singapore|DigitalOcean, LLC|
-|10|178.234.31.40|3128|Russia|Lipetsk|Address point-to-point Lipetsk Regional Public Network BBN-3/1/1 General|
-|11|136.243.55.199|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|12|202.40.177.69|80|Bangladesh|Azimpur|Ranks ITT|
-|13|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
-|14|164.52.206.180|80|India|Noida|E2E Networks Limited|
-|15|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|16|84.38.183.143|8080|Russia|St Petersburg|OOO "Network of data-centers "Selectel"|
-|17|45.189.149.241|999|Mexico|Cunduacan|Javier Tamayo Garcia|
-|18|79.99.110.254|18080|Russia|St Petersburg|SEVEREN|
-|19|161.35.57.8|8048|United States|North Bergen|DigitalOcean, LLC|
-|20|161.35.57.8|8048|United States|North Bergen|DigitalOcean, LLC|
+|1|176.95.54.202|83|Germany|Pohlheim|Vodafone GmbH|
+|2|194.163.132.232|3128|Germany|Düsseldorf|Contabo GmbH|
+|3|192.241.238.167|31028|United States|San Francisco|DigitalOcean, LLC|
+|4|192.241.238.167|31028|United States|San Francisco|DigitalOcean, LLC|
+|5|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|6|178.234.31.40|3128|Russia|Lipetsk|Address point-to-point Lipetsk Regional Public Network BBN-3/1/1 General|
+|7|213.171.44.134|3128|Russia|Moscow|JSC Comcor|
+|8|20.44.206.138|80|Singapore|Singapore|Microsoft Corporation|
+|9|5.75.166.141|80|Germany|Nuremberg|Hetzner Online GmbH|
+|10|14.231.161.89|8080|Vietnam|Hanoi|VNPT|
+|11|110.77.149.141|3128|Thailand|Mueang Samut Prakan|CAT-BB|
+|12|101.109.102.175|8080|Thailand|Si Maha Phot|TOT Public Company Limited|
+|13|79.99.110.254|18080|Russia|St Petersburg|SEVEREN|
+|14|151.234.158.42|8080|Iran|Shiraz|Iran Telecommunication Company PJS|
+|15|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
+|16|203.150.113.48|8080|Thailand|Vadhana|Internet Thailand Company Ltd.|
+|17|112.217.162.5|3128|South Korea|Gyeyang-gu|LG DACOM Corporation|
+|18|103.83.178.46|8181|Indonesia|Tangerang|PT SOLUSI TRIMEGAH PERSADA|
+|19|103.178.88.138|8080|Indonesia|Keputih|PT INTER MEDIALINK SOLUSI|
+|20|62.171.161.88|2018|Germany|Nuremberg|Contabo GmbH|
 
 
 
