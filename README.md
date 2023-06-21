@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **9301** proxies at the latest update. Usable proxies are below.
+> Scraper found **9225** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|414|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|414|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|414|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|403|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|403|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|403|
 
 ## Sources
 
@@ -37,7 +37,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|1|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1151|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1075|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|997|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|6169|✅|
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|67.205.179.93|31028|United States|North Bergen|DigitalOcean, LLC|
-|2|161.35.57.8|101|United States|North Bergen|DigitalOcean, LLC|
-|3|147.75.92.248|80|Japan|Yono|Packet Host, Inc.|
-|4|194.163.132.232|3128|Germany|Düsseldorf|Contabo GmbH|
-|5|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|6|119.8.10.18|7890|Mexico|Mexico City|Huawei International Pte. LTD|
-|7|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|8|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|9|124.198.90.115|12652|South Korea|Gwangmyeong|Korea Telecom|
-|10|103.154.91.108|3127|Indonesia|Jakarta|MORATELINDONAP|
-|11|45.166.16.228|8080|Venezuela|San Antonio de Los Altos|Servicios Catelca C.A|
-|12|5.161.207.168|3128|United States|Ashburn|Hetzner Online GmbH|
-|13|66.85.129.220|8080|United States|Phoenix|Secured Servers LLC|
-|14|66.135.14.166|443|United States|Piscataway|The Constant Company, LLC|
-|15|147.75.92.248|80|Japan|Yono|Packet Host, Inc.|
-|16|8.209.114.72|3129|Germany|Frankfurt am Main|Alibaba.com Singapore E-Commerce Private Limited|
-|17|66.135.14.166|443|United States|Piscataway|The Constant Company, LLC|
-|18|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|19|8.242.189.117|999|Colombia|Popayán|Dobleclick Software E Ingenieria SAS|
-|20|187.250.157.229|3128|Mexico|Tijuana|Uninet S.A. de C.V.|
+|1|5.161.218.180|3128|United States|Ashburn|Hetzner Online GmbH|
+|2|66.135.14.166|443|United States|Piscataway|The Constant Company, LLC|
+|3|5.161.218.180|3128|United States|Ashburn|Hetzner Online GmbH|
+|4|66.135.14.166|443|United States|Piscataway|The Constant Company, LLC|
+|5|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
+|6|158.51.107.253|8080|United States|Fredericksburg|4 ip Technology and Media, LLC|
+|7|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|8|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
+|9|112.217.162.5|3128|South Korea|Gyeyang-gu|LG DACOM Corporation|
+|10|179.49.237.6|999|Chile|Santiago|Sitelco SPA|
+|11|190.61.84.166|9812|Costa Rica|San José|Ufinet Costa Rica|
+|12|51.38.94.175|1212|United Kingdom|London|OVH SAS|
+|13|187.103.73.165|5566|Brazil|Recife|1telecom Servicos De Tecnologia EM Internet Ltda|
+|14|160.119.154.66|8080|South Africa|Middelburg|Bioniq (Pty) Ltd|
+|15|66.85.129.220|8080|United States|Phoenix|Secured Servers LLC|
+|16|8.243.97.118|999|Peru|Huari|Level 3 Communications, Inc.|
+|17|8.209.114.72|3129|Germany|Frankfurt am Main|Alibaba.com Singapore E-Commerce Private Limited|
+|18|175.29.169.45|8080|Bangladesh|Pabna|Access Telecom (BD) Ltd|
+|19|139.144.24.46|8080|United States|Atlanta|Akamai Technologies, Inc.|
+|20|185.162.238.131|8080|Greece|Thessaloniki|POINTER-VPS|
 
 
 
