@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **9196** proxies at the latest update. Usable proxies are below.
+> Scraper found **9132** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|393|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|393|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|393|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|386|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|386|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|386|
 
 ## Sources
 
@@ -36,8 +36,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|79|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1135|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|105|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1045|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|788|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|6211|✅|
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|3.8.40.219|3128|United Kingdom|London|Amazon Technologies Inc.|
-|2|3.120.129.131|3128|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|3|136.243.55.199|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|4|157.245.27.9|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|5|18.143.215.49|80|Singapore|Singapore|Amazon Technologies Inc.|
-|6|128.199.233.192|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|1|67.205.179.93|31028|United States|North Bergen|DigitalOcean, LLC|
+|2|18.184.175.51|3128|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|3|66.135.14.166|443|United States|Piscataway|The Constant Company, LLC|
+|4|67.205.179.93|31028|United States|North Bergen|DigitalOcean, LLC|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|18.143.215.49|80|Singapore|Singapore|Amazon Technologies Inc.|
+|7|157.245.27.9|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |8|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
-|9|67.205.179.93|31028|United States|North Bergen|DigitalOcean, LLC|
-|10|66.135.14.166|443|United States|Piscataway|The Constant Company, LLC|
-|11|67.205.179.93|31028|United States|North Bergen|DigitalOcean, LLC|
-|12|45.124.184.13|80|India|Hyderabad|National Informatics Centre Services Incorporated|
-|13|134.35.78.207|8080|Yemen|Dhale|Public Telecommunication Corporation|
-|14|5.161.207.168|3128|United States|Ashburn|Hetzner Online GmbH|
-|15|161.35.57.8|101|United States|North Bergen|DigitalOcean, LLC|
-|16|107.148.94.92|80|United States|Los Angeles|PEG TECH INC|
-|17|136.243.55.199|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|18|154.53.42.181|3128|United States|St Louis|Nubes, LLC|
-|19|20.219.183.188|3129|India|Pune|Microsoft Corporation|
-|20|167.71.225.180|3128|India|Bengaluru|DigitalOcean, LLC|
+|9|191.102.254.26|8085|Argentina|Rosario|IP·RED|
+|10|113.176.118.255|7654|Vietnam|Hoi An|VNPT|
+|11|46.16.201.51|3129|Switzerland|Bern|Hosteur SA|
+|12|128.199.233.192|3128|Singapore|Singapore|DigitalOcean, LLC|
+|13|115.144.102.39|10080|South Korea|Mapo-gu|Korea Telecom|
+|14|107.148.94.92|80|United States|Los Angeles|PEG TECH INC|
+|15|163.172.31.44|80|France|Paris|Online S.A.S.|
+|16|135.181.25.11|8080|Finland|Helsinki|Hetzner Online GmbH|
+|17|20.44.206.138|80|Singapore|Singapore|Microsoft Corporation|
+|18|84.254.0.86|32650|Greece|Athens|Tellas S.A|
+|19|99.20.24.9|8888|United States|Miami Beach|AT&T Services, Inc.|
+|20|20.219.178.121|3129|India|Pune|Microsoft Corporation|
 
 
 
