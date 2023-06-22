@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|460|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|460|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|460|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|371|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|371|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|371|
 
 ## Sources
 
@@ -37,9 +37,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|997|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1016|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|910|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|891|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|6320|✅|
 
 
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|67.205.179.93|31028|United States|North Bergen|DigitalOcean, LLC|
-|2|54.189.90.12|3128|United States|Portland|Amazon.com, Inc.|
-|3|3.122.116.121|3128|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|1|54.189.90.12|3128|United States|Portland|Amazon.com, Inc.|
+|2|3.122.116.121|3128|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|3|5.154.147.96|8089|Germany|Frankfurt am Main|CTE|
 |4|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
-|5|157.245.27.9|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|6|66.70.178.214|9300|Canada|Beauharnois|OVH SAS|
-|7|213.171.44.134|3128|Russia|Moscow|JSC Comcor|
-|8|88.99.21.162|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|9|54.189.90.12|3128|United States|Portland|Amazon.com, Inc.|
-|10|173.176.14.246|3128|Canada|Vaudreuil-Dorion|Le Groupe Videotron Ltee|
-|11|124.122.11.76|8080|Thailand|Lat Bua Luang|True Internet Co., Ltd.|
-|12|112.217.162.5|3128|South Korea|Gyeyang-gu|LG DACOM Corporation|
-|13|138.201.113.2|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|14|47.90.162.160|8080|United States|Charlottesville|Alibaba.com LLC|
-|15|192.99.144.208|8080|Canada|Beauharnois|OVH SAS|
-|16|179.48.191.2|8088|Brazil|Goiânia|Libre Telecom Eireli|
-|17|38.242.201.48|80|Germany|Düsseldorf|Contabo GmbH|
-|18|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
-|19|103.184.56.133|8080|Indonesia|Sukapura|PT Gading Bhakti Utama|
-|20|159.255.188.134|41258|Poland|Warsaw|TOM-NET s.c. Dariusz Koper|
+|5|51.79.50.22|9300|Canada|Beauharnois|OVH SAS|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|41.60.235.124|8080|Kenya|Nairobi|Maintainer Liquid Telecommunications Operations Limited|
+|8|124.122.11.76|8080|Thailand|Lat Bua Luang|True Internet Co., Ltd.|
+|9|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
+|10|98.110.236.35|8080|United States|Melrose|Verizon Business|
+|11|179.48.191.2|8088|Brazil|Goiânia|Libre Telecom Eireli|
+|12|67.205.179.93|31028|United States|North Bergen|DigitalOcean, LLC|
+|13|185.161.70.117|20000|United States|Los Angeles|DediPath|
+|14|66.135.14.166|443|United States|Piscataway|The Constant Company, LLC|
+|15|103.166.29.119|32650|Indonesia|Bojonegoro|PT Global Media Data Prima|
+|16|66.135.14.166|443|United States|Piscataway|The Constant Company, LLC|
+|17|54.189.90.12|3128|United States|Portland|Amazon.com, Inc.|
+|18|27.77.144.94|10002|Vietnam|Ho Chi Minh City|Newass2011xDSLHCMC|
+|19|158.69.72.138|9300|Canada|Montreal|OVH SAS|
+|20|188.43.247.36|3128|Russia|Vladivostok|Joint Stock Company TransTeleCom|
 
 
 
