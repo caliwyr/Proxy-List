@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **9677** proxies at the latest update. Usable proxies are below.
+> Scraper found **9675** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|450|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|450|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|450|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|435|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|435|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|435|
 
 ## Sources
 
@@ -36,8 +36,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|9|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1142|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|10|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1139|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|959|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|6484|✅|
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|212.119.44.228|8085|United States|Flushing|PureVoltage Hosting Inc.|
-|2|212.119.44.135|8085|United States|Flushing|PureVoltage Hosting Inc.|
-|3|212.119.44.176|8085|United States|Flushing|PureVoltage Hosting Inc.|
+|1|45.148.233.225|8085|Netherlands|Amsterdam|PureVoltage Hosting Inc.|
+|2|13.40.139.238|3128|United Kingdom|London|Amazon Technologies Inc.|
+|3|212.119.44.135|8085|United States|Flushing|PureVoltage Hosting Inc.|
 |4|212.119.44.20|8085|United States|Flushing|PureVoltage Hosting Inc.|
-|5|212.119.44.185|8085|United States|Flushing|PureVoltage Hosting Inc.|
-|6|212.119.44.190|8085|United States|Flushing|PureVoltage Hosting Inc.|
-|7|212.119.44.164|8085|United States|Flushing|PureVoltage Hosting Inc.|
-|8|212.119.44.248|8085|United States|Flushing|PureVoltage Hosting Inc.|
-|9|213.171.44.134|3128|Russia|Moscow|JSC Comcor|
-|10|45.148.233.234|8085|Netherlands|Amsterdam|PureVoltage Hosting Inc.|
-|11|212.119.44.175|8085|United States|Flushing|PureVoltage Hosting Inc.|
-|12|45.148.233.162|8085|Netherlands|Amsterdam|PureVoltage Hosting Inc.|
-|13|140.238.245.116|8100|India|Mumbai|Oracle Corporation|
-|14|212.119.44.96|8085|United States|Flushing|PureVoltage Hosting Inc.|
-|15|212.119.44.127|8085|United States|Flushing|PureVoltage Hosting Inc.|
-|16|103.171.183.201|8181|Indonesia|Bendungan Hilir|PT Hayat Teknologi Informatika|
-|17|212.119.44.21|8085|United States|Flushing|PureVoltage Hosting Inc.|
-|18|66.135.14.166|443|United States|Piscataway|The Constant Company, LLC|
-|19|160.119.148.190|8080|Uganda|Kampala|Blue Crane Communications (U) Ltd|
-|20|139.144.24.46|8080|United States|Atlanta|Akamai Technologies, Inc.|
+|5|212.119.44.77|8085|United States|Flushing|PureVoltage Hosting Inc.|
+|6|212.119.44.150|8085|United States|Flushing|PureVoltage Hosting Inc.|
+|7|212.119.44.96|8085|United States|Flushing|PureVoltage Hosting Inc.|
+|8|212.119.44.42|8085|United States|Flushing|PureVoltage Hosting Inc.|
+|9|140.238.245.116|8100|India|Mumbai|Oracle Corporation|
+|10|212.119.44.117|8085|United States|Flushing|PureVoltage Hosting Inc.|
+|11|212.119.44.88|8085|United States|Flushing|PureVoltage Hosting Inc.|
+|12|212.119.44.44|8085|United States|Flushing|PureVoltage Hosting Inc.|
+|13|64.225.8.191|9972|United States|Clifton|DigitalOcean, LLC|
+|14|139.144.24.46|8080|United States|Atlanta|Akamai Technologies, Inc.|
+|15|46.249.102.128|3128|Germany|Frankfurt am Main|BitCommand LLC|
+|16|34.87.55.162|8080|Singapore|Singapore|Google LLC|
+|17|104.248.235.205|3128|United States|North Bergen|DigitalOcean, LLC|
+|18|116.236.68.169|10005|China|Shanghai|China Telecom (Group)|
+|19|179.48.15.160|80|Brazil|Recife|Connect Fibra Servicos De Telecomunicacao Ltda|
+|20|67.205.162.65|3128|United States|North Bergen|DigitalOcean, LLC|
 
 
 
