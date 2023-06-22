@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **9079** proxies at the latest update. Usable proxies are below.
+> Scraper found **9065** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|330|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|330|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|330|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|379|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|379|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|379|
 
 ## Sources
 
@@ -37,7 +37,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|940|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|926|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|846|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|6210|✅|
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|213.171.44.134|3128|Russia|Moscow|JSC Comcor|
-|3|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
-|4|173.176.14.246|3128|Canada|Vaudreuil-Dorion|Le Groupe Videotron Ltee|
-|5|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|6|5.161.105.227|3128|United States|Ashburn|Hetzner Online GmbH|
-|7|139.144.24.46|8080|United States|Atlanta|Akamai Technologies, Inc.|
-|8|66.85.128.252|8080|United States|Phoenix|Secured Servers LLC|
-|9|137.184.142.151|3128|United States|North Bergen|DigitalOcean, LLC|
+|1|5.154.147.96|8089|Germany|Frankfurt am Main|CTE|
+|2|194.163.132.232|3128|Germany|Düsseldorf|Contabo GmbH|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|8.209.114.72|3129|Germany|Frankfurt am Main|Alibaba.com Singapore E-Commerce Private Limited|
+|5|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
+|6|183.82.100.253|3128|India|Hyderabad|Beam Telecom Pvt Ltd|
+|7|5.161.105.227|3128|United States|Ashburn|Hetzner Online GmbH|
+|8|61.216.185.88|60808|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|9|103.152.118.153|8080|Indonesia|Kuningan Barat|PT Herza Digital Indonesia|
 |10|139.144.24.46|8080|United States|Atlanta|Akamai Technologies, Inc.|
-|11|167.235.154.74|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|12|115.144.221.125|10761|South Korea|Nowon-gu|HAIonNet|
-|13|14.161.31.192|53281|Vietnam|Ho Chi Minh City|VNPT|
-|14|66.206.32.162|3128|United States|Latham|Turnkey Internet Inc.|
-|15|5.161.105.227|3128|United States|Ashburn|Hetzner Online GmbH|
-|16|117.71.154.34|8089|China|Rongcheng|Chinanet|
-|17|117.71.149.16|8089|China|Rongcheng|Chinanet|
-|18|115.144.123.219|10297|South Korea|Mapo-gu|HAIonNet|
-|19|114.102.44.77|8089|China|Hefei|Chinanet|
-|20|103.3.246.215|3128|Vietnam|Tinh Binh Duong|VDATA|
+|11|46.16.201.51|3129|Switzerland|Bern|Hosteur SA|
+|12|167.235.154.74|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|13|41.76.145.18|8080|Mozambique|Maputo|VM  S.A|
+|14|167.71.225.180|3128|India|Bengaluru|DigitalOcean, LLC|
+|15|89.144.19.149|7771|Germany|Bad Soden am Taunus|GHOSTnet GmbH|
+|16|157.230.85.206|3128|United States|North Bergen|DigitalOcean, LLC|
+|17|116.198.48.6|8080|China|Haidian|Beijing Jingdong 360 Degree E-commerce Co., Ltd.|
+|18|161.117.177.202|3128|Singapore|Singapore|Alibaba (US) Technology Co.|
+|19|183.221.242.103|9443|China|Mianyang|China Mobile|
+|20|123.182.59.105|8089|China|Zhangjiakou|Chinanet|
 
 
 
