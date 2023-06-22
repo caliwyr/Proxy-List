@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **9190** proxies at the latest update. Usable proxies are below.
+> Scraper found **9137** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -37,7 +37,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1089|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1036|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|908|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|6210|✅|
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|157.245.27.9|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|2|3.8.176.170|3128|United Kingdom|London|Amazon Technologies Inc.|
-|3|52.213.134.56|3128|Ireland|Dublin|Amazon.com, Inc.|
-|4|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|5|107.148.94.92|80|United States|Los Angeles|PEG TECH INC|
-|6|66.135.14.166|443|United States|Piscataway|The Constant Company, LLC|
-|7|8.209.114.72|3129|Germany|Frankfurt am Main|Alibaba.com Singapore E-Commerce Private Limited|
-|8|165.232.169.44|8080|Singapore|Singapore|DigitalOcean, LLC|
-|9|142.132.186.193|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|10|194.163.132.232|3128|Germany|Düsseldorf|Contabo GmbH|
-|11|18.143.215.49|80|Singapore|Singapore|Amazon Technologies Inc.|
-|12|122.248.226.169|3128|Singapore|Singapore|AMAZON-EC2|
-|13|20.222.85.98|3128|Japan|Tokyo|Microsoft Corporation|
-|14|112.217.162.5|3128|South Korea|Gyeyang-gu|LG DACOM Corporation|
-|15|115.144.99.223|11119|South Korea|Mapo-gu|HAIonNet|
-|16|93.123.12.118|3128|Bulgaria|Sofia|Neterra Ltd.|
-|17|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|18|147.50.253.79|8080|Thailand|Huai Khwang|DC-CLOUDFOREST3|
-|19|34.143.228.238|8080|Singapore|Singapore|Google LLC|
-|20|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
+|1|3.8.176.170|3128|United Kingdom|London|Amazon Technologies Inc.|
+|2|66.135.14.166|443|United States|Piscataway|The Constant Company, LLC|
+|3|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|4|18.116.27.91|443|United States|Dublin|Amazon.com, Inc.|
+|5|8.209.114.72|3129|Germany|Frankfurt am Main|Alibaba.com Singapore E-Commerce Private Limited|
+|6|194.163.132.232|3128|Germany|Düsseldorf|Contabo GmbH|
+|7|142.132.186.193|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|8|122.248.226.169|3128|Singapore|Singapore|AMAZON-EC2|
+|9|165.232.169.44|8080|Singapore|Singapore|DigitalOcean, LLC|
+|10|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
+|11|45.181.122.74|999|Chile|Santiago|Interpit Telecomunicaciones Ltda|
+|12|18.116.27.91|443|United States|Dublin|Amazon.com, Inc.|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|14|64.225.4.63|9992|United States|Clifton|DigitalOcean, LLC|
+|15|103.134.44.176|8080|India|Haridwar|Countrylink Communiction Pvt Ltd|
+|16|112.217.162.5|3128|South Korea|Gyeyang-gu|LG DACOM Corporation|
+|17|64.225.4.63|9992|United States|Clifton|DigitalOcean, LLC|
+|18|159.255.188.134|41258|Poland|Warsaw|TOM-NET s.c. Dariusz Koper|
+|19|159.255.188.134|41258|Poland|Warsaw|TOM-NET s.c. Dariusz Koper|
+|20|157.230.85.206|3128|United States|North Bergen|DigitalOcean, LLC|
 
 
 
