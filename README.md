@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **8450** proxies at the latest update. Usable proxies are below.
+> Scraper found **8430** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|296|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|296|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|296|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|318|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|318|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|318|
 
 ## Sources
 
@@ -37,7 +37,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|982|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|962|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|759|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5726|✅|
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|13.52.99.149|3128|United States|San Jose|Amazon.com, Inc.|
-|2|18.222.29.247|3128|United States|Dublin|Amazon.com, Inc.|
-|3|172.105.128.71|56444|United States|Cedar Knolls|Akamai Technologies|
-|4|165.232.169.44|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|3.8.156.37|3128|United Kingdom|London|Amazon Technologies Inc.|
-|6|194.163.132.232|3128|Germany|Düsseldorf|Contabo GmbH|
-|7|157.230.34.219|3128|Singapore|Singapore|DigitalOcean, LLC|
-|8|173.176.14.246|3128|Canada|Vaudreuil-Dorion|Le Groupe Videotron Ltee|
-|9|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
-|10|183.82.100.253|3128|India|Hyderabad|Beam Telecom Pvt Ltd|
-|11|20.219.111.119|8080|India|Chennai|Microsoft Corporation|
-|12|158.69.71.245|9300|Canada|Montreal|OVH SAS|
-|13|103.134.44.176|8080|India|Haridwar|Countrylink Communiction Pvt Ltd|
-|14|112.217.162.5|3128|South Korea|Gyeyang-gu|LG DACOM Corporation|
-|15|13.52.99.149|3128|United States|San Jose|Amazon.com, Inc.|
-|16|36.66.171.215|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|17|18.222.29.247|3128|United States|Dublin|Amazon.com, Inc.|
-|18|172.105.128.71|56444|United States|Cedar Knolls|Akamai Technologies|
-|19|157.230.9.233|3128|United States|North Bergen|DigitalOcean, LLC|
-|20|157.230.85.206|3128|United States|North Bergen|DigitalOcean, LLC|
+|1|194.163.132.232|3128|Germany|Düsseldorf|Contabo GmbH|
+|2|34.87.55.162|8080|Singapore|Singapore|Google LLC|
+|3|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
+|4|20.219.111.119|8080|India|Chennai|Microsoft Corporation|
+|5|82.165.184.53|80|Poland|Warsaw|IONOS SE|
+|6|197.232.48.155|32650|Kenya|Nairobi|Jamii Telecommunications Limited|
+|7|115.144.102.132|10041|South Korea|Mapo-gu|Korea Telecom|
+|8|167.71.212.86|5000|Singapore|Singapore|DigitalOcean, LLC|
+|9|173.176.14.246|3128|Canada|Vaudreuil-Dorion|Le Groupe Videotron Ltee|
+|10|157.230.9.233|3128|United States|North Bergen|DigitalOcean, LLC|
+|11|157.230.34.219|3128|Singapore|Singapore|DigitalOcean, LLC|
+|12|181.232.190.234|999|Dominican Republic|Santo Domingo Este|Airtime Technology SRL|
+|13|161.117.177.202|3128|Singapore|Singapore|Alibaba (US) Technology Co.|
+|14|167.71.225.180|3128|India|Bengaluru|DigitalOcean, LLC|
+|15|85.133.151.143|3128|Iran|Tehran|Stack Network Limited|
+|16|142.147.114.50|8080|United States|Weatherford|Nextlink Broadband|
+|17|116.198.48.6|8080|China|Haidian|Beijing Jingdong 360 Degree E-commerce Co., Ltd.|
+|18|85.204.27.141|3128|Poland|Warsaw|Marek Bajerski trading as HITME.PL|
+|19|131.153.48.254|8080|Singapore|Singapore|Secured Servers LLC|
+|20|41.76.145.18|443|Mozambique|Maputo|VM  S.A|
 
 
 
