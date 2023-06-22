@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **8497** proxies at the latest update. Usable proxies are below.
+> Scraper found **8459** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|278|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|278|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|278|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|306|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|306|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|306|
 
 ## Sources
 
@@ -37,7 +37,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|909|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|871|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|879|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5726|✅|
@@ -49,24 +49,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|66.135.14.166|443|United States|Piscataway|The Constant Company, LLC|
 |2|18.237.32.161|3128|United States|Portland|Amazon.com, Inc.|
-|3|3.8.4.125|3128|United Kingdom|London|Amazon Technologies Inc.|
-|4|35.178.203.138|3128|United Kingdom|London|Amazon Technologies Inc.|
-|5|18.237.32.161|3128|United States|Portland|Amazon.com, Inc.|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|176.95.54.202|83|Germany|Pohlheim|Vodafone GmbH|
-|8|20.44.206.138|80|Singapore|Singapore|Microsoft Corporation|
-|9|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|10|194.163.132.232|3128|Germany|Düsseldorf|Contabo GmbH|
-|11|41.76.145.136|8080|Mozambique|Maputo|VM  S.A|
-|12|41.76.145.18|443|Mozambique|Maputo|VM  S.A|
-|13|54.36.81.217|8080|United Kingdom|London|OVH SAS|
-|14|81.169.215.166|8080|Germany|Berlin|Strato AG|
-|15|18.143.215.49|80|Singapore|Singapore|Amazon Technologies Inc.|
-|16|105.235.222.2|8080|Mozambique|Maputo|Abari Communications Mozambique LDA|
-|17|109.200.155.195|8080|Ukraine|Simferopol|Crelcom LLC|
-|18|107.148.94.92|80|United States|Los Angeles|PEG TECH INC|
-|19|104.248.235.205|3128|United States|North Bergen|DigitalOcean, LLC|
-|20|154.53.42.181|3128|United States|St Louis|Nubes, LLC|
+|3|18.237.32.161|3128|United States|Portland|Amazon.com, Inc.|
+|4|3.8.4.125|3128|United Kingdom|London|Amazon Technologies Inc.|
+|5|35.178.203.138|3128|United Kingdom|London|Amazon Technologies Inc.|
+|6|8.209.114.72|3129|Germany|Frankfurt am Main|Alibaba.com Singapore E-Commerce Private Limited|
+|7|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|41.76.145.18|443|Mozambique|Maputo|VM  S.A|
+|10|41.76.145.136|443|Mozambique|Maputo|VM  S.A|
+|11|81.169.215.166|8080|Germany|Berlin|Strato AG|
+|12|203.112.223.126|8080|Bangladesh|Rajshahi|Bangladesh Telecommunications Company Ltd.|
+|13|137.184.96.206|3128|United States|North Bergen|DigitalOcean, LLC|
+|14|103.1.50.243|3125|Indonesia|Pasuruan|CPCNet Hong Kong Ltd. - IP Administrator|
+|15|157.230.9.233|3128|United States|North Bergen|DigitalOcean, LLC|
+|16|194.163.132.232|3128|Germany|Düsseldorf|Contabo GmbH|
+|17|157.230.85.206|3128|United States|North Bergen|DigitalOcean, LLC|
+|18|64.225.8.115|9995|United States|Clifton|DigitalOcean, LLC|
+|19|167.235.154.74|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|20|64.225.4.63|9989|United States|Clifton|DigitalOcean, LLC|
 
 
 
