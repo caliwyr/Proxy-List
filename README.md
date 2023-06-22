@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **8616** proxies at the latest update. Usable proxies are below.
+> Scraper found **8563** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|264|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|264|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|264|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|262|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|262|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|262|
 
 ## Sources
 
@@ -37,7 +37,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|979|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|926|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|928|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5726|✅|
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|164.90.155.152|3128|United States|Santa Clara|DigitalOcean, LLC|
-|2|164.90.155.152|3128|United States|Santa Clara|DigitalOcean, LLC|
-|3|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|4|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|5|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|6|50.225.202.9|3128|United States|Brooklyn Park|Comcast Cable Communications, LLC|
-|7|61.9.33.102|1337|Philippines|San Juan|Sky Cable Corporation|
-|8|137.184.96.206|3128|United States|North Bergen|DigitalOcean, LLC|
-|9|3.8.40.28|3128|United Kingdom|London|Amazon Technologies Inc.|
-|10|158.69.48.228|3128|Canada|Montreal|OVH SAS|
-|11|104.248.235.205|3128|United States|North Bergen|DigitalOcean, LLC|
-|12|20.120.240.49|80|United States|Quincy|Microsoft Corporation|
-|13|64.225.8.115|9998|United States|Clifton|DigitalOcean, LLC|
-|14|216.128.141.55|7777|United States|Dallas|The Constant Company|
-|15|157.230.85.206|3128|United States|North Bergen|DigitalOcean, LLC|
-|16|161.117.177.202|3128|Singapore|Singapore|Alibaba (US) Technology Co.|
-|17|96.95.164.43|3128|United States|Unionville|Comcast Cable Communications, LLC|
-|18|183.221.242.102|9443|China|Mianyang|China Mobile|
-|19|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|20|183.221.242.103|9443|China|Mianyang|China Mobile|
+|1|8.209.114.72|3129|Germany|Frankfurt am Main|Alibaba.com Singapore E-Commerce Private Limited|
+|2|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|3|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
+|4|103.146.196.96|32650|Indonesia|Banyuwangi|RIYADNETWORK|
+|5|107.148.94.92|80|United States|Los Angeles|PEG TECH INC|
+|6|94.232.11.178|46449|Russia|Moscow|PJSC MegaFon|
+|7|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|8|165.232.114.200|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|69.64.46.32|3128|United States|St Louis|GoDaddy.com, LLC|
+|10|50.225.202.9|3128|United States|Brooklyn Park|Comcast Cable Communications, LLC|
+|11|124.70.78.157|8000|China|Beijing|Huawei Cloud Service data center|
+|12|45.71.36.67|3128|Ecuador|Chimborazo|Nedetel S.A.|
+|13|183.221.242.103|9443|China|Mianyang|China Mobile|
+|14|123.126.158.184|80|China|Beijing|China Unicom Beijing Province Network|
+|15|138.201.113.2|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|16|20.120.240.49|80|United States|Quincy|Microsoft Corporation|
+|17|94.232.11.178|46449|Russia|Moscow|PJSC MegaFon|
+|18|183.221.242.104|8443|China|Mianyang|China Mobile|
+|19|159.203.19.198|443|Canada|Toronto|DigitalOcean, LLC|
+|20|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
 
 
 
