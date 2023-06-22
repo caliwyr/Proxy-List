@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **9550** proxies at the latest update. Usable proxies are below.
+> Scraper found **9599** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|414|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|414|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|414|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|450|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|450|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|450|
 
 ## Sources
 
@@ -36,8 +36,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|27|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1010|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|29|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1057|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|946|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|6484|✅|
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|212.119.44.88|8085|United States|Flushing|PureVoltage Hosting Inc.|
-|2|107.148.94.92|80|United States|Los Angeles|PEG TECH INC|
-|3|212.119.44.175|8085|United States|Flushing|PureVoltage Hosting Inc.|
-|4|212.119.44.65|8085|United States|Flushing|PureVoltage Hosting Inc.|
-|5|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
-|6|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
-|7|46.182.6.51|3129|France|Paris|Hosteur SAS|
-|8|81.12.44.197|3129|Iran|Tehran|RESPINA Networks|
-|9|46.16.201.51|3129|Switzerland|Bern|Hosteur SA|
-|10|212.119.44.253|8085|United States|Flushing|PureVoltage Hosting Inc.|
-|11|212.119.44.77|8085|United States|Flushing|PureVoltage Hosting Inc.|
-|12|129.151.160.199|80|South Africa|Johannesburg|Oracle Corporation|
-|13|107.148.94.92|80|United States|Los Angeles|PEG TECH INC|
-|14|185.245.182.5|80|Germany|Düsseldorf|Contabo GmbH|
-|15|66.135.14.166|443|United States|Piscataway|The Constant Company, LLC|
-|16|20.120.240.49|80|United States|Quincy|Microsoft Corporation|
-|17|139.144.24.46|8080|United States|Atlanta|Akamai Technologies, Inc.|
-|18|206.189.194.109|3128|United States|North Bergen|DigitalOcean, LLC|
-|19|116.198.48.6|8080|China|Haidian|Beijing Jingdong 360 Degree E-commerce Co., Ltd.|
-|20|103.3.246.215|3128|Vietnam|Tinh Binh Duong|VDATA|
+|1|212.119.44.140|8085|United States|Flushing|PureVoltage Hosting Inc.|
+|2|212.119.44.158|8085|United States|Flushing|PureVoltage Hosting Inc.|
+|3|212.119.44.88|8085|United States|Flushing|PureVoltage Hosting Inc.|
+|4|88.99.21.184|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|5|212.119.44.99|8085|United States|Flushing|PureVoltage Hosting Inc.|
+|6|212.119.44.207|8085|United States|Flushing|PureVoltage Hosting Inc.|
+|7|45.148.233.189|8085|Netherlands|Amsterdam|PureVoltage Hosting Inc.|
+|8|45.148.233.85|8085|Netherlands|Amsterdam|PureVoltage Hosting Inc.|
+|9|212.119.44.82|8085|United States|Flushing|PureVoltage Hosting Inc.|
+|10|212.119.44.117|8085|United States|Flushing|PureVoltage Hosting Inc.|
+|11|45.148.233.27|8085|Netherlands|Amsterdam|PureVoltage Hosting Inc.|
+|12|212.119.44.65|8085|United States|Flushing|PureVoltage Hosting Inc.|
+|13|103.155.199.54|8080|Indonesia|Sukabumi|PT Lintas Jaringan Nusantara|
+|14|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
+|15|212.119.44.15|8085|United States|Flushing|PureVoltage Hosting Inc.|
+|16|212.119.44.66|8085|United States|Flushing|PureVoltage Hosting Inc.|
+|17|27.79.53.154|10013|Vietnam|Tan Tien|Viettel Corporation|
+|18|185.245.182.5|80|Germany|Düsseldorf|Contabo GmbH|
+|19|2.179.193.146|80|Iran|Juybar|Iran Telecommunication Company PJS|
+|20|66.85.129.220|8080|United States|Phoenix|Secured Servers LLC|
 
 
 
