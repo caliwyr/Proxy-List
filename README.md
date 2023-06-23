@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **9323** proxies at the latest update. Usable proxies are below.
+> Scraper found **9367** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|457|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|457|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|457|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|553|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|553|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|553|
 
 ## Sources
 
@@ -37,9 +37,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|1|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1157|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1141|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|960|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1020|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|6122|✅|
 
 
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|158.69.53.98|9300|Canada|Montreal|OVH SAS|
-|2|136.243.55.199|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|3|34.195.246.170|3128|United States|Ashburn|Amazon.com, Inc.|
-|4|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|5|45.148.233.21|8085|Netherlands|Amsterdam|PureVoltage Hosting Inc.|
-|6|45.148.233.88|8085|Netherlands|Amsterdam|PureVoltage Hosting Inc.|
-|7|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|8|45.148.233.75|8085|Netherlands|Amsterdam|PureVoltage Hosting Inc.|
-|9|202.40.177.69|80|Bangladesh|Azimpur|Ranks ITT|
-|10|45.148.233.92|8085|Netherlands|Amsterdam|PureVoltage Hosting Inc.|
-|11|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
-|12|101.109.186.30|8080|Thailand|Mueang Samut Prakan|TOT Public Company Limited|
-|13|45.148.233.50|8085|Netherlands|Amsterdam|PureVoltage Hosting Inc.|
-|14|140.238.245.116|8100|India|Mumbai|Oracle Corporation|
-|15|203.109.19.137|12241|South Korea|Mapo-gu|HAIonNet|
-|16|103.36.11.21|8080|Indonesia|Lebak|PT Awinet Global Mandiri|
-|17|103.134.44.176|8080|India|Haridwar|Countrylink Communiction Pvt Ltd|
-|18|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|19|45.6.102.10|8080|Brazil|Nova Iguaçu|Golden Link|
-|20|140.99.21.207|3128|United States|Brooklyn|EpicUp Holdings Inc|
+|1|64.251.22.20|80|United States|Miami|Infolink Global Corporation|
+|2|43.153.117.113|8800|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|3|212.119.44.74|8085|United States|Flushing|PureVoltage Hosting Inc.|
+|4|13.208.101.184|3128|Japan|Osaka|Amazon Technologies Inc.|
+|5|212.119.44.140|8085|United States|Flushing|PureVoltage Hosting Inc.|
+|6|212.119.44.96|8085|United States|Flushing|PureVoltage Hosting Inc.|
+|7|18.191.207.3|3128|United States|Dublin|Amazon.com, Inc.|
+|8|212.119.44.99|8085|United States|Flushing|PureVoltage Hosting Inc.|
+|9|43.153.117.113|8800|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|10|3.8.120.40|3128|United Kingdom|London|Amazon Technologies Inc.|
+|11|3.8.209.75|3128|United Kingdom|London|Amazon Technologies Inc.|
+|12|45.148.233.109|8085|Netherlands|Amsterdam|PureVoltage Hosting Inc.|
+|13|18.191.207.3|3128|United States|Dublin|Amazon.com, Inc.|
+|14|66.135.14.166|443|United States|Piscataway|The Constant Company, LLC|
+|15|66.135.14.166|443|United States|Piscataway|The Constant Company, LLC|
+|16|64.251.22.20|80|United States|Miami|Infolink Global Corporation|
+|17|45.148.233.117|8085|Netherlands|Amsterdam|PureVoltage Hosting Inc.|
+|18|45.148.233.40|8085|Netherlands|Amsterdam|PureVoltage Hosting Inc.|
+|19|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
+|20|45.148.233.39|8085|Netherlands|Amsterdam|PureVoltage Hosting Inc.|
 
 
 
