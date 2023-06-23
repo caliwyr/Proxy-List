@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **9352** proxies at the latest update. Usable proxies are below.
+> Scraper found **9379** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -36,8 +36,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|82|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1010|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|103|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1016|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1097|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|6080|✅|
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|2|8.209.114.72|3129|Germany|Frankfurt am Main|Alibaba.com Singapore E-Commerce Private Limited|
-|3|45.174.79.193|999|Mexico|Ciudad Delicias|Raul Duarte Urita|
+|1|18.116.27.91|443|United States|Dublin|Amazon.com, Inc.|
+|2|165.232.169.44|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
 |4|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
 |5|116.105.188.155|10000|Vietnam|Hanoi|Viettel Corporation|
-|6|103.95.40.219|8080|Indonesia|Pondok Bambu|X-NODE|
-|7|2.187.225.17|8080|Iran|Tehran|Iran Telecommunication Company PJS|
-|8|179.0.98.34|999|Peru|Lima|Laninversat E.I.R.L.|
-|9|64.225.4.63|9972|United States|Clifton|DigitalOcean, LLC|
-|10|200.97.153.246|8080|Brazil|Maceió|V tal|
-|11|139.144.24.46|8080|United States|Atlanta|Akamai Technologies, Inc.|
-|12|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
-|13|139.144.24.46|8080|United States|Atlanta|Akamai Technologies, Inc.|
-|14|103.167.170.46|8080|Indonesia|Tangerang|PT Rajeg Media Telekomunikasi|
-|15|104.248.235.205|3128|United States|North Bergen|DigitalOcean, LLC|
-|16|41.76.145.18|3128|Mozambique|Maputo|VM  S.A|
-|17|45.71.36.67|3128|Ecuador|Chimborazo|Nedetel S.A.|
-|18|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
-|19|116.236.68.169|10005|China|Shanghai|China Telecom (Group)|
-|20|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|200.105.215.22|33630|Bolivia|La Paz|AXS Bolivia S. A.|
+|8|8.209.114.72|3129|Germany|Frankfurt am Main|Alibaba.com Singapore E-Commerce Private Limited|
+|9|187.188.17.138|1994|Mexico|Querétaro City|Total Play Telecomunicaciones SA De CV|
+|10|190.115.15.21|999|Guatemala|Guatemala City|Ufinet Panama S.A.|
+|11|222.165.205.154|8089|Indonesia|Jakarta|PT NettoCyber Indonesia|
+|12|139.144.24.46|8080|United States|Atlanta|Akamai Technologies, Inc.|
+|13|102.38.8.233|8080|Libya|Tripoli|Giga for Telecommunication and Technology Limited|
+|14|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
+|15|45.174.78.1|999|Mexico|Ciudad Juárez|Raul Duarte Urita|
+|16|103.168.44.167|9191|Indonesia|Tangerang|PT CYB Media Group|
+|17|190.242.125.186|8080|Colombia|Santiago de Cali|Columbus Networks Colombia|
+|18|190.90.102.39|8080|Colombia|Santiago de Cali|Internexa S.a. E.S.P|
+|19|45.71.36.67|3128|Ecuador|Chimborazo|Nedetel S.A.|
+|20|66.206.32.162|3128|United States|Latham|Turnkey Internet Inc.|
 
 
 
