@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **9438** proxies at the latest update. Usable proxies are below.
+> Scraper found **9289** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|433|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|433|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|433|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|483|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|483|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|483|
 
 ## Sources
 
@@ -36,8 +36,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|123|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1096|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1070|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1056|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|6080|✅|
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|107.148.94.92|80|United States|Los Angeles|PEG TECH INC|
+|1|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
 |2|18.116.27.91|443|United States|Dublin|Amazon.com, Inc.|
-|3|107.148.94.92|80|United States|Los Angeles|PEG TECH INC|
-|4|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
-|5|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|6|124.122.11.76|8080|Thailand|Lat Bua Luang|True Internet Co., Ltd.|
-|7|43.153.117.113|8800|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|8|34.101.184.54|3128|Indonesia|Jakarta|Google LLC|
-|9|200.124.72.241|999|Mexico|Hermosillo|Konecta de Mexico, S. de R.L. de C.V.|
-|10|50.231.0.43|4481|United States|Needham|Comcast Cable Communications, LLC|
-|11|103.169.254.185|8068|Indonesia|Banyuwangi|PT Master Star Network|
-|12|103.147.246.210|8080|Indonesia|Tangerang|PLBNET|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|14|116.105.188.155|10000|Vietnam|Hanoi|Viettel Corporation|
-|15|103.36.10.241|3158|Indonesia|Pasuruan|PT Awinet Global Mandiri|
-|16|139.144.24.46|8080|United States|Atlanta|Akamai Technologies, Inc.|
-|17|67.205.162.65|3128|United States|North Bergen|DigitalOcean, LLC|
-|18|139.144.24.46|8080|United States|Atlanta|Akamai Technologies, Inc.|
-|19|45.189.254.2|999|Mexico|Medellin de Bravo|Tracered SA De CV|
-|20|200.71.237.238|23500|Argentina|Marcelino Escalada|Telecom Argentina S.A.|
+|3|124.122.11.76|8080|Thailand|Lat Bua Luang|True Internet Co., Ltd.|
+|4|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|179.189.50.160|80|Brazil|Sinop|EVO Networks|
+|7|50.231.0.43|4481|United States|Needham|Comcast Cable Communications, LLC|
+|8|140.238.245.116|8100|India|Mumbai|Oracle Corporation|
+|9|18.116.27.91|443|United States|Dublin|Amazon.com, Inc.|
+|10|104.248.235.61|3128|United States|North Bergen|DigitalOcean, LLC|
+|11|8.209.114.72|3129|Germany|Frankfurt am Main|Alibaba.com Singapore E-Commerce Private Limited|
+|12|64.225.4.63|9977|United States|Clifton|DigitalOcean, LLC|
+|13|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
+|14|188.166.28.70|3310|Netherlands|Amsterdam|DigitalOcean, LLC|
+|15|165.232.169.44|8080|Singapore|Singapore|DigitalOcean, LLC|
+|16|107.148.94.92|80|United States|Los Angeles|PEG TECH INC|
+|17|161.117.177.202|3128|Singapore|Singapore|Alibaba (US) Technology Co.|
+|18|66.85.129.220|8080|United States|Phoenix|Secured Servers LLC|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|20|165.232.169.44|8080|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
