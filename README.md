@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **8909** proxies at the latest update. Usable proxies are below.
+> Scraper found **8832** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|348|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|348|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|348|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|283|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|283|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|283|
 
 ## Sources
 
@@ -37,9 +37,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|986|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1007|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|966|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|868|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5874|✅|
 
 
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.209.114.72|3129|Germany|Frankfurt am Main|Alibaba.com Singapore E-Commerce Private Limited|
-|2|207.180.193.106|9100|Germany|Nuremberg|Contabo GmbH|
-|3|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|4|165.232.169.44|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|46.97.223.23|8088|Romania|Voluntari|Vodafone RO|
-|7|185.15.172.212|3128|Russia|Moscow|SafeData LLC|
-|8|119.8.10.18|7890|Mexico|Mexico City|Huawei International Pte. LTD|
-|9|195.140.146.228|3128|Russia|Khimki|JSC IOT|
-|10|103.124.173.101|83|India|Panipat|Shirsty Internet Services Pvt Ltd|
-|11|147.50.205.2|8080|Thailand|Bangkok|Advanced Wireless Network Company Limited|
-|12|139.144.24.46|8080|United States|Atlanta|Akamai Technologies, Inc.|
-|13|178.62.254.6|3128|Netherlands|Amsterdam|DigitalOcean, LLC|
-|14|190.92.208.146|7890|Singapore|Singapore|Huawei International Pte. LTD|
-|15|82.165.184.53|80|Poland|Warsaw|IONOS SE|
-|16|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
-|17|178.79.131.111|3128|United Kingdom|London|Akamai Technologies, Inc.|
+|1|207.180.193.106|9100|Germany|Nuremberg|Contabo GmbH|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|165.232.169.44|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|5|44.56.0.1|8118|United States|Level Corner|University of California, San Diego|
+|6|179.48.191.2|8088|Brazil|Goiânia|Libre Telecom Eireli|
+|7|46.182.6.51|3129|France|Paris|Hosteur SAS|
+|8|185.15.172.212|3128|Russia|Moscow|SafeData LLC|
+|9|178.62.254.6|3128|Netherlands|Amsterdam|DigitalOcean, LLC|
+|10|139.144.24.46|8080|United States|Atlanta|Akamai Technologies, Inc.|
+|11|107.148.193.162|1080|United States|San Jose|PEG TECH INC|
+|12|20.120.240.49|80|United States|Quincy|Microsoft Corporation|
+|13|178.79.131.111|3128|United Kingdom|London|Akamai Technologies, Inc.|
+|14|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
+|15|50.225.202.9|3128|United States|Brooklyn Park|Comcast Cable Communications, LLC|
+|16|144.217.253.209|9300|Canada|Beauharnois|OVH SAS|
+|17|4.193.164.48|3128|Singapore|Singapore|Microsoft Corporation|
 |18|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
-|19|95.217.167.241|8080|Finland|Helsinki|Hetzner Online GmbH|
-|20|116.198.48.6|8080|China|Haidian|Beijing Jingdong 360 Degree E-commerce Co., Ltd.|
+|19|116.0.61.122|3128|Pakistan|Karachi|Telecard|
+|20|147.139.168.187|3128|Indonesia|Jakarta|Alibaba.com LLC|
 
 
 
