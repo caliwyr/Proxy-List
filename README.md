@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **10477** proxies at the latest update. Usable proxies are below.
+> Scraper found **10486** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -37,7 +37,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1416|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1425|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1389|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|6589|✅|
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|2|157.245.27.9|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|3|64.225.8.191|9992|United States|Clifton|DigitalOcean, LLC|
-|4|115.144.9.246|11066|South Korea|Jecheon|Korea Telecom|
-|5|115.144.101.201|10001|South Korea|Mapo-gu|Korea Telecom|
-|6|181.129.183.19|53281|Colombia|Bucaramanga|EPM Telecomunicaciones S.A. E.S.P.|
-|7|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|8|66.70.178.214|9300|Canada|Beauharnois|OVH SAS|
-|9|191.243.46.30|43241|Brazil|Nova Crixas|Microturbo Telecomunicacoes Ltda-me|
-|10|102.22.205.193|12354|South Africa|Johannesburg|Aerocom Broadband Services|
-|11|154.79.248.44|32650|Kenya|Nairobi|Airtel KE Mobile & Fixed Internet|
-|12|67.205.179.93|31028|United States|North Bergen|DigitalOcean, LLC|
-|13|176.9.238.155|16379|Germany|Falkenstein|Hetzner|
-|14|66.135.14.166|443|United States|Piscataway|The Constant Company, LLC|
-|15|45.224.20.69|999|Ecuador|Guayaquil|Nedetel S.A.|
-|16|119.8.120.4|80|Hong Kong|Hong Kong|Huawei International Pte. LTD|
-|17|223.112.48.133|3128|China|Suzhou|China Mobile communications corporation|
-|18|104.248.235.61|3128|United States|North Bergen|DigitalOcean, LLC|
-|19|190.142.231.96|999|Venezuela|Valencia|Corporación Telemic C.A.|
-|20|8.209.114.72|3129|Germany|Frankfurt am Main|Alibaba.com Singapore E-Commerce Private Limited|
+|1|64.225.8.191|9992|United States|Clifton|DigitalOcean, LLC|
+|2|188.40.15.9|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|3|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|4|67.205.179.93|31028|United States|North Bergen|DigitalOcean, LLC|
+|5|119.8.120.4|80|Hong Kong|Hong Kong|Huawei International Pte. LTD|
+|6|146.255.188.53|8888|Netherlands|Amsterdam|MIRholding B.V.|
+|7|64.62.200.198|3128|United States|Fremont|Hurricane Electric LLC|
+|8|64.62.200.198|3128|United States|Fremont|Hurricane Electric LLC|
+|9|200.25.254.193|54240|Colombia|Neiva|Andinet ON Line|
+|10|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
+|11|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|12|27.79.50.15|10008|Vietnam|Tan Tien|Viettel Corporation|
+|13|115.144.102.132|10041|South Korea|Mapo-gu|Korea Telecom|
+|14|177.131.121.34|3128|Brazil|Joaçaba|Acessoline Telecom|
+|15|200.105.215.22|33630|Bolivia|La Paz|AXS Bolivia S. A.|
+|16|46.219.80.142|57401|Ukraine|Kyiv|o3 core|
+|17|115.144.101.201|10001|South Korea|Mapo-gu|Korea Telecom|
+|18|115.144.16.101|10471|South Korea|Hwaseong-si|Korea Telecom|
+|19|37.120.192.154|8080|Netherlands|Amsterdam|M247 Europe SRL|
+|20|138.201.152.216|80|Germany|Falkenstein|Hetzner Online GmbH|
 
 
 
