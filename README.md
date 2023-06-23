@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **9339** proxies at the latest update. Usable proxies are below.
+> Scraper found **9335** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|479|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|479|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|479|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|393|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|393|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|393|
 
 ## Sources
 
@@ -37,9 +37,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1161|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1177|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|973|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|953|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|6122|✅|
 
 
@@ -48,25 +48,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|43.153.117.113|8800|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|2|20.120.240.49|80|United States|Quincy|Microsoft Corporation|
-|3|43.153.117.113|8800|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|2|45.148.233.69|8085|Netherlands|Amsterdam|PureVoltage Hosting Inc.|
+|3|20.120.240.49|80|United States|Quincy|Microsoft Corporation|
 |4|119.8.10.18|7890|Mexico|Mexico City|Huawei International Pte. LTD|
-|5|67.205.179.93|31028|United States|North Bergen|DigitalOcean, LLC|
-|6|212.119.44.26|8085|United States|Flushing|PureVoltage Hosting Inc.|
-|7|212.119.44.15|8085|United States|Flushing|PureVoltage Hosting Inc.|
-|8|212.119.44.20|8085|United States|Flushing|PureVoltage Hosting Inc.|
-|9|103.126.87.177|8080|Indonesia|Klaten|BINTANGPERKASAORION|
-|10|85.94.81.194|8080|Croatia|Zagreb|Terrakom d.o.o.|
-|11|114.7.27.98|8080|Indonesia|Baru Ilir|PT. INDOSAT Tbk|
+|5|140.238.245.116|8100|India|Mumbai|Oracle Corporation|
+|6|43.153.117.113|8800|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|7|45.148.233.88|8085|Netherlands|Amsterdam|PureVoltage Hosting Inc.|
+|8|103.126.87.177|8080|Indonesia|Klaten|BINTANGPERKASAORION|
+|9|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
+|10|200.105.215.22|33630|Bolivia|La Paz|AXS Bolivia S. A.|
+|11|212.119.44.66|8085|United States|Flushing|PureVoltage Hosting Inc.|
 |12|176.194.189.40|80|Russia|Belgorod|Net By Net Holding LLC|
-|13|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|14|37.53.103.4|3128|Ukraine|Kyiv|UKRTELECOM|
-|15|45.148.233.69|8085|Netherlands|Amsterdam|PureVoltage Hosting Inc.|
-|16|64.225.8.191|9972|United States|Clifton|DigitalOcean, LLC|
-|17|182.253.47.17|3126|Indonesia|Karet Tengsin|BIZNET|
-|18|202.154.18.85|8088|Indonesia|Lamongan|DIGITNET|
-|19|200.54.194.12|53281|Chile|Providencia|Telefonica Empresas|
-|20|66.135.14.166|443|United States|Piscataway|The Constant Company, LLC|
+|13|124.105.180.29|8082|Philippines|Caloocan City|Philippine Long Distance Telephone Co.|
+|14|20.120.240.49|80|United States|Quincy|Microsoft Corporation|
+|15|66.135.14.166|443|United States|Piscataway|The Constant Company, LLC|
+|16|66.135.14.166|443|United States|Piscataway|The Constant Company, LLC|
+|17|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|18|139.144.24.46|8080|United States|Atlanta|Akamai Technologies, Inc.|
+|19|20.120.240.49|80|United States|Quincy|Microsoft Corporation|
+|20|212.119.44.88|8085|United States|Flushing|PureVoltage Hosting Inc.|
 
 
 
