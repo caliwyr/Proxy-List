@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|431|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|431|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|431|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|383|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|383|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|383|
 
 ## Sources
 
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|1|8.209.114.72|3129|Germany|Frankfurt am Main|Alibaba.com Singapore E-Commerce Private Limited|
 |2|67.205.179.93|31028|United States|North Bergen|DigitalOcean, LLC|
-|3|35.240.219.50|8080|Singapore|Singapore|Google LLC|
-|4|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|5|171.101.130.5|8080|Thailand|Udon Thani|True Internet Corporation CO. Ltd.|
-|6|146.196.54.75|80|Hong Kong|Kwun Tong|Layerstack Limited|
-|7|109.70.189.70|56408|Russia|Novyy Khushet|ESD|
-|8|67.205.179.93|31028|United States|North Bergen|DigitalOcean, LLC|
-|9|66.70.178.214|9300|Canada|Beauharnois|OVH SAS|
+|3|171.101.130.5|8080|Thailand|Udon Thani|True Internet Corporation CO. Ltd.|
+|4|35.240.219.50|8080|Singapore|Singapore|Google LLC|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|158.69.73.79|9300|Canada|Montreal|OVH SAS|
+|7|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|8|200.105.215.22|33630|Bolivia|La Paz|AXS Bolivia S. A.|
+|9|171.244.65.14|4002|Vietnam|Hanoi|Viettel Corporation|
 |10|43.153.117.113|8800|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|11|139.144.24.46|8080|United States|Atlanta|Akamai Technologies, Inc.|
-|12|20.120.240.49|80|United States|Quincy|Microsoft Corporation|
-|13|190.26.201.194|8080|Colombia|Bogotá|ETB - Colombia|
-|14|216.128.141.55|7777|United States|Dallas|The Constant Company|
-|15|174.138.88.120|3128|United States|Clifton|DigitalOcean, LLC|
-|16|20.120.240.49|80|United States|Quincy|Microsoft Corporation|
-|17|20.44.206.138|80|Singapore|Singapore|Microsoft Corporation|
-|18|158.69.71.245|9300|Canada|Montreal|OVH SAS|
-|19|103.74.121.88|3128|Vietnam|Đống Đa District|Branch of BachKim Network solutions jsc|
-|20|108.61.191.222|1994|United States|Piscataway|The Constant Company|
+|11|20.120.240.49|80|United States|Quincy|Microsoft Corporation|
+|12|139.144.24.46|8080|United States|Atlanta|Akamai Technologies, Inc.|
+|13|116.236.68.169|10005|China|Shanghai|China Telecom (Group)|
+|14|108.61.191.222|1994|United States|Piscataway|The Constant Company|
+|15|116.198.48.6|8080|China|Haidian|Beijing Jingdong 360 Degree E-commerce Co., Ltd.|
+|16|20.44.206.138|80|Singapore|Singapore|Microsoft Corporation|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|18|66.85.128.252|8080|United States|Phoenix|Secured Servers LLC|
+|19|216.128.141.55|7777|United States|Dallas|The Constant Company|
+|20|103.74.121.88|3128|Vietnam|Đống Đa District|Branch of BachKim Network solutions jsc|
 
 
 
