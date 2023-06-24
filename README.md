@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **10011** proxies at the latest update. Usable proxies are below.
+> Scraper found **8803** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|523|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|523|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|523|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|397|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|397|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|397|
 
 ## Sources
 
@@ -37,7 +37,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1208|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|0|🚫|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1231|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|6489|✅|
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|5.161.207.168|3128|United States|Ashburn|Hetzner Online GmbH|
-|2|18.254.153.11|8080|United States|Ashburn|Amazon.com, Inc.|
-|3|192.111.150.7|8080|United States|Quinton|Centrilogic|
-|4|35.213.91.45|80|Japan|Tokyo|Google LLC|
-|5|5.161.207.168|3128|United States|Ashburn|Hetzner Online GmbH|
-|6|18.254.153.11|8080|United States|Ashburn|Amazon.com, Inc.|
-|7|67.205.179.93|31028|United States|North Bergen|DigitalOcean, LLC|
-|8|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
-|9|192.111.150.5|8080|United States|Quinton|Centrilogic|
-|10|66.70.178.214|9300|Canada|Beauharnois|OVH SAS|
-|11|117.3.246.39|11005|Vietnam|Hanoi|Viettel Corporation|
-|12|64.225.8.115|9993|United States|Clifton|DigitalOcean, LLC|
-|13|87.255.12.183|3129|Russia|Khimki|BIG TELECOM CLOSED JSC|
-|14|180.247.155.55|8080|Indonesia|Kutorejo|PT. TELKOM INDONESIA|
-|15|45.227.193.166|8080|Brazil|Chapecó|Mhnet Telecom|
-|16|80.234.121.45|8080|Russia|Samara|Rostelecom networks|
-|17|159.255.188.134|41258|Poland|Warsaw|TOM-NET s.c. Dariusz Koper|
-|18|159.255.188.134|41258|Poland|Warsaw|TOM-NET s.c. Dariusz Koper|
-|19|20.120.240.49|80|United States|Quincy|Microsoft Corporation|
-|20|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
+|1|18.254.153.11|8080|United States|Ashburn|Amazon.com, Inc.|
+|2|201.171.219.70|3128|Mexico|Mexicali|Uninet S.A. de C.V.|
+|3|18.254.153.11|8080|United States|Ashburn|Amazon.com, Inc.|
+|4|20.44.206.138|80|Singapore|Singapore|Microsoft Corporation|
+|5|203.109.19.137|12241|South Korea|Mapo-gu|HAIonNet|
+|6|46.16.201.51|3129|Switzerland|Bern|Hosteur SA|
+|7|140.238.58.147|80|Japan|Tokyo|Oracle Corporation|
+|8|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
+|9|45.62.161.20|8080|Thailand|Samut Sakhon|RAM Host|
+|10|115.127.94.18|32650|Bangladesh|Dhaka|BRACNet Limited|
+|11|45.62.161.20|8080|Thailand|Samut Sakhon|RAM Host|
+|12|202.162.43.241|8080|Indonesia|Yogyakarta|PT Global Prima Utama|
+|13|192.111.150.5|8080|United States|Quinton|Centrilogic|
+|14|81.91.158.150|3128|Iran|Tehran|Farabord Dadeh Haye Iranian Co.|
+|15|117.3.240.217|10003|Vietnam|Hanoi|Viettel Corporation|
+|16|115.144.102.132|10041|South Korea|Mapo-gu|Korea Telecom|
+|17|47.90.162.160|8080|United States|Charlottesville|Alibaba.com LLC|
+|18|27.79.61.149|10013|Vietnam|Buon Ma Thuot|Viettel Corporation|
+|19|43.153.117.113|8800|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|20|67.205.179.93|31028|United States|North Bergen|DigitalOcean, LLC|
 
 
 
