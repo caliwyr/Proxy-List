@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **9758** proxies at the latest update. Usable proxies are below.
+> Scraper found **9975** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|437|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|437|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|437|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|473|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|473|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|473|
 
 ## Sources
 
@@ -36,8 +36,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|26|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1165|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|53|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1355|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1080|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|6404|✅|
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|173.176.14.246|3128|Canada|Vaudreuil-Dorion|Le Groupe Videotron Ltee|
-|2|192.111.150.7|8080|United States|Quinton|Centrilogic|
-|3|82.165.184.53|80|Poland|Warsaw|IONOS SE|
-|4|202.43.110.171|8080|Vietnam|Hanoi|DTS Telecom Company Limited|
-|5|103.41.90.49|83|India|Hyderabad|Iqtera Communication Pvt Ltd|
-|6|103.66.168.20|80|Bangladesh|Dhaka|Simec System Ltd.|
-|7|139.144.24.46|8080|United States|Atlanta|Akamai Technologies, Inc.|
-|8|189.232.89.149|8080|Mexico|Atitalaquia|Uninet S.A. de C.V.|
-|9|190.78.174.1|8080|Venezuela|San Carlos del Zulia|CANTV Servicios, Venezuela|
-|10|64.225.4.29|9863|United States|Clifton|DigitalOcean, LLC|
-|11|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|12|36.88.11.215|32650|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|13|64.225.8.82|9983|United States|Clifton|DigitalOcean, LLC|
-|14|37.187.19.49|3128|France|Gravelines|OVH SAS|
-|15|41.76.145.18|443|Mozambique|Maputo|VM  S.A|
-|16|41.76.145.18|443|Mozambique|Maputo|VM  S.A|
-|17|148.113.6.138|3128|India|Mumbai|OVH SAS|
-|18|177.135.45.147|8080|Brazil|Natal|TELEFÔNICA BRASIL S.A|
-|19|116.197.132.163|8989|Indonesia|Tangerang|PT. Fiber Networks Indonesia|
-|20|129.151.173.15|8080|South Africa|Johannesburg|Oracle Corporation|
+|1|185.87.49.134|55189|Russia|Moscow|I-servers LTD|
+|2|213.171.44.134|3128|Russia|Moscow|JSC Comcor|
+|3|192.99.144.208|8080|Canada|Beauharnois|OVH SAS|
+|4|192.111.150.4|8080|United States|Quinton|Centrilogic|
+|5|192.111.150.9|8080|United States|Quinton|Centrilogic|
+|6|116.0.61.122|3128|Pakistan|Karachi|Telecard|
+|7|45.236.162.115|3128|Brazil|Montes Claros|Digitus Informatica Ltda - ME|
+|8|158.69.66.247|9300|Canada|Montreal|OVH SAS|
+|9|27.79.54.60|50003|Vietnam|Tan Tien|Viettel Corporation|
+|10|46.182.6.51|3129|France|Paris|Hosteur SAS|
+|11|77.238.79.111|8080|Bulgaria|Sofia|FIBER1|
+|12|188.47.92.237|8080|Poland|Torun|PTK CENTERTEL CDMA data services|
+|13|200.25.254.193|54240|Colombia|Neiva|Andinet ON Line|
+|14|115.144.123.219|10297|South Korea|Mapo-gu|HAIonNet|
+|15|202.154.18.115|8082|Indonesia|Lamongan|DIGITNET|
+|16|18.254.153.11|8080|United States|Ashburn|Amazon.com, Inc.|
+|17|139.144.24.46|8080|United States|Atlanta|Akamai Technologies, Inc.|
+|18|189.232.89.149|8080|Mexico|Atitalaquia|Uninet S.A. de C.V.|
+|19|20.120.240.49|80|United States|Quincy|Microsoft Corporation|
+|20|117.3.240.217|10003|Vietnam|Hanoi|Viettel Corporation|
 
 
 
