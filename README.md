@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **10520** proxies at the latest update. Usable proxies are below.
+> Scraper found **10311** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|591|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|591|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|591|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|815|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|815|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|815|
 
 ## Sources
 
@@ -36,37 +36,37 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1426|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|31|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1416|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1422|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|6589|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1392|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|6389|✅|
 
 
 ## Sample Proxies With Geolocation Info
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|61.195.107.162|5000|Japan|Chiyoda|OPTAGE Inc.|
-|2|34.211.47.20|3128|United States|Portland|Amazon.com, Inc.|
-|3|5.161.105.227|3128|United States|Ashburn|Hetzner Online GmbH|
-|4|37.187.19.49|3128|France|Gravelines|OVH SAS|
-|5|190.44.115.145|3128|Chile|Puente Alto|VTR BANDA ANCHA S.A.|
-|6|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
-|7|78.138.98.115|3128|France|Strasbourg|Host Europe GmbH|
-|8|5.161.105.227|3128|United States|Ashburn|Hetzner Online GmbH|
-|9|34.211.47.20|3128|United States|Portland|Amazon.com, Inc.|
-|10|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|11|5.154.147.96|8089|Germany|Frankfurt am Main|CTE|
-|12|66.85.129.220|8080|United States|Phoenix|Secured Servers LLC|
-|13|192.198.61.138|8080|United States|Normal|Metronet|
-|14|192.241.238.167|31028|United States|San Francisco|DigitalOcean, LLC|
-|15|50.113.36.155|8080|United States|Honolulu|Charter Communications Inc|
-|16|154.70.107.81|3128|Cameroon|Douala|MTN Network Solutions (Cameroon)|
-|17|78.47.227.89|8118|Germany|Nuremberg|Hetzner Online GmbH|
-|18|195.149.98.211|8181|Poland|Gliwice|Obsluga pc P.Dudzinski P.Jablonski P.Ral. B.Miller s.c.|
-|19|190.121.239.194|999|Venezuela|San Carlos del Zulia|Corporacion Digitel C.A|
-|20|200.229.224.221|8080|Brazil|Rio de Janeiro|Wireless Comm Services LTDA|
+|1|5.161.207.168|3128|United States|Ashburn|Hetzner Online GmbH|
+|2|5.161.105.227|3128|United States|Ashburn|Hetzner Online GmbH|
+|3|137.184.96.206|3128|United States|North Bergen|DigitalOcean, LLC|
+|4|192.99.144.208|8080|Canada|Beauharnois|OVH SAS|
+|5|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|6|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|7|20.219.177.73|3129|India|Pune|Microsoft Corporation|
+|8|18.237.221.61|3128|United States|Portland|Amazon.com, Inc.|
+|9|20.219.178.121|3129|India|Pune|Microsoft Corporation|
+|10|20.219.180.149|3129|India|Pune|Microsoft Corporation|
+|11|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|12|20.219.177.85|3129|India|Pune|Microsoft Corporation|
+|13|5.161.105.227|3128|United States|Ashburn|Hetzner Online GmbH|
+|14|5.161.207.168|3128|United States|Ashburn|Hetzner Online GmbH|
+|15|212.174.17.122|8080|Turkey|Gaziantep|Turk Telekomunikasyon Anonim Sirketi|
+|16|144.217.253.209|9300|Canada|Beauharnois|OVH SAS|
+|17|213.171.44.134|3128|Russia|Moscow|JSC Comcor|
+|18|84.52.125.113|8082|Russia|St Petersburg|WestCall|
+|19|137.184.96.206|3128|United States|North Bergen|DigitalOcean, LLC|
+|20|18.237.221.61|3128|United States|Portland|Amazon.com, Inc.|
 
 
 
