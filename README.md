@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **9426** proxies at the latest update. Usable proxies are below.
+> Scraper found **9340** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|399|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|399|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|399|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|413|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|413|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|413|
 
 ## Sources
 
@@ -37,7 +37,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|139|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1066|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|980|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|980|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|6158|✅|
@@ -48,25 +48,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|54.190.9.217|3128|United States|Portland|Amazon.com, Inc.|
-|2|35.158.221.111|3128|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|3|20.219.177.73|3129|India|Pune|Microsoft Corporation|
+|2|66.135.14.166|443|United States|Piscataway|The Constant Company, LLC|
+|3|35.158.221.111|3128|Germany|Frankfurt am Main|Amazon Technologies Inc.|
 |4|165.232.169.44|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|5|66.135.14.166|443|United States|Piscataway|The Constant Company, LLC|
 |6|20.44.206.138|80|Singapore|Singapore|Microsoft Corporation|
-|7|20.219.180.149|3129|India|Pune|Microsoft Corporation|
-|8|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|9|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|10|185.15.172.212|3128|Russia|Moscow|SafeData LLC|
-|11|135.125.68.145|3128|France|Roubaix|OVH SAS|
-|12|64.225.8.115|9987|United States|Clifton|DigitalOcean, LLC|
-|13|192.111.150.5|8080|United States|Quinton|Centrilogic|
-|14|116.236.68.170|80|China|Shanghai|China Telecom (Group)|
-|15|116.236.68.169|10005|China|Shanghai|China Telecom (Group)|
-|16|190.97.240.10|1994|Venezuela|Vigia|Viginet C.A|
-|17|147.139.168.187|3128|Indonesia|Jakarta|Alibaba.com LLC|
-|18|41.76.145.18|3128|Mozambique|Maputo|VM  S.A|
-|19|41.76.145.136|8080|Mozambique|Maputo|VM  S.A|
-|20|194.124.36.37|8080|Turkey|Antalya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|9|20.219.180.149|3129|India|Pune|Microsoft Corporation|
+|10|181.78.75.114|999|Colombia|Medellín|IFX Networks Argentina S.R.L|
+|11|103.191.155.46|8080|Indonesia|Karawang|PT Ilham Wifi Solution|
+|12|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|13|54.190.9.217|3128|United States|Portland|Amazon.com, Inc.|
+|14|66.135.14.166|443|United States|Piscataway|The Constant Company, LLC|
+|15|202.40.177.69|80|Bangladesh|Azimpur|Ranks ITT|
+|16|179.49.113.230|999|Honduras|San Pedro Sula|Asociacion De Servicio De Internet S. De RL|
+|17|154.79.248.44|32650|Kenya|Nairobi|Airtel KE Mobile & Fixed Internet|
+|18|192.111.150.5|8080|United States|Quinton|Centrilogic|
+|19|186.68.83.51|999|Ecuador|Milagro|Satnet|
+|20|128.14.23.122|3128|United States|Los Angeles|Zenlayer Inc|
 
 
 
