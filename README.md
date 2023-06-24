@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **10603** proxies at the latest update. Usable proxies are below.
+> Scraper found **10430** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|397|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|397|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|397|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|760|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|760|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|760|
 
 ## Sources
 
@@ -37,9 +37,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|2|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1515|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1498|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1614|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1458|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|6389|✅|
 
 
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.183.135.235|3128|Canada|Toronto|Amazon Technologies Inc.|
-|2|5.161.207.168|3128|United States|Ashburn|Hetzner Online GmbH|
-|3|1.234.23.159|80|South Korea|Seoul|SK Broadband Co Ltd|
-|4|107.148.193.162|1080|United States|San Jose|PEG TECH INC|
-|5|20.219.182.59|3129|India|Pune|Microsoft Corporation|
-|6|20.219.178.121|3129|India|Pune|Microsoft Corporation|
-|7|45.6.100.10|80|Brazil|Rio de Janeiro|Golden Link|
-|8|165.232.169.44|8080|Singapore|Singapore|DigitalOcean, LLC|
-|9|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
-|10|5.161.207.168|3128|United States|Ashburn|Hetzner Online GmbH|
-|11|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|12|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|13|20.219.177.85|3129|India|Pune|Microsoft Corporation|
-|14|217.251.108.48|8080|Germany|Teisendorf|Deutsche Telekom AG|
-|15|20.219.183.188|3129|India|Pune|Microsoft Corporation|
-|16|8.209.114.72|3129|Germany|Frankfurt am Main|Alibaba.com Singapore E-Commerce Private Limited|
-|17|96.80.235.1|8080|United States|Garden City|Comcast Cable Communications, LLC|
-|18|103.26.176.148|8181|Indonesia|Kandat|PT Lintas Jaringan Nusantara|
-|19|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|20|142.147.114.50|8080|United States|Weatherford|Nextlink Broadband|
+|1|5.161.207.168|3128|United States|Ashburn|Hetzner Online GmbH|
+|2|140.238.58.147|80|Japan|Tokyo|Oracle Corporation|
+|3|213.171.44.134|3128|Russia|Moscow|JSC Comcor|
+|4|20.219.177.85|3129|India|Pune|Microsoft Corporation|
+|5|165.232.169.44|8080|Singapore|Singapore|DigitalOcean, LLC|
+|6|20.219.180.105|3129|India|Pune|Microsoft Corporation|
+|7|20.219.182.59|3129|India|Pune|Microsoft Corporation|
+|8|20.219.183.188|3129|India|Pune|Microsoft Corporation|
+|9|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|10|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
+|11|103.152.232.68|8080|Indonesia|Subang|PT Kingpolah Network Solutions|
+|12|190.186.1.121|999|Bolivia|Santa Cruz|Cotas Ltda.|
+|13|94.232.11.178|46449|Russia|Moscow|PJSC MegaFon|
+|14|118.179.23.69|32650|Bangladesh|Mirpur|bdHUB|
+|15|82.165.184.53|80|Poland|Warsaw|IONOS SE|
+|16|5.161.207.168|3128|United States|Ashburn|Hetzner Online GmbH|
+|17|188.132.222.4|8080|Turkey|Istanbul|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|18|64.251.22.20|80|United States|Miami|Infolink Global Corporation|
+|19|192.241.238.167|31028|United States|San Francisco|DigitalOcean, LLC|
+|20|139.144.24.46|8080|United States|Atlanta|Akamai Technologies, Inc.|
 
 
 
