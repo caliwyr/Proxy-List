@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **9653** proxies at the latest update. Usable proxies are below.
+> Scraper found **9616** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|469|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|469|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|469|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|537|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|537|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|537|
 
 ## Sources
 
@@ -37,7 +37,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1230|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1193|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1133|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|6207|✅|
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|81.181.109.141|2019|France|Paris|Virtono Networks SRL|
-|2|8.209.114.72|3129|Germany|Frankfurt am Main|Alibaba.com Singapore E-Commerce Private Limited|
-|3|104.248.50.192|7771|United States|North Bergen|DigitalOcean, LLC|
-|4|188.40.15.9|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|5|167.86.99.172|8080|Germany|Nuremberg|Contabo GmbH|
-|6|165.232.169.44|8080|Singapore|Singapore|DigitalOcean, LLC|
-|7|20.44.206.138|80|Singapore|Singapore|Microsoft Corporation|
-|8|175.101.15.41|8080|India|Hyderabad|ExcellMedia Pvt Ltd|
-|9|175.101.15.34|8080|India|Hyderabad|ExcellMedia Pvt Ltd|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|12|103.66.63.4|8080|Indonesia|Jambi City|PT Sinar Jambi Baru Intermedia|
-|13|173.176.14.246|3128|Canada|Vaudreuil-Dorion|Le Groupe Videotron Ltee|
-|14|181.39.139.68|80|Ecuador|Guayaquil|Telconet S.A|
-|15|103.176.198.238|8080|Indonesia|Medan|PT IndoWebhost Kreasi|
-|16|66.135.14.166|443|United States|Piscataway|The Constant Company, LLC|
-|17|66.135.14.166|443|United States|Piscataway|The Constant Company, LLC|
-|18|107.148.94.92|80|United States|Los Angeles|PEG TECH INC|
-|19|200.111.182.6|443|Chile|Santiago|Entel Chile S.A.|
-|20|20.44.206.138|80|Singapore|Singapore|Microsoft Corporation|
+|1|170.254.28.185|8080|Ecuador|Guayaquil|María Teresa Vivar|
+|2|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|3|81.181.109.141|2019|France|Paris|Virtono Networks SRL|
+|4|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|5|91.185.50.224|8080|Russia|Irkutsk|Delovaya Set' - Irkutsk|
+|6|188.132.222.49|8080|Turkey|Istanbul|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|7|45.180.16.210|9292|Brazil|Araçatuba|Link Brasil Telecomunicacoes Ltda|
+|8|212.42.116.161|8080|Kyrgyzstan|Bishkek|"ElCat" Ltd.|
+|9|139.144.24.46|8080|United States|Atlanta|Akamai Technologies, Inc.|
+|10|43.153.117.113|8800|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|11|128.14.23.122|3128|United States|Los Angeles|Zenlayer Inc|
+|12|103.102.14.147|2020|Indonesia|Kebumen Satu|PT.Global Media Data Prima|
+|13|183.221.242.103|9443|China|Mianyang|China Mobile|
+|14|119.8.120.4|80|Hong Kong|Hong Kong|Huawei International Pte. LTD|
+|15|167.86.99.172|8080|Germany|Nuremberg|Contabo GmbH|
+|16|41.79.83.182|3128|South Africa|Johannesburg|BitCo|
+|17|190.119.86.67|999|Peru|La Victoria|America Movil Peru S.A.C.|
+|18|66.85.129.220|8080|United States|Phoenix|Secured Servers LLC|
+|19|113.125.82.11|3128|China|Xintai|Cloud Computing Corporation|
+|20|41.76.145.18|443|Mozambique|Maputo|VM  S.A|
 
 
 
