@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **7651** proxies at the latest update. Usable proxies are below.
+> Scraper found **7604** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|462|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|462|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|462|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|497|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|497|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|497|
 
 ## Sources
 
@@ -37,7 +37,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1208|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1161|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1163|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|4197|✅|
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.153.117.113|8800|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|2|5.154.147.96|8089|Germany|Frankfurt am Main|CTE|
-|3|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
-|4|116.58.239.63|80|Thailand|Samphanthawong|CAT-BB|
-|5|192.111.150.7|8080|United States|Quinton|Centrilogic|
-|6|117.3.246.39|11005|Vietnam|Hanoi|Viettel Corporation|
-|7|64.225.4.29|9817|United States|Clifton|DigitalOcean, LLC|
-|8|103.149.239.238|8080|Indonesia|Mojokerto|PT BITNIAGA CIPTA GEMILANG|
-|9|81.12.122.11|8080|Iran|Tajrish|Respina Networks & Beyond PJSC|
-|10|139.144.24.46|8080|United States|Atlanta|Akamai Technologies, Inc.|
-|11|35.213.91.45|80|Japan|Tokyo|Google LLC|
-|12|158.69.48.228|3128|Canada|Montreal|OVH SAS|
-|13|67.205.179.93|31028|United States|North Bergen|DigitalOcean, LLC|
-|14|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
-|15|103.168.44.167|9191|Indonesia|Tangerang|PT CYB Media Group|
-|16|116.198.48.6|8080|China|Haidian|Beijing Jingdong 360 Degree E-commerce Co., Ltd.|
-|17|20.44.206.138|80|Singapore|Singapore|Microsoft Corporation|
-|18|78.138.98.115|3128|France|Strasbourg|Host Europe GmbH|
-|19|192.111.150.8|8080|United States|Quinton|Centrilogic|
-|20|123.126.158.184|80|China|Beijing|China Unicom Beijing Province Network|
+|1|107.148.193.162|1080|United States|San Jose|PEG TECH INC|
+|2|107.148.193.162|1080|United States|San Jose|PEG TECH INC|
+|3|35.213.91.45|80|Japan|Tokyo|Google LLC|
+|4|20.44.206.138|80|Singapore|Singapore|Microsoft Corporation|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|38.156.238.97|999|Dominican Republic|Santo Domingo|BITNET DOMINICANA, S.R.L.|
+|7|116.58.239.63|80|Thailand|Samphanthawong|CAT-BB|
+|8|185.15.172.212|3128|Russia|Moscow|SafeData LLC|
+|9|192.111.150.7|8080|United States|Quinton|Centrilogic|
+|10|43.153.117.113|8800|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|11|64.226.118.16|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|192.111.150.19|8080|United States|Quinton|Centrilogic|
+|13|139.144.24.46|8080|United States|Atlanta|Akamai Technologies, Inc.|
+|14|20.44.206.138|80|Singapore|Singapore|Microsoft Corporation|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|16|123.126.158.184|80|China|Beijing|China Unicom Beijing Province Network|
+|17|123.126.158.50|80|China|Beijing|China Unicom Beijing Province Network|
+|18|37.187.19.49|3128|France|Gravelines|OVH SAS|
+|19|163.177.111.14|80|China|Shenzhen|China Unicom Guangdong Province Network|
+|20|103.6.177.174|8002|Hong Kong|Central|HKBN Enterprise Solutions HK Limited|
 
 
 
