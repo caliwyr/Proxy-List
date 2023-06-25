@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **9422** proxies at the latest update. Usable proxies are below.
+> Scraper found **9384** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|394|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|394|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|394|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|389|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|389|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|389|
 
 ## Sources
 
@@ -37,7 +37,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|3|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1022|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|984|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1042|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|6272|✅|
@@ -48,25 +48,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|3.17.75.241|3128|United States|Dublin|Amazon.com, Inc.|
-|2|173.176.14.246|3128|Canada|Vaudreuil-Dorion|Le Groupe Videotron Ltee|
-|3|192.111.150.5|8080|United States|Quinton|Centrilogic|
-|4|8.209.114.72|3129|Germany|Frankfurt am Main|Alibaba.com Singapore E-Commerce Private Limited|
-|5|54.201.242.235|3128|United States|Portland|Amazon.com, Inc.|
-|6|192.111.150.11|8080|United States|Quinton|Centrilogic|
-|7|35.213.91.45|80|Japan|Tokyo|Google LLC|
-|8|3.17.75.241|3128|United States|Dublin|Amazon.com, Inc.|
-|9|192.111.150.12|8080|United States|Quinton|Centrilogic|
+|2|8.209.114.72|3129|Germany|Frankfurt am Main|Alibaba.com Singapore E-Commerce Private Limited|
+|3|35.213.91.45|80|Japan|Tokyo|Google LLC|
+|4|64.225.4.29|9865|United States|Clifton|DigitalOcean, LLC|
+|5|3.17.75.241|3128|United States|Dublin|Amazon.com, Inc.|
+|6|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
+|7|212.248.23.19|3128|Russia|Moscow|MTS PJSC|
+|8|27.79.56.244|11005|Vietnam|Buon Ma Thuot|Viettel Group|
+|9|165.232.169.44|8080|Singapore|Singapore|DigitalOcean, LLC|
 |10|27.77.144.94|10002|Vietnam|Ho Chi Minh City|Newass2011xDSLHCMC|
-|11|165.232.169.44|8080|Singapore|Singapore|DigitalOcean, LLC|
-|12|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
-|13|14.162.162.186|8080|Vietnam|Hanoi|VNPT-VNNIC|
-|14|54.201.242.235|3128|United States|Portland|Amazon.com, Inc.|
-|15|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|16|158.69.71.245|9300|Canada|Montreal|OVH SAS|
-|17|192.111.150.11|8080|United States|Quinton|Centrilogic|
-|18|27.79.56.244|11005|Vietnam|Buon Ma Thuot|Viettel Group|
-|19|200.50.203.161|8090|Brazil|Cuiabá|Conecta Telecom|
-|20|27.79.58.57|10013|Vietnam|Buon Ma Thuot|Viettel Corporation|
+|11|192.254.79.243|8080|United States|Quinton|Centrilogic|
+|12|77.233.5.68|55443|Russia|Krasnodar|Yug-Link|
+|13|58.11.158.107|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
+|14|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
+|15|64.225.4.29|9865|United States|Clifton|DigitalOcean, LLC|
+|16|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|17|41.78.24.126|8888|Kenya|Nairobi|Xtranet Communications Ltd|
+|18|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|20|81.12.44.197|3129|Iran|Tehran|RESPINA Networks|
 
 
 
