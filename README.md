@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **9093** proxies at the latest update. Usable proxies are below.
+> Scraper found **9193** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|354|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|354|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|354|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|403|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|403|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|403|
 
 ## Sources
 
@@ -37,7 +37,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|4|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|913|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1013|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|935|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|6158|✅|
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|192.111.150.13|8080|United States|Quinton|Centrilogic|
-|2|192.111.150.14|8080|United States|Quinton|Centrilogic|
-|3|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
-|4|192.111.150.8|8080|United States|Quinton|Centrilogic|
-|5|15.228.12.2|3128|Brazil|São Paulo|Amazon Technologies Inc.|
-|6|34.143.228.238|8080|Singapore|Singapore|Google LLC|
-|7|20.44.206.138|80|Singapore|Singapore|Microsoft Corporation|
-|8|35.213.91.45|80|Japan|Tokyo|Google LLC|
+|1|15.228.12.2|3128|Brazil|São Paulo|Amazon Technologies Inc.|
+|2|192.111.150.13|8080|United States|Quinton|Centrilogic|
+|3|192.111.150.5|8080|United States|Quinton|Centrilogic|
+|4|165.232.169.44|8080|Singapore|Singapore|DigitalOcean, LLC|
+|5|192.111.150.5|8080|United States|Quinton|Centrilogic|
+|6|192.111.150.13|8080|United States|Quinton|Centrilogic|
+|7|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
+|8|20.44.206.138|80|Singapore|Singapore|Microsoft Corporation|
 |9|192.111.150.17|8080|United States|Quinton|Centrilogic|
-|10|165.232.169.44|8080|Singapore|Singapore|DigitalOcean, LLC|
-|11|8.209.114.72|3129|Germany|Frankfurt am Main|Alibaba.com Singapore E-Commerce Private Limited|
-|12|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|13|27.79.56.244|11005|Vietnam|Buon Ma Thuot|Viettel Group|
-|14|116.105.250.51|11044|Vietnam|Hanoi|Viettel Corporation|
-|15|200.105.215.22|33630|Bolivia|La Paz|AXS Bolivia S. A.|
-|16|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
-|17|112.217.162.5|3128|South Korea|Gyeyang-gu|LG DACOM Corporation|
-|18|192.111.150.5|8080|United States|Quinton|Centrilogic|
-|19|198.44.188.185|45787|Japan|Tokyo|Zenlayer Inc|
-|20|46.219.80.142|57401|Ukraine|Kyiv|o3 core|
+|10|27.79.56.244|11005|Vietnam|Buon Ma Thuot|Viettel Group|
+|11|35.213.91.45|80|Japan|Tokyo|Google LLC|
+|12|200.105.215.22|33630|Bolivia|La Paz|AXS Bolivia S. A.|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|14|192.111.150.12|8080|United States|Quinton|Centrilogic|
+|15|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
+|16|116.105.250.51|11044|Vietnam|Hanoi|Viettel Corporation|
+|17|103.92.26.190|4002|Vietnam|Quận Phú Nhuận|TLSOFT|
+|18|192.111.150.8|8080|United States|Quinton|Centrilogic|
+|19|8.209.114.72|3129|Germany|Frankfurt am Main|Alibaba.com Singapore E-Commerce Private Limited|
+|20|192.111.150.8|8080|United States|Quinton|Centrilogic|
 
 
 
