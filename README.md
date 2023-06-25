@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **9614** proxies at the latest update. Usable proxies are below.
+> Scraper found **9586** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|472|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|472|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|472|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|501|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|501|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|501|
 
 ## Sources
 
@@ -37,9 +37,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|5|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1169|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1104|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1085|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1122|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|6272|✅|
 
 
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|3.14.85.29|3128|United States|Dublin|Amazon.com, Inc.|
-|2|54.185.67.56|3128|United States|Portland|Amazon.com, Inc.|
-|3|172.105.128.71|56444|United States|Cedar Knolls|Akamai Technologies|
-|4|189.201.242.146|8888|Mexico|Mexicali|Tecnologías Avanzadas S. de R.L. de C.V.|
-|5|192.111.150.17|8080|United States|Quinton|Centrilogic|
-|6|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|7|18.198.8.2|3128|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|8|35.213.91.45|80|Japan|Tokyo|Google LLC|
-|9|119.8.10.18|7890|Mexico|Mexico City|Huawei International Pte. LTD|
-|10|94.23.19.184|2912|France|Roubaix|OVH ISP|
-|11|173.176.14.246|3128|Canada|Vaudreuil-Dorion|Le Groupe Videotron Ltee|
-|12|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|13|140.238.245.116|8100|India|Mumbai|Oracle Corporation|
-|14|51.79.50.31|9300|Canada|Beauharnois|OVH SAS|
-|15|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|16|192.111.150.15|8080|United States|Quinton|Centrilogic|
-|17|209.97.168.163|5000|Singapore|Singapore|DigitalOcean, LLC|
-|18|146.70.20.222|8080|Germany|Frankfurt am Main|M247 LTD Frankfurt Infrastructure|
-|19|64.225.8.191|9992|United States|Clifton|DigitalOcean, LLC|
-|20|200.25.254.193|54240|Colombia|Neiva|Andinet ON Line|
+|1|114.142.187.138|8080|Japan|Toyama|NSK Co., Ltd.|
+|2|35.213.91.45|80|Japan|Tokyo|Google LLC|
+|3|189.201.242.146|8888|Mexico|Mexicali|Tecnologías Avanzadas S. de R.L. de C.V.|
+|4|172.105.128.71|56444|United States|Cedar Knolls|Akamai Technologies|
+|5|8.209.114.72|3129|Germany|Frankfurt am Main|Alibaba.com Singapore E-Commerce Private Limited|
+|6|129.154.225.163|8100|India|Mumbai|Oracle Corporation|
+|7|140.238.245.116|8100|India|Mumbai|Oracle Corporation|
+|8|165.232.169.44|8080|Singapore|Singapore|DigitalOcean, LLC|
+|9|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
+|10|173.176.14.246|3128|Canada|Vaudreuil-Dorion|Le Groupe Videotron Ltee|
+|11|178.132.2.65|3128|Netherlands|Naaldwijk|WorldStream B.V.|
+|12|14.207.118.76|8080|Thailand|Nakhon Pathom|Triple T Broadband Public Company Limited|
+|13|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|14|185.15.172.212|3128|Russia|Moscow|SafeData LLC|
+|15|121.126.200.123|11361|South Korea|Gwanak-gu|HAIonNet|
+|16|209.97.168.163|5000|Singapore|Singapore|DigitalOcean, LLC|
+|17|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|18|181.129.43.3|8080|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|19|172.105.128.71|56444|United States|Cedar Knolls|Akamai Technologies|
+|20|139.144.24.46|8080|United States|Atlanta|Akamai Technologies, Inc.|
 
 
 
