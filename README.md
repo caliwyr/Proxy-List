@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **9764** proxies at the latest update. Usable proxies are below.
+> Scraper found **9776** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -37,7 +37,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1108|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1120|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1070|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|6503|✅|
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|66.135.14.166|443|United States|Piscataway|The Constant Company, LLC|
-|2|66.70.178.214|9300|Canada|Beauharnois|OVH SAS|
-|3|192.111.150.11|8080|United States|Quinton|Centrilogic|
-|4|35.213.91.45|80|Japan|Tokyo|Google LLC|
-|5|136.243.55.199|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|192.111.150.13|8080|United States|Quinton|Centrilogic|
-|8|191.243.46.50|43241|Brazil|Nova Crixas|Microturbo Telecomunicacoes Ltda-me|
-|9|78.138.98.115|3128|France|Strasbourg|Host Europe GmbH|
-|10|117.3.246.39|11005|Vietnam|Hanoi|Viettel Corporation|
-|11|181.205.86.66|32650|Colombia|Bello|EPM Telecomunicaciones S.A. E.S.P.|
-|12|109.74.46.31|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|13|192.111.150.14|8080|United States|Quinton|Centrilogic|
-|14|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|15|185.15.172.212|3128|Russia|Moscow|SafeData LLC|
-|16|118.173.247.205|8080|Thailand|Bangkok|TOT Public Company Limited|
-|17|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|18|191.252.196.213|3128|Brazil|Itacoatiara|Locaweb Serviços de Internet S/A|
-|19|192.111.150.8|8080|United States|Quinton|Centrilogic|
-|20|192.111.150.13|8080|United States|Quinton|Centrilogic|
+|1|192.111.150.11|8080|United States|Quinton|Centrilogic|
+|2|148.251.110.152|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|3|88.99.21.162|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|4|188.127.40.8|3128|Kazakhstan|Almaty|Jusan Mobile JSC|
+|5|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
+|6|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
+|7|46.182.6.51|3129|France|Paris|Hosteur SAS|
+|8|192.111.150.13|8080|United States|Quinton|Centrilogic|
+|9|193.41.88.58|53281|Ukraine|Kyiv|Kyiv National Taras Shevchenko University|
+|10|66.135.14.166|443|United States|Piscataway|The Constant Company, LLC|
+|11|190.83.15.21|999|Ecuador|Zamora|TAPIA FLORES OSCAR ALDO (FIBRANET ZAMORA)|
+|12|115.144.99.223|11119|South Korea|Mapo-gu|HAIonNet|
+|13|43.153.117.113|8800|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|14|184.105.182.254|3128|United States|Gilroy|Hurricane Electric LLC|
+|15|66.135.14.166|443|United States|Piscataway|The Constant Company, LLC|
+|16|185.15.172.212|3128|Russia|Moscow|SafeData LLC|
+|17|59.124.224.205|3128|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|18|192.111.150.9|8080|United States|Quinton|Centrilogic|
+|19|8.209.114.72|3129|Germany|Frankfurt am Main|Alibaba.com Singapore E-Commerce Private Limited|
+|20|64.225.4.63|9991|United States|Clifton|DigitalOcean, LLC|
 
 
 
