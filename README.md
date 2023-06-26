@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **9472** proxies at the latest update. Usable proxies are below.
+> Scraper found **9515** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|446|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|446|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|446|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|364|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|364|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|364|
 
 ## Sources
 
@@ -37,7 +37,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1066|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1109|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1000|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|6323|✅|
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|52.53.191.106|3128|United States|San Jose|Amazon.com, Inc.|
+|1|43.153.117.113|8800|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
 |2|35.213.91.45|80|Japan|Tokyo|Google LLC|
-|3|35.178.113.17|3128|United Kingdom|London|Amazon Technologies Inc.|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|45.174.79.193|999|Mexico|Ciudad Delicias|Raul Duarte Urita|
-|6|52.53.191.106|3128|United States|San Jose|Amazon.com, Inc.|
-|7|119.8.10.18|7890|Mexico|Mexico City|Huawei International Pte. LTD|
-|8|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
-|9|213.171.44.134|3128|Russia|Moscow|JSC Comcor|
-|10|109.194.101.128|3128|Russia|Yoshkar-Ola|CJSC "ER-Telecom Holding" Yoshkar-Ola branch|
-|11|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
-|12|20.44.206.138|80|Singapore|Singapore|Microsoft Corporation|
-|13|135.125.68.145|3128|France|Roubaix|OVH SAS|
-|14|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|15|84.51.15.253|32650|Turkey|Konya|Superonline Iletisim Hizmetleri A.S.|
-|16|158.69.71.69|9300|Canada|Montreal|OVH SAS|
-|17|85.133.151.62|3128|Iran|Tehran|Stack Network Limited|
-|18|200.46.65.66|8080|Panama|Panama City|Cable Onda|
-|19|173.176.14.246|3128|Canada|Vaudreuil-Dorion|Le Groupe Videotron Ltee|
-|20|115.144.16.101|10471|South Korea|Hwaseong-si|Korea Telecom|
+|3|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|4|173.176.14.246|3128|Canada|Vaudreuil-Dorion|Le Groupe Videotron Ltee|
+|5|20.44.206.138|80|Singapore|Singapore|Microsoft Corporation|
+|6|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
+|7|192.241.238.167|31028|United States|San Francisco|DigitalOcean, LLC|
+|8|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
+|9|138.59.20.42|8080|Brazil|Itabira|Companhia Itabirana Telecomunicações Ltda|
+|10|45.6.4.60|8081|Argentina|Juan Bautista Alberdi|Providers S.A.|
+|11|103.165.137.131|8080|Indonesia|Jakarta Pusat|PT iForte Global Internet|
+|12|212.252.66.209|8080|Turkey|Istanbul|Superonline Iletisim Hizmetleri A.S.|
+|13|115.144.16.101|10471|South Korea|Hwaseong-si|Korea Telecom|
+|14|193.3.52.3|8080|Turkey|Denizli|Micronet Iletisim Hizmetleri Tic. Ltd.sti.|
+|15|66.135.14.166|443|United States|Piscataway|The Constant Company, LLC|
+|16|84.51.15.253|32650|Turkey|Konya|Superonline Iletisim Hizmetleri A.S.|
+|17|103.145.133.22|42325|Bangladesh|Dhaka|Md Raisul Islam|
+|18|157.230.85.206|3128|United States|North Bergen|DigitalOcean, LLC|
+|19|69.30.205.163|3128|United States|Kansas City|WholeSale Internet|
+|20|203.160.186.206|8082|Philippines|Calamba|Philippine Telelgraph & Telephone|
 
 
 
