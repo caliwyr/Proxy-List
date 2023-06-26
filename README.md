@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **9328** proxies at the latest update. Usable proxies are below.
+> Scraper found **9397** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|436|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|436|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|436|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|308|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|308|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|308|
 
 ## Sources
 
@@ -37,7 +37,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|905|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|974|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|940|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|6400|✅|
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|3.235.1.158|3128|United States|Ashburn|Amazon Technologies Inc.|
-|2|99.20.24.9|8888|United States|Miami Beach|AT&T Services, Inc.|
-|3|192.111.150.7|8080|United States|Quinton|Centrilogic|
-|4|35.213.91.45|80|Japan|Tokyo|Google LLC|
-|5|20.44.206.138|80|Singapore|Singapore|Microsoft Corporation|
-|6|3.235.1.158|3128|United States|Ashburn|Amazon Technologies Inc.|
-|7|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
-|8|129.154.225.163|8100|India|Mumbai|Oracle Corporation|
-|9|165.232.169.44|8080|Singapore|Singapore|DigitalOcean, LLC|
-|10|192.111.150.13|8080|United States|Quinton|Centrilogic|
-|11|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
-|12|180.183.50.173|8080|Thailand|Nonthaburi|Triple T Broadband Public Company Limited|
-|13|192.111.150.16|8080|United States|Quinton|Centrilogic|
-|14|107.148.94.92|80|United States|Los Angeles|PEG TECH INC|
-|15|119.8.10.18|7890|Mexico|Mexico City|Huawei International Pte. LTD|
-|16|66.85.129.220|8080|United States|Phoenix|Secured Servers LLC|
-|17|103.134.44.176|8080|India|Haridwar|Countrylink Communiction Pvt Ltd|
-|18|172.105.128.71|56444|United States|Cedar Knolls|Akamai Technologies|
-|19|20.44.206.138|80|Singapore|Singapore|Microsoft Corporation|
-|20|119.8.120.4|80|Hong Kong|Hong Kong|Huawei International Pte. LTD|
+|1|35.213.91.45|80|Japan|Tokyo|Google LLC|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|3.8.127.217|3128|United Kingdom|London|Amazon Technologies Inc.|
+|4|115.144.102.132|10041|South Korea|Mapo-gu|Korea Telecom|
+|5|43.163.197.253|8118|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|6|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
+|7|20.44.206.138|80|Singapore|Singapore|Microsoft Corporation|
+|8|51.79.50.31|9300|Canada|Beauharnois|OVH SAS|
+|9|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
+|10|157.245.27.9|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|103.110.11.122|3128|Indonesia|Ciamis|PT Citra Jelajah Informatika|
+|12|99.20.24.9|8888|United States|Miami Beach|AT&T Services, Inc.|
+|13|85.217.192.39|1414|Bulgaria|Sistov|"Zonata - Natskovi & Sie" Ltd.|
+|14|66.85.129.220|8080|United States|Phoenix|Secured Servers LLC|
+|15|8.210.207.90|59394|Hong Kong|Central|Alibaba (US) Technology Co., Ltd.|
+|16|64.225.4.63|9978|United States|Clifton|DigitalOcean, LLC|
+|17|103.168.44.167|9191|Indonesia|Tangerang|PT CYB Media Group|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|19|31.44.82.2|3128|Russia|Moscow|Mastertel ISP|
+|20|123.126.158.184|80|China|Beijing|China Unicom Beijing Province Network|
 
 
 
