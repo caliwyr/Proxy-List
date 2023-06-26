@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **9869** proxies at the latest update. Usable proxies are below.
+> Scraper found **9845** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|391|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|391|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|391|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|399|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|399|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|399|
 
 ## Sources
 
@@ -36,10 +36,10 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|17|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1120|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|19|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1206|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1145|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1033|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|6504|✅|
 
 
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|192.111.150.7|8080|United States|Quinton|Centrilogic|
-|2|43.153.117.113|8800|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|3|8.209.114.72|3129|Germany|Frankfurt am Main|Alibaba.com Singapore E-Commerce Private Limited|
-|4|87.98.171.133|3128|France|Gravelines|MCPECloud SAS|
-|5|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
-|6|165.232.169.44|8080|Singapore|Singapore|DigitalOcean, LLC|
-|7|140.238.245.116|8100|India|Mumbai|Oracle Corporation|
-|8|112.217.162.5|3128|South Korea|Gyeyang-gu|LG DACOM Corporation|
-|9|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|10|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
-|11|202.165.47.90|55443|Indonesia|Jakarta|Circlecom|
-|12|192.111.150.14|8080|United States|Quinton|Centrilogic|
-|13|174.138.116.12|80|United States|Clifton|DigitalOcean, LLC|
-|14|38.7.1.233|999|Venezuela|Maracaibo|GIGAPOP, C.A.|
-|15|38.6.185.108|3128|United States|San Jose|Cnservers LLC|
-|16|163.172.31.44|80|France|Paris|Online S.A.S.|
-|17|8.209.114.72|3129|Germany|Frankfurt am Main|Alibaba.com Singapore E-Commerce Private Limited|
-|18|87.98.171.133|3128|France|Gravelines|MCPECloud SAS|
-|19|192.111.150.14|8080|United States|Quinton|Centrilogic|
-|20|35.213.91.45|80|Japan|Tokyo|Google LLC|
+|1|213.171.44.134|3128|Russia|Moscow|JSC Comcor|
+|2|165.232.169.44|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
+|4|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|5|192.111.150.19|8080|United States|Quinton|Centrilogic|
+|6|66.70.178.214|9300|Canada|Beauharnois|OVH SAS|
+|7|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
+|8|200.105.215.22|33630|Bolivia|La Paz|AXS Bolivia S. A.|
+|9|31.28.8.196|9898|Russia|St Petersburg|Citytelecom LLC|
+|10|192.111.150.12|8080|United States|Quinton|Centrilogic|
+|11|103.105.126.18|82|India|Navi Mumbai|Delix Net Solutions Pvt. Ltd|
+|12|200.29.109.112|44749|Colombia|Santiago de Cali|Empresas Municipales De Cali E.i.c.e. E.S.P.|
+|13|89.211.197.142|8080|Qatar|Doha|Ooredoo Q.S.C.|
+|14|115.144.102.39|10080|South Korea|Mapo-gu|Korea Telecom|
+|15|161.35.197.118|3000|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|16|35.213.91.45|80|Japan|Tokyo|Google LLC|
+|17|163.172.31.44|80|France|Paris|Online S.A.S.|
+|18|192.111.150.19|8080|United States|Quinton|Centrilogic|
+|19|139.59.59.122|8118|India|Bengaluru|DigitalOcean|
+|20|216.128.141.55|7777|United States|Dallas|The Constant Company|
 
 
 
