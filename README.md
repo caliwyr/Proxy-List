@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **10035** proxies at the latest update. Usable proxies are below.
+> Scraper found **9902** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|417|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|417|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|417|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|423|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|423|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|423|
 
 ## Sources
 
@@ -36,8 +36,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|65|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1201|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|66|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1067|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1223|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|6463|✅|
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.213.91.45|80|Japan|Tokyo|Google LLC|
-|2|20.219.177.73|3129|India|Pune|Microsoft Corporation|
-|3|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|4|144.217.253.209|9300|Canada|Beauharnois|OVH SAS|
-|5|192.99.144.208|8080|Canada|Beauharnois|OVH SAS|
-|6|20.219.182.59|3129|India|Pune|Microsoft Corporation|
-|7|20.219.177.38|3129|India|Pune|Microsoft Corporation|
-|8|173.176.14.246|3128|Canada|Vaudreuil-Dorion|Le Groupe Videotron Ltee|
-|9|20.204.190.254|3129|India|Pune|Microsoft Corporation|
-|10|20.44.206.138|80|Singapore|Singapore|Microsoft Corporation|
-|11|213.171.44.134|3128|Russia|Moscow|JSC Comcor|
-|12|20.219.177.85|3129|India|Pune|Microsoft Corporation|
-|13|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|14|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|15|20.219.180.149|3129|India|Pune|Microsoft Corporation|
-|16|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|17|168.91.99.190|11576|United Kingdom|London|UK Dedicated Servers Limited|
-|18|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
-|19|20.219.180.105|3129|India|Pune|Microsoft Corporation|
-|20|8.209.114.72|3129|Germany|Frankfurt am Main|Alibaba.com Singapore E-Commerce Private Limited|
+|1|159.89.128.130|8989|United States|Santa Clara|DigitalOcean, LLC|
+|2|35.213.91.45|80|Japan|Tokyo|Google LLC|
+|3|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
+|4|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|5|20.219.177.38|3129|India|Pune|Microsoft Corporation|
+|6|20.219.177.73|3129|India|Pune|Microsoft Corporation|
+|7|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|8|112.217.162.5|3128|South Korea|Gyeyang-gu|LG DACOM Corporation|
+|9|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|10|20.219.180.105|3129|India|Pune|Microsoft Corporation|
+|11|20.44.206.138|80|Singapore|Singapore|Microsoft Corporation|
+|12|20.204.190.254|3129|India|Pune|Microsoft Corporation|
+|13|165.232.169.44|8080|Singapore|Singapore|DigitalOcean, LLC|
+|14|87.98.171.133|3128|France|Gravelines|MCPECloud SAS|
+|15|95.216.238.234|3128|Finland|Helsinki|Hetzner Online GmbH|
+|16|20.219.180.149|3129|India|Pune|Microsoft Corporation|
+|17|34.143.228.238|8080|Singapore|Singapore|Google LLC|
+|18|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|19|20.219.177.85|3129|India|Pune|Microsoft Corporation|
+|20|95.111.194.14|2659|Singapore|Singapore|UpCloud Ltd|
 
 
 
