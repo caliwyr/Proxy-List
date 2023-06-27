@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|414|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|414|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|414|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|418|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|418|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|418|
 
 ## Sources
 
@@ -36,7 +36,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1014|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|845|✅|
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|207.228.54.178|49273|United States|Reno|AT&T Services, Inc.|
-|2|156.225.79.224|45881|United States|Washington|Sprint|
-|3|52.43.61.151|3128|United States|Portland|Amazon.com, Inc.|
-|4|35.213.91.45|80|Japan|Tokyo|Google LLC|
-|5|54.93.87.29|3128|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|6|66.128.193.202|47922|United States|New York|Level 3 Communications, Inc.|
-|7|27.79.48.201|10002|Vietnam|Tan Tien|Viettel Corporation|
-|8|156.225.79.224|45881|United States|Washington|Sprint|
-|9|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
-|10|52.43.61.151|3128|United States|Portland|Amazon.com, Inc.|
-|11|20.44.206.138|80|Singapore|Singapore|Microsoft Corporation|
-|12|207.228.54.178|49273|United States|Reno|AT&T Services, Inc.|
-|13|155.193.214.116|47302|United States|Sacramento|RCN|
-|14|118.69.111.51|8080|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|15|65.0.65.18|3128|India|Mumbai|Amazon.com|
-|16|213.14.133.236|808|Turkey|Istanbul|Superonline|
-|17|171.226.91.210|14023|Vietnam|Hanoi|Viettel Corporation|
-|18|200.105.215.22|33630|Bolivia|La Paz|AXS Bolivia S. A.|
-|19|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|20|66.128.193.202|47922|United States|New York|Level 3 Communications, Inc.|
+|1|8.209.114.72|3129|Germany|Frankfurt am Main|Alibaba.com Singapore E-Commerce Private Limited|
+|2|35.213.91.45|80|Japan|Tokyo|Google LLC|
+|3|157.245.27.9|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|4|171.226.91.210|14023|Vietnam|Hanoi|Viettel Corporation|
+|5|27.79.11.114|11011|Vietnam|Tan Tien|Viettel Corporation|
+|6|192.111.150.10|8080|United States|Quinton|Centrilogic|
+|7|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
+|8|116.105.190.5|11012|Vietnam|Hanoi|Viettel Corporation|
+|9|115.144.99.223|11119|South Korea|Mapo-gu|HAIonNet|
+|10|103.168.44.167|9191|Indonesia|Brebes|PT CYB Media Group|
+|11|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|12|110.34.3.229|3128|Nepal|Bharatpur|SUBISU C7|
+|13|192.111.150.16|8080|United States|Quinton|Centrilogic|
+|14|45.162.72.27|999|Ecuador|Quito|ALCIVAR ESPIN DANNY ALEXANDER (OptiCom)|
+|15|115.144.9.246|11066|South Korea|Jecheon|Korea Telecom|
+|16|171.227.0.186|22621|Vietnam|Gia Nghia|Viettel Corporation|
+|17|58.123.183.83|3128|South Korea|Suwon|Famous Worker|
+|18|171.227.0.238|22621|Vietnam|Gia Nghia|Viettel Corporation|
+|19|123.126.158.50|80|China|Beijing|China Unicom Beijing Province Network|
+|20|47.242.151.36|3128|Hong Kong|Hong Kong|Alibaba.com LLC|
 
 
 
