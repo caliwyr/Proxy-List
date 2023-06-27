@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **9807** proxies at the latest update. Usable proxies are below.
+> Scraper found **9780** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|401|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|401|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|401|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|391|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|391|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|391|
 
 ## Sources
 
@@ -37,9 +37,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|19|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1132|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1142|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1097|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|1060|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|6476|✅|
 
 
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
-|2|192.111.150.19|8080|United States|Quinton|Centrilogic|
-|3|138.2.225.121|80|United States|San Jose|Oracle Corporation|
-|4|35.213.91.45|80|Japan|Tokyo|Google LLC|
-|5|192.241.238.167|31028|United States|San Francisco|DigitalOcean, LLC|
-|6|51.79.50.22|9300|Canada|Beauharnois|OVH SAS|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|103.134.44.176|8080|India|Haridwar|Countrylink Communiction Pvt Ltd|
-|9|138.2.225.121|80|United States|San Jose|Oracle Corporation|
-|10|20.44.206.138|80|Singapore|Singapore|Microsoft Corporation|
-|11|158.69.53.98|9300|Canada|Montreal|OVH SAS|
-|12|117.3.241.72|50003|Vietnam|Hanoi|Viettel Corporation|
-|13|117.3.246.90|50003|Vietnam|Hanoi|Viettel Corporation|
-|14|115.144.123.219|10297|South Korea|Mapo-gu|HAIonNet|
-|15|200.105.215.22|33630|Bolivia|La Paz|AXS Bolivia S. A.|
-|16|27.79.61.19|50003|Vietnam|Buon Ma Thuot|Viettel Corporation|
-|17|171.226.91.210|14023|Vietnam|Hanoi|Viettel Corporation|
-|18|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|19|8.219.170.236|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|20|20.121.139.25|3128|United States|Boydton|Microsoft Corporation|
+|1|35.213.91.45|80|Japan|Tokyo|Google LLC|
+|2|8.219.170.236|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|192.111.150.10|8080|United States|Quinton|Centrilogic|
+|4|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|5|20.44.206.138|80|Singapore|Singapore|Microsoft Corporation|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|171.226.91.210|14023|Vietnam|Hanoi|Viettel Corporation|
+|8|27.79.50.15|10008|Vietnam|Tan Tien|Viettel Corporation|
+|9|217.66.200.154|3128|Iran|Tehran|Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS|
+|10|200.105.215.22|33630|Bolivia|La Paz|AXS Bolivia S. A.|
+|11|27.79.61.19|50003|Vietnam|Buon Ma Thuot|Viettel Corporation|
+|12|138.2.225.121|80|United States|San Jose|Oracle Corporation|
+|13|169.239.86.69|8080|South Africa|Calvinia|Mezobyte (Pty) LTD|
+|14|138.2.225.121|80|United States|San Jose|Oracle Corporation|
+|15|155.248.239.251|80|Canada|Montreal|Oracle Corporation|
+|16|103.167.171.55|1111|Indonesia|Tangerang|PT Rajeg Media Telekomunikasi|
+|17|47.90.162.160|8081|United States|Charlottesville|Alibaba.com LLC|
+|18|64.225.8.121|9972|United States|Clifton|DigitalOcean, LLC|
+|19|47.90.162.160|8081|United States|Charlottesville|Alibaba.com LLC|
+|20|206.189.194.109|3128|United States|North Bergen|DigitalOcean, LLC|
 
 
 
