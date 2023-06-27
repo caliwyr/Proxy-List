@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **9607** proxies at the latest update. Usable proxies are below.
+> Scraper found **9654** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|502|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|502|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|502|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|505|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|505|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|505|
 
 ## Sources
 
@@ -37,7 +37,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1089|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1136|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|962|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|6473|✅|
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.213.91.45|80|Japan|Tokyo|Google LLC|
-|2|3.120.238.250|3128|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|3|18.132.42.138|3128|United Kingdom|London|Amazon Technologies Inc.|
-|4|192.111.150.13|8080|United States|Quinton|Centrilogic|
-|5|20.120.240.49|80|United States|Quincy|Microsoft Corporation|
-|6|140.238.245.116|8100|India|Mumbai|Oracle Corporation|
-|7|51.79.50.31|9300|Canada|Beauharnois|OVH SAS|
-|8|3.122.248.230|3128|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|9|35.240.219.50|8080|Singapore|Singapore|Google LLC|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|157.245.27.9|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|27.79.61.19|50003|Vietnam|Buon Ma Thuot|Viettel Corporation|
-|13|20.44.206.138|80|Singapore|Singapore|Microsoft Corporation|
-|14|64.225.4.63|9993|United States|Clifton|DigitalOcean, LLC|
-|15|192.111.150.17|8080|United States|Quinton|Centrilogic|
-|16|27.79.48.201|10002|Vietnam|Tan Tien|Viettel Corporation|
-|17|20.120.240.49|80|United States|Quincy|Microsoft Corporation|
-|18|117.3.241.72|50003|Vietnam|Hanoi|Viettel Corporation|
-|19|203.150.128.137|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|20|8.219.170.236|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|1|73.242.86.12|8118|United States|Minnetonka|Comcast Cable Communications|
+|2|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
+|3|192.111.150.15|8080|United States|Quinton|Centrilogic|
+|4|3.120.238.250|3128|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|5|35.213.91.45|80|Japan|Tokyo|Google LLC|
+|6|192.111.150.12|8080|United States|Quinton|Centrilogic|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|192.111.150.9|8080|United States|Quinton|Centrilogic|
+|9|192.111.150.14|8080|United States|Quinton|Centrilogic|
+|10|140.238.245.116|8100|India|Mumbai|Oracle Corporation|
+|11|8.209.114.72|3129|Germany|Frankfurt am Main|Alibaba.com Singapore E-Commerce Private Limited|
+|12|20.120.240.49|80|United States|Quincy|Microsoft Corporation|
+|13|192.111.150.3|8080|United States|Quinton|Centrilogic|
+|14|20.44.206.138|80|Singapore|Singapore|Microsoft Corporation|
+|15|103.134.44.176|8080|India|Haridwar|Countrylink Communiction Pvt Ltd|
+|16|8.219.170.236|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|17|192.111.150.20|8080|United States|Quinton|Centrilogic|
+|18|129.154.225.163|8100|India|Mumbai|Oracle Corporation|
+|19|51.79.50.31|9300|Canada|Beauharnois|OVH SAS|
+|20|94.154.152.141|8079|Albania|Lushnje|Luva Group Sh.p.k.|
 
 
 
