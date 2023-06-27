@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **9412** proxies at the latest update. Usable proxies are below.
+> Scraper found **9566** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|432|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|432|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|432|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|446|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|446|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|446|
 
 ## Sources
 
@@ -36,37 +36,37 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1168|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|2|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1129|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|794|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|6367|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|774|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|6578|✅|
 
 
 ## Sample Proxies With Geolocation Info
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|192.111.150.2|8080|United States|Quinton|Centrilogic|
-|2|192.254.79.243|8080|United States|Quinton|Centrilogic|
-|3|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
-|4|27.79.11.114|11011|Vietnam|Tan Tien|Viettel Corporation|
-|5|197.248.86.237|32650|Kenya|Nairobi|Safaricom Limited|
-|6|192.111.150.7|8080|United States|Quinton|Centrilogic|
-|7|110.34.3.229|3128|Nepal|Bharatpur|SUBISU C7|
-|8|192.254.79.243|8080|United States|Quinton|Centrilogic|
-|9|167.250.51.240|999|Venezuela|Caracas|CORPORACIÓN GALA IT, C.A.|
-|10|174.138.88.120|3128|United States|Clifton|DigitalOcean, LLC|
-|11|45.70.4.141|36954|Brazil|Serra Talhada|OLITECH INFORMÁTICA E COMUNICAÇÃO LTDA|
-|12|64.225.8.82|9977|United States|Clifton|DigitalOcean, LLC|
-|13|192.111.150.12|8080|United States|Quinton|Centrilogic|
-|14|64.225.4.29|9815|United States|Clifton|DigitalOcean, LLC|
-|15|35.213.91.45|80|Japan|Tokyo|Google LLC|
-|16|183.87.160.62|84|India|Mumbai|JPR Digital Pvt Ltd|
-|17|45.167.124.157|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|18|179.48.15.160|80|Brazil|Recife|Connect Fibra Servicos De Telecomunicacao Ltda|
-|19|130.61.158.19|80|Germany|Frankfurt am Main|Oracle Corporation|
-|20|183.221.242.102|9443|China|Mianyang|China Mobile|
+|1|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|2|107.148.94.92|80|United States|Los Angeles|PEG TECH INC|
+|3|110.77.241.244|8080|Thailand|Samphanthawong|CAT Telecom Public Company Limited|
+|4|128.199.233.192|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|192.111.150.2|8080|United States|Quinton|Centrilogic|
+|6|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
+|7|118.69.111.51|8080|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|8|110.34.3.229|3128|Nepal|Bharatpur|SUBISU C7|
+|9|103.179.182.185|8181|Indonesia|Banyuwangi|PT Cahaya Solusindo Internusa|
+|10|45.224.148.116|999|Ecuador|Hacienda La Libertad|Nedetel S.A.|
+|11|181.78.105.149|999|Guatemala|Guatemala City|Ufinet Panama S.A.|
+|12|41.57.6.45|8080|South Africa|Rustenburg|Rust Scr|
+|13|138.2.225.121|80|United States|San Jose|Oracle Corporation|
+|14|41.76.145.18|443|Mozambique|Maputo|VM  S.A|
+|15|41.76.145.136|443|Mozambique|Maputo|VM  S.A|
+|16|170.231.55.142|999|Honduras|El Progreso|METRONET|
+|17|176.9.238.176|16379|Germany|Falkenstein|Hetzner|
+|18|95.189.103.14|3128|Russia|Chita|OJSC "Sibirtelecom"|
+|19|116.254.117.162|80|Indonesia|Semarang|PT Media Sarana Data|
+|20|133.186.250.201|3128|Japan|Chiyoda|NHNCLOUD|
 
 
 
