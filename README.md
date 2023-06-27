@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|532|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|532|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|532|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|478|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|478|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|478|
 
 ## Sources
 
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.240.219.50|8080|Singapore|Singapore|Google LLC|
-|2|66.135.14.166|443|United States|Piscataway|The Constant Company, LLC|
-|3|81.25.227.216|3128|Ukraine|Odesa|Skyline ISP|
-|4|35.213.91.45|80|Japan|Tokyo|Google LLC|
-|5|141.145.207.156|3128|France|Paris|Oracle Corporation|
-|6|195.133.45.149|7788|Russia|Moscow|VDS|
-|7|66.135.14.166|443|United States|Piscataway|The Constant Company, LLC|
-|8|77.247.108.17|33080|Netherlands|Amsterdam|ABC Consultancy|
-|9|46.16.201.51|3129|Switzerland|Bern|Hosteur SA|
-|10|171.227.0.238|22621|Vietnam|Gia Nghia|Viettel Corporation|
-|11|115.144.16.101|10471|South Korea|Hwaseong-si|Korea Telecom|
-|12|27.79.62.240|10008|Vietnam|Buon Ma Thuot|Viettel Corporation|
+|1|18.116.27.91|443|United States|Dublin|Amazon.com, Inc.|
+|2|192.111.150.7|8080|United States|Quinton|Centrilogic|
+|3|192.111.150.14|8080|United States|Quinton|Centrilogic|
+|4|46.16.201.51|3129|Switzerland|Bern|Hosteur SA|
+|5|35.240.219.50|8080|Singapore|Singapore|Google LLC|
+|6|18.116.27.91|443|United States|Dublin|Amazon.com, Inc.|
+|7|8.219.170.236|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|35.213.91.45|80|Japan|Tokyo|Google LLC|
+|9|77.247.108.17|33080|Netherlands|Amsterdam|ABC Consultancy|
+|10|192.111.150.14|8080|United States|Quinton|Centrilogic|
+|11|141.145.207.156|3128|France|Paris|Oracle Corporation|
+|12|188.166.213.190|4444|Singapore|Singapore|DigitalOcean, LLC|
 |13|118.69.111.51|8080|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|15|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
-|16|192.111.150.14|8080|United States|Quinton|Centrilogic|
-|17|45.176.164.64|999|Chile|Chillan|SOCIEDAD DE TELECOMUNICACIONES LIMITADA (SETEL LTDA)|
-|18|8.219.170.236|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|19|171.227.0.186|22621|Vietnam|Gia Nghia|Viettel Corporation|
-|20|115.144.102.39|10080|South Korea|Mapo-gu|Korea Telecom|
+|14|107.148.94.92|80|United States|Los Angeles|PEG TECH INC|
+|15|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|16|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
+|17|87.107.48.173|23500|Iran|Tehran|Soroush Rasaneh|
+|18|171.227.0.186|22621|Vietnam|Gia Nghia|Viettel Corporation|
+|19|192.111.150.20|8080|United States|Quinton|Centrilogic|
+|20|103.56.205.84|8080|Indonesia|Jakarta|Argon Data Communication|
 
 
 
