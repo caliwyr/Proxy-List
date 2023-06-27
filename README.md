@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **9321** proxies at the latest update. Usable proxies are below.
+> Scraper found **9241** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|348|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|348|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|348|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|276|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|276|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|276|
 
 ## Sources
 
@@ -37,9 +37,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1010|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|911|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|790|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|809|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|6438|✅|
 
 
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.153.117.113|8800|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|2|35.213.91.45|80|Japan|Tokyo|Google LLC|
-|3|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
-|4|192.254.79.243|8080|United States|Quinton|Centrilogic|
-|5|192.111.150.3|8080|United States|Quinton|Centrilogic|
-|6|35.240.156.235|8080|Singapore|Singapore|Google LLC|
+|1|35.213.91.45|80|Japan|Tokyo|Google LLC|
+|2|192.111.150.12|8080|United States|Quinton|Centrilogic|
+|3|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
+|4|192.111.150.11|8080|United States|Quinton|Centrilogic|
+|5|171.226.91.210|14023|Vietnam|Hanoi|Viettel Corporation|
+|6|158.69.73.79|9300|Canada|Montreal|OVH SAS|
 |7|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|8|171.226.91.210|14023|Vietnam|Hanoi|Viettel Corporation|
-|9|34.143.228.238|8080|Singapore|Singapore|Google LLC|
-|10|91.25.93.174|3128|Germany|Frankfurt am Main|Deutsche Telekom AG|
-|11|158.69.71.245|9300|Canada|Montreal|OVH SAS|
-|12|192.111.150.11|8080|United States|Quinton|Centrilogic|
-|13|140.238.58.147|80|Japan|Tokyo|Oracle Corporation|
-|14|140.238.245.116|8100|India|Mumbai|Oracle Corporation|
-|15|192.111.150.9|8080|United States|Quinton|Centrilogic|
-|16|151.182.145.3|3128|Spain|Madrid|Vodafone Espana S.A.U.|
-|17|103.137.198.5|8080|India|Hyderabad|Bcm Airwaysroute|
-|18|189.201.242.146|8888|Mexico|Mexicali|Tecnologías Avanzadas S. de R.L. de C.V.|
-|19|200.105.215.22|33630|Bolivia|La Paz|AXS Bolivia S. A.|
-|20|35.213.91.45|80|Japan|Tokyo|Google LLC|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|192.111.150.9|8080|United States|Quinton|Centrilogic|
+|10|146.196.54.75|80|Hong Kong|Kwun Tong|Layerstack Limited|
+|11|189.201.242.146|8888|Mexico|Mexicali|Tecnologías Avanzadas S. de R.L. de C.V.|
+|12|35.213.91.45|80|Japan|Tokyo|Google LLC|
+|13|41.76.145.136|443|Mozambique|Maputo|VM  S.A|
+|14|192.241.153.116|3128|United States|North Bergen|DigitalOcean, LLC|
+|15|151.182.145.3|3128|Spain|Madrid|Vodafone Espana S.A.U.|
+|16|35.240.219.50|8080|Singapore|Singapore|Google LLC|
+|17|47.242.3.214|8081|Hong Kong|Hong Kong|Alibaba.com LLC|
+|18|171.226.91.210|14023|Vietnam|Hanoi|Viettel Corporation|
+|19|41.76.145.18|8080|Mozambique|Maputo|VM  S.A|
+|20|103.168.44.167|9191|Indonesia|Brebes|PT CYB Media Group|
 
 
 
