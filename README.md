@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **8983** proxies at the latest update. Usable proxies are below.
+> Scraper found **9019** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|333|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|333|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|333|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|307|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|307|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|307|
 
 ## Sources
 
@@ -37,7 +37,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|948|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|984|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|616|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|6336|✅|
@@ -49,24 +49,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|8.209.114.72|3129|Germany|Frankfurt am Main|Alibaba.com Singapore E-Commerce Private Limited|
 |2|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
-|3|35.213.91.45|80|Japan|Tokyo|Google LLC|
-|4|200.46.65.66|8080|Panama|Panama City|Cable Onda|
-|5|66.70.178.214|9300|Canada|Beauharnois|OVH SAS|
-|6|103.134.44.176|8080|India|Haridwar|Countrylink Communiction Pvt Ltd|
-|7|77.247.108.17|33080|Netherlands|Amsterdam|ABC Consultancy|
-|8|103.145.160.5|8080|Indonesia|Bogor|PT Indonesia Comnets Plus|
-|9|190.54.100.74|8080|Chile|Santiago|Telmex Chile Internet S.A.|
-|10|185.98.23.229|3128|France|Valence|ITMETRIX|
-|11|18.116.27.91|443|United States|Dublin|Amazon.com, Inc.|
-|12|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|14|54.237.145.145|80|United States|Ashburn|Amazon.com, Inc.|
-|15|200.105.215.22|33630|Bolivia|La Paz|AXS Bolivia S. A.|
-|16|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|17|8.209.114.72|3129|Germany|Frankfurt am Main|Alibaba.com Singapore E-Commerce Private Limited|
-|18|64.225.4.63|9986|United States|Clifton|DigitalOcean, LLC|
-|19|35.213.91.45|80|Japan|Tokyo|Google LLC|
-|20|54.237.145.145|80|United States|Ashburn|Amazon.com, Inc.|
+|3|86.57.137.63|2222|Belarus|Gomel|BELPAK|
+|4|35.213.91.45|80|Japan|Tokyo|Google LLC|
+|5|77.247.108.17|33080|Netherlands|Amsterdam|ABC Consultancy|
+|6|173.176.14.246|3128|Canada|Vaudreuil-Dorion|Le Groupe Videotron Ltee|
+|7|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|8|200.25.254.193|54240|Colombia|Neiva|Andinet ON Line|
+|9|185.103.128.138|8080|Iran|Tehran|Pishgaman Toseeh Ertebatat Company (Private Joint Stock)|
+|10|103.125.240.237|8080|Pakistan|Karachi|GCS (Private) Limited|
+|11|186.4.147.10|8080|Ecuador|Quito|Telconet S.A|
+|12|54.237.145.145|80|United States|Ashburn|Amazon.com, Inc.|
+|13|67.205.160.228|3128|United States|North Bergen|DigitalOcean, LLC|
+|14|134.35.225.240|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|15|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|16|203.67.127.19|8080|Taiwan|Sanchong District|Digital United Inc.|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|19|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
+|20|114.255.132.60|3128|China|Beijing|China Unicom Beijing Province Network|
 
 
 
