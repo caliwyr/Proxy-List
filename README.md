@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **9456** proxies at the latest update. Usable proxies are below.
+> Scraper found **9391** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -36,8 +36,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1141|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1076|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|738|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|6494|✅|
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|192.111.150.14|8080|United States|Quinton|Centrilogic|
-|2|54.237.145.145|80|United States|Ashburn|Amazon.com, Inc.|
-|3|3.25.122.36|3128|Australia|Sydney|Amazon.com, Inc.|
-|4|35.213.91.45|80|Japan|Tokyo|Google LLC|
-|5|157.245.27.9|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|6|192.254.79.243|8080|United States|Quinton|Centrilogic|
-|7|173.176.14.246|3128|Canada|Vaudreuil-Dorion|Le Groupe Videotron Ltee|
-|8|192.111.150.16|8080|United States|Quinton|Centrilogic|
-|9|54.237.145.145|80|United States|Ashburn|Amazon.com, Inc.|
-|10|77.247.108.17|33080|Netherlands|Amsterdam|ABC Consultancy|
-|11|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|129.154.225.163|8100|India|Mumbai|Oracle Corporation|
-|14|182.52.229.165|8080|Thailand|Si Racha|TOT Public Company Limited|
-|15|192.111.150.15|8080|United States|Quinton|Centrilogic|
-|16|64.225.4.63|9993|United States|Clifton|DigitalOcean, LLC|
-|17|8.219.170.236|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|18|192.111.150.9|8080|United States|Quinton|Centrilogic|
-|19|118.69.111.51|8080|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|20|18.116.27.91|443|United States|Dublin|Amazon.com, Inc.|
+|1|198.44.164.136|45787|United States| Los Angeles|Zenlayer Inc|
+|2|35.213.91.45|80|Japan|Tokyo|Google LLC|
+|3|192.111.150.14|8080|United States|Quinton|Centrilogic|
+|4|54.237.145.145|80|United States|Ashburn|Amazon.com, Inc.|
+|5|192.111.150.10|8080|United States|Quinton|Centrilogic|
+|6|77.247.108.17|33080|Netherlands|Amsterdam|ABC Consultancy|
+|7|118.69.111.51|8080|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|8|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|9|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
+|10|129.154.225.163|8100|India|Mumbai|Oracle Corporation|
+|11|8.219.170.236|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|190.202.3.22|32650|Venezuela|Caracas|CANTV Servicios, Venezuela|
+|13|136.243.55.199|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|14|198.44.164.136|45787|United States| Los Angeles|Zenlayer Inc|
+|15|54.237.145.145|80|United States|Ashburn|Amazon.com, Inc.|
+|16|192.111.150.9|8080|United States|Quinton|Centrilogic|
+|17|103.180.194.146|8080|Indonesia|Jakarta Pusat|PT INDONESIA COMNETS PLUS|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|19|107.148.94.92|80|United States|Los Angeles|PEG TECH INC|
+|20|192.111.150.16|8080|United States|Quinton|Centrilogic|
 
 
 
