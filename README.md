@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **9224** proxies at the latest update. Usable proxies are below.
+> Scraper found **9227** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|367|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|367|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|367|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|378|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|378|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|378|
 
 ## Sources
 
@@ -37,9 +37,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|995|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|975|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|690|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|713|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|6456|✅|
 
 
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.213.91.45|80|Japan|Tokyo|Google LLC|
-|2|192.241.238.167|31028|United States|San Francisco|DigitalOcean, LLC|
-|3|20.44.206.138|80|Singapore|Singapore|Microsoft Corporation|
-|4|77.247.108.17|33080|Netherlands|Amsterdam|ABC Consultancy|
-|5|88.99.21.162|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|6|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|7|110.77.171.171|8080|Thailand|Bangkok|CAT-BB|
-|8|129.154.225.163|8100|India|Mumbai|Oracle Corporation|
-|9|200.105.215.22|33630|Bolivia|La Paz|AXS Bolivia S. A.|
-|10|54.237.145.145|80|United States|Ashburn|Amazon.com, Inc.|
-|11|107.148.94.92|80|United States|Los Angeles|PEG TECH INC|
-|12|46.16.201.51|3129|Switzerland|Bern|Hosteur SA|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|14|35.213.91.45|80|Japan|Tokyo|Google LLC|
-|15|18.190.21.166|80|United States|Dublin|Amazon.com, Inc.|
-|16|5.161.207.103|3128|United States|Ashburn|Hetzner Online GmbH|
-|17|77.247.108.17|33080|Netherlands|Amsterdam|ABC Consultancy|
-|18|20.44.206.138|80|Singapore|Singapore|Microsoft Corporation|
-|19|27.96.131.47|3128|South Korea|Seongnam-si|NBP|
-|20|54.237.145.145|80|United States|Ashburn|Amazon.com, Inc.|
+|1|5.161.207.103|3128|United States|Ashburn|Hetzner Online GmbH|
+|2|27.96.131.47|3128|South Korea|Seongnam-si|NBP|
+|3|129.154.225.163|8100|India|Mumbai|Oracle Corporation|
+|4|189.127.90.83|8080|Brazil|São Paulo|InterNexa Global Network|
+|5|5.161.207.103|3128|United States|Ashburn|Hetzner Online GmbH|
+|6|66.135.14.166|443|United States|Piscataway|The Constant Company, LLC|
+|7|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
+|8|18.190.21.166|80|United States|Dublin|Amazon.com, Inc.|
+|9|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|10|64.225.8.115|9983|United States|Clifton|DigitalOcean, LLC|
+|11|201.184.24.13|999|Colombia|Bogotá|EPM Telecomunicaciones S.A. E.S.P.|
+|12|5.161.105.227|3128|United States|Ashburn|Hetzner Online GmbH|
+|13|123.126.158.50|80|China|Beijing|China Unicom Beijing Province Network|
+|14|183.89.208.108|8080|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
+|15|35.213.91.45|80|Japan|Tokyo|Google LLC|
+|16|20.120.240.49|80|United States|Quincy|Microsoft Corporation|
+|17|64.225.8.82|9996|United States|Clifton|DigitalOcean, LLC|
+|18|54.237.145.145|80|United States|Ashburn|Amazon.com, Inc.|
+|19|154.223.182.139|3128|Hong Kong|Hong Kong|Shanghai Ruisu Network Technology|
+|20|117.71.149.32|8089|China|Rongcheng|Chinanet|
 
 
 
