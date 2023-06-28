@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **9042** proxies at the latest update. Usable proxies are below.
+> Scraper found **8919** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -36,10 +36,10 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|24|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|904|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|31|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|907|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|767|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|634|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|6264|✅|
 
 
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.213.91.45|80|Japan|Tokyo|Google LLC|
-|2|45.172.19.155|999|Argentina|Buenos Aires|Wireless Provider|
+|1|5.161.218.180|3128|United States|Ashburn|Hetzner Online GmbH|
+|2|5.161.218.180|3128|United States|Ashburn|Hetzner Online GmbH|
 |3|35.213.91.45|80|Japan|Tokyo|Google LLC|
-|4|139.144.24.46|8080|United States|Atlanta|Akamai Technologies, Inc.|
-|5|103.157.218.170|1911|Vietnam|Hanoi|3S Viet Nam Technology Joint Stock Company|
-|6|64.225.8.115|9976|United States|Clifton|DigitalOcean, LLC|
-|7|20.44.206.138|80|Singapore|Singapore|Microsoft Corporation|
-|8|64.225.8.82|9981|United States|Clifton|DigitalOcean, LLC|
-|9|64.225.8.115|9976|United States|Clifton|DigitalOcean, LLC|
-|10|38.156.238.28|999|Dominican Republic|Santo Domingo|BITNET DOMINICANA, S.R.L.|
-|11|34.154.161.152|80|Italy|Milan|Google LLC|
-|12|128.14.23.113|3128|United States|Los Angeles|Zenlayer Inc|
-|13|64.225.8.191|9990|United States|Clifton|DigitalOcean, LLC|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|15|180.184.91.187|443|China|Beijing|China Internet Network Information Center|
-|16|200.110.169.203|999|Colombia|Pereira|Media Commerce Partners S.A|
-|17|64.225.8.82|9981|United States|Clifton|DigitalOcean, LLC|
-|18|41.76.145.136|443|Mozambique|Maputo|VM  S.A|
+|4|24.152.40.49|8080|Paraguay|Coronel Oviedo|TV MAX CABLE S.A.|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|104.251.222.111|3126|United States|Dallas|Nodisto IT, LLC|
+|7|64.225.8.115|9983|United States|Clifton|DigitalOcean, LLC|
+|8|104.251.222.111|3126|United States|Dallas|Nodisto IT, LLC|
+|9|158.69.48.228|3128|Canada|Montreal|OVH SAS|
+|10|20.120.240.49|80|United States|Quincy|Microsoft Corporation|
+|11|174.138.88.120|3128|United States|Clifton|DigitalOcean, LLC|
+|12|167.71.225.180|3128|India|Bengaluru|DigitalOcean, LLC|
+|13|20.44.206.138|80|Singapore|Singapore|Microsoft Corporation|
+|14|122.155.165.191|3128|Thailand|Vadhana|CAT Telecom Public Company Limited|
+|15|123.126.158.50|80|China|Beijing|China Unicom Beijing Province Network|
+|16|180.184.91.187|443|China|Beijing|China Internet Network Information Center|
+|17|41.76.145.18|3128|Mozambique|Maputo|VM  S.A|
+|18|103.74.121.88|3128|Vietnam|Đống Đa District|Branch of BachKim Network solutions jsc|
 |19|123.126.158.50|80|China|Beijing|China Unicom Beijing Province Network|
-|20|123.126.158.50|80|China|Beijing|China Unicom Beijing Province Network|
+|20|201.91.82.155|3128|Brazil|São Paulo|Vivo|
 
 
 
