@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **9392** proxies at the latest update. Usable proxies are below.
+> Scraper found **9439** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|452|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|452|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|452|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|374|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|374|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|374|
 
 ## Sources
 
@@ -36,8 +36,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1010|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|1|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1056|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|805|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|6494|✅|
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|54.145.132.190|3128|United States|Ashburn|Amazon Technologies Inc.|
-|2|54.244.39.145|3128|United States|Portland|Amazon.com, Inc.|
-|3|49.51.189.190|443|United States|Los Angeles|OPHL|
-|4|192.111.150.3|8080|United States|Quinton|Centrilogic|
-|5|54.237.145.145|80|United States|Ashburn|Amazon.com, Inc.|
-|6|54.145.132.190|3128|United States|Ashburn|Amazon Technologies Inc.|
-|7|66.135.14.166|443|United States|Piscataway|The Constant Company, LLC|
-|8|8.209.114.72|3129|Germany|Frankfurt am Main|Alibaba.com Singapore E-Commerce Private Limited|
-|9|54.244.39.145|3128|United States|Portland|Amazon.com, Inc.|
-|10|77.247.108.17|33080|Netherlands|Amsterdam|ABC Consultancy|
-|11|190.202.3.22|32650|Venezuela|Caracas|CANTV Servicios, Venezuela|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|85.113.135.155|55443|Russia|Voronezh|Intercon JSC|
-|14|14.207.56.186|8080|Thailand|Hat Yai|Triple T Broadband Public Company Limited|
-|15|185.15.172.212|3128|Russia|Moscow|SafeData LLC|
-|16|103.161.164.125|8181|Indonesia|Panumbangan|PT Galuh Multidata Solution|
-|17|139.5.155.242|8080|Indonesia|Surabaya|PT Maxindo Mitra Solusi|
-|18|192.111.150.15|8080|United States|Quinton|Centrilogic|
-|19|192.111.150.8|8080|United States|Quinton|Centrilogic|
-|20|115.144.221.125|10761|South Korea|Nowon-gu|HAIonNet|
+|1|107.148.94.92|80|United States|Los Angeles|PEG TECH INC|
+|2|54.219.135.174|3128|United States|San Jose|Amazon.com, Inc.|
+|3|34.219.139.77|3128|United States|Portland|Amazon.com, Inc.|
+|4|54.219.135.174|3128|United States|San Jose|Amazon.com, Inc.|
+|5|34.219.139.77|3128|United States|Portland|Amazon.com, Inc.|
+|6|185.98.23.229|3128|France|Valence|ITMETRIX|
+|7|3.9.169.31|3128|United Kingdom|London|Amazon Technologies Inc.|
+|8|88.99.21.162|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|9|136.243.55.199|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|10|81.25.227.216|3128|Ukraine|Odesa|Skyline ISP|
+|11|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|12|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|13|200.105.215.22|33630|Bolivia|La Paz|AXS Bolivia S. A.|
+|14|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
+|15|194.44.172.254|23500|Ukraine|Rivne|State Enterprise Scientific and Telecommunication Centre "Ukrainian Academic an|
+|16|192.111.150.3|8080|United States|Quinton|Centrilogic|
+|17|54.237.145.145|80|United States|Ashburn|Amazon.com, Inc.|
+|18|137.184.142.151|3128|United States|North Bergen|DigitalOcean, LLC|
+|19|159.27.9.216|7890|China|Beimeng|Shanghai Blue Cloud Technology Co., Ltd|
+|20|192.111.150.8|8080|United States|Quinton|Centrilogic|
 
 
 
