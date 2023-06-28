@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **9447** proxies at the latest update. Usable proxies are below.
+> Scraper found **9456** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|415|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|415|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|415|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|429|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|429|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|429|
 
 ## Sources
 
@@ -37,7 +37,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1132|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1141|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|738|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|6494|✅|
@@ -49,24 +49,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|192.111.150.14|8080|United States|Quinton|Centrilogic|
 |2|54.237.145.145|80|United States|Ashburn|Amazon.com, Inc.|
-|3|173.176.14.246|3128|Canada|Vaudreuil-Dorion|Le Groupe Videotron Ltee|
-|4|3.25.122.36|3128|Australia|Sydney|Amazon.com, Inc.|
+|3|3.25.122.36|3128|Australia|Sydney|Amazon.com, Inc.|
+|4|35.213.91.45|80|Japan|Tokyo|Google LLC|
 |5|157.245.27.9|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|6|35.213.91.45|80|Japan|Tokyo|Google LLC|
-|7|77.247.108.17|33080|Netherlands|Amsterdam|ABC Consultancy|
-|8|78.29.35.17|8080|Russia|Chelyabinsk|Intersvyaz-2 JSC|
-|9|192.254.79.243|8080|United States|Quinton|Centrilogic|
-|10|54.237.145.145|80|United States|Ashburn|Amazon.com, Inc.|
+|6|192.254.79.243|8080|United States|Quinton|Centrilogic|
+|7|173.176.14.246|3128|Canada|Vaudreuil-Dorion|Le Groupe Videotron Ltee|
+|8|192.111.150.16|8080|United States|Quinton|Centrilogic|
+|9|54.237.145.145|80|United States|Ashburn|Amazon.com, Inc.|
+|10|77.247.108.17|33080|Netherlands|Amsterdam|ABC Consultancy|
 |11|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|12|190.202.3.22|32650|Venezuela|Caracas|CANTV Servicios, Venezuela|
-|13|203.150.128.43|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|14|85.113.135.155|55443|Russia|Voronezh|Intercon JSC|
-|15|136.243.55.199|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|16|185.98.23.229|3128|France|Valence|ITMETRIX|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|129.154.225.163|8100|India|Mumbai|Oracle Corporation|
+|14|182.52.229.165|8080|Thailand|Si Racha|TOT Public Company Limited|
+|15|192.111.150.15|8080|United States|Quinton|Centrilogic|
+|16|64.225.4.63|9993|United States|Clifton|DigitalOcean, LLC|
 |17|8.219.170.236|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|18|103.145.160.5|8080|Indonesia|Bogor|PT Indonesia Comnets Plus|
+|18|192.111.150.9|8080|United States|Quinton|Centrilogic|
 |19|118.69.111.51|8080|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|20|140.238.245.116|8100|India|Mumbai|Oracle Corporation|
+|20|18.116.27.91|443|United States|Dublin|Amazon.com, Inc.|
 
 
 
