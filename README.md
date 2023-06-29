@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **8588** proxies at the latest update. Usable proxies are below.
+> Scraper found **8717** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|289|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|289|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|289|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|369|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|369|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|369|
 
 ## Sources
 
@@ -36,37 +36,37 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|16|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|911|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|904|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|666|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5912|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|6064|✅|
 
 
 ## Sample Proxies With Geolocation Info
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|54.237.145.145|80|United States|Ashburn|Amazon.com, Inc.|
-|2|35.213.91.45|80|Japan|Tokyo|Google LLC|
-|3|8.209.114.72|3129|Germany|Frankfurt am Main|Alibaba.com Singapore E-Commerce Private Limited|
-|4|43.249.10.99|45787|Japan|Tokyo|Zenlayer Inc|
-|5|54.237.145.145|80|United States|Ashburn|Amazon.com, Inc.|
-|6|193.107.104.57|3128|Ukraine|Vinnytsia|Stasishen Aleksandr Afanasiyovich|
-|7|77.247.108.17|33080|Netherlands|Amsterdam|ABC Consultancy|
-|8|217.61.247.50|3128|Sweden|Stockholm|Elastx AB|
-|9|200.25.254.193|54240|Colombia|Neiva|Andinet ON Line|
-|10|20.44.206.138|80|Singapore|Singapore|Microsoft Corporation|
-|11|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|12|35.240.156.235|8080|Singapore|Singapore|Google LLC|
-|13|113.53.61.100|8080|Thailand|Si Racha|TOT Public Company Limited|
-|14|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
-|15|173.176.14.246|3128|Canada|Vaudreuil-Dorion|Le Groupe Videotron Ltee|
-|16|140.238.245.116|8100|India|Mumbai|Oracle Corporation|
-|17|134.35.204.209|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|18|64.225.4.63|9978|United States|Clifton|DigitalOcean, LLC|
-|19|185.78.29.95|3128|Russia|St Petersburg|System servers virtual hosting BEGET.RU|
-|20|64.225.4.63|9978|United States|Clifton|DigitalOcean, LLC|
+|1|35.213.91.45|80|Japan|Tokyo|Google LLC|
+|2|54.237.145.145|80|United States|Ashburn|Amazon.com, Inc.|
+|3|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
+|4|113.53.61.100|8080|Thailand|Si Racha|TOT Public Company Limited|
+|5|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|6|77.247.108.17|33080|Netherlands|Amsterdam|ABC Consultancy|
+|7|115.144.153.1|10358|South Korea|Suwon|Korea Telecom|
+|8|64.225.4.63|9993|United States|Clifton|DigitalOcean, LLC|
+|9|54.237.145.145|80|United States|Ashburn|Amazon.com, Inc.|
+|10|64.225.8.82|9977|United States|Clifton|DigitalOcean, LLC|
+|11|217.61.247.50|3128|Sweden|Stockholm|Elastx AB|
+|12|200.105.215.22|33630|Bolivia|La Paz|AXS Bolivia S. A.|
+|13|200.71.237.238|23500|Argentina|Marcelino Escalada|Telecom Argentina S.A.|
+|14|64.225.4.63|9993|United States|Clifton|DigitalOcean, LLC|
+|15|202.93.245.46|8080|Indonesia|Surabaya|DWPNAP|
+|16|103.133.223.230|8080|Indonesia|Jakarta|PT Cloud Teknologi Nusantara|
+|17|74.103.66.15|80|United States|Sparrows Point|Verizon Business|
+|18|85.117.56.151|8080|Georgia|Tbilisi|Caucasus Online Ltd.|
+|19|45.235.123.26|999|Paraguay|Ciudad del Este|Cenmont S.A|
+|20|206.189.194.109|3128|United States|North Bergen|DigitalOcean, LLC|
 
 
 
