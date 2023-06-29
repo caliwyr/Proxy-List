@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **8754** proxies at the latest update. Usable proxies are below.
+> Scraper found **8714** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|303|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|303|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|303|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|312|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|312|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|312|
 
 ## Sources
 
@@ -37,7 +37,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|915|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|875|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|692|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|6064|✅|
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|54.237.145.145|80|United States|Ashburn|Amazon.com, Inc.|
-|2|192.241.238.167|31028|United States|San Francisco|DigitalOcean, LLC|
-|3|66.135.14.166|443|United States|Piscataway|The Constant Company, LLC|
+|1|119.8.10.18|7890|Mexico|Mexico City|Huawei International Pte. LTD|
+|2|54.237.145.145|80|United States|Ashburn|Amazon.com, Inc.|
+|3|35.213.91.45|80|Japan|Tokyo|Google LLC|
 |4|54.237.145.145|80|United States|Ashburn|Amazon.com, Inc.|
-|5|35.213.91.45|80|Japan|Tokyo|Google LLC|
+|5|167.114.96.13|9300|Canada|Montreal|OVH SAS|
 |6|192.241.238.167|31028|United States|San Francisco|DigitalOcean, LLC|
-|7|20.44.206.138|80|Singapore|Singapore|Microsoft Corporation|
-|8|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
-|9|115.144.221.125|10761|South Korea|Nowon-gu|HAIonNet|
-|10|217.61.247.50|3128|Sweden|Stockholm|Elastx AB|
-|11|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|185.103.128.138|8080|Iran|Tehran|Pishgaman Toseeh Ertebatat Company (Private Joint Stock)|
-|14|202.131.159.210|1111|India|Powai|Karuturi Telecom Pvt Ltd|
-|15|66.135.14.166|443|United States|Piscataway|The Constant Company, LLC|
-|16|20.120.240.49|80|United States|Quincy|Microsoft Corporation|
-|17|139.144.24.46|8080|United States|Atlanta|Akamai Technologies, Inc.|
-|18|91.233.115.105|31280|Poland|Dąbrowa Górnicza|DG-NET SA|
-|19|139.144.24.46|8080|United States|Atlanta|Akamai Technologies, Inc.|
-|20|199.168.175.179|80|United States|Richardson|Rackspace Hosting|
+|7|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
+|8|20.44.206.138|80|Singapore|Singapore|Microsoft Corporation|
+|9|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|10|173.176.14.246|3128|Canada|Vaudreuil-Dorion|Le Groupe Videotron Ltee|
+|11|45.224.22.60|999|Ecuador|Riobamba|Nedetel S.A.|
+|12|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|13|217.61.247.50|3128|Sweden|Stockholm|Elastx AB|
+|14|66.135.14.166|443|United States|Piscataway|The Constant Company, LLC|
+|15|20.120.240.49|80|United States|Quincy|Microsoft Corporation|
+|16|139.144.24.46|8080|United States|Atlanta|Akamai Technologies, Inc.|
+|17|36.93.33.171|4480|Indonesia|Cipinang|Telekomunikasi Indonesia|
+|18|54.237.145.145|80|United States|Ashburn|Amazon.com, Inc.|
+|19|119.8.10.18|7890|Mexico|Mexico City|Huawei International Pte. LTD|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 
 
 
