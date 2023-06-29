@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **6917** proxies at the latest update. Usable proxies are below.
+> Scraper found **6868** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -37,9 +37,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1008|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|908|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|799|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|850|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|4027|✅|
 
 
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.213.91.45|80|Japan|Tokyo|Google LLC|
-|2|54.237.145.145|80|United States|Ashburn|Amazon.com, Inc.|
-|3|34.143.228.238|8080|Singapore|Singapore|Google LLC|
-|4|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
-|5|77.247.108.17|33080|Netherlands|Amsterdam|ABC Consultancy|
-|6|184.105.182.254|3128|United States|Gilroy|Hurricane Electric LLC|
-|7|35.240.219.50|8080|Singapore|Singapore|Google LLC|
-|8|8.209.114.72|3129|Germany|Frankfurt am Main|Alibaba.com Singapore E-Commerce Private Limited|
-|9|185.98.23.229|3128|France|Valence|ITMETRIX|
-|10|54.237.145.145|80|United States|Ashburn|Amazon.com, Inc.|
-|11|86.57.137.63|2222|Belarus|Gomel|BELPAK|
-|12|103.171.183.201|8181|Indonesia|Bendungan Hilir|PT Hayat Teknologi Informatika|
-|13|103.134.44.176|8080|India|Haridwar|Countrylink Communiction Pvt Ltd|
-|14|112.217.162.5|3128|South Korea|Gyeyang-gu|LG DACOM Corporation|
-|15|64.225.4.63|9971|United States|Clifton|DigitalOcean, LLC|
-|16|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|17|195.138.94.169|41890|Ukraine|Odesa|TeNeT Networking Centre|
-|18|200.82.153.209|999|Venezuela|Barquisimeto|Corporación Telemic C.A.|
-|19|61.29.96.146|8000|Australia|Melbourne|AAPT Limited|
-|20|103.189.116.129|8080|Indonesia|Purbalingga|PT Callysta Total Solusindo|
+|1|35.240.156.235|8080|Singapore|Singapore|Google LLC|
+|2|115.144.221.125|10761|South Korea|Nowon-gu|HAIonNet|
+|3|35.213.91.45|80|Japan|Tokyo|Google LLC|
+|4|107.148.94.92|80|United States|Los Angeles|PEG TECH INC|
+|5|35.240.219.50|8080|Singapore|Singapore|Google LLC|
+|6|109.194.101.128|3128|Russia|Yoshkar-Ola|CJSC "ER-Telecom Holding" Yoshkar-Ola branch|
+|7|54.237.145.145|80|United States|Ashburn|Amazon.com, Inc.|
+|8|144.217.240.185|9300|Canada|Beauharnois|OVH SAS|
+|9|34.143.228.238|8080|Singapore|Singapore|Google LLC|
+|10|140.238.245.116|8100|India|Mumbai|Oracle Corporation|
+|11|54.237.145.145|80|United States|Ashburn|Amazon.com, Inc.|
+|12|185.98.23.229|3128|France|Valence|ITMETRIX|
+|13|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
+|14|8.209.114.72|3129|Germany|Frankfurt am Main|Alibaba.com Singapore E-Commerce Private Limited|
+|15|184.105.182.254|3128|United States|Gilroy|Hurricane Electric LLC|
+|16|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
+|17|200.25.254.193|54240|Colombia|Neiva|Andinet ON Line|
+|18|77.247.108.17|33080|Netherlands|Amsterdam|ABC Consultancy|
+|19|173.176.14.246|3128|Canada|Vaudreuil-Dorion|Le Groupe Videotron Ltee|
+|20|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
 
 
 
