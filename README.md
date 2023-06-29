@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|316|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|316|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|316|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|280|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|280|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|280|
 
 ## Sources
 
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|217.61.247.50|3128|Sweden|Stockholm|Elastx AB|
-|2|77.247.108.17|33080|Netherlands|Amsterdam|ABC Consultancy|
+|1|66.135.14.166|443|United States|Piscataway|The Constant Company, LLC|
+|2|66.135.14.166|443|United States|Piscataway|The Constant Company, LLC|
 |3|35.213.91.45|80|Japan|Tokyo|Google LLC|
-|4|43.200.124.55|3128|South Korea|Seoul|Amazon.com, Inc.|
-|5|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|6|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
-|7|181.129.183.19|53281|Colombia|Bucaramanga|EPM Telecomunicaciones S.A. E.S.P.|
-|8|18.216.3.113|80|United States|Dublin|Amazon.com, Inc.|
-|9|181.232.190.210|999|Dominican Republic|Santo Domingo Este|Airtime Technology SRL|
-|10|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
-|11|190.92.208.146|7890|Singapore|Singapore|Huawei International Pte. LTD|
-|12|103.145.200.4|6969|Indonesia|Jakarta|DNE|
-|13|217.61.247.50|3128|Sweden|Stockholm|Elastx AB|
-|14|35.213.91.45|80|Japan|Tokyo|Google LLC|
-|15|81.25.227.216|3128|Ukraine|Odesa|Skyline ISP|
-|16|213.241.205.2|8080|Russia|Rostov-on-Don|RTCOMM-YUG|
-|17|54.237.145.145|80|United States|Ashburn|Amazon.com, Inc.|
-|18|147.139.168.187|3128|Indonesia|Jakarta|Alibaba.com LLC|
-|19|20.44.206.138|80|Singapore|Singapore|Microsoft Corporation|
-|20|123.126.158.50|80|China|Beijing|China Unicom Beijing Province Network|
+|4|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
+|5|217.61.247.50|3128|Sweden|Stockholm|Elastx AB|
+|6|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|7|77.247.108.17|33080|Netherlands|Amsterdam|ABC Consultancy|
+|8|140.238.245.116|8100|India|Mumbai|Oracle Corporation|
+|9|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
+|10|195.133.45.149|7788|Russia|Moscow|VDS|
+|11|203.190.43.206|8181|Indonesia|Yogyakarta|PT Jaring Lintas Utara|
+|12|38.44.237.48|999|Peru|Lima|Latin Cable|
+|13|139.144.24.46|8080|United States|Atlanta|Akamai Technologies, Inc.|
+|14|20.120.240.49|80|United States|Quincy|Microsoft Corporation|
+|15|35.213.91.45|80|Japan|Tokyo|Google LLC|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|17|8.209.114.72|3129|Germany|Frankfurt am Main|Alibaba.com Singapore E-Commerce Private Limited|
+|18|158.69.27.94|9300|Canada|Montreal|OVH SAS|
+|19|157.230.241.133|39653|Singapore|Singapore|DigitalOcean, LLC|
+|20|131.153.48.254|8080|Singapore|Singapore|Secured Servers LLC|
 
 
 
