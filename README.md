@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **8766** proxies at the latest update. Usable proxies are below.
+> Scraper found **8721** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|518|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|518|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|518|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|403|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|403|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|403|
 
 ## Sources
 
@@ -37,7 +37,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|3|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1157|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1112|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|729|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5794|✅|
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.213.91.45|80|Japan|Tokyo|Google LLC|
-|2|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
-|3|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|4|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
-|5|91.121.208.196|5062|France|Roubaix|OVH SAS|
-|6|8.219.170.236|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|117.3.246.213|50012|Vietnam|Hanoi|Viettel Corporation|
-|8|217.61.247.50|3128|Sweden|Stockholm|Elastx AB|
-|9|38.156.238.95|999|Dominican Republic|Santo Domingo|BITNET DOMINICANA, S.R.L.|
-|10|195.245.76.45|3128|Russia|Moscow|OOO NPP Logika|
-|11|18.116.27.91|443|United States|Dublin|Amazon.com, Inc.|
-|12|138.199.41.122|8800|United States|New York|Datacamp Limited|
-|13|35.213.91.45|80|Japan|Tokyo|Google LLC|
-|14|64.225.4.29|9817|United States|Clifton|DigitalOcean, LLC|
-|15|20.44.206.138|80|Singapore|Singapore|Microsoft Corporation|
-|16|41.76.145.18|8080|Mozambique|Maputo|VM  S.A|
-|17|181.191.94.126|8999|Brazil|Matias Olimpio|Fernanda Danielly Sousa Almeida - Me|
-|18|148.113.6.138|3128|India|Mumbai|OVH SAS|
-|19|122.155.165.191|3128|Thailand|Vadhana|CAT Telecom Public Company Limited|
-|20|103.138.14.33|8181|Indonesia|Medan|Adidaya Infocom Lestari|
+|1|217.61.247.50|3128|Sweden|Stockholm|Elastx AB|
+|2|35.213.91.45|80|Japan|Tokyo|Google LLC|
+|3|114.30.19.201|8080|South Korea|Paju|DLIVE|
+|4|110.93.225.217|3128|Pakistan|Karachi|TRANSWORLD ASSOCIATES (PVT) LIMITED|
+|5|117.3.246.213|50012|Vietnam|Hanoi|Viettel Corporation|
+|6|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|7|185.103.128.138|8080|Iran|Tehran|Pishgaman Toseeh Ertebatat Company (Private Joint Stock)|
+|8|200.105.215.22|33630|Bolivia|La Paz|AXS Bolivia S. A.|
+|9|140.238.58.147|80|Japan|Tokyo|Oracle Corporation|
+|10|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
+|11|66.135.14.166|443|United States|Piscataway|The Constant Company, LLC|
+|12|139.144.24.46|8080|United States|Atlanta|Akamai Technologies, Inc.|
+|13|159.255.188.134|41258|Poland|Warsaw|TOM-NET s.c. Dariusz Koper|
+|14|159.255.188.134|41258|Poland|Warsaw|TOM-NET s.c. Dariusz Koper|
+|15|35.213.91.45|80|Japan|Tokyo|Google LLC|
+|16|167.86.99.172|8080|Germany|Nuremberg|Contabo GmbH|
+|17|64.225.8.121|9971|United States|Clifton|DigitalOcean, LLC|
+|18|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|19|12.144.254.185|9080|United States|Little Rock|AT&T Services, Inc.|
+|20|171.227.7.254|50003|Vietnam|Gia Nghia|Viettel Corporation|
 
 
 
