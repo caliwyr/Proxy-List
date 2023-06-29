@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **8544** proxies at the latest update. Usable proxies are below.
+> Scraper found **8508** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|328|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|328|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|328|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|393|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|393|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|393|
 
 ## Sources
 
@@ -36,8 +36,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|24|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1029|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|27|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|990|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|614|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5794|✅|
@@ -49,24 +49,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.213.91.45|80|Japan|Tokyo|Google LLC|
 |2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|129.213.87.237|80|United States|Ashburn|Oracle Corporation|
-|4|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
-|5|107.148.94.92|80|United States|Los Angeles|PEG TECH INC|
-|6|171.227.0.149|50003|Vietnam|Gia Nghia|Viettel Corporation|
-|7|129.213.87.237|80|United States|Ashburn|Oracle Corporation|
-|8|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|9|117.3.241.173|50003|Vietnam|Hanoi|Viettel Corporation|
-|10|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|11|117.3.247.6|50012|Vietnam|Hanoi|Viettel Corporation|
-|12|64.225.4.63|9993|United States|Clifton|DigitalOcean, LLC|
-|13|171.227.7.254|50003|Vietnam|Gia Nghia|Viettel Corporation|
-|14|117.3.246.213|50012|Vietnam|Hanoi|Viettel Corporation|
+|3|119.8.120.4|80|Hong Kong|Hong Kong|Huawei International Pte. LTD|
+|4|203.150.128.248|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|5|64.225.4.63|9993|United States|Clifton|DigitalOcean, LLC|
+|6|45.231.220.67|999|Mexico|Tijuana|Distrokom S De RL De CV|
+|7|45.135.165.170|8080|Germany|Berlin|RUVDS|
+|8|64.225.4.63|9993|United States|Clifton|DigitalOcean, LLC|
+|9|117.3.247.6|50012|Vietnam|Hanoi|Viettel Corporation|
+|10|116.111.222.92|50012|Vietnam|Tan Tien|Viettel Corporation|
+|11|117.3.246.213|50012|Vietnam|Hanoi|Viettel Corporation|
+|12|117.3.241.104|50003|Vietnam|Hanoi|Viettel Corporation|
+|13|173.176.14.246|3128|Canada|Vaudreuil-Dorion|Le Groupe Videotron Ltee|
+|14|171.227.7.254|50003|Vietnam|Gia Nghia|Viettel Corporation|
 |15|171.227.0.52|50003|Vietnam|Gia Nghia|Viettel Corporation|
-|16|213.241.205.2|8080|Russia|Rostov-on-Don|RTCOMM-YUG|
-|17|64.225.4.63|9993|United States|Clifton|DigitalOcean, LLC|
-|18|185.98.23.229|3128|France|Valence|ITMETRIX|
-|19|116.111.222.92|50012|Vietnam|Tan Tien|Viettel Corporation|
-|20|159.69.245.208|51813|Germany|Nuremberg|Hetzner Online GmbH|
+|16|171.227.7.250|50003|Vietnam|Gia Nghia|Viettel Corporation|
+|17|159.69.245.208|51813|Germany|Nuremberg|Hetzner Online GmbH|
+|18|117.3.241.173|50003|Vietnam|Hanoi|Viettel Corporation|
+|19|162.243.149.86|31028|United States|San Francisco|DigitalOcean, LLC|
+|20|185.15.172.212|3128|Russia|Moscow|SafeData LLC|
 
 
 
