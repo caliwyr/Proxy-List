@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **8504** proxies at the latest update. Usable proxies are below.
+> Scraper found **8540** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -36,8 +36,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|28|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|868|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|67|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|865|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|506|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|6019|✅|
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|149.102.243.133|34000|United States|Los Angeles|Datacamp Limited|
-|2|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
-|3|35.213.91.45|80|Japan|Tokyo|Google LLC|
-|4|116.111.218.149|50012|Vietnam|Tan Tien|Viettel Corporation|
-|5|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|140.238.245.116|8100|India|Mumbai|Oracle Corporation|
-|8|200.105.215.22|33630|Bolivia|La Paz|AXS Bolivia S. A.|
-|9|64.225.4.29|9865|United States|Clifton|DigitalOcean, LLC|
-|10|192.241.238.167|31028|United States|San Francisco|DigitalOcean, LLC|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|13|117.3.241.165|50003|Vietnam|Hanoi|Viettel Corporation|
-|14|20.219.235.172|3129|India|Pune|Microsoft Corporation|
-|15|47.242.3.214|8081|Hong Kong|Hong Kong|Alibaba.com LLC|
-|16|116.111.218.149|50012|Vietnam|Tan Tien|Viettel Corporation|
-|17|103.114.219.120|3128|United States|Lenoir|Centrilogic, Inc.|
-|18|20.204.190.254|3129|India|Pune|Microsoft Corporation|
-|19|120.79.86.123|80|China|Shenzhen|Hangzhou Alibaba Advertising Co|
-|20|18.190.21.166|80|United States|Dublin|Amazon.com, Inc.|
+|1|217.61.247.50|3128|Sweden|Stockholm|Elastx AB|
+|2|35.213.91.45|80|Japan|Tokyo|Google LLC|
+|3|20.219.177.85|3129|India|Pune|Microsoft Corporation|
+|4|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|5|20.219.182.59|3129|India|Pune|Microsoft Corporation|
+|6|20.219.235.172|3129|India|Pune|Microsoft Corporation|
+|7|20.219.178.121|3129|India|Pune|Microsoft Corporation|
+|8|20.219.177.38|3129|India|Pune|Microsoft Corporation|
+|9|20.219.177.73|3129|India|Pune|Microsoft Corporation|
+|10|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|11|109.196.76.33|3128|Russia|Aleksandrov|Trytek broadband|
+|12|20.204.190.254|3129|India|Pune|Microsoft Corporation|
+|13|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|14|20.219.183.188|3129|India|Pune|Microsoft Corporation|
+|15|20.219.180.105|3129|India|Pune|Microsoft Corporation|
+|16|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|17|102.38.17.193|8080|Libya|Tripoli|GHA|
+|18|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|19|66.135.14.166|443|United States|Piscataway|The Constant Company, LLC|
+|20|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
 
 
 
