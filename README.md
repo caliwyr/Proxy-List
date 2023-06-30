@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|286|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|286|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|286|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|339|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|339|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|339|
 
 ## Sources
 
@@ -37,9 +37,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|945|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|948|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|656|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|653|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5703|✅|
 
 
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|194.163.175.163|3128|Germany|Düsseldorf|Contabo GmbH|
+|1|66.135.14.166|443|United States|Piscataway|The Constant Company, LLC|
 |2|35.213.91.45|80|Japan|Tokyo|Google LLC|
-|3|116.111.218.149|50012|Vietnam|Tan Tien|Viettel Corporation|
-|4|20.44.206.138|80|Singapore|Singapore|Microsoft Corporation|
-|5|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
-|6|103.209.36.56|8080|India|Mumbai|Syscon Infoway Pvt. Ltd.|
-|7|119.8.10.18|7890|Mexico|Mexico City|Huawei International Pte. LTD|
-|8|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|9|119.252.174.195|800|Indonesia|Depok|PT Indonesia Comnets Plus|
-|10|66.70.178.214|9300|Canada|Beauharnois|OVH SAS|
-|11|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|12|35.213.91.45|80|Japan|Tokyo|Google LLC|
-|13|183.221.242.111|8443|China|Mianyang|China Mobile|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|15|183.221.242.103|9443|China|Mianyang|China Mobile|
-|16|64.225.8.82|9981|United States|Clifton|DigitalOcean, LLC|
-|17|8.242.85.3|999|Colombia|Medellín|Level 3 Communications, Inc.|
-|18|35.213.91.45|80|Japan|Tokyo|Google LLC|
-|19|180.184.91.187|443|China|Beijing|China Internet Network Information Center|
-|20|117.71.155.241|8089|China|Rongcheng|Chinanet|
+|3|66.135.14.166|443|United States|Piscataway|The Constant Company, LLC|
+|4|34.143.228.238|8080|Singapore|Singapore|Google LLC|
+|5|149.102.243.133|34000|United States|Los Angeles|Datacamp Limited|
+|6|35.240.219.50|8080|Singapore|Singapore|Google LLC|
+|7|118.69.111.51|8080|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|8|35.240.156.235|8080|Singapore|Singapore|Google LLC|
+|9|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|82.165.184.53|80|Poland|Warsaw|IONOS SE|
+|12|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|13|103.153.185.229|8080|Bangladesh|Dhaka|Century Link Network|
+|14|147.135.71.213|8008|United States|Reston|OVH SAS|
+|15|66.135.14.166|443|United States|Piscataway|The Constant Company, LLC|
+|16|139.5.132.245|8080|Bangladesh|Azimpur|Net Plus Online|
+|17|102.68.128.218|8080|Libya|Tripoli|LTT Autonomous System|
+|18|139.144.24.46|8080|United States|Atlanta|Akamai Technologies, Inc.|
+|19|35.213.91.45|80|Japan|Tokyo|Google LLC|
+|20|34.143.228.238|8080|Singapore|Singapore|Google LLC|
 
 
 
