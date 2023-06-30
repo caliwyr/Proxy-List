@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **8558** proxies at the latest update. Usable proxies are below.
+> Scraper found **8672** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -36,8 +36,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|845|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|71|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|888|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|611|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|6019|✅|
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.44.206.138|80|Singapore|Singapore|Microsoft Corporation|
-|2|217.61.247.50|3128|Sweden|Stockholm|Elastx AB|
-|3|35.213.91.45|80|Japan|Tokyo|Google LLC|
-|4|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
-|5|20.219.182.59|3129|India|Pune|Microsoft Corporation|
-|6|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|7|20.219.183.188|3129|India|Pune|Microsoft Corporation|
-|8|20.219.180.105|3129|India|Pune|Microsoft Corporation|
-|9|171.226.91.210|14023|Vietnam|Hanoi|Viettel Corporation|
-|10|20.219.235.172|3129|India|Pune|Microsoft Corporation|
-|11|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|12|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|13|20.204.190.254|3129|India|Pune|Microsoft Corporation|
-|14|135.125.68.145|3128|France|Roubaix|OVH SAS|
+|1|170.0.54.188|8080|Brazil|Bacabal|Telecom Scae Ltda|
+|2|34.124.225.130|8080|Singapore|Singapore|Google LLC|
+|3|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
+|4|103.92.26.190|4002|Vietnam|Quận Phú Nhuận|TLSOFT|
+|5|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|6|20.219.182.59|3129|India|Pune|Microsoft Corporation|
+|7|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|8|20.204.190.254|3129|India|Pune|Microsoft Corporation|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|20.219.180.105|3129|India|Pune|Microsoft Corporation|
+|11|20.219.235.172|3129|India|Pune|Microsoft Corporation|
+|12|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|13|20.219.177.85|3129|India|Pune|Microsoft Corporation|
+|14|20.219.177.38|3129|India|Pune|Microsoft Corporation|
 |15|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|16|20.219.177.38|3129|India|Pune|Microsoft Corporation|
-|17|187.190.249.114|1994|Mexico|Chetumal|Total Play Telecomunicaciones SA De CV|
-|18|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|19|84.51.15.252|32650|Turkey|Konya|Superonline Iletisim Hizmetleri A.S.|
-|20|103.134.44.176|8080|India|Haridwar|Countrylink Communiction Pvt Ltd|
+|16|20.219.183.188|3129|India|Pune|Microsoft Corporation|
+|17|90.154.124.211|8080|Russia|Moscow|CTC-B2B|
+|18|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|19|149.102.243.133|34000|United States|Los Angeles|Datacamp Limited|
+|20|139.144.24.46|8080|United States|Atlanta|Akamai Technologies, Inc.|
 
 
 
