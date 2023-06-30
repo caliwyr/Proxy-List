@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **8304** proxies at the latest update. Usable proxies are below.
+> Scraper found **8363** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|294|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|294|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|294|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|251|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|251|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|251|
 
 ## Sources
 
@@ -39,7 +39,7 @@ Click the file format that you want and copy the URL.
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|1|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|987|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|530|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|589|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5703|✅|
 
 
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
-|2|34.154.161.152|80|Italy|Milan|Google LLC|
-|3|35.213.91.45|80|Japan|Tokyo|Google LLC|
-|4|118.69.111.51|8080|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|5|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
-|6|105.27.130.22|9812|South Africa|Johannesburg|SEACOM Limited Networks|
-|7|85.173.165.36|46330|Russia|Cherkessk|Karachaevo-Cherkesskelektrosvyaz|
-|8|5.58.33.187|55507|Ukraine|Ternopil|Columbus|
-|9|117.3.246.211|50012|Vietnam|Hanoi|Viettel Corporation|
-|10|139.144.24.46|8080|United States|Atlanta|Akamai Technologies, Inc.|
-|11|194.163.175.163|3128|Germany|Düsseldorf|Contabo GmbH|
-|12|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
-|13|138.199.41.117|8899|United States|New York|Datacamp Limited|
-|14|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
-|15|202.40.177.69|80|Bangladesh|Azimpur|Ranks ITT|
-|16|41.76.145.18|3128|Mozambique|Maputo|VM  S.A|
-|17|183.221.242.111|8443|China|Mianyang|China Mobile|
-|18|4.193.164.48|3128|Singapore|Singapore|Microsoft Corporation|
+|1|35.213.91.45|80|Japan|Tokyo|Google LLC|
+|2|158.69.53.98|9300|Canada|Montreal|OVH SAS|
+|3|188.40.15.9|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|4|112.78.164.205|8080|Indonesia|Jakarta|Biznet Networks|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|157.245.27.9|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|7|35.240.219.50|8080|Singapore|Singapore|Google LLC|
+|8|178.234.31.40|3128|Russia|Lipetsk|Address point-to-point Lipetsk Regional Public Network BBN-3/1/1 General|
+|9|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
+|10|173.176.14.246|3128|Canada|Vaudreuil-Dorion|Le Groupe Videotron Ltee|
+|11|118.69.111.51|8080|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|12|200.105.215.22|33630|Bolivia|La Paz|AXS Bolivia S. A.|
+|13|66.135.14.166|443|United States|Piscataway|The Constant Company, LLC|
+|14|23.122.184.9|8888|United States|Hialeah|AT&T Services, Inc.|
+|15|20.120.240.49|80|United States|Quincy|Microsoft Corporation|
+|16|139.144.24.46|8080|United States|Atlanta|Akamai Technologies, Inc.|
+|17|138.199.41.122|8888|United States|New York|Datacamp Limited|
+|18|131.153.48.254|8080|Singapore|Singapore|Secured Servers LLC|
 |19|183.221.242.107|8443|China|Mianyang|China Mobile|
-|20|177.23.133.8|8080|Brazil|Fortaleza|Mnet Telecom Provedoria em Internet Ltda|
+|20|41.76.145.136|443|Mozambique|Maputo|VM  S.A|
 
 
 
