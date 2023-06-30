@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **9102** proxies at the latest update. Usable proxies are below.
+> Scraper found **8932** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|536|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|536|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|536|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|398|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|398|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|398|
 
 ## Sources
 
@@ -37,9 +37,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1165|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1087|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|803|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|711|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|6051|✅|
 
 
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.67.39|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|107.148.94.92|80|United States|Los Angeles|PEG TECH INC|
-|3|35.213.91.45|80|Japan|Tokyo|Google LLC|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|217.61.247.50|3128|Sweden|Stockholm|Elastx AB|
-|6|88.99.21.184|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|7|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
-|8|8.209.114.72|3129|Germany|Frankfurt am Main|Alibaba.com Singapore E-Commerce Private Limited|
-|9|20.44.206.138|80|Singapore|Singapore|Microsoft Corporation|
-|10|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
-|11|115.144.153.1|10358|South Korea|Suwon|Korea Telecom|
-|12|140.238.245.116|8100|India|Mumbai|Oracle Corporation|
-|13|95.216.238.234|3128|Finland|Helsinki|Hetzner Online GmbH|
-|14|121.126.200.123|11361|South Korea|Gwanak-gu|HAIonNet|
-|15|114.7.27.98|8080|Indonesia|Baru Ilir|PT. INDOSAT Tbk|
-|16|51.79.50.22|9300|Canada|Beauharnois|OVH SAS|
-|17|103.129.92.95|9995|Indonesia|Malang|PT. Eka Mas Republik|
-|18|103.134.44.176|8080|India|Haridwar|Countrylink Communiction Pvt Ltd|
-|19|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|20|117.3.241.173|50003|Vietnam|Hanoi|Viettel Corporation|
+|1|66.135.14.166|443|United States|Piscataway|The Constant Company, LLC|
+|2|37.187.77.191|8080|France|Gravelines|OVH SAS|
+|3|107.148.94.92|80|United States|Los Angeles|PEG TECH INC|
+|4|35.213.91.45|80|Japan|Tokyo|Google LLC|
+|5|50.225.202.9|3128|United States|Brooklyn Park|Comcast Cable Communications, LLC|
+|6|217.61.247.50|3128|Sweden|Stockholm|Elastx AB|
+|7|34.124.225.130|8080|Singapore|Singapore|Google LLC|
+|8|190.124.165.199|3128|Honduras|San Pedro Sula|Redes y Telecomunicaciones|
+|9|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
+|10|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|185.103.128.138|8080|Iran|Tehran|Pishgaman Toseeh Ertebatat Company (Private Joint Stock)|
+|13|185.15.172.212|3128|Russia|Moscow|SafeData LLC|
+|14|61.7.149.4|8080|Thailand|Nonthaburi|CAT Telecom Public Company Limited|
+|15|117.3.241.165|50003|Vietnam|Hanoi|Viettel Corporation|
+|16|66.135.14.166|443|United States|Piscataway|The Constant Company, LLC|
+|17|139.144.24.46|8080|United States|Atlanta|Akamai Technologies, Inc.|
+|18|64.225.8.135|9997|United States|Clifton|DigitalOcean, LLC|
+|19|45.189.234.28|999|Venezuela|Cabudare|Boom Solutions C.A.|
+|20|35.213.91.45|80|Japan|Tokyo|Google LLC|
 
 
 
