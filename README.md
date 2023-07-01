@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **8630** proxies at the latest update. Usable proxies are below.
+> Scraper found **8742** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -37,9 +37,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1091|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1156|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|618|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|665|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5838|✅|
 
 
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|66.135.14.166|443|United States|Piscataway|The Constant Company, LLC|
-|2|35.213.91.45|80|Japan|Tokyo|Google LLC|
-|3|161.97.144.14|3128|Germany|Düsseldorf|Contabo GmbH|
-|4|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|5|66.135.14.166|443|United States|Piscataway|The Constant Company, LLC|
-|6|45.77.200.198|3128|United States|Piscataway|The Constant Company|
-|7|20.219.177.85|3129|India|Pune|Microsoft Corporation|
-|8|20.219.235.172|3129|India|Pune|Microsoft Corporation|
-|9|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|10|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|11|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
-|12|20.204.190.254|3129|India|Pune|Microsoft Corporation|
-|13|20.219.177.73|3129|India|Pune|Microsoft Corporation|
-|14|20.219.180.149|3129|India|Pune|Microsoft Corporation|
-|15|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|16|190.83.15.241|999|Ecuador|Zamora|TAPIA FLORES OSCAR ALDO (FIBRANET ZAMORA)|
-|17|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|18|200.106.187.242|999|Argentina|Jose Maria Ezeiza|Fullnet Solutions S.A.S.|
-|19|181.174.115.78|1994|Guatemala|Guatemala City|Comcel Guatemala S.A.|
-|20|80.106.247.145|53410|Greece|Athens|Ote SA (Hellenic Telecommunications Organisation)|
+|1|35.213.91.45|80|Japan|Tokyo|Google LLC|
+|2|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|3|20.219.178.121|3129|India|Pune|Microsoft Corporation|
+|4|190.95.156.166|8080|Ecuador|Guayaquil|Telconet S.A|
+|5|51.79.50.22|9300|Canada|Beauharnois|OVH SAS|
+|6|20.44.206.138|80|Singapore|Singapore|Microsoft Corporation|
+|7|50.84.48.130|8080|United States|Dallas|Spectrum|
+|8|190.152.182.150|41890|Ecuador|Quito|Corporacion Nacional De Telecomunicaciones - CNT EP|
+|9|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|10|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|11|34.143.228.238|8080|Singapore|Singapore|Google LLC|
+|12|171.226.91.210|14023|Vietnam|Hanoi|Viettel Corporation|
+|13|14.161.24.81|2022|Vietnam|Di An|VNPT|
+|14|204.157.247.148|999|Dominican Republic|San Isidro|Airtime Technology SRL|
+|15|54.144.253.246|443|United States|Ashburn|Amazon Technologies Inc.|
+|16|181.205.41.210|7654|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|17|178.151.205.154|45099|Ukraine|Zaporizhzhya|Triolan|
+|18|149.50.255.45|8080|Turkey|Antakya|Cogent Communications|
+|19|88.255.217.17|8080|Turkey|Reyhanli|TurkTelekom|
+|20|58.136.0.213|8080|Thailand|Bangkok|AIS-Fibre|
 
 
 
