@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **8633** proxies at the latest update. Usable proxies are below.
+> Scraper found **8634** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|445|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|445|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|445|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|419|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|419|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|419|
 
 ## Sources
 
@@ -37,7 +37,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1011|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1012|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|699|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5840|✅|
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|157.245.27.9|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|2|8.209.114.72|3129|Germany|Frankfurt am Main|Alibaba.com Singapore E-Commerce Private Limited|
-|3|35.213.91.45|80|Japan|Tokyo|Google LLC|
-|4|64.225.4.29|9865|United States|Clifton|DigitalOcean, LLC|
-|5|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
-|6|20.44.206.138|80|Singapore|Singapore|Microsoft Corporation|
-|7|171.227.6.79|50012|Vietnam|Gia Nghia|Viettel Corporation|
-|8|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
-|9|129.154.225.163|8100|India|Mumbai|Oracle Corporation|
+|1|35.213.91.45|80|Japan|Tokyo|Google LLC|
+|2|64.225.8.135|9997|United States|Clifton|DigitalOcean, LLC|
+|3|8.209.114.72|3129|Germany|Frankfurt am Main|Alibaba.com Singapore E-Commerce Private Limited|
+|4|140.238.58.147|80|Japan|Tokyo|Oracle Corporation|
+|5|20.44.206.138|80|Singapore|Singapore|Microsoft Corporation|
+|6|64.225.8.135|9997|United States|Clifton|DigitalOcean, LLC|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|112.217.162.5|3128|South Korea|Gyeyang-gu|LG DACOM Corporation|
+|9|35.240.156.235|8080|Singapore|Singapore|Google LLC|
 |10|117.251.103.186|8080|India|Jalandhar|BSNL Internet|
-|11|176.99.2.43|1081|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
+|11|129.154.225.163|8100|India|Mumbai|Oracle Corporation|
 |12|125.25.33.27|8080|Thailand|Chiang Mai|TOT Public Company Limited|
-|13|85.221.217.142|57867|Poland|Puszczykowo|Inea S.A|
-|14|185.103.128.138|8080|Iran|Tehran|Pishgaman Toseeh Ertebatat Company (Private Joint Stock)|
-|15|103.169.254.164|8061|Indonesia|Curahjati|PT Master Star Network|
-|16|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|18|90.188.6.177|3128|Russia|Barnaul|Altay regional branch of OJSC "Sibirtelecom"|
-|19|177.87.144.122|8086|Brazil|Sao Sebastiao da Grama|Videomar Rede Nordeste S/A|
-|20|200.25.254.193|54240|Colombia|Neiva|Andinet ON Line|
+|13|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
+|14|103.134.44.176|8080|India|Haridwar|Countrylink Communiction Pvt Ltd|
+|15|197.254.11.250|32650|Kenya|Nairobi|ACCESSKENYA|
+|16|200.25.254.193|54240|Colombia|Neiva|Andinet ON Line|
+|17|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|18|110.235.246.220|45212|Cambodia|Phnom Penh|COGETEL Co|
+|19|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|20|114.7.27.98|8080|Indonesia|Baru Ilir|PT. INDOSAT Tbk|
 
 
 
