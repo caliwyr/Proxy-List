@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **8814** proxies at the latest update. Usable proxies are below.
+> Scraper found **8858** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -37,9 +37,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1096|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1075|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|708|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|773|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5927|✅|
 
 
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
-|2|138.117.85.154|999|Colombia|Pitalito|Sinergy Soluciones Integrales|
-|3|66.135.14.166|443|United States|Piscataway|The Constant Company, LLC|
-|4|35.213.91.45|80|Japan|Tokyo|Google LLC|
-|5|88.99.201.170|80|Germany|Nuremberg|Hetzner Online GmbH|
-|6|117.3.241.173|50003|Vietnam|Hanoi|Viettel Corporation|
-|7|183.221.242.102|9443|China|Mianyang|China Mobile|
-|8|117.3.241.165|50003|Vietnam|Hanoi|Viettel Corporation|
-|9|119.8.120.4|80|Hong Kong|Hong Kong|Huawei International Pte. LTD|
-|10|138.199.41.117|8800|United States|New York|Datacamp Limited|
-|11|103.74.121.88|3128|Vietnam|Đống Đa District|Branch of BachKim Network solutions jsc|
-|12|190.61.101.39|8080|Guatemala|Guatemala City|UFINET Guatemala S. A|
-|13|190.121.157.132|999|Colombia|Cúcuta|Media Commerce Partners S.A|
-|14|164.92.182.60|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|15|45.6.102.10|8080|Brazil|Nova Iguaçu|Golden Link|
-|16|123.126.158.50|80|China|Beijing|China Unicom Beijing Province Network|
-|17|113.160.209.113|19132|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|18|45.139.199.91|3128|Turkey|Bursa|Enes Koken|
-|19|36.91.148.37|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|20|192.241.238.167|31028|United States|San Francisco|DigitalOcean, LLC|
+|1|135.125.68.145|3128|France|Roubaix|OVH SAS|
+|2|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
+|3|138.117.85.154|999|Colombia|Pitalito|Sinergy Soluciones Integrales|
+|4|103.1.50.41|3125|Indonesia|Pasuruan|CPCNet Hong Kong Ltd. - IP Administrator|
+|5|138.117.183.254|8060|Brazil|Lagoa Preta|Digital Telecomunicações Ltda-Me|
+|6|45.167.253.129|999|Mexico|San Luis Potosí City|QDS NETWORKS SA DE CV|
+|7|139.144.24.46|8080|United States|Atlanta|Akamai Technologies, Inc.|
+|8|34.124.225.130|8080|Singapore|Singapore|Google LLC|
+|9|123.126.158.50|80|China|Beijing|China Unicom Beijing Province Network|
+|10|117.3.241.165|50003|Vietnam|Hanoi|Viettel Corporation|
+|11|183.221.242.107|8443|China|Mianyang|China Mobile|
+|12|117.3.241.173|50003|Vietnam|Hanoi|Viettel Corporation|
+|13|200.110.169.203|999|Colombia|Pereira|Media Commerce Partners S.A|
+|14|183.221.242.107|8443|China|Mianyang|China Mobile|
+|15|112.35.204.111|80|China|Shenzhen|China Mobile|
+|16|202.4.109.73|8080|Bangladesh|Dhaka|Dhakacom|
+|17|103.168.44.167|9191|Indonesia|Brebes|PT CYB Media Group|
+|18|114.102.46.141|8089|China|Hefei|Chinanet|
+|19|88.255.201.141|8080|Turkey|Reyhanli|Turk Telekomunikasyon Anonim Sirketi|
+|20|139.255.61.166|80|Indonesia|Jakarta|PT. LINKNET|
 
 
 
