@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **9024** proxies at the latest update. Usable proxies are below.
+> Scraper found **8949** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|385|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|385|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|385|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|397|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|397|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|397|
 
 ## Sources
 
@@ -36,8 +36,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|96|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1143|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|106|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1058|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|775|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5927|✅|
@@ -48,25 +48,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.213.91.45|80|Japan|Tokyo|Google LLC|
-|2|157.245.27.9|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|3|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|171.227.6.79|50012|Vietnam|Gia Nghia|Viettel Corporation|
-|5|158.69.73.79|9300|Canada|Montreal|OVH SAS|
-|6|20.44.206.138|80|Singapore|Singapore|Microsoft Corporation|
-|7|14.194.101.220|3128|India|Delhi|Tata Tele Services GSM|
-|8|41.186.44.106|3128|Rwanda|Kigali|MTN Rwandacell|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|118.69.111.51|8080|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|11|190.216.227.93|999|Venezuela|Caracas|Charter Communications International De Venezuela C.A.|
-|12|200.105.215.22|33630|Bolivia|La Paz|AXS Bolivia S. A.|
-|13|136.243.55.199|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|14|107.181.230.229|3128|United States|Ogden|GorillaServers, Inc.|
-|15|103.87.169.189|32650|India|Jaipur|Tejays Industries Pvt Ltd|
-|16|103.134.44.176|8080|India|Haridwar|Countrylink Communiction Pvt Ltd|
-|17|107.181.230.229|3128|United States|Ogden|GorillaServers, Inc.|
-|18|103.20.184.162|80|Indonesia|Bogor|PT 3D Tech|
-|19|146.196.54.75|80|Hong Kong|Kwun Tong|Layerstack Limited|
-|20|200.110.169.203|999|Colombia|Pereira|Media Commerce Partners S.A|
+|2|171.227.6.79|50012|Vietnam|Gia Nghia|Viettel Corporation|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|171.233.217.159|1006|Vietnam|Can Tho|Viettel Corporation|
+|5|117.3.241.173|50003|Vietnam|Hanoi|Viettel Corporation|
+|6|117.3.241.165|50003|Vietnam|Hanoi|Viettel Corporation|
+|7|103.87.169.189|32650|India|Jaipur|Tejays Industries Pvt Ltd|
+|8|200.105.215.22|33630|Bolivia|La Paz|AXS Bolivia S. A.|
+|9|118.97.164.19|8080|Indonesia|Padang|Telekomunikasi Indonesia|
+|10|35.238.99.70|3128|United States|Council Bluffs|Google LLC|
+|11|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
+|12|171.227.6.79|50012|Vietnam|Gia Nghia|Viettel Corporation|
+|13|163.172.31.44|80|France|Paris|Online S.A.S.|
+|14|177.136.86.145|999|Argentina|Puerto Eldorado|Access AIR Sociedad Simple|
+|15|34.143.228.238|8080|Singapore|Singapore|Google LLC|
+|16|5.161.105.227|3128|United States|Ashburn|Hetzner Online GmbH|
+|17|180.184.91.187|443|China|Beijing|China Internet Network Information Center|
+|18|183.88.0.173|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
+|19|142.190.148.86|8080|United States|Oxford|Uniti Fiber Holdings Inc.|
+|20|24.152.40.49|8080|Paraguay|Coronel Oviedo|TV MAX CABLE S.A.|
 
 
 
