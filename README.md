@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|271|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|271|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|271|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|234|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|234|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|234|
 
 ## Sources
 
@@ -48,25 +48,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.213.91.45|80|Japan|Tokyo|Google LLC|
-|2|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|3|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
-|4|20.44.206.138|80|Singapore|Singapore|Microsoft Corporation|
-|5|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|35.240.156.235|8080|Singapore|Singapore|Google LLC|
-|8|31.31.29.247|8080|Moldova|Tiraspol|JSCC Interdnestrcom|
-|9|115.144.102.132|10041|South Korea|Mapo-gu|Korea Telecom|
-|10|64.225.8.82|9980|United States|Clifton|DigitalOcean, LLC|
-|11|103.134.44.176|8080|India|Haridwar|Countrylink Communiction Pvt Ltd|
-|12|88.99.201.170|80|Germany|Nuremberg|Hetzner Online GmbH|
-|13|43.130.48.80|8080|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|14|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|15|43.130.48.80|8080|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|16|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|18|183.221.242.107|8443|China|Mianyang|China Mobile|
-|19|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|20|183.221.242.107|8443|China|Mianyang|China Mobile|
+|2|8.209.114.72|3129|Germany|Frankfurt am Main|Alibaba.com Singapore E-Commerce Private Limited|
+|3|20.44.206.138|80|Singapore|Singapore|Microsoft Corporation|
+|4|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|171.227.7.217|50003|Vietnam|Gia Nghia|Viettel Corporation|
+|6|188.40.90.62|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|7|88.99.201.170|80|Germany|Nuremberg|Hetzner Online GmbH|
+|8|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|117.251.103.186|8080|India|Jalandhar|BSNL Internet|
+|11|117.3.241.173|50003|Vietnam|Hanoi|Viettel Corporation|
+|12|171.227.6.79|50012|Vietnam|Gia Nghia|Viettel Corporation|
+|13|185.103.128.138|8080|Iran|Tehran|Pishgaman Toseeh Ertebatat Company (Private Joint Stock)|
+|14|43.130.48.80|8080|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|15|171.227.4.40|50012|Vietnam|Gia Nghia|Viettel Corporation|
+|16|64.225.8.82|9992|United States|Clifton|DigitalOcean, LLC|
+|17|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|18|64.225.8.135|9997|United States|Clifton|DigitalOcean, LLC|
+|19|140.238.245.116|8100|India|Mumbai|Oracle Corporation|
+|20|43.249.224.170|83|India|Hyderabad|Equinox Consulting PVT LTD|
 
 
 
