@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **8769** proxies at the latest update. Usable proxies are below.
+> Scraper found **8779** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|431|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|431|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|431|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|392|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|392|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|392|
 
 ## Sources
 
@@ -37,7 +37,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1113|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1123|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|625|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5948|✅|
@@ -48,25 +48,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.213.91.45|80|Japan|Tokyo|Google LLC|
-|2|20.44.206.138|80|Singapore|Singapore|Microsoft Corporation|
-|3|64.225.8.135|9997|United States|Clifton|DigitalOcean, LLC|
-|4|8.209.114.72|3129|Germany|Frankfurt am Main|Alibaba.com Singapore E-Commerce Private Limited|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|88.99.201.170|80|Germany|Nuremberg|Hetzner Online GmbH|
-|7|64.225.8.135|9997|United States|Clifton|DigitalOcean, LLC|
+|2|88.99.201.170|80|Germany|Nuremberg|Hetzner Online GmbH|
+|3|170.39.30.129|8080|United States|Wilburton|The Fusion Network, LLC|
+|4|140.238.245.116|8100|India|Mumbai|Oracle Corporation|
+|5|183.82.100.253|3128|India|Hyderabad|Beam Telecom Pvt Ltd|
+|6|190.82.105.123|43949|Chile|Santiago|Telefonica Empresas|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |8|125.25.32.20|8080|Thailand|Chiang Mai|TOT Public Company Limited|
 |9|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|10|38.56.204.138|999|Dominican Republic|Puerto Plata|Visnetwork SRL|
-|11|200.114.65.15|999|Chile|Los Vilos|Chile TV Cable S.A.|
-|12|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|13|37.148.211.244|3128|Turkey|Istanbul|Cizgi Telekom Network|
-|14|103.134.44.176|8080|India|Haridwar|Countrylink Communiction Pvt Ltd|
-|15|140.238.245.116|8100|India|Mumbai|Oracle Corporation|
-|16|171.227.6.79|50012|Vietnam|Gia Nghia|Viettel Corporation|
-|17|136.243.55.199|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|18|118.70.12.171|53281|Vietnam|Hanoi|FPT Telecom Company|
-|19|171.227.3.6|50012|Vietnam|Gia Nghia|Viettel Corporation|
-|20|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|10|115.144.102.39|10080|South Korea|Mapo-gu|Korea Telecom|
+|11|171.227.6.79|50012|Vietnam|Gia Nghia|Viettel Corporation|
+|12|200.105.215.22|33630|Bolivia|La Paz|AXS Bolivia S. A.|
+|13|20.44.206.138|80|Singapore|Singapore|Microsoft Corporation|
+|14|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|15|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|16|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|17|171.227.3.6|50012|Vietnam|Gia Nghia|Viettel Corporation|
+|18|139.144.24.46|8080|United States|Atlanta|Akamai Technologies, Inc.|
+|19|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
+|20|159.89.172.0|3128|India|Bengaluru|DigitalOcean, LLC|
 
 
 
