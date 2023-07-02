@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **8885** proxies at the latest update. Usable proxies are below.
+> Scraper found **8894** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|459|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|459|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|459|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|461|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|461|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|461|
 
 ## Sources
 
@@ -37,7 +37,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1155|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1164|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|699|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5948|✅|
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.201.113.2|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|2|119.8.10.18|7890|Mexico|Mexico City|Huawei International Pte. LTD|
-|3|181.225.40.138|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
-|4|8.209.114.72|3129|Germany|Frankfurt am Main|Alibaba.com Singapore E-Commerce Private Limited|
-|5|117.251.103.186|8080|India|Jalandhar|BSNL Internet|
+|1|8.209.114.72|3129|Germany|Frankfurt am Main|Alibaba.com Singapore E-Commerce Private Limited|
+|2|184.82.234.44|8080|Thailand|Bangkok|AIS-Fibre|
+|3|171.227.6.79|50012|Vietnam|Gia Nghia|Viettel Corporation|
+|4|171.227.7.23|50003|Vietnam|Gia Nghia|Viettel Corporation|
+|5|181.225.40.138|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
 |6|171.227.3.6|50012|Vietnam|Gia Nghia|Viettel Corporation|
-|7|140.238.245.116|8100|India|Mumbai|Oracle Corporation|
-|8|185.98.23.229|3128|France|Valence|ITMETRIX|
-|9|103.134.44.176|8080|India|Haridwar|Countrylink Communiction Pvt Ltd|
-|10|202.40.177.69|80|Bangladesh|Azimpur|Ranks ITT|
-|11|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
-|12|90.154.124.211|8080|Russia|Moscow|CTC-B2B|
-|13|115.144.99.223|11119|South Korea|Mapo-gu|HAIonNet|
-|14|139.144.24.46|8080|United States|Atlanta|Akamai Technologies, Inc.|
-|15|104.251.222.111|3126|United States|Dallas|Nodisto IT, LLC|
-|16|115.144.102.132|10041|South Korea|Mapo-gu|Korea Telecom|
-|17|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
-|18|123.126.158.50|80|China|Beijing|China Unicom Beijing Province Network|
-|19|8.209.114.72|3129|Germany|Frankfurt am Main|Alibaba.com Singapore E-Commerce Private Limited|
-|20|185.98.23.229|3128|France|Valence|ITMETRIX|
+|7|171.227.4.40|50012|Vietnam|Gia Nghia|Viettel Corporation|
+|8|103.52.213.131|80|Indonesia|South Tangerang|Kementerian Lingkungan Hidup|
+|9|202.40.177.69|80|Bangladesh|Azimpur|Ranks ITT|
+|10|64.251.22.20|80|United States|Miami|Infolink Global Corporation|
+|11|117.251.103.186|8080|India|Jalandhar|BSNL Internet|
+|12|200.105.215.22|33630|Bolivia|La Paz|AXS Bolivia S. A.|
+|13|104.251.222.111|3126|United States|Dallas|Nodisto IT, LLC|
+|14|102.220.121.56|3128|South Africa|Middelburg|Net4 Telecoms|
+|15|103.134.44.176|8080|India|Haridwar|Countrylink Communiction Pvt Ltd|
+|16|115.144.119.229|10204|South Korea|Mapo-gu|HAIonNet|
+|17|45.62.161.17|8080|Thailand|Bangkok|RAM Host|
+|18|139.144.24.46|8080|United States|Atlanta|Akamai Technologies, Inc.|
+|19|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|20|8.209.114.72|3129|Germany|Frankfurt am Main|Alibaba.com Singapore E-Commerce Private Limited|
 
 
 
