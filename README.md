@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|268|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|268|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|268|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|271|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|271|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|271|
 
 ## Sources
 
@@ -48,25 +48,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.213.91.45|80|Japan|Tokyo|Google LLC|
-|2|35.240.219.50|8080|Singapore|Singapore|Google LLC|
-|3|35.240.156.235|8080|Singapore|Singapore|Google LLC|
-|4|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|5|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
-|6|20.44.206.138|80|Singapore|Singapore|Microsoft Corporation|
-|7|140.238.245.116|8100|India|Mumbai|Oracle Corporation|
-|8|64.225.8.82|9985|United States|Clifton|DigitalOcean, LLC|
-|9|185.78.29.99|3128|Russia|St Petersburg|System servers virtual hosting BEGET.RU|
-|10|64.225.8.82|9985|United States|Clifton|DigitalOcean, LLC|
-|11|117.3.241.173|50003|Vietnam|Hanoi|Viettel Corporation|
-|12|171.243.112.162|50003|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|14|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
-|15|37.237.134.179|32650|Iraq|Baghdad|BROADBAND-SUBSCRIBERS|
-|16|200.25.254.193|54240|Colombia|Neiva|Andinet ON Line|
-|17|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|18|94.232.11.178|46449|Russia|Moscow|PJSC MegaFon|
-|19|64.225.8.82|9985|United States|Clifton|DigitalOcean, LLC|
-|20|35.213.91.45|80|Japan|Tokyo|Google LLC|
+|2|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|3|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
+|4|20.44.206.138|80|Singapore|Singapore|Microsoft Corporation|
+|5|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|35.240.156.235|8080|Singapore|Singapore|Google LLC|
+|8|31.31.29.247|8080|Moldova|Tiraspol|JSCC Interdnestrcom|
+|9|115.144.102.132|10041|South Korea|Mapo-gu|Korea Telecom|
+|10|64.225.8.82|9980|United States|Clifton|DigitalOcean, LLC|
+|11|103.134.44.176|8080|India|Haridwar|Countrylink Communiction Pvt Ltd|
+|12|88.99.201.170|80|Germany|Nuremberg|Hetzner Online GmbH|
+|13|43.130.48.80|8080|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|14|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|15|43.130.48.80|8080|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|16|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|18|183.221.242.107|8443|China|Mianyang|China Mobile|
+|19|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|20|183.221.242.107|8443|China|Mianyang|China Mobile|
 
 
 
