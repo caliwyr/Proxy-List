@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **8866** proxies at the latest update. Usable proxies are below.
+> Scraper found **8793** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|507|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|507|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|507|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|529|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|529|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|529|
 
 ## Sources
 
@@ -36,10 +36,10 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|22|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1199|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1198|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|729|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|679|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5833|✅|
 
 
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.213.91.45|80|Japan|Tokyo|Google LLC|
-|2|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
-|3|20.44.206.138|80|Singapore|Singapore|Microsoft Corporation|
-|4|8.209.114.72|3129|Germany|Frankfurt am Main|Alibaba.com Singapore E-Commerce Private Limited|
-|5|64.225.8.115|9987|United States|Clifton|DigitalOcean, LLC|
-|6|20.219.235.172|3129|India|Pune|Microsoft Corporation|
-|7|171.226.91.210|14023|Vietnam|Hanoi|Viettel Corporation|
-|8|104.37.102.130|8181|United States|Attica|ALTIUS Broadband, LLC|
-|9|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
-|10|171.227.3.6|50012|Vietnam|Gia Nghia|Viettel Corporation|
-|11|117.251.103.186|8080|India|Jalandhar|BSNL Internet|
-|12|129.154.225.163|8100|India|Mumbai|Oracle Corporation|
-|13|124.158.163.202|8080|Indonesia|Depok|ICON+|
-|14|144.217.240.185|9300|Canada|Beauharnois|OVH SAS|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|16|142.4.123.41|80|United States|San Jose|PEG TECH INC|
-|17|103.134.44.176|8080|India|Haridwar|Countrylink Communiction Pvt Ltd|
-|18|138.94.76.86|8080|Brazil|Entre Ijuis|BrPhonia Provedor Ip Ltda|
-|19|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|20|139.144.24.46|8080|United States|Atlanta|Akamai Technologies, Inc.|
+|1|107.148.94.92|80|United States|Los Angeles|PEG TECH INC|
+|2|35.213.91.45|80|Japan|Tokyo|Google LLC|
+|3|35.240.219.50|8080|Singapore|Singapore|Google LLC|
+|4|20.219.177.85|3129|India|Pune|Microsoft Corporation|
+|5|20.219.235.172|3129|India|Pune|Microsoft Corporation|
+|6|20.219.177.38|3129|India|Pune|Microsoft Corporation|
+|7|20.44.206.138|80|Singapore|Singapore|Microsoft Corporation|
+|8|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|9|20.219.178.121|3129|India|Pune|Microsoft Corporation|
+|10|20.219.182.59|3129|India|Pune|Microsoft Corporation|
+|11|121.126.200.123|11361|South Korea|Gwanak-gu|HAIonNet|
+|12|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|13|35.240.156.235|8080|Singapore|Singapore|Google LLC|
+|14|20.204.190.254|3129|India|Pune|Microsoft Corporation|
+|15|34.87.55.162|8080|Singapore|Singapore|Google LLC|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|17|118.69.111.51|8080|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|18|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|19|177.93.36.149|999|Colombia|Pasto|TV AZTECA SUCURSAL COLOMBIA|
+|20|34.124.225.130|8080|Singapore|Singapore|Google LLC|
 
 
 
