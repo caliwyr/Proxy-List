@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **8806** proxies at the latest update. Usable proxies are below.
+> Scraper found **8781** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|424|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|424|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|424|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|377|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|377|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|377|
 
 ## Sources
 
@@ -36,8 +36,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1112|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1087|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|664|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5947|✅|
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.240.156.235|8080|Singapore|Singapore|Google LLC|
-|2|117.251.103.186|8080|India|Jalandhar|BSNL Internet|
-|3|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|103.167.69.242|8080|Indonesia|Bandung|PT Kataji Nukami Indonesia|
-|5|107.148.94.92|80|United States|Los Angeles|PEG TECH INC|
-|6|36.89.158.94|4480|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|7|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
-|8|111.178.11.20|8088|China|Wulipu|Chinanet|
-|9|8.209.114.72|3129|Germany|Frankfurt am Main|Alibaba.com Singapore E-Commerce Private Limited|
-|10|18.231.37.27|8888|Brazil|São Paulo|Amazon Technologies Inc.|
-|11|20.44.206.138|80|Singapore|Singapore|Microsoft Corporation|
-|12|180.184.91.187|443|China|Beijing|China Internet Network Information Center|
-|13|183.221.242.103|9443|China|Mianyang|China Mobile|
-|14|165.232.114.200|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|15|183.221.242.103|9443|China|Mianyang|China Mobile|
-|16|45.167.253.129|999|Mexico|San Luis Potosí City|QDS NETWORKS SA DE CV|
-|17|34.124.225.130|8080|Singapore|Singapore|Google LLC|
-|18|31.44.82.2|3128|Russia|Moscow|Mastertel ISP|
-|19|163.228.89.122|8080|China|Beimeng|Shanghai Blue Cloud Technology Co., Ltd|
-|20|41.76.145.18|3128|Mozambique|Maputo|VM  S.A|
+|1|20.44.206.138|80|Singapore|Singapore|Microsoft Corporation|
+|2|8.209.114.72|3129|Germany|Frankfurt am Main|Alibaba.com Singapore E-Commerce Private Limited|
+|3|112.217.162.5|3128|South Korea|Gyeyang-gu|LG DACOM Corporation|
+|4|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|5|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
+|6|45.135.165.170|8080|Germany|Berlin|RUVDS|
+|7|200.105.215.22|33630|Bolivia|La Paz|AXS Bolivia S. A.|
+|8|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|9|147.135.54.182|3128|United States|Reston|OVH SAS|
+|10|95.111.194.14|2659|Singapore|Singapore|UpCloud Ltd|
+|11|139.144.24.46|8080|United States|Atlanta|Akamai Technologies, Inc.|
+|12|138.199.41.122|8888|United States|New York|Datacamp Limited|
+|13|8.209.114.72|3129|Germany|Frankfurt am Main|Alibaba.com Singapore E-Commerce Private Limited|
+|14|20.44.206.138|80|Singapore|Singapore|Microsoft Corporation|
+|15|18.190.21.166|80|United States|Dublin|Amazon.com, Inc.|
+|16|103.76.12.42|8181|Indonesia|Jakarta|MORATELINDO|
+|17|113.125.82.11|3128|China|Xintai|Cloud Computing Corporation|
+|18|111.178.11.20|8088|China|Wulipu|Chinanet|
+|19|116.197.132.162|8989|Indonesia|Tangerang|PT. Fiber Networks Indonesia|
+|20|47.242.3.214|8081|Hong Kong|Hong Kong|Alibaba.com LLC|
 
 
 
