@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **8734** proxies at the latest update. Usable proxies are below.
+> Scraper found **8727** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|361|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|361|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|361|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|441|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|441|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|441|
 
 ## Sources
 
@@ -37,7 +37,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|7|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1072|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1065|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|625|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5947|✅|
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|223.204.102.40|8080|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
-|2|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
-|3|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
-|4|45.174.79.129|999|Mexico|Ciudad Delicias|Raul Duarte Urita|
-|5|117.3.241.173|50003|Vietnam|Hanoi|Viettel Corporation|
-|6|77.87.241.79|23500|Czechia|Prague|SPOJE.NET|
-|7|43.130.48.80|8080|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|8|110.34.3.229|3128|Nepal|Bharatpur|SUBISU C7|
-|9|190.196.244.45|8080|Brazil|Nova Venecia|Lidercom Provedor de Internet Eireli|
-|10|88.99.201.170|80|Germany|Nuremberg|Hetzner Online GmbH|
-|11|117.3.240.129|50014|Vietnam|Hanoi|Viettel Corporation|
-|12|41.76.145.18|443|Mozambique|Maputo|VM  S.A|
-|13|20.219.183.188|3129|India|Pune|Microsoft Corporation|
-|14|183.221.242.107|8443|China|Mianyang|China Mobile|
-|15|190.121.207.183|999|Guatemala|Guatemala City|CENTRAL DE REDES Y COMUNICACIONES DE GUATEMALA, SOCIEDAD ANONIMA|
-|16|45.62.161.17|8080|Thailand|Bangkok|RAM Host|
-|17|185.78.29.99|3128|Russia|St Petersburg|System servers virtual hosting BEGET.RU|
-|18|35.213.91.45|80|Japan|Tokyo|Google LLC|
-|19|117.69.232.190|8089|China|Rongcheng|Chinanet|
-|20|171.243.112.162|50003|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|1|148.251.110.152|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|2|66.70.178.214|9300|Canada|Beauharnois|OVH SAS|
+|3|117.3.241.173|50003|Vietnam|Hanoi|Viettel Corporation|
+|4|223.204.102.40|8080|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
+|5|140.238.58.147|80|Japan|Tokyo|Oracle Corporation|
+|6|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|7|162.240.99.237|3128|United States|Provo|Unified Layer|
+|8|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
+|9|117.3.240.129|50014|Vietnam|Hanoi|Viettel Corporation|
+|10|103.81.194.213|88|Indonesia|Bogor|PT Rtiga Global Media|
+|11|185.103.128.138|8080|Iran|Tehran|Pishgaman Toseeh Ertebatat Company (Private Joint Stock)|
+|12|43.130.48.80|8080|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|13|142.93.219.22|8080|India|Bengaluru|DigitalOcean, LLC|
+|14|64.225.4.29|9816|United States|Clifton|DigitalOcean, LLC|
+|15|100.26.154.61|3128|United States|Ashburn|Amazon.com, Inc.|
+|16|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|17|171.227.7.217|50003|Vietnam|Gia Nghia|Viettel Corporation|
+|18|183.221.242.107|8443|China|Mianyang|China Mobile|
+|19|20.204.190.254|3129|India|Pune|Microsoft Corporation|
+|20|180.184.91.187|443|China|Beijing|China Internet Network Information Center|
 
 
 
