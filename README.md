@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **8767** proxies at the latest update. Usable proxies are below.
+> Scraper found **8753** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|430|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|430|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|430|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|462|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|462|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|462|
 
 ## Sources
 
@@ -37,7 +37,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|52|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1079|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1065|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|566|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5987|✅|
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|119.8.10.18|7890|Mexico|Mexico City|Huawei International Pte. LTD|
-|2|62.171.150.234|3128|Germany|Nuremberg|Contabo GmbH|
-|3|34.87.55.162|8080|Singapore|Singapore|Google LLC|
-|4|90.154.124.211|8080|Russia|Moscow|CTC-B2B|
-|5|35.240.219.50|8080|Singapore|Singapore|Google LLC|
+|1|62.171.150.234|3128|Germany|Nuremberg|Contabo GmbH|
+|2|8.209.114.72|3129|Germany|Frankfurt am Main|Alibaba.com Singapore E-Commerce Private Limited|
+|3|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
+|4|144.217.253.209|9300|Canada|Beauharnois|OVH SAS|
+|5|34.124.225.130|8080|Singapore|Singapore|Google LLC|
 |6|158.69.73.79|9300|Canada|Montreal|OVH SAS|
-|7|203.109.19.137|12241|South Korea|Mapo-gu|HAIonNet|
-|8|115.144.9.246|11066|South Korea|Jecheon|Korea Telecom|
-|9|144.217.253.209|9300|Canada|Beauharnois|OVH SAS|
-|10|77.77.210.90|21056|Bosnia and Herzegovina|Sarajevo|TELEMACH BH|
+|7|158.69.66.131|9300|Canada|Montreal|OVH SAS|
+|8|206.62.169.77|999|Venezuela|Maracaibo|Airtek Solutions C.A.|
+|9|103.175.237.4|8080|Indonesia|Malang|PT Marva Global Telekomunikasi|
+|10|115.144.99.220|11116|South Korea|Mapo-gu|HAIonNet|
 |11|186.121.200.4|80|Bolivia|La Paz|AXS Bolivia S. A.|
-|12|113.176.118.231|9812|Vietnam|Hoi An|VNPT|
-|13|132.226.235.39|3128|South Korea|Seoul|Oracle Corporation|
-|14|62.205.169.74|53281|Russia|Moscow|CORBINA|
-|15|206.62.169.77|999|Venezuela|Maracaibo|Airtek Solutions C.A.|
-|16|197.232.47.122|8080|Kenya|Ruaraka|Jamii Telecommunications Limited|
-|17|107.173.156.182|3000|United States|Chicago|ColoCrossing|
-|18|189.202.239.174|999|Mexico|Tamuin|Operbes, S.A. de C.V.|
-|19|192.141.196.129|8080|Brazil|Taboao da Serra|Socitel Telecomunicacoes Ltda - EPP|
-|20|139.144.24.46|8080|United States|Atlanta|Akamai Technologies, Inc.|
+|12|203.128.77.213|33378|Indonesia|Jakarta|Neuviz|
+|13|134.35.192.96|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|14|165.232.114.200|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|15|18.190.21.166|80|United States|Dublin|Amazon.com, Inc.|
+|16|139.144.24.46|8080|United States|Atlanta|Akamai Technologies, Inc.|
+|17|35.213.91.45|80|Japan|Tokyo|Google LLC|
+|18|103.149.194.48|32650|India|Delhi|Kavya Internet Services Pvt Ltd|
+|19|216.128.141.55|7777|United States|Dallas|The Constant Company|
+|20|5.189.144.84|3128|Germany|Nuremberg|Contabo GmbH|
 
 
 
