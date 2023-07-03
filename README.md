@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **8108** proxies at the latest update. Usable proxies are below.
+> Scraper found **8077** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|269|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|269|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|269|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|259|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|259|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|259|
 
 ## Sources
 
@@ -37,7 +37,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|91|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|856|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|825|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|455|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5623|✅|
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.213.91.45|80|Japan|Tokyo|Google LLC|
-|2|201.184.24.14|999|Colombia|Bogotá|EPM Telecomunicaciones S.A. E.S.P.|
-|3|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|4|118.69.111.51|8080|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|5|20.219.182.59|3129|India|Pune|Microsoft Corporation|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|103.244.205.158|8080|Indonesia|Tangerang|PT. Web Data Solusindo|
-|8|117.3.240.129|50014|Vietnam|Hanoi|Viettel Corporation|
-|9|124.83.98.41|8081|Philippines|Santa Maria|Philippine Long Distance Telephone Co.|
-|10|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|11|200.25.254.193|54240|Colombia|Neiva|Andinet ON Line|
-|12|223.206.133.229|8080|Thailand|Khon Kaen|Triple T Broadband Public Company Limited|
-|13|162.240.99.167|3128|United States|Provo|Unified Layer|
-|14|139.144.24.46|8080|United States|Atlanta|Akamai Technologies, Inc.|
-|15|119.8.120.4|80|Hong Kong|Hong Kong|Huawei International Pte. LTD|
-|16|162.240.99.167|3128|United States|Provo|Unified Layer|
-|17|200.82.188.101|999|Venezuela|Acarigua|Corporación Telemic C.A.|
-|18|23.94.187.48|80|United States|Buffalo|ColoCrossing|
-|19|147.135.54.182|3128|United States|Reston|OVH SAS|
-|20|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
+|1|119.8.10.18|7890|Mexico|Mexico City|Huawei International Pte. LTD|
+|2|185.62.150.80|8081|Germany|Frankfurt am Main|Michael Sebastian Schinzel trading as IP-Projects GmbH & Co. KG|
+|3|34.154.161.152|80|Italy|Milan|Google LLC|
+|4|35.213.91.45|80|Japan|Tokyo|Google LLC|
+|5|200.25.254.193|54240|Colombia|Neiva|Andinet ON Line|
+|6|189.164.68.168|10101|Mexico|Puebla City|Uninet S.A. de C.V|
+|7|20.44.206.138|80|Singapore|Singapore|Microsoft Corporation|
+|8|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|9|20.219.182.59|3129|India|Pune|Microsoft Corporation|
+|10|190.235.61.82|8080|Peru|Nazca|TDP-GRS|
+|11|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|12|200.105.215.22|33630|Bolivia|La Paz|AXS Bolivia S. A.|
+|13|223.206.133.229|8080|Thailand|Khon Kaen|Triple T Broadband Public Company Limited|
+|14|162.240.99.167|3128|United States|Provo|Unified Layer|
+|15|35.213.91.45|80|Japan|Tokyo|Google LLC|
+|16|200.82.238.29|999|Venezuela|Barquisimeto|Corporación Telemic C.A.|
+|17|183.221.242.103|9443|China|Mianyang|China Mobile|
+|18|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
+|19|180.184.91.187|443|China|Beijing|China Internet Network Information Center|
+|20|162.240.100.5|3128|United States|Provo|Unified Layer|
 
 
 
