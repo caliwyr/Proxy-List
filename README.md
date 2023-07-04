@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **8603** proxies at the latest update. Usable proxies are below.
+> Scraper found **8650** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|423|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|423|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|423|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|417|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|417|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|417|
 
 ## Sources
 
@@ -37,7 +37,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|4|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1007|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1054|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|678|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5831|✅|
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.213.91.45|80|Japan|Tokyo|Google LLC|
-|2|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
-|3|181.225.101.52|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|4|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
+|1|8.209.114.72|3129|Germany|Frankfurt am Main|Alibaba.com Singapore E-Commerce Private Limited|
+|2|35.213.91.45|80|Japan|Tokyo|Google LLC|
+|3|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
+|4|213.171.44.134|3128|Russia|Moscow|JSC Comcor|
+|5|64.225.8.82|9981|United States|Clifton|DigitalOcean, LLC|
 |6|117.251.103.186|8080|India|Jalandhar|BSNL Internet|
-|7|117.3.240.129|50014|Vietnam|Hanoi|Viettel Corporation|
-|8|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|9|20.44.206.138|80|Singapore|Singapore|Microsoft Corporation|
-|10|128.199.98.232|3128|Singapore|Singapore|DigitalOcean, LLC|
-|11|200.105.215.22|33630|Bolivia|La Paz|AXS Bolivia S. A.|
-|12|135.125.68.145|3128|France|Roubaix|OVH SAS|
-|13|154.209.253.83|8443|United States|Los Angeles|Shanghai Ruisu Network Technology|
-|14|110.34.3.229|3128|Nepal|Bharatpur|SUBISU C7|
-|15|45.239.123.17|999|Chile|Santiago|Sociedad Pirque NET Limitada|
-|16|188.17.117.126|3128|Russia|Chelyabinsk|LLC "KomTehCentr"|
-|17|139.144.24.46|8080|United States|Atlanta|Akamai Technologies, Inc.|
-|18|202.154.19.7|8080|Indonesia|Lamongan|DIGITNET|
-|19|35.213.91.45|80|Japan|Tokyo|Google LLC|
-|20|103.169.254.164|8061|Indonesia|Curahjati|PT Master Star Network|
+|7|45.239.123.17|999|Chile|Santiago|Sociedad Pirque NET Limitada|
+|8|20.44.206.138|80|Singapore|Singapore|Microsoft Corporation|
+|9|117.3.240.129|50014|Vietnam|Hanoi|Viettel Corporation|
+|10|223.204.102.40|8080|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
+|11|103.169.254.164|8061|Indonesia|Curahjati|PT Master Star Network|
+|12|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|13|160.119.148.190|8080|Uganda|Kampala|Blue Crane Communications (U) Ltd|
+|14|14.241.62.12|19132|Vietnam|Bac Ninh|VNPT|
+|15|200.105.215.22|33630|Bolivia|La Paz|AXS Bolivia S. A.|
+|16|74.103.66.15|80|United States|Sparrows Point|Verizon Business|
+|17|135.125.68.145|3128|France|Roubaix|OVH SAS|
+|18|61.216.156.222|60808|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|19|128.199.98.232|3128|Singapore|Singapore|DigitalOcean, LLC|
+|20|200.25.254.193|54240|Colombia|Neiva|Andinet ON Line|
 
 
 
