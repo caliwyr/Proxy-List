@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **8534** proxies at the latest update. Usable proxies are below.
+> Scraper found **8247** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|290|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|290|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|290|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|240|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|240|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|240|
 
 ## Sources
 
@@ -36,37 +36,37 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|1|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|923|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|851|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|487|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|6040|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|517|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5796|✅|
 
 
 ## Sample Proxies With Geolocation Info
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|88.99.21.184|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|2|35.213.91.45|80|Japan|Tokyo|Google LLC|
-|3|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
-|4|173.176.14.246|3128|Canada|Vaudreuil-Dorion|Le Groupe Videotron Ltee|
-|5|117.251.103.186|8080|India|Jalandhar|BSNL Internet|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|8|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|9|176.99.2.43|1081|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
-|10|117.3.241.173|50003|Vietnam|Hanoi|Viettel Corporation|
-|11|190.26.201.194|8080|Colombia|Bogotá|ETB - Colombia|
-|12|139.144.24.46|8080|United States|Atlanta|Akamai Technologies, Inc.|
-|13|157.245.27.9|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|14|117.219.10.150|8080|India|Srinagar|BSNL Internet|
-|15|82.138.41.15|3128|Russia|Moscow|comcor.ru|
-|16|117.251.103.186|8080|India|Jalandhar|BSNL Internet|
-|17|35.213.91.45|80|Japan|Tokyo|Google LLC|
-|18|51.79.50.31|9300|Canada|Beauharnois|OVH SAS|
-|19|18.190.21.166|80|United States|Dublin|Amazon.com, Inc.|
-|20|185.62.150.80|8081|Germany|Frankfurt am Main|Michael Sebastian Schinzel trading as IP-Projects GmbH & Co. KG|
+|1|185.62.150.80|8081|Germany|Frankfurt am Main|Michael Sebastian Schinzel trading as IP-Projects GmbH & Co. KG|
+|2|213.171.44.134|3128|Russia|Moscow|JSC Comcor|
+|3|117.251.103.186|8080|India|Jalandhar|BSNL Internet|
+|4|82.138.41.15|3128|Russia|Moscow|comcor.ru|
+|5|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|6|188.40.233.87|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|7|35.213.91.45|80|Japan|Tokyo|Google LLC|
+|8|88.214.41.251|3128|Turkey|Magnesia ad Sipylum|Superonline Iletisim Hizmetleri A.S.|
+|9|117.3.241.173|50003|Vietnam|Hanoi|Viettel Corporation|
+|10|156.59.100.140|3128|Hong Kong|Central|Zenlayer Inc|
+|11|35.240.219.50|8080|Singapore|Singapore|Google LLC|
+|12|183.221.242.107|8443|China|Mianyang|China Mobile|
+|13|103.157.218.170|1911|Vietnam|Hanoi|3S Viet Nam Technology Joint Stock Company|
+|14|165.232.114.200|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|15|154.209.253.83|8443|United States|Los Angeles|Shanghai Ruisu Network Technology|
+|16|123.126.158.50|80|China|Beijing|China Unicom Beijing Province Network|
+|17|114.102.45.171|8089|China|Hefei|Chinanet|
+|18|78.11.96.22|8080|Poland|Gora Kalwaria|Netia SA|
+|19|162.240.99.14|3128|United States|Provo|Unified Layer|
+|20|164.92.105.75|2083|United States|Santa Clara|DigitalOcean, LLC|
 
 
 
