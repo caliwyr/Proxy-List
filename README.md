@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **8394** proxies at the latest update. Usable proxies are below.
+> Scraper found **8410** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|316|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|316|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|316|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|294|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|294|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|294|
 
 ## Sources
 
@@ -37,7 +37,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|1|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1013|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1029|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|501|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5796|✅|
@@ -47,25 +47,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.213.91.45|80|Japan|Tokyo|Google LLC|
-|2|213.171.44.134|3128|Russia|Moscow|JSC Comcor|
-|3|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
-|4|185.62.150.80|8081|Germany|Frankfurt am Main|Michael Sebastian Schinzel trading as IP-Projects GmbH & Co. KG|
-|5|128.199.98.232|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|117.251.103.186|8080|India|Jalandhar|BSNL Internet|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|1|45.171.108.253|999|Ecuador|Nueva Loja|Lagonet-tv Cia. Ltda.|
+|2|8.209.114.72|3129|Germany|Frankfurt am Main|Alibaba.com Singapore E-Commerce Private Limited|
+|3|35.213.91.45|80|Japan|Tokyo|Google LLC|
+|4|213.171.44.134|3128|Russia|Moscow|JSC Comcor|
+|5|14.194.101.219|3128|India|Delhi|Tata Tele Services GSM|
+|6|128.199.98.232|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|117.251.103.186|8080|India|Jalandhar|BSNL Internet|
 |8|101.109.51.59|8080|Thailand|Sattahip|TOT Public Company Limited|
-|9|140.238.245.116|8100|India|Mumbai|Oracle Corporation|
-|10|134.209.144.177|80|India|Bengaluru|DigitalOcean, LLC|
-|11|154.209.253.83|8443|United States|Los Angeles|Shanghai Ruisu Network Technology|
-|12|171.227.7.217|50003|Vietnam|Gia Nghia|Viettel Corporation|
-|13|139.144.24.46|8080|United States|Atlanta|Akamai Technologies, Inc.|
-|14|162.240.99.236|3128|United States|Provo|Unified Layer|
-|15|35.213.91.45|80|Japan|Tokyo|Google LLC|
-|16|35.240.219.50|8080|Singapore|Singapore|Google LLC|
-|17|146.196.54.75|80|Hong Kong|Kwun Tong|Layerstack Limited|
-|18|45.167.253.129|999|Mexico|San Luis Potosí City|QDS NETWORKS SA DE CV|
-|19|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|154.209.253.83|8443|United States|Los Angeles|Shanghai Ruisu Network Technology|
+|10|173.176.14.246|3128|Canada|Vaudreuil-Dorion|Le Groupe Videotron Ltee|
+|11|146.196.54.75|80|Hong Kong|Kwun Tong|Layerstack Limited|
+|12|119.8.10.18|7890|Mexico|Mexico City|Huawei International Pte. LTD|
+|13|200.105.215.22|33630|Bolivia|La Paz|AXS Bolivia S. A.|
+|14|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|15|171.227.7.217|50003|Vietnam|Gia Nghia|Viettel Corporation|
+|16|162.240.99.236|3128|United States|Provo|Unified Layer|
+|17|35.213.91.45|80|Japan|Tokyo|Google LLC|
+|18|200.110.169.203|999|Colombia|Pereira|Media Commerce Partners S.A|
+|19|51.79.50.22|9300|Canada|Beauharnois|OVH SAS|
 |20|154.209.253.83|8443|United States|Los Angeles|Shanghai Ruisu Network Technology|
 
 
