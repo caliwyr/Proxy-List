@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **8540** proxies at the latest update. Usable proxies are below.
+> Scraper found **8541** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|373|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|373|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|373|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|415|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|415|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|415|
 
 ## Sources
 
@@ -37,7 +37,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1040|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1041|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|596|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5821|✅|
@@ -48,25 +48,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|5.161.218.180|3128|United States|Ashburn|Hetzner Online GmbH|
-|2|150.230.109.27|3128|Japan|Tokyo|Oracle Corporation|
-|3|115.144.9.246|11066|South Korea|Jecheon|Korea Telecom|
-|4|64.225.8.115|9996|United States|Clifton|DigitalOcean, LLC|
+|2|8.209.114.72|3129|Germany|Frankfurt am Main|Alibaba.com Singapore E-Commerce Private Limited|
+|3|213.171.44.134|3128|Russia|Moscow|JSC Comcor|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |5|117.251.103.186|8080|India|Jalandhar|BSNL Internet|
-|6|129.154.225.163|8100|India|Mumbai|Oracle Corporation|
-|7|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
+|6|140.238.245.116|8100|India|Mumbai|Oracle Corporation|
+|7|129.154.225.163|8100|India|Mumbai|Oracle Corporation|
 |8|5.161.218.180|3128|United States|Ashburn|Hetzner Online GmbH|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|140.238.245.116|8100|India|Mumbai|Oracle Corporation|
-|11|64.225.4.85|9987|United States|Clifton|DigitalOcean, LLC|
-|12|190.2.135.101|8080|Netherlands|Naaldwijk|WorldStream B.V.|
-|13|69.30.205.163|3128|United States|Kansas City|WholeSale Internet|
-|14|18.190.21.166|80|United States|Dublin|Amazon.com, Inc.|
-|15|119.8.120.4|80|Hong Kong|Hong Kong|Huawei International Pte. LTD|
-|16|157.230.234.149|3128|United States|North Bergen|DigitalOcean, LLC|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|18|117.251.103.186|8080|India|Jalandhar|BSNL Internet|
-|19|183.221.242.103|9443|China|Mianyang|China Mobile|
-|20|163.177.111.14|80|China|Shenzhen|China Unicom Guangdong Province Network|
+|9|20.120.240.49|80|United States|Quincy|Microsoft Corporation|
+|10|119.8.120.4|80|Hong Kong|Hong Kong|Huawei International Pte. LTD|
+|11|23.152.40.21|3128|United States|North Miami|Host-Engine.com|
+|12|139.144.24.46|8080|United States|Atlanta|Akamai Technologies, Inc.|
+|13|183.221.242.103|9443|China|Mianyang|China Mobile|
+|14|123.126.158.50|80|China|Beijing|China Unicom Beijing Province Network|
+|15|45.188.167.3|1994|Mexico|La Barca|Velocom SA De CV|
+|16|159.203.132.96|3128|United States|Clifton|DigitalOcean, LLC|
+|17|124.70.78.157|8000|China|Beijing|Huawei Cloud Service data center|
+|18|103.157.218.170|1911|Vietnam|Hanoi|3S Viet Nam Technology Joint Stock Company|
+|19|181.191.94.126|8999|Brazil|Matias Olimpio|Fernanda Danielly Sousa Almeida - Me|
+|20|129.151.173.15|8080|South Africa|Johannesburg|Oracle Corporation|
 
 
 
