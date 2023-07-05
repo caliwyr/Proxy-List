@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **8760** proxies at the latest update. Usable proxies are below.
+> Scraper found **8713** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|572|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|572|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|572|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|520|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|520|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|520|
 
 ## Sources
 
@@ -36,10 +36,10 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|94|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1147|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|86|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1163|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|668|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|613|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5768|✅|
 
 
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|2|157.245.27.9|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|3|51.79.50.31|9300|Canada|Beauharnois|OVH SAS|
-|4|144.217.253.209|9300|Canada|Beauharnois|OVH SAS|
-|5|173.176.14.246|3128|Canada|Vaudreuil-Dorion|Le Groupe Videotron Ltee|
-|6|35.213.91.45|80|Japan|Tokyo|Google LLC|
-|7|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|8|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|9|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|10|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
-|11|131.153.48.254|8080|Singapore|Singapore|Secured Servers LLC|
-|12|20.219.178.121|3129|India|Pune|Microsoft Corporation|
-|13|35.240.156.235|8080|Singapore|Singapore|Google LLC|
-|14|20.219.235.172|3129|India|Pune|Microsoft Corporation|
-|15|115.144.123.219|10297|South Korea|Mapo-gu|HAIonNet|
-|16|128.199.98.232|3128|Singapore|Singapore|DigitalOcean, LLC|
-|17|117.3.241.173|50003|Vietnam|Hanoi|Viettel Corporation|
-|18|81.12.44.197|3129|Iran|Tehran|RESPINA Networks|
-|19|171.227.7.217|50003|Vietnam|Gia Nghia|Viettel Corporation|
-|20|117.251.103.186|8080|India|Jalandhar|BSNL Internet|
+|1|140.238.58.147|80|Japan|Tokyo|Oracle Corporation|
+|2|117.251.103.186|8080|India|Jalandhar|BSNL Internet|
+|3|49.50.174.208|3128|South Korea|Seongnam-si|NBP|
+|4|103.98.151.84|3128|Vietnam|Quận Long Biên|MAXSERVER|
+|5|200.25.254.193|54240|Colombia|Neiva|Andinet ON Line|
+|6|202.138.239.184|1212|Indonesia|Bandung|PT Melvar Lintasnusa|
+|7|140.238.245.116|8100|India|Mumbai|Oracle Corporation|
+|8|201.77.109.129|999|Mexico|Torreón|Nidix Networks S.a. De C.V.|
+|9|202.40.177.69|80|Bangladesh|Azimpur|Ranks ITT|
+|10|185.15.172.212|3128|Russia|Moscow|SafeData LLC|
+|11|154.209.253.83|8443|United States|Los Angeles|Shanghai Ruisu Network Technology|
+|12|23.94.187.48|80|United States|Buffalo|ColoCrossing|
+|13|5.153.234.91|3128|Sweden|Stockholm|Inter Connects Inc|
+|14|117.251.103.186|8080|India|Jalandhar|BSNL Internet|
+|15|41.242.116.150|50003|Mayotte|Mamoudzou|STOI-block1|
+|16|123.126.158.50|80|China|Beijing|China Unicom Beijing Province Network|
+|17|81.134.251.153|32650|United Kingdom|Birmingham|British Telecommunications PLC|
+|18|180.184.91.187|443|China|Beijing|China Internet Network Information Center|
+|19|162.240.100.5|3128|United States|Provo|Unified Layer|
+|20|91.121.208.196|5062|France|Roubaix|OVH SAS|
 
 
 
