@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **7833** proxies at the latest update. Usable proxies are below.
+> Scraper found **7894** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|206|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|206|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|206|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|227|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|227|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|227|
 
 ## Sources
 
@@ -37,9 +37,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|775|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|792|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|516|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|560|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5459|✅|
 
 
@@ -49,24 +49,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|47.251.48.42|8888|United States|Santa Clara|Alibaba.com LLC|
 |2|117.251.103.186|8080|India|Hazratpur|BSNL Internet|
-|3|173.219.112.85|8080|United States|Sterling|Suddenlink Communications|
-|4|193.233.202.75|8080|United States|Ashburn|Alexhost SRL|
-|5|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
-|6|200.25.254.193|54240|Colombia|Neiva|Andinet ON Line|
-|7|35.213.91.45|80|Japan|Tokyo|Google LLC|
-|8|117.251.103.186|8080|India|Hazratpur|BSNL Internet|
-|9|41.76.145.136|3128|Mozambique|Maputo|VM  S.A|
-|10|71.14.23.121|8080|United States|Birmingham|Spectrum|
-|11|176.222.220.211|8080|Russia|Surgut|Net By Net Holding LLC|
-|12|123.182.58.110|8089|China|Zhangjiakou|Chinanet|
-|13|41.76.145.136|3128|Mozambique|Maputo|VM  S.A|
-|14|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
-|15|162.240.99.14|3128|United States|Provo|Unified Layer|
-|16|45.188.167.3|1994|Mexico|La Barca|Velocom SA De CV|
-|17|180.184.91.187|443|China|Beijing|China Internet Network Information Center|
-|18|181.191.94.126|8999|Brazil|Matias Olimpio|Fernanda Danielly Sousa Almeida - Me|
-|19|183.221.242.102|9443|China|Mianyang|China Mobile|
-|20|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|118.99.127.176|8080|Indonesia|Malang|Biznet Metronet|
+|4|201.150.118.34|999|Mexico|Pachuca|Hulux Telecomunicaciones|
+|5|35.213.91.45|80|Japan|Tokyo|Google LLC|
+|6|18.190.21.166|80|United States|Dublin|Amazon.com, Inc.|
+|7|117.251.103.186|8080|India|Hazratpur|BSNL Internet|
+|8|123.126.158.50|80|China|Beijing|China Unicom Beijing Province Network|
+|9|180.184.91.187|443|China|Beijing|China Internet Network Information Center|
+|10|45.79.123.20|3128|India|Mumbai|Akamai Technologies, Inc.|
+|11|88.214.41.251|3128|Turkey|Magnesia ad Sipylum|Superonline Iletisim Hizmetleri A.S.|
+|12|41.76.145.136|443|Mozambique|Maputo|VM  S.A|
+|13|138.199.41.117|8800|United States|New York|Datacamp Limited|
+|14|123.182.59.105|8089|China|Zhangjiakou|Chinanet|
+|15|131.153.48.254|8080|Singapore|Singapore|Secured Servers LLC|
+|16|180.184.91.187|443|China|Beijing|China Internet Network Information Center|
+|17|222.190.215.26|8089|China|Nanjing|Chinanet|
+|18|186.97.102.70|999|Colombia|Medellín|Colombia Móvil|
+|19|35.213.91.45|80|Japan|Tokyo|Google LLC|
+|20|36.138.120.73|3128|China|Shenzhen|China Mobile|
 
 
 
