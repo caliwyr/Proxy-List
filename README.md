@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **8412** proxies at the latest update. Usable proxies are below.
+> Scraper found **8522** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|410|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|410|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|410|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|476|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|476|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|476|
 
 ## Sources
 
@@ -37,9 +37,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1113|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1186|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|614|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|651|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5602|✅|
 
 
@@ -48,25 +48,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|47.251.48.42|8888|United States|Santa Clara|Alibaba.com LLC|
-|2|213.171.44.134|3128|Russia|Moscow|JSC Comcor|
-|3|71.14.23.121|8080|United States|Birmingham|Spectrum|
-|4|117.251.103.186|8080|India|Hazratpur|BSNL Internet|
-|5|180.131.242.221|48678|Japan|Misawa|GLBB Japan KK|
-|6|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|7|181.78.64.83|999|Colombia|Bogotá|IFX Networks Argentina S.R.L|
-|8|116.68.172.170|8080|Indonesia|Jakarta||
-|9|128.199.98.232|3128|Singapore|Singapore|DigitalOcean, LLC|
-|10|133.186.229.93|3128|Japan|Chiyoda|NHNCLOUD|
-|11|5.153.234.91|3128|Sweden|Stockholm|Inter Connects Inc|
-|12|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
-|13|167.71.225.180|3128|India|Bengaluru|DigitalOcean, LLC|
-|14|185.78.29.99|3128|Russia|St Petersburg|System servers virtual hosting BEGET.RU|
-|15|138.199.41.122|8899|United States|New York|Datacamp Limited|
-|16|51.79.215.72|3128|Singapore|Singapore|OVH Singapore PTE. LTD|
-|17|200.63.104.44|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
-|18|41.76.145.18|443|Mozambique|Maputo|VM  S.A|
-|19|103.3.246.215|3128|Vietnam|Tinh Binh Duong|VDATA|
-|20|103.247.23.69|8080|Indonesia|Cileungsir|PT wifian Solution|
+|2|117.251.103.186|8080|India|Hazratpur|BSNL Internet|
+|3|47.251.48.42|8888|United States|Santa Clara|Alibaba.com LLC|
+|4|193.233.202.75|8080|United States|Ashburn|Alexhost SRL|
+|5|50.225.202.9|3128|United States|Brooklyn Park|Comcast Cable Communications, LLC|
+|6|193.233.202.75|8080|United States|Ashburn|Alexhost SRL|
+|7|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|8|71.14.23.121|8080|United States|Birmingham|Spectrum|
+|9|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
+|10|162.240.100.5|3128|United States|Provo|Unified Layer|
+|11|138.199.41.122|8888|United States|New York|Datacamp Limited|
+|12|162.240.100.4|3128|United States|Provo|Unified Layer|
+|13|133.186.229.93|3128|Japan|Chiyoda|NHNCLOUD|
+|14|47.251.48.42|8888|United States|Santa Clara|Alibaba.com LLC|
+|15|35.213.91.45|80|Japan|Tokyo|Google LLC|
+|16|5.153.234.91|3128|Sweden|Stockholm|Inter Connects Inc|
+|17|35.213.91.45|80|Japan|Tokyo|Google LLC|
+|18|45.188.167.3|1994|Mexico|La Barca|Velocom SA De CV|
+|19|51.222.114.109|3128|Canada|Beauharnois|OVH SAS|
+|20|200.63.104.44|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
 
 
 
