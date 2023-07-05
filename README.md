@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **8087** proxies at the latest update. Usable proxies are below.
+> Scraper found **8141** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|376|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|376|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|376|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|309|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|309|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|309|
 
 ## Sources
 
@@ -37,7 +37,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|2|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|952|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1006|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|591|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5459|✅|
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|51.158.202.82|3128|Netherlands|Haarlem|SCALEWAY|
-|2|50.225.202.9|3128|United States|Brooklyn Park|Comcast Cable Communications, LLC|
-|3|173.176.14.246|3128|Canada|Vaudreuil-Dorion|Le Groupe Videotron Ltee|
-|4|89.219.21.141|3128|Kazakhstan|Astana|CTC ASTANA LTD|
-|5|47.251.48.42|8888|United States|Santa Clara|Alibaba.com LLC|
-|6|158.69.53.98|9300|Canada|Montreal|OVH SAS|
-|7|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|8|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
-|9|67.225.139.153|3128|United States|Lansing|Liquid Web, L.L.C|
-|10|117.251.103.186|8080|India|Hazratpur|BSNL Internet|
-|11|35.213.91.45|80|Japan|Tokyo|Google LLC|
-|12|200.105.215.22|33630|Bolivia|La Paz|AXS Bolivia S. A.|
-|13|107.151.255.94|45787|Japan|Tokyo|Zenlayer Inc|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|15|35.240.156.235|8080|Singapore|Singapore|Google LLC|
-|16|186.97.102.70|999|Colombia|Medellín|Colombia Móvil|
+|1|213.171.44.134|3128|Russia|Moscow|JSC Comcor|
+|2|47.251.48.42|8888|United States|Santa Clara|Alibaba.com LLC|
+|3|51.79.50.46|9300|Canada|Beauharnois|OVH SAS|
+|4|51.158.202.82|3128|Netherlands|Haarlem|SCALEWAY|
+|5|117.251.103.186|8080|India|Hazratpur|BSNL Internet|
+|6|173.176.14.246|3128|Canada|Vaudreuil-Dorion|Le Groupe Videotron Ltee|
+|7|200.55.250.20|6969|Ecuador|Machala|Comm & Net S.A.|
+|8|193.233.202.75|8080|United States|Ashburn|Alexhost SRL|
+|9|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|10|182.18.177.114|84|India|Hyderabad|CtrlS|
+|11|158.69.53.98|9300|Canada|Montreal|OVH SAS|
+|12|67.225.139.153|3128|United States|Lansing|Liquid Web, L.L.C|
+|13|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|14|51.158.202.82|3128|Netherlands|Haarlem|SCALEWAY|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|16|117.251.103.186|8080|India|Hazratpur|BSNL Internet|
 |17|5.196.111.29|20019|France|Le Grau-du-Roi|OVH SAS|
-|18|183.221.242.103|9443|China|Mianyang|China Mobile|
-|19|216.128.141.55|7777|United States|Dallas|The Constant Company|
-|20|180.184.91.187|443|China|Beijing|China Internet Network Information Center|
+|18|167.86.99.172|8080|Germany|Nuremberg|Contabo GmbH|
+|19|138.94.146.173|999|Guatemala|Puerto Barrios|Comunicaciones Metropolitanas Cablecolor|
+|20|186.97.102.70|999|Colombia|Medellín|Colombia Móvil|
 
 
 
