@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **8315** proxies at the latest update. Usable proxies are below.
+> Scraper found **8027** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|278|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|278|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|278|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|321|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|321|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|321|
 
 ## Sources
 
@@ -37,36 +37,36 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|905|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|969|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|516|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5811|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5459|✅|
 
 
 ## Sample Proxies With Geolocation Info
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.251.48.42|8888|United States|Santa Clara|Alibaba.com LLC|
+|1|51.158.202.82|3128|Netherlands|Haarlem|SCALEWAY|
 |2|213.171.44.134|3128|Russia|Moscow|JSC Comcor|
 |3|117.251.103.186|8080|India|Hazratpur|BSNL Internet|
-|4|47.251.48.42|8888|United States|Santa Clara|Alibaba.com LLC|
-|5|193.233.202.75|8080|United States|Ashburn|Alexhost SRL|
-|6|200.105.215.22|33630|Bolivia|La Paz|AXS Bolivia S. A.|
-|7|200.25.254.193|54240|Colombia|Neiva|Andinet ON Line|
-|8|191.243.46.50|43241|Brazil|Itapaci|Microturbo Telecomunicacoes Ltda-me|
-|9|139.144.24.46|8080|United States|Atlanta|Akamai Technologies, Inc.|
-|10|35.213.91.45|80|Japan|Tokyo|Google LLC|
-|11|20.120.240.49|80|United States|Quincy|Microsoft Corporation|
-|12|35.213.91.45|80|Japan|Tokyo|Google LLC|
-|13|186.97.102.70|999|Colombia|Medellín|Colombia Móvil|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|15|162.240.99.14|3128|United States|Provo|Unified Layer|
-|16|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|17|34.143.228.238|8080|Singapore|Singapore|Google LLC|
-|18|183.221.242.103|9443|China|Mianyang|China Mobile|
-|19|66.70.178.214|9300|Canada|Beauharnois|OVH SAS|
-|20|181.78.64.83|999|Colombia|Bogotá|IFX Networks Argentina S.R.L|
+|4|78.38.224.102|8080|Iran|Tehran|Telecommunication Company of Iran|
+|5|47.251.48.42|8888|United States|Santa Clara|Alibaba.com LLC|
+|6|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|7|158.69.53.98|9300|Canada|Montreal|OVH SAS|
+|8|35.213.91.45|80|Japan|Tokyo|Google LLC|
+|9|18.190.21.166|80|United States|Dublin|Amazon.com, Inc.|
+|10|138.199.41.122|8888|United States|New York|Datacamp Limited|
+|11|45.234.61.4|999|Venezuela|Caracas|SOLUCIONES INSTALRED CH&C C.A.|
+|12|128.199.98.232|3128|Singapore|Singapore|DigitalOcean, LLC|
+|13|67.225.139.153|3128|United States|Lansing|Liquid Web, L.L.C|
+|14|64.225.8.82|9994|United States|Clifton|DigitalOcean, LLC|
+|15|20.44.206.138|80|Singapore|Singapore|Microsoft Corporation|
+|16|35.240.219.50|8080|Singapore|Singapore|Google LLC|
+|17|117.251.103.186|8080|India|Hazratpur|BSNL Internet|
+|18|177.53.214.21|8080|Ecuador|Manta|Eliana Vanessa Morocho Oña|
+|19|129.151.173.15|8080|South Africa|Johannesburg|Oracle Corporation|
+|20|103.168.44.167|9191|Indonesia|Brebes|PT CYB Media Group|
 
 
 
