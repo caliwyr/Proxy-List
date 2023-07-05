@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **8656** proxies at the latest update. Usable proxies are below.
+> Scraper found **8662** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|390|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|390|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|390|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|388|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|388|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|388|
 
 ## Sources
 
@@ -37,7 +37,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|27|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1046|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1052|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|660|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5840|✅|
@@ -48,25 +48,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|213.171.44.134|3128|Russia|Moscow|JSC Comcor|
-|2|193.233.202.75|8080|United States|Ashburn|Alexhost SRL|
+|2|64.225.8.82|9991|United States|Clifton|DigitalOcean, LLC|
 |3|117.251.103.186|8080|India|Hazratpur|BSNL Internet|
-|4|47.251.48.42|8888|United States|Santa Clara|Alibaba.com LLC|
-|5|173.176.14.246|3128|Canada|Vaudreuil-Dorion|Le Groupe Videotron Ltee|
+|4|50.225.202.9|3128|United States|Brooklyn Park|Comcast Cable Communications, LLC|
+|5|64.225.8.82|9991|United States|Clifton|DigitalOcean, LLC|
 |6|89.219.21.141|3128|Kazakhstan|Astana|CTC ASTANA LTD|
-|7|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|8|177.125.89.101|8080|Brazil|Ouro Preto|Conecta Minas Telecom LTDA|
-|9|182.18.177.114|84|India|Hyderabad|CtrlS|
-|10|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
-|11|139.144.24.46|8080|United States|Atlanta|Akamai Technologies, Inc.|
-|12|35.213.91.45|80|Japan|Tokyo|Google LLC|
-|13|173.219.112.85|8080|United States|Sterling|Suddenlink Communications|
-|14|186.97.102.70|999|Colombia|Medellín|Colombia Móvil|
-|15|185.78.29.99|3128|Russia|St Petersburg|System servers virtual hosting BEGET.RU|
-|16|117.251.103.186|8080|India|Hazratpur|BSNL Internet|
-|17|183.221.242.111|8443|China|Mianyang|China Mobile|
-|18|64.225.8.82|9987|United States|Clifton|DigitalOcean, LLC|
-|19|183.221.242.107|8443|China|Mianyang|China Mobile|
-|20|186.97.102.70|999|Colombia|Medellín|Colombia Móvil|
+|7|173.176.14.246|3128|Canada|Vaudreuil-Dorion|Le Groupe Videotron Ltee|
+|8|45.190.216.202|8080|Brazil|Sao Pedro da Aldeia|Infolagos Telecomunicacoes Ltda ME|
+|9|200.105.215.22|33630|Bolivia|La Paz|AXS Bolivia S. A.|
+|10|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|11|168.228.233.167|999|Dominican Republic|Santiago de los Caballeros|COLUMBUS NETWORKS DOMINICANA, S.A.|
+|12|190.119.76.107|999|Peru|La Unión|America Movil Peru S.A.C.|
+|13|36.78.127.198|8080|Indonesia|Surabaya|PT. Telekomunikasi Indonesia|
+|14|71.14.23.121|8080|United States|Birmingham|Spectrum|
+|15|23.94.187.48|80|United States|Buffalo|ColoCrossing|
+|16|162.240.100.4|3128|United States|Provo|Unified Layer|
+|17|186.97.102.70|999|Colombia|Medellín|Colombia Móvil|
+|18|139.144.24.46|8080|United States|Atlanta|Akamai Technologies, Inc.|
+|19|64.225.4.85|9998|United States|Clifton|DigitalOcean, LLC|
+|20|162.240.100.5|3128|United States|Provo|Unified Layer|
 
 
 
