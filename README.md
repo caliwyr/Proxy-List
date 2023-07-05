@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **8211** proxies at the latest update. Usable proxies are below.
+> Scraper found **8130** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|327|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|327|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|327|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|394|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|394|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|394|
 
 ## Sources
 
@@ -37,7 +37,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1107|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1026|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|562|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5459|✅|
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|51.158.202.82|3128|Netherlands|Haarlem|SCALEWAY|
+|1|47.251.48.42|8888|United States|Santa Clara|Alibaba.com LLC|
 |2|47.251.48.42|8888|United States|Santa Clara|Alibaba.com LLC|
-|3|117.251.103.186|8080|India|Hazratpur|BSNL Internet|
-|4|47.251.48.42|8888|United States|Santa Clara|Alibaba.com LLC|
-|5|193.233.202.75|8080|United States|Ashburn|Alexhost SRL|
-|6|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|7|135.125.68.145|3128|France|Roubaix|OVH SAS|
-|8|200.25.254.193|54240|Colombia|Neiva|Andinet ON Line|
-|9|71.14.23.121|8080|United States|Birmingham|Spectrum|
-|10|200.105.215.22|33630|Bolivia|La Paz|AXS Bolivia S. A.|
-|11|139.144.24.46|8080|United States|Atlanta|Akamai Technologies, Inc.|
-|12|173.176.14.246|3128|Canada|Vaudreuil-Dorion|Le Groupe Videotron Ltee|
-|13|117.251.103.186|8080|India|Hazratpur|BSNL Internet|
-|14|51.158.202.82|3128|Netherlands|Haarlem|SCALEWAY|
-|15|186.97.102.70|999|Colombia|Medellín|Colombia Móvil|
-|16|35.213.91.45|80|Japan|Tokyo|Google LLC|
-|17|35.213.91.45|80|Japan|Tokyo|Google LLC|
-|18|45.190.216.202|8080|Brazil|Sao Pedro da Aldeia|Infolagos Telecomunicacoes Ltda ME|
-|19|45.79.123.20|3128|India|Mumbai|Akamai Technologies, Inc.|
-|20|117.251.103.186|8080|India|Hazratpur|BSNL Internet|
+|3|51.158.202.82|3128|Netherlands|Haarlem|SCALEWAY|
+|4|51.79.50.46|9300|Canada|Beauharnois|OVH SAS|
+|5|135.125.68.145|3128|France|Roubaix|OVH SAS|
+|6|117.251.103.186|8080|India|Hazratpur|BSNL Internet|
+|7|193.233.202.75|8080|United States|Ashburn|Alexhost SRL|
+|8|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
+|9|50.225.202.9|3128|United States|Brooklyn Park|Comcast Cable Communications, LLC|
+|10|139.144.24.46|8080|United States|Atlanta|Akamai Technologies, Inc.|
+|11|35.213.91.45|80|Japan|Tokyo|Google LLC|
+|12|95.217.167.241|8080|Finland|Helsinki|Hetzner Online GmbH|
+|13|64.225.4.29|9865|United States|Clifton|DigitalOcean, LLC|
+|14|117.251.103.186|8080|India|Hazratpur|BSNL Internet|
+|15|131.153.48.254|8080|Singapore|Singapore|Secured Servers LLC|
+|16|41.76.145.136|443|Mozambique|Maputo|VM  S.A|
+|17|167.86.99.172|8080|Germany|Nuremberg|Contabo GmbH|
+|18|123.126.158.50|80|China|Beijing|China Unicom Beijing Province Network|
+|19|84.154.124.98|3128|Germany|Mechernich|Deutsche Telekom AG|
+|20|51.158.202.82|3128|Netherlands|Haarlem|SCALEWAY|
 
 
 
