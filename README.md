@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **8810** proxies at the latest update. Usable proxies are below.
+> Scraper found **8718** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|443|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|443|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|443|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|422|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|422|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|422|
 
 ## Sources
 
@@ -37,7 +37,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1121|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1029|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|738|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5868|✅|
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.213.91.45|80|Japan|Tokyo|Google LLC|
-|2|117.251.103.186|8080|India|Jalandhar|BSNL Internet|
-|3|20.44.206.138|80|Singapore|Singapore|Microsoft Corporation|
+|1|107.148.94.92|80|United States|Los Angeles|PEG TECH INC|
+|2|35.213.91.45|80|Japan|Tokyo|Google LLC|
+|3|136.243.55.199|3128|Germany|Falkenstein|Hetzner Online GmbH|
 |4|140.238.58.147|80|Japan|Tokyo|Oracle Corporation|
-|5|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
-|6|213.171.44.134|3128|Russia|Moscow|JSC Comcor|
-|7|129.154.225.163|8100|India|Mumbai|Oracle Corporation|
-|8|140.238.245.116|8100|India|Mumbai|Oracle Corporation|
-|9|103.105.129.2|32650|Indonesia|Depok|NAP.Net.id|
-|10|103.29.91.38|32650|Myanmar|Yangon|Global Technology Co|
-|11|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|12|107.172.196.179|3128|United States|Buffalo|ColoCrossing|
-|13|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|14|139.144.24.46|8080|United States|Atlanta|Akamai Technologies, Inc.|
-|15|18.190.21.166|80|United States|Dublin|Amazon.com, Inc.|
+|5|117.251.103.186|8080|India|Jalandhar|BSNL Internet|
+|6|176.106.34.47|8080|Poland|Gliwice|KRUCZNET Sp. z o.o.|
+|7|140.238.245.116|8100|India|Mumbai|Oracle Corporation|
+|8|129.154.225.163|8100|India|Mumbai|Oracle Corporation|
+|9|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|10|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|11|41.85.116.0|8080|South Africa|Cape Town|Frogfoot Networks|
+|12|112.217.162.5|3128|South Korea|Gyeyang-gu|LG DACOM Corporation|
+|13|31.129.253.30|40223|Ukraine|Kharkiv|FOP Samoilenko Igor Olegovich|
+|14|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|15|216.128.141.55|7777|United States|Dallas|The Constant Company|
 |16|162.240.100.4|3128|United States|Provo|Unified Layer|
-|17|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|18|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
-|19|183.221.242.103|9443|China|Mianyang|China Mobile|
-|20|191.252.113.27|3128|Brazil|São Paulo|Locaweb Serviços de Internet S/A|
+|17|139.144.24.46|8080|United States|Atlanta|Akamai Technologies, Inc.|
+|18|107.172.196.179|3128|United States|Buffalo|ColoCrossing|
+|19|186.97.102.70|999|Colombia|Medellín|Colombia Móvil|
+|20|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
 
 
 
