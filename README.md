@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|437|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|437|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|437|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|443|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|443|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|443|
 
 ## Sources
 
@@ -48,25 +48,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.213.91.45|80|Japan|Tokyo|Google LLC|
-|2|157.245.27.9|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|3|213.171.44.134|3128|Russia|Moscow|JSC Comcor|
-|4|136.243.55.199|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|5|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|6|129.154.225.163|8100|India|Mumbai|Oracle Corporation|
-|7|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|8|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
-|9|64.225.4.85|9998|United States|Clifton|DigitalOcean, LLC|
-|10|171.243.114.42|50003|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|11|103.76.151.90|8080|Indonesia|Bandung|PT. Java Digital Nusantara|
-|12|139.144.24.46|8080|United States|Atlanta|Akamai Technologies, Inc.|
-|13|67.225.139.153|3128|United States|Lansing|Liquid Web, L.L.C|
-|14|5.153.234.91|3128|Sweden|Stockholm|Inter Connects Inc|
-|15|34.82.217.181|5555|United States|The Dalles|Google LLC|
-|16|103.131.16.108|8080|Indonesia|Tangerang|Global Media Inti Semesta|
-|17|8.209.114.72|3129|Germany|Frankfurt am Main|Alibaba.com Singapore E-Commerce Private Limited|
-|18|88.214.41.251|3128|Turkey|Magnesia ad Sipylum|Superonline Iletisim Hizmetleri A.S.|
-|19|183.221.242.107|8443|China|Mianyang|China Mobile|
-|20|64.225.8.115|9980|United States|Clifton|DigitalOcean, LLC|
+|2|117.251.103.186|8080|India|Jalandhar|BSNL Internet|
+|3|20.44.206.138|80|Singapore|Singapore|Microsoft Corporation|
+|4|140.238.58.147|80|Japan|Tokyo|Oracle Corporation|
+|5|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
+|6|213.171.44.134|3128|Russia|Moscow|JSC Comcor|
+|7|129.154.225.163|8100|India|Mumbai|Oracle Corporation|
+|8|140.238.245.116|8100|India|Mumbai|Oracle Corporation|
+|9|103.105.129.2|32650|Indonesia|Depok|NAP.Net.id|
+|10|103.29.91.38|32650|Myanmar|Yangon|Global Technology Co|
+|11|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|12|107.172.196.179|3128|United States|Buffalo|ColoCrossing|
+|13|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|14|139.144.24.46|8080|United States|Atlanta|Akamai Technologies, Inc.|
+|15|18.190.21.166|80|United States|Dublin|Amazon.com, Inc.|
+|16|162.240.100.4|3128|United States|Provo|Unified Layer|
+|17|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|18|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
+|19|183.221.242.103|9443|China|Mianyang|China Mobile|
+|20|191.252.113.27|3128|Brazil|São Paulo|Locaweb Serviços de Internet S/A|
 
 
 
