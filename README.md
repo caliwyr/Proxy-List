@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|315|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|315|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|315|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|252|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|252|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|252|
 
 ## Sources
 
@@ -48,25 +48,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|47.251.48.42|8888|United States|Santa Clara|Alibaba.com LLC|
-|2|51.158.202.82|3128|Netherlands|Haarlem|SCALEWAY|
-|3|117.251.103.186|8080|India|Hazratpur|BSNL Internet|
-|4|50.225.202.9|3128|United States|Brooklyn Park|Comcast Cable Communications, LLC|
-|5|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
-|6|135.125.68.145|3128|France|Roubaix|OVH SAS|
-|7|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|8|200.25.254.193|54240|Colombia|Neiva|Andinet ON Line|
-|9|182.18.177.114|84|India|Hyderabad|CtrlS|
-|10|162.240.99.14|3128|United States|Provo|Unified Layer|
-|11|35.213.91.45|80|Japan|Tokyo|Google LLC|
-|12|200.105.215.22|33630|Bolivia|La Paz|AXS Bolivia S. A.|
-|13|139.144.24.46|8080|United States|Atlanta|Akamai Technologies, Inc.|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|15|123.126.158.50|80|China|Beijing|China Unicom Beijing Province Network|
-|16|35.213.91.45|80|Japan|Tokyo|Google LLC|
-|17|180.184.91.187|443|China|Beijing|China Internet Network Information Center|
-|18|122.50.6.186|8080|Indonesia|Bogor|PT Mora Telematika Indonesia|
-|19|129.151.173.15|8080|South Africa|Johannesburg|Oracle Corporation|
-|20|51.158.202.82|3128|Netherlands|Haarlem|SCALEWAY|
+|2|213.171.44.134|3128|Russia|Moscow|JSC Comcor|
+|3|51.158.202.82|3128|Netherlands|Haarlem|SCALEWAY|
+|4|117.251.103.186|8080|India|Hazratpur|BSNL Internet|
+|5|158.69.53.98|9300|Canada|Montreal|OVH SAS|
+|6|200.105.215.22|33630|Bolivia|La Paz|AXS Bolivia S. A.|
+|7|200.25.254.193|54240|Colombia|Neiva|Andinet ON Line|
+|8|35.213.91.45|80|Japan|Tokyo|Google LLC|
+|9|18.190.21.166|80|United States|Dublin|Amazon.com, Inc.|
+|10|139.144.24.46|8080|United States|Atlanta|Akamai Technologies, Inc.|
+|11|216.128.141.55|7777|United States|Dallas|The Constant Company|
+|12|189.201.164.91|999|Mexico|San Luis Potosí City|ATC HOLDING FIBRA MEXICO, S. DE R.L. DE C.V.|
+|13|36.138.120.73|3128|China|Shenzhen|China Mobile|
+|14|64.225.8.115|9986|United States|Clifton|DigitalOcean, LLC|
+|15|183.221.242.103|9443|China|Mianyang|China Mobile|
+|16|118.173.247.205|8080|Thailand|Bangkok|TOT Public Company Limited|
+|17|35.213.91.45|80|Japan|Tokyo|Google LLC|
+|18|136.243.55.199|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|19|41.76.145.18|443|Mozambique|Maputo|VM  S.A|
+|20|66.23.233.90|3128|United States|Secaucus|Interserver, Inc|
 
 
 
