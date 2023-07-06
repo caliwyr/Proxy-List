@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|327|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|327|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|327|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|332|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|332|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|332|
 
 ## Sources
 
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|179.49.113.230|999|Honduras|San Pedro Sula|Asociacion De Servicio De Internet S. De RL|
-|2|157.245.27.9|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|3|117.251.103.186|8080|India|Hazratpur|BSNL Internet|
+|1|1.20.231.9|3128|Thailand|Yala|TOT Public Company Limited|
+|2|117.251.103.186|8080|India|Hazratpur|BSNL Internet|
+|3|20.44.206.138|80|Singapore|Singapore|Microsoft Corporation|
 |4|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
-|5|1.20.231.9|3128|Thailand|Yala|TOT Public Company Limited|
-|6|200.105.215.22|33630|Bolivia|La Paz|AXS Bolivia S. A.|
-|7|154.209.253.83|8443|United States|Los Angeles|Shanghai Ruisu Network Technology|
-|8|112.217.162.5|3128|South Korea|Gyeyang-gu|LG DACOM Corporation|
-|9|136.243.55.199|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|10|49.48.49.106|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
-|11|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|12|129.154.225.163|8100|India|Mumbai|Oracle Corporation|
-|13|103.92.26.190|4002|Vietnam|Quận Phú Nhuận|TLSOFT|
-|14|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|15|107.175.172.143|3128|United States|Dallas|ColoCrossing|
-|16|35.213.91.45|80|Japan|Tokyo|Google LLC|
-|17|47.251.48.42|8888|United States|Santa Clara|Alibaba.com LLC|
-|18|158.69.71.245|9300|Canada|Montreal|OVH SAS|
-|19|18.190.21.166|80|United States|Dublin|Amazon.com, Inc.|
-|20|180.184.91.187|443|China|Beijing|China Internet Network Information Center|
+|5|200.105.215.22|33630|Bolivia|La Paz|AXS Bolivia S. A.|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|200.106.184.129|999|Argentina|Lomas de Zamora|Fullnet Solutions S.A.S.|
+|8|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|9|129.154.225.163|8100|India|Mumbai|Oracle Corporation|
+|10|51.79.50.22|9300|Canada|Beauharnois|OVH SAS|
+|11|140.148.253.95|999|Mexico|Pachuca|Total Play Telecomunicaciones SA De CV|
+|12|103.137.111.197|99|Indonesia|Surabaya|PT. Capoeng Digital Nusantara|
+|13|136.243.55.199|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|14|179.49.113.230|999|Honduras|San Pedro Sula|Asociacion De Servicio De Internet S. De RL|
+|15|35.213.91.45|80|Japan|Tokyo|Google LLC|
+|16|18.190.21.166|80|United States|Dublin|Amazon.com, Inc.|
+|17|190.2.212.20|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|18|23.152.40.21|3128|United States|North Miami|Host-Engine.com|
+|19|159.255.188.134|41258|Poland|Warsaw|TOM-NET s.c. Dariusz Koper|
+|20|159.255.188.134|41258|Poland|Warsaw|TOM-NET s.c. Dariusz Koper|
 
 
 
