@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|326|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|326|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|326|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|265|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|265|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|265|
 
 ## Sources
 
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|192.241.238.167|31028|United States|San Francisco|DigitalOcean, LLC|
-|2|35.213.91.45|80|Japan|Tokyo|Google LLC|
-|3|213.171.44.134|3128|Russia|Moscow|JSC Comcor|
-|4|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
-|5|179.61.253.112|3128|Germany|Frankfurt am Main|Collin Schneeweiss|
-|6|81.12.36.51|3128|Iran|Tehran|Respina Networks & Beyond PJSC|
+|1|5.161.207.168|3128|United States|Ashburn|Hetzner Online GmbH|
+|2|5.161.207.168|3128|United States|Ashburn|Hetzner Online GmbH|
+|3|179.61.253.112|3128|Germany|Frankfurt am Main|Collin Schneeweiss|
+|4|117.251.103.186|8080|India|Hazratpur|BSNL Internet|
+|5|35.213.91.45|80|Japan|Tokyo|Google LLC|
+|6|20.44.206.138|80|Singapore|Singapore|Microsoft Corporation|
 |7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|9|82.165.184.53|80|Poland|Warsaw|IONOS SE|
-|10|103.4.94.2|8080|Pakistan|Lahore|HEC|
-|11|107.148.94.92|80|United States|Los Angeles|PEG TECH INC|
+|8|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
+|9|18.190.21.166|80|United States|Dublin|Amazon.com, Inc.|
+|10|146.196.54.75|80|Hong Kong|Kwun Tong|Layerstack Limited|
+|11|20.113.159.22|3128|Germany|Frankfurt am Main|Microsoft Corporation|
 |12|35.213.91.45|80|Japan|Tokyo|Google LLC|
-|13|131.153.48.254|8080|Singapore|Singapore|Secured Servers LLC|
-|14|107.148.94.92|80|United States|Los Angeles|PEG TECH INC|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|16|41.76.145.18|8080|Mozambique|Maputo|VM  S.A|
-|17|64.225.8.115|9998|United States|Clifton|DigitalOcean, LLC|
-|18|176.105.199.153|8010|Ukraine|Perehonivka|NPK Home-Net Ltd|
-|19|95.217.167.241|8080|Finland|Helsinki|Hetzner Online GmbH|
-|20|23.152.40.21|3128|United States|North Miami|Host-Engine.com|
+|13|20.44.206.138|80|Singapore|Singapore|Microsoft Corporation|
+|14|39.164.132.197|8088|China|Zhengzhou|China Mobile|
+|15|123.126.158.50|80|China|Beijing|China Unicom Beijing Province Network|
+|16|41.76.145.136|443|Mozambique|Maputo|VM  S.A|
+|17|216.128.141.55|7777|United States|Dallas|The Constant Company|
+|18|139.144.24.46|8080|United States|Atlanta|Akamai Technologies, Inc.|
+|19|23.152.40.21|3128|United States|North Miami|Host-Engine.com|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 
 
 
