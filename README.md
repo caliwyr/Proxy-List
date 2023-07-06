@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **8112** proxies at the latest update. Usable proxies are below.
+> Scraper found **8200** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|301|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|301|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|301|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|271|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|271|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|271|
 
 ## Sources
 
@@ -37,7 +37,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|1|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|838|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|926|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|561|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5629|✅|
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.213.91.45|80|Japan|Tokyo|Google LLC|
-|2|45.225.106.101|999|Ecuador|Babahoyo|Nedetel S.A.|
-|3|47.251.48.42|8888|United States|Santa Clara|Alibaba.com LLC|
+|1|47.251.48.42|8888|United States|Santa Clara|Alibaba.com LLC|
+|2|35.213.91.45|80|Japan|Tokyo|Google LLC|
+|3|45.225.106.101|999|Ecuador|Babahoyo|Nedetel S.A.|
 |4|20.44.206.138|80|Singapore|Singapore|Microsoft Corporation|
-|5|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
-|6|47.251.48.42|8888|United States|Santa Clara|Alibaba.com LLC|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|200.106.167.114|999|Mexico|Querétaro City|Cybernetworks S.A De C.V|
-|9|200.105.215.22|33630|Bolivia|La Paz|AXS Bolivia S. A.|
-|10|36.93.180.169|8080|Indonesia|Bali Mester|Telekomunikasi Indonesia|
-|11|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|12|177.139.194.62|3128|Brazil|São Paulo|Vivo|
-|13|112.217.162.5|3128|South Korea|Gyeyang-gu|LG DACOM Corporation|
-|14|23.152.40.21|3128|United States|North Miami|Host-Engine.com|
-|15|193.233.202.75|8080|United States|Ashburn|Alexhost SRL|
-|16|34.87.55.162|8080|Singapore|Singapore|Google LLC|
-|17|162.240.99.14|3128|United States|Provo|Unified Layer|
-|18|35.213.91.45|80|Japan|Tokyo|Google LLC|
-|19|23.152.40.21|3128|United States|North Miami|Host-Engine.com|
-|20|41.76.145.18|443|Mozambique|Maputo|VM  S.A|
+|5|34.87.55.162|8080|Singapore|Singapore|Google LLC|
+|6|20.219.180.105|3129|India|Pune|Microsoft Corporation|
+|7|178.234.31.40|3128|Russia|Lipetsk|Address point-to-point Lipetsk Regional Public Network BBN-3/1/1 General|
+|8|47.251.48.42|8888|United States|Santa Clara|Alibaba.com LLC|
+|9|117.251.103.186|8080|India|Hazratpur|BSNL Internet|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|200.105.215.22|33630|Bolivia|La Paz|AXS Bolivia S. A.|
+|12|103.154.144.204|8715|Indonesia|Surabaya|MORATELINDONAP|
+|13|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|14|162.240.100.4|3128|United States|Provo|Unified Layer|
+|15|177.139.194.62|3128|Brazil|São Paulo|Vivo|
+|16|18.190.21.166|80|United States|Dublin|Amazon.com, Inc.|
+|17|64.225.4.63|9993|United States|Clifton|DigitalOcean, LLC|
+|18|131.153.48.254|8080|Singapore|Singapore|Secured Servers LLC|
+|19|177.200.239.50|999|Dominican Republic|Santo Domingo Este|ESQUIRE CORPORATE SERVICES, S.R.L.|
+|20|35.213.91.45|80|Japan|Tokyo|Google LLC|
 
 
 
