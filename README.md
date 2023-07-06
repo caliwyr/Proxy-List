@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **8525** proxies at the latest update. Usable proxies are below.
+> Scraper found **8519** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|273|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|273|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|273|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|241|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|241|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|241|
 
 ## Sources
 
@@ -37,7 +37,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|1|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|972|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|966|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|387|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|6082|✅|
@@ -48,25 +48,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.213.91.45|80|Japan|Tokyo|Google LLC|
-|2|8.209.114.72|3129|Germany|Frankfurt am Main|Alibaba.com Singapore E-Commerce Private Limited|
-|3|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
-|4|117.251.103.186|8080|India|Hazratpur|BSNL Internet|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|8|58.65.179.229|8080|Pakistan|Rawalpindi|Nayatel (Pvt) Ltd|
-|9|139.144.24.46|8080|United States|Atlanta|Akamai Technologies, Inc.|
-|10|87.247.251.60|3128|Bulgaria|Pernik|xxx|
-|11|177.200.239.50|999|Dominican Republic|Santo Domingo Este|ESQUIRE CORPORATE SERVICES, S.R.L.|
-|12|190.2.212.20|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|13|35.213.91.45|80|Japan|Tokyo|Google LLC|
-|14|189.201.164.91|999|Mexico|San Luis Potosí City|ATC HOLDING FIBRA MEXICO, S. DE R.L. DE C.V.|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|16|186.97.102.70|999|Colombia|Medellín|Colombia Móvil|
-|17|183.221.242.103|9443|China|Mianyang|China Mobile|
-|18|24.152.40.49|8080|Paraguay|Coronel Oviedo|TV MAX CABLE S.A.|
-|19|183.164.242.173|8089|China|Rongcheng|Chinanet|
-|20|131.153.48.254|8080|Singapore|Singapore|Secured Servers LLC|
+|2|117.251.103.186|8080|India|Hazratpur|BSNL Internet|
+|3|112.217.162.5|3128|South Korea|Gyeyang-gu|LG DACOM Corporation|
+|4|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
+|5|18.190.21.166|80|United States|Dublin|Amazon.com, Inc.|
+|6|159.255.188.134|41258|Poland|Warsaw|TOM-NET s.c. Dariusz Koper|
+|7|159.255.188.134|41258|Poland|Warsaw|TOM-NET s.c. Dariusz Koper|
+|8|180.184.91.187|443|China|Beijing|China Internet Network Information Center|
+|9|149.34.210.56|9090|Turkey|Konya|Gibirnet Iletisim Hizmetleri Sanayi VE Ticaret Limited Sirketi|
+|10|103.168.44.167|9191|Indonesia|Brebes|PT CYB Media Group|
+|11|183.221.242.103|9443|China|Mianyang|China Mobile|
+|12|189.201.164.91|999|Mexico|San Luis Potosí City|ATC HOLDING FIBRA MEXICO, S. DE R.L. DE C.V.|
+|13|47.242.3.214|8081|Hong Kong|Hong Kong|Alibaba.com LLC|
+|14|90.154.124.211|8080|Russia|Moscow|CTC-B2B|
+|15|113.223.212.71|8089|China|Changsha|Chinanet|
+|16|113.223.213.154|8089|China|Changsha|Chinanet|
+|17|23.152.40.21|3128|United States|North Miami|Host-Engine.com|
+|18|35.213.91.45|80|Japan|Tokyo|Google LLC|
+|19|163.228.89.122|8080|China|Beimeng|Shanghai Blue Cloud Technology Co., Ltd|
+|20|36.93.133.170|8080|Indonesia|Curug|Telekomunikasi Indonesia|
 
 
 
