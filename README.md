@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **8077** proxies at the latest update. Usable proxies are below.
+> Scraper found **8079** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|291|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|291|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|291|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|260|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|260|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|260|
 
 ## Sources
 
@@ -37,7 +37,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|1|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|946|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|948|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|514|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5533|✅|
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|68.183.53.101|9990|United States|Clifton|DigitalOcean, LLC|
-|2|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
-|3|188.136.143.85|7060|Iran|Isfahan|Ariana Gostar Spadana|
-|4|176.118.50.237|53281|Ukraine|Truskavets|Limited Liability Company Radio Network|
-|5|217.61.247.50|3128|Sweden|Stockholm|Elastx AB|
-|6|139.144.24.46|8080|United States|Atlanta|Akamai Technologies, Inc.|
-|7|35.213.91.45|80|Japan|Tokyo|Google LLC|
-|8|103.73.66.167|7890|Hong Kong|Hong Kong|HostHatch|
-|9|47.251.48.42|8888|United States|Santa Clara|Alibaba.com LLC|
-|10|131.153.48.254|8080|Singapore|Singapore|Secured Servers LLC|
-|11|123.126.158.50|80|China|Beijing|China Unicom Beijing Province Network|
-|12|123.126.158.50|80|China|Beijing|China Unicom Beijing Province Network|
-|13|64.225.4.29|9491|United States|Clifton|DigitalOcean, LLC|
-|14|45.167.253.129|999|Mexico|San Luis Potosí City|QDS NETWORKS SA DE CV|
-|15|47.254.25.208|3128|United States|Minkler|Alibaba.com LLC|
-|16|64.225.4.29|9491|United States|Clifton|DigitalOcean, LLC|
-|17|39.164.132.197|8088|China|Zhengzhou|China Mobile|
-|18|64.225.4.29|9491|United States|Clifton|DigitalOcean, LLC|
-|19|23.152.40.21|3128|United States|North Miami|Host-Engine.com|
-|20|198.12.122.226|3128|United States|Palo Alto|ColoCrossing|
+|1|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
+|2|35.213.91.45|80|Japan|Tokyo|Google LLC|
+|3|35.213.91.45|80|Japan|Tokyo|Google LLC|
+|4|103.73.66.167|7890|Hong Kong|Hong Kong|HostHatch|
+|5|23.152.40.21|3128|United States|North Miami|Host-Engine.com|
+|6|183.221.242.103|9443|China|Mianyang|China Mobile|
+|7|41.76.145.136|8080|Mozambique|Maputo|VM  S.A|
+|8|143.198.209.148|8000|Singapore|Singapore|DigitalOcean, LLC|
+|9|45.169.92.147|999|Peru|Lima|Wigo S.A.|
+|10|41.76.145.136|8080|Mozambique|Maputo|VM  S.A|
+|11|183.221.242.103|9443|China|Mianyang|China Mobile|
+|12|103.3.246.215|3128|Vietnam|Tinh Binh Duong|VDATA|
+|13|203.173.88.209|3128|Indonesia|Jakarta|Maxindo|
+|14|123.126.158.50|80|China|Beijing|China Unicom Beijing Province Network|
+|15|104.251.222.111|3126|United States|Dallas|Nodisto IT, LLC|
+|16|103.184.66.30|8181|Indonesia|Tarogong|PT Siber Tech Indonesia|
+|17|24.152.40.49|8080|Paraguay|Coronel Oviedo|TV MAX CABLE S.A.|
+|18|95.217.167.241|8080|Finland|Helsinki|Hetzner Online GmbH|
+|19|101.255.69.26|8080|Indonesia|Jakarta|PT Remala Abadi|
+|20|36.6.145.160|8089|China|Hefei|Chinanet|
 
 
 
