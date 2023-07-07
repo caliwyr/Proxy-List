@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **8865** proxies at the latest update. Usable proxies are below.
+> Scraper found **8855** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|304|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|304|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|304|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|296|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|296|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|296|
 
 ## Sources
 
@@ -36,8 +36,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|25|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|991|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|31|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|975|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|474|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|6292|✅|
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|112.217.162.5|3128|South Korea|Gyeyang-gu|LG DACOM Corporation|
-|2|117.251.103.186|8080|India|Hazratpur|BSNL Internet|
+|1|117.251.103.186|8080|India|Hazratpur|BSNL Internet|
+|2|112.217.162.5|3128|South Korea|Gyeyang-gu|LG DACOM Corporation|
 |3|77.232.21.4|8080|Russia|Moscow|JSC "AKADO-Stolitsa"|
 |4|18.190.21.166|80|United States|Dublin|Amazon.com, Inc.|
-|5|139.144.24.46|8080|United States|Atlanta|Akamai Technologies, Inc.|
+|5|124.158.182.34|7654|Indonesia|Jakarta|PT Jala Lintas Media|
 |6|35.213.91.45|80|Japan|Tokyo|Google LLC|
 |7|209.126.9.54|3128|United States|St Louis|Nubes, LLC|
-|8|35.213.91.45|80|Japan|Tokyo|Google LLC|
+|8|20.44.206.138|80|Singapore|Singapore|Microsoft Corporation|
 |9|189.201.164.91|999|Mexico|San Luis Potosí City|ATC HOLDING FIBRA MEXICO, S. DE R.L. DE C.V.|
-|10|207.180.216.251|8118|Germany|Nuremberg|Contabo GmbH|
-|11|162.240.100.5|3128|United States|Provo|Unified Layer|
-|12|189.201.164.91|999|Mexico|San Luis Potosí City|ATC HOLDING FIBRA MEXICO, S. DE R.L. DE C.V.|
-|13|35.213.91.45|80|Japan|Tokyo|Google LLC|
-|14|162.240.100.4|3128|United States|Provo|Unified Layer|
-|15|131.153.48.254|8080|Singapore|Singapore|Secured Servers LLC|
-|16|14.194.101.220|3128|India|Ghaziabad|Tata Tele Services GSM|
-|17|183.221.242.111|8443|China|Mianyang|China Mobile|
-|18|149.102.243.133|34000|United States|Los Angeles|Datacamp Limited|
-|19|41.76.145.136|443|Mozambique|Maputo|VM  S.A|
-|20|47.242.3.214|8081|Hong Kong|Hong Kong|Alibaba.com LLC|
+|10|131.153.48.254|8080|Singapore|Singapore|Secured Servers LLC|
+|11|177.200.239.50|999|Dominican Republic|Santo Domingo Este|ESQUIRE CORPORATE SERVICES, S.R.L.|
+|12|41.76.145.136|443|Mozambique|Maputo|VM  S.A|
+|13|201.184.24.12|999|Colombia|Bogotá|EPM Telecomunicaciones S.A. E.S.P.|
+|14|41.76.145.18|8080|Mozambique|Maputo|VM  S.A|
+|15|50.225.202.9|3128|United States|Brooklyn Park|Comcast Cable Communications, LLC|
+|16|190.82.110.102|80|Chile|Santiago|Telefonica Empresas|
+|17|24.152.40.49|8080|Paraguay|Coronel Oviedo|TV MAX CABLE S.A.|
+|18|189.201.164.91|999|Mexico|San Luis Potosí City|ATC HOLDING FIBRA MEXICO, S. DE R.L. DE C.V.|
+|19|152.231.77.115|8080|Chile|Las Condes|Entel Chile S.A.|
+|20|183.221.242.107|8443|China|Mianyang|China Mobile|
 
 
 
