@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **8503** proxies at the latest update. Usable proxies are below.
+> Scraper found **8632** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|429|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|429|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|429|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|415|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|415|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|415|
 
 ## Sources
 
@@ -36,10 +36,10 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|8|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1078|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|14|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1164|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|366|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|403|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5968|✅|
 
 
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.130.147.86|80|United States|Ashburn|Shenzhen Tencent Computer Systems Company Limited|
+|1|112.217.162.5|3128|South Korea|Gyeyang-gu|LG DACOM Corporation|
 |2|185.149.23.121|443|United States|Los Angeles|DediPath|
-|3|140.238.58.147|80|Japan|Tokyo|Oracle Corporation|
-|4|43.130.148.94|80|United States|Ashburn|Shenzhen Tencent Computer Systems Company Limited|
-|5|213.171.44.134|3128|Russia|Moscow|JSC Comcor|
-|6|178.234.31.40|3128|Russia|Lipetsk|Address point-to-point Lipetsk Regional Public Network BBN-3/1/1 General|
-|7|185.149.23.121|443|United States|Los Angeles|DediPath|
-|8|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
-|9|217.61.247.50|3128|Sweden|Stockholm|Elastx AB|
-|10|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
-|11|35.213.91.45|80|Japan|Tokyo|Google LLC|
-|12|34.87.55.162|8080|Singapore|Singapore|Google LLC|
-|13|51.79.50.31|9300|Canada|Beauharnois|OVH SAS|
-|14|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|15|203.150.128.51|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|16|34.143.228.238|8080|Singapore|Singapore|Google LLC|
-|17|117.251.103.186|8080|India|Hazratpur|BSNL Internet|
-|18|20.44.206.138|80|Singapore|Singapore|Microsoft Corporation|
-|19|158.69.73.79|9300|Canada|Montreal|OVH SAS|
-|20|129.154.225.163|8100|India|Mumbai|Oracle Corporation|
+|3|34.87.55.162|8080|Singapore|Singapore|Google LLC|
+|4|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
+|5|185.149.23.121|443|United States|Los Angeles|DediPath|
+|6|146.196.54.75|80|Hong Kong|Kwun Tong|Layerstack Limited|
+|7|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|8|213.171.44.134|3128|Russia|Moscow|JSC Comcor|
+|9|117.251.103.186|8080|India|Hazratpur|BSNL Internet|
+|10|35.240.156.235|8080|Singapore|Singapore|Google LLC|
+|11|34.143.228.238|8080|Singapore|Singapore|Google LLC|
+|12|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|13|154.209.253.83|8443|United States|Los Angeles|Shanghai Ruisu Network Technology|
+|14|91.149.222.211|8080|Germany|Frankfurt am Main|Baxet Group Inc.|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|16|200.105.215.22|33630|Bolivia|La Paz|AXS Bolivia S. A.|
+|17|103.211.26.210|8181|Indonesia|Madiun|PT Olean Permata Telematika|
+|18|103.133.20.201|8080|Indonesia|Jakarta Pusat|PT. Terasys Virtual|
+|19|103.31.251.124|8080|Indonesia|Jakarta|ARGON|
+|20|185.15.172.212|3128|Russia|Moscow|SafeData LLC|
 
 
 
