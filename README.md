@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **7461** proxies at the latest update. Usable proxies are below.
+> Scraper found **7437** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|313|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|313|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|313|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|327|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|327|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|327|
 
 ## Sources
 
@@ -36,8 +36,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1009|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|985|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|454|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|4915|✅|
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|190.82.110.102|80|Chile|Santiago|Telefonica Empresas|
-|2|43.130.147.86|80|United States|Ashburn|Shenzhen Tencent Computer Systems Company Limited|
-|3|35.213.91.45|80|Japan|Tokyo|Google LLC|
-|4|20.44.206.138|80|Singapore|Singapore|Microsoft Corporation|
-|5|8.209.114.72|3129|Germany|Frankfurt am Main|Alibaba.com Singapore E-Commerce Private Limited|
-|6|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|7|188.40.90.62|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|8|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
-|9|5.202.104.22|3128|Iran|Tehran|Pishgaman Toseeh Ertebatat Company (Private Joint Stock)|
-|10|117.251.103.186|8080|India|Hazratpur|BSNL Internet|
-|11|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
+|1|47.251.48.42|8888|United States|Santa Clara|Alibaba.com LLC|
+|2|35.213.91.45|80|Japan|Tokyo|Google LLC|
+|3|190.82.110.102|80|Chile|Santiago|Telefonica Empresas|
+|4|43.130.147.86|80|United States|Ashburn|Shenzhen Tencent Computer Systems Company Limited|
+|5|217.61.247.50|3128|Sweden|Stockholm|Elastx AB|
+|6|8.209.114.72|3129|Germany|Frankfurt am Main|Alibaba.com Singapore E-Commerce Private Limited|
+|7|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
+|8|81.25.227.216|3128|Ukraine|Odesa|Skyline ISP|
+|9|47.251.48.42|8888|United States|Santa Clara|Alibaba.com LLC|
+|10|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|11|117.251.103.186|8080|India|Hazratpur|BSNL Internet|
 |12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|157.245.27.9|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|14|183.91.3.22|11022|Vietnam|Hanoi|CMC Telecom Infrastructure Company|
-|15|112.217.162.5|3128|South Korea|Gyeyang-gu|LG DACOM Corporation|
-|16|185.142.64.63|8080|Russia|Lytkarino|Wellcom-l ISP|
-|17|158.140.185.17|8080|Indonesia|Cinere|MYREPUBLIC|
-|18|185.149.23.121|443|United States|Los Angeles|DediPath|
-|19|139.144.24.46|8080|United States|Atlanta|Akamai Technologies, Inc.|
-|20|43.130.148.94|80|United States|Ashburn|Shenzhen Tencent Computer Systems Company Limited|
+|13|192.141.93.91|999|Argentina|San Juan|Netropolys S.A.|
+|14|64.225.8.82|9986|United States|Clifton|DigitalOcean, LLC|
+|15|183.91.3.22|11022|Vietnam|Hanoi|CMC Telecom Infrastructure Company|
+|16|112.217.162.5|3128|South Korea|Gyeyang-gu|LG DACOM Corporation|
+|17|86.100.71.126|8080|Lithuania|Klaipėda|Balticum TV network|
+|18|103.76.151.90|8080|Indonesia|Bandung|PT. Java Digital Nusantara|
+|19|92.137.250.246|3128|France|Gex|France Telecom Orange|
+|20|185.149.23.121|443|United States|Los Angeles|DediPath|
 
 
 
