@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **8065** proxies at the latest update. Usable proxies are below.
+> Scraper found **7963** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|371|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|371|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|371|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|375|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|375|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|375|
 
 ## Sources
 
@@ -37,9 +37,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1096|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1073|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|604|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|525|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5282|✅|
 
 
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.130.148.94|80|United States|Ashburn|Shenzhen Tencent Computer Systems Company Limited|
+|1|43.130.150.222|80|United States|Ashburn|Shenzhen Tencent Computer Systems Company Limited|
 |2|43.130.151.199|80|United States|Ashburn|Shenzhen Tencent Computer Systems Company Limited|
-|3|43.130.135.185|80|United States|Ashburn|Shenzhen Tencent Computer Systems Company Limited|
-|4|35.213.91.45|80|Japan|Tokyo|Google LLC|
+|3|43.130.148.94|80|United States|Ashburn|Shenzhen Tencent Computer Systems Company Limited|
+|4|157.245.27.9|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |5|43.130.135.185|80|United States|Ashburn|Shenzhen Tencent Computer Systems Company Limited|
-|6|178.234.31.40|3128|Russia|Lipetsk|Address point-to-point Lipetsk Regional Public Network BBN-3/1/1 General|
-|7|157.245.27.9|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|20.219.180.105|3129|India|Pune|Microsoft Corporation|
-|9|64.225.4.85|9994|United States|Clifton|DigitalOcean, LLC|
-|10|20.219.177.73|3129|India|Pune|Microsoft Corporation|
-|11|190.82.110.102|80|Chile|Santiago|Telefonica Empresas|
-|12|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|13|112.217.162.5|3128|South Korea|Gyeyang-gu|LG DACOM Corporation|
-|14|20.219.235.172|3129|India|Pune|Microsoft Corporation|
-|15|47.251.48.42|8888|United States|Santa Clara|Alibaba.com LLC|
-|16|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|17|20.44.206.138|80|Singapore|Singapore|Microsoft Corporation|
-|18|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|19|20.219.180.149|3129|India|Pune|Microsoft Corporation|
-|20|117.251.103.186|8080|India|Hazratpur|BSNL Internet|
+|6|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|7|190.82.110.102|80|Chile|Santiago|Telefonica Empresas|
+|8|35.213.91.45|80|Japan|Tokyo|Google LLC|
+|9|43.130.135.185|80|United States|Ashburn|Shenzhen Tencent Computer Systems Company Limited|
+|10|173.176.14.246|3128|Canada|Vaudreuil-Dorion|Le Groupe Videotron Ltee|
+|11|213.171.44.134|3128|Russia|Moscow|JSC Comcor|
+|12|47.251.48.42|8888|United States|Santa Clara|Alibaba.com LLC|
+|13|20.219.180.149|3129|India|Pune|Microsoft Corporation|
+|14|20.219.177.73|3129|India|Pune|Microsoft Corporation|
+|15|165.22.59.106|8888|Singapore|Singapore|DigitalOcean, LLC|
+|16|35.240.156.235|8080|Singapore|Singapore|Google LLC|
+|17|51.79.50.31|9300|Canada|Beauharnois|OVH SAS|
+|18|20.44.206.138|80|Singapore|Singapore|Microsoft Corporation|
+|19|110.78.141.37|8080|Thailand|Chom Bueng|CAT-BB|
+|20|82.165.184.53|80|Poland|Warsaw|IONOS SE|
 
 
 
