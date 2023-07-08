@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **8967** proxies at the latest update. Usable proxies are below.
+> Scraper found **9123** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|572|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|572|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|572|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|574|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|574|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|574|
 
 ## Sources
 
@@ -36,10 +36,10 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1267|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1417|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|585|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|591|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|6032|✅|
 
 
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|209.97.171.213|8888|Singapore|Singapore|DigitalOcean, LLC|
-|2|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|3|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|4|117.251.103.186|8080|India|Hazratpur|BSNL Internet|
-|5|20.219.183.188|3129|India|Pune|Microsoft Corporation|
-|6|112.217.162.5|3128|South Korea|Gyeyang-gu|LG DACOM Corporation|
-|7|20.219.177.38|3129|India|Pune|Microsoft Corporation|
-|8|103.145.200.13|6969|Indonesia|Jakarta|DNE|
-|9|213.59.141.76|58000|Russia|Vladivostok|Vladivostok Zelenaya Tochka|
-|10|92.60.190.74|8080|Ukraine|Kyiv|Wnet Ukraine LLC|
-|11|179.49.113.230|999|Honduras|San Pedro Sula|Asociacion De Servicio De Internet S. De RL|
-|12|190.12.95.170|47029|Peru|Lima|Optical Technologies S.A.C|
-|13|62.201.219.53|8186|Iraq|Zaxu|Suly|
-|14|176.236.191.17|3111|Turkey|Istanbul|Superonline Iletisim Hizmetleri A.S.|
-|15|45.124.184.13|80|India|Hyderabad|National Informatics Centre Services Incorporated|
-|16|138.94.76.86|8080|Brazil|Entre Ijuis|BrPhonia Provedor Ip Ltda|
-|17|164.92.105.75|2083|United States|Santa Clara|DigitalOcean, LLC|
-|18|178.210.51.118|8080|Russia|Voronezh|JSC KVANT-TELEKOM|
-|19|139.144.24.46|8080|United States|Atlanta|Akamai Technologies, Inc.|
-|20|81.169.204.107|8080|Germany|Berlin|Strato AG|
+|1|20.44.206.138|80|Singapore|Singapore|Microsoft Corporation|
+|2|213.171.44.134|3128|Russia|Moscow|JSC Comcor|
+|3|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|4|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|5|118.69.111.51|8080|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|6|117.251.103.186|8080|India|Hazratpur|BSNL Internet|
+|7|110.78.141.52|8080|Thailand|Chom Bueng|CAT-BB|
+|8|129.154.225.163|8100|India|Mumbai|Oracle Corporation|
+|9|103.162.63.198|8181|Indonesia|Cempaka Putih Barat|PT Ring Media Nusantara|
+|10|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|11|45.228.235.25|999|Guatemala|Guatemala City|Inversiones Grajeda Andrade S.A|
+|12|165.16.50.253|8080|Libya|Zliten|Aljeel Aljadeed For Technology|
+|13|180.191.14.210|8081|Philippines|Cabanatuan City|Globe Telecom|
+|14|103.77.50.135|8080|Indonesia|Bandung|STARNET|
+|15|135.125.68.145|3128|France|Roubaix|OVH SAS|
+|16|85.221.242.106|8080|Poland|Warsaw|INEA sp. z o.o.|
+|17|203.142.77.226|8080|Indonesia|Jakarta|BIZNET|
+|18|188.132.222.6|8080|Turkey|Istanbul|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|19|103.85.102.2|83|India|Mumbai|Vedant Broadband|
+|20|34.29.41.58|3128|United States|Council Bluffs|Google LLC|
 
 
 
