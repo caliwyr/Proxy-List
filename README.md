@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **8613** proxies at the latest update. Usable proxies are below.
+> Scraper found **8544** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|274|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|274|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|274|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|326|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|326|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|326|
 
 ## Sources
 
@@ -37,7 +37,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|6|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1081|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1012|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|498|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5945|✅|
@@ -49,24 +49,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|43.130.148.94|80|United States|Ashburn|Shenzhen Tencent Computer Systems Company Limited|
 |2|43.130.151.199|80|United States|Ashburn|Shenzhen Tencent Computer Systems Company Limited|
-|3|35.213.91.45|80|Japan|Tokyo|Google LLC|
+|3|192.99.182.243|3128|United States|New York|OVH Hosting|
 |4|168.235.85.81|18888|United States|Los Angeles|InMotion Hosting, Inc.|
-|5|190.82.110.102|80|Chile|Santiago|Telefonica Empresas|
-|6|20.44.206.138|80|Singapore|Singapore|Microsoft Corporation|
-|7|200.105.215.22|33630|Bolivia|La Paz|AXS Bolivia S. A.|
-|8|157.245.27.9|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|168.235.85.81|18888|United States|Los Angeles|InMotion Hosting, Inc.|
+|5|35.213.91.45|80|Japan|Tokyo|Google LLC|
+|6|47.251.48.42|8888|United States|Santa Clara|Alibaba.com LLC|
+|7|192.241.238.167|31028|United States|San Francisco|DigitalOcean, LLC|
+|8|20.44.206.138|80|Singapore|Singapore|Microsoft Corporation|
+|9|193.233.202.75|8080|United States|Ashburn|Alexhost SRL|
 |10|128.199.205.167|3128|Singapore|Singapore|DigitalOcean, LLC|
-|11|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
-|12|109.194.101.128|3128|Russia|Yoshkar-Ola|CJSC "ER-Telecom Holding" Yoshkar-Ola branch|
-|13|202.154.180.53|46717|Indonesia|Jakarta|PT Indonesia Comnets Plus|
-|14|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
-|15|139.144.24.46|8080|United States|Atlanta|Akamai Technologies, Inc.|
-|16|190.82.110.102|80|Chile|Santiago|Telefonica Empresas|
-|17|18.190.21.166|80|United States|Dublin|Amazon.com, Inc.|
-|18|117.251.103.186|8080|India|Hazratpur|BSNL Internet|
-|19|190.82.110.102|80|Chile|Santiago|Telefonica Empresas|
-|20|119.8.120.4|80|Hong Kong|Hong Kong|Huawei International Pte. LTD|
+|11|47.251.48.42|8888|United States|Santa Clara|Alibaba.com LLC|
+|12|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
+|13|168.235.85.81|18888|United States|Los Angeles|InMotion Hosting, Inc.|
+|14|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|15|45.160.148.103|8080|Brazil|Santa Izabel do Oeste|ASM EQUIPAMENTOS DE INFORMATICA LTDA|
+|16|154.209.253.83|8443|United States|Los Angeles|Shanghai Ruisu Network Technology|
+|17|103.118.124.137|6969|Indonesia|Jakarta|Tele|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|19|107.148.94.92|80|United States|Los Angeles|PEG TECH INC|
+|20|43.130.151.199|80|United States|Ashburn|Shenzhen Tencent Computer Systems Company Limited|
 
 
 
