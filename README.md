@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **8806** proxies at the latest update. Usable proxies are below.
+> Scraper found **8726** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -37,9 +37,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1085|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1049|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|561|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|517|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|6077|✅|
 
 
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|190.82.110.102|80|Chile|Santiago|Telefonica Empresas|
-|2|43.130.151.199|80|United States|Ashburn|Shenzhen Tencent Computer Systems Company Limited|
-|3|43.130.148.94|80|United States|Ashburn|Shenzhen Tencent Computer Systems Company Limited|
-|4|43.130.135.185|80|United States|Ashburn|Shenzhen Tencent Computer Systems Company Limited|
-|5|35.213.91.45|80|Japan|Tokyo|Google LLC|
-|6|117.251.103.186|8080|India|Hazratpur|BSNL Internet|
-|7|157.245.27.9|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|213.171.44.134|3128|Russia|Moscow|JSC Comcor|
-|9|203.160.174.82|8091|Philippines|Tagaytay|Philippine Telelgraph & Telephone|
-|10|20.44.206.138|80|Singapore|Singapore|Microsoft Corporation|
-|11|34.143.228.238|8080|Singapore|Singapore|Google LLC|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|43.130.135.185|80|United States|Ashburn|Shenzhen Tencent Computer Systems Company Limited|
-|14|146.196.54.75|80|Hong Kong|Kwun Tong|Layerstack Limited|
-|15|154.209.253.83|8443|United States|Los Angeles|Shanghai Ruisu Network Technology|
-|16|34.124.225.130|8080|Singapore|Singapore|Google LLC|
-|17|101.109.176.50|8080|Thailand|Bangkok|TOT Public Company Limited|
-|18|115.144.119.229|10204|South Korea|Mapo-gu|HAIonNet|
-|19|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|20|14.241.110.154|8080|Vietnam|Ninh Binh|VNPT|
+|1|43.130.148.94|80|United States|Ashburn|Shenzhen Tencent Computer Systems Company Limited|
+|2|43.130.135.185|80|United States|Ashburn|Shenzhen Tencent Computer Systems Company Limited|
+|3|43.130.151.199|80|United States|Ashburn|Shenzhen Tencent Computer Systems Company Limited|
+|4|35.213.91.45|80|Japan|Tokyo|Google LLC|
+|5|157.245.27.9|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|6|20.44.206.138|80|Singapore|Singapore|Microsoft Corporation|
+|7|117.251.103.186|8080|India|Hazratpur|BSNL Internet|
+|8|118.69.111.51|8080|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|9|43.130.135.185|80|United States|Ashburn|Shenzhen Tencent Computer Systems Company Limited|
+|10|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|101.109.176.50|8080|Thailand|Bangkok|TOT Public Company Limited|
+|13|64.225.4.29|9865|United States|Clifton|DigitalOcean, LLC|
+|14|154.209.253.83|8443|United States|Los Angeles|Shanghai Ruisu Network Technology|
+|15|112.217.162.5|3128|South Korea|Gyeyang-gu|LG DACOM Corporation|
+|16|142.190.148.86|8080|United States|Oxford|Uniti Fiber Holdings Inc.|
+|17|102.223.88.29|8080|Uganda|Kireka|Mobile Data|
+|18|43.130.123.112|80|United States|Ashburn|Shenzhen Tencent Computer Systems Company Limited|
+|19|43.130.148.94|80|United States|Ashburn|Shenzhen Tencent Computer Systems Company Limited|
+|20|35.213.91.45|80|Japan|Tokyo|Google LLC|
 
 
 
