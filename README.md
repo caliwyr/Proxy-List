@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **9106** proxies at the latest update. Usable proxies are below.
+> Scraper found **9102** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|388|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|388|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|388|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|533|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|533|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|533|
 
 ## Sources
 
@@ -37,7 +37,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1300|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1296|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|560|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|6163|✅|
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|185.161.70.117|20000|United States|Los Angeles|DediPath|
+|1|43.130.150.222|80|United States|Ashburn|Shenzhen Tencent Computer Systems Company Limited|
 |2|34.87.55.162|8080|Singapore|Singapore|Google LLC|
 |3|112.217.162.5|3128|South Korea|Gyeyang-gu|LG DACOM Corporation|
-|4|114.30.19.201|8080|South Korea|Paju|DLIVE|
-|5|213.171.44.134|3128|Russia|Moscow|JSC Comcor|
-|6|51.79.50.31|9300|Canada|Beauharnois|OVH SAS|
+|4|81.12.36.50|3128|Iran|Tehran|Respina Networks & Beyond PJSC|
+|5|103.92.26.190|4002|Vietnam|Quận Phú Nhuận|TLSOFT|
+|6|140.238.58.147|80|Japan|Tokyo|Oracle Corporation|
 |7|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
-|8|117.251.103.186|8080|India|Hazratpur|BSNL Internet|
-|9|103.92.26.190|4002|Vietnam|Quận Phú Nhuận|TLSOFT|
-|10|188.43.247.36|3128|Russia|Vladivostok|Joint Stock Company TransTeleCom|
-|11|46.29.165.166|8123|Russia|Kazan'|BNET|
-|12|64.225.8.191|9975|United States|Clifton|DigitalOcean, LLC|
-|13|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|14|103.147.73.133|8080|Indonesia|Jakarta|ALFATINDO|
-|15|67.225.139.153|3128|United States|Lansing|Liquid Web, L.L.C|
-|16|122.211.138.2|53128|Japan|Otemae|SUGOKURA|
-|17|47.251.48.42|8888|United States|Santa Clara|Alibaba.com LLC|
-|18|43.130.151.199|80|United States|Ashburn|Shenzhen Tencent Computer Systems Company Limited|
-|19|190.92.208.146|7890|Singapore|Singapore|Huawei International Pte. LTD|
-|20|193.233.202.75|8080|United States|Ashburn|Alexhost SRL|
+|8|188.43.247.36|3128|Russia|Vladivostok|Joint Stock Company TransTeleCom|
+|9|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|10|45.9.41.177|1080|Ukraine|Kyiv|Beget LLC|
+|11|67.225.139.153|3128|United States|Lansing|Liquid Web, L.L.C|
+|12|122.211.138.2|53128|Japan|Otemae|SUGOKURA|
+|13|148.113.6.138|3128|India|Mumbai|OVH SAS|
+|14|190.82.110.102|80|Chile|Santiago|Telefonica Empresas|
+|15|35.213.91.45|80|Japan|Tokyo|Google LLC|
+|16|20.120.240.49|80|United States|Quincy|Microsoft Corporation|
+|17|64.225.8.82|9986|United States|Clifton|DigitalOcean, LLC|
+|18|35.240.219.50|8080|Singapore|Singapore|Google LLC|
+|19|178.154.212.6|3128|Russia|Moscow|Yandex enterprise network|
+|20|122.211.138.2|53128|Japan|Otemae|SUGOKURA|
 
 
 
