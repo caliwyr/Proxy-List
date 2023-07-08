@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **8907** proxies at the latest update. Usable proxies are below.
+> Scraper found **8967** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|425|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|425|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|425|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|572|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|572|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|572|
 
 ## Sources
 
@@ -36,37 +36,37 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|3|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1209|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1267|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|503|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|6109|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|585|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|6032|✅|
 
 
 ## Sample Proxies With Geolocation Info
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|190.61.100.249|8080|Guatemala|Guatemala City|UFINET Guatemala S. A|
-|2|50.225.202.9|3128|United States|Brooklyn Park|Comcast Cable Communications, LLC|
-|3|50.225.202.9|3128|United States|Brooklyn Park|Comcast Cable Communications, LLC|
-|4|174.138.116.12|80|United States|Clifton|DigitalOcean, LLC|
-|5|133.186.229.93|3128|Japan|Chiyoda|NHNCLOUD|
-|6|158.69.53.98|9300|Canada|Montreal|OVH SAS|
-|7|51.79.50.31|9300|Canada|Beauharnois|OVH SAS|
-|8|152.200.189.94|999|Colombia|Bogotá|Colombia Telecomunicaciones S.a. ESP|
-|9|148.113.6.138|3128|India|Mumbai|OVH SAS|
-|10|117.251.103.186|8080|India|Hazratpur|BSNL Internet|
-|11|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|12|91.200.163.190|8088|Russia|Lyubertsy|Dubrovskaya Nataliya Vladislavovna|
-|13|152.67.46.249|3128|Brazil|São Paulo|Oracle Corporation|
-|14|8.209.114.72|3129|Germany|Frankfurt am Main|Alibaba.com Singapore E-Commerce Private Limited|
-|15|190.181.24.35|999|Bolivia|La Paz|AXS Bolivia S. A.|
-|16|200.105.215.22|33630|Bolivia|La Paz|AXS Bolivia S. A.|
-|17|43.130.135.185|80|United States|Ashburn|Shenzhen Tencent Computer Systems Company Limited|
-|18|171.5.13.205|8081|Thailand|Phuket|Triple T Broadband Public Company Limited|
-|19|154.209.253.83|8443|United States|Los Angeles|Shanghai Ruisu Network Technology|
-|20|125.25.40.41|32650|Thailand|Nong Yai|TOT Public Company Limited|
+|1|209.97.171.213|8888|Singapore|Singapore|DigitalOcean, LLC|
+|2|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|3|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|4|117.251.103.186|8080|India|Hazratpur|BSNL Internet|
+|5|20.219.183.188|3129|India|Pune|Microsoft Corporation|
+|6|112.217.162.5|3128|South Korea|Gyeyang-gu|LG DACOM Corporation|
+|7|20.219.177.38|3129|India|Pune|Microsoft Corporation|
+|8|103.145.200.13|6969|Indonesia|Jakarta|DNE|
+|9|213.59.141.76|58000|Russia|Vladivostok|Vladivostok Zelenaya Tochka|
+|10|92.60.190.74|8080|Ukraine|Kyiv|Wnet Ukraine LLC|
+|11|179.49.113.230|999|Honduras|San Pedro Sula|Asociacion De Servicio De Internet S. De RL|
+|12|190.12.95.170|47029|Peru|Lima|Optical Technologies S.A.C|
+|13|62.201.219.53|8186|Iraq|Zaxu|Suly|
+|14|176.236.191.17|3111|Turkey|Istanbul|Superonline Iletisim Hizmetleri A.S.|
+|15|45.124.184.13|80|India|Hyderabad|National Informatics Centre Services Incorporated|
+|16|138.94.76.86|8080|Brazil|Entre Ijuis|BrPhonia Provedor Ip Ltda|
+|17|164.92.105.75|2083|United States|Santa Clara|DigitalOcean, LLC|
+|18|178.210.51.118|8080|Russia|Voronezh|JSC KVANT-TELEKOM|
+|19|139.144.24.46|8080|United States|Atlanta|Akamai Technologies, Inc.|
+|20|81.169.204.107|8080|Germany|Berlin|Strato AG|
 
 
 
