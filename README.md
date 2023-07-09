@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **8478** proxies at the latest update. Usable proxies are below.
+> Scraper found **8435** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|462|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|462|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|462|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|387|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|387|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|387|
 
 ## Sources
 
@@ -36,10 +36,10 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|58|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1099|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1184|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|652|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|582|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5586|✅|
 
 
@@ -49,24 +49,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|43.130.156.214|80|United States|Ashburn|Shenzhen Tencent Computer Systems Company Limited|
 |2|43.130.122.190|80|United States|Ashburn|Shenzhen Tencent Computer Systems Company Limited|
-|3|109.194.101.128|3128|Russia|Yoshkar-Ola|CJSC "ER-Telecom Holding" Yoshkar-Ola branch|
-|4|51.79.50.31|9300|Canada|Beauharnois|OVH SAS|
-|5|154.209.253.83|8443|United States|Los Angeles|Shanghai Ruisu Network Technology|
-|6|101.109.176.139|8080|Thailand|Bangkok|TOT Public Company Limited|
+|3|158.69.53.98|9300|Canada|Montreal|OVH SAS|
+|4|88.99.234.110|2021|Germany|Falkenstein|Hetzner Online GmbH|
+|5|35.240.219.50|8080|Singapore|Singapore|Google LLC|
+|6|109.194.101.128|3128|Russia|Yoshkar-Ola|CJSC "ER-Telecom Holding" Yoshkar-Ola branch|
 |7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|209.45.90.173|8080|Peru|Lima|Econocable Media SAC|
-|9|43.130.122.190|80|United States|Ashburn|Shenzhen Tencent Computer Systems Company Limited|
-|10|139.144.24.46|8080|United States|Atlanta|Akamai Technologies, Inc.|
-|11|43.130.150.222|80|United States|Ashburn|Shenzhen Tencent Computer Systems Company Limited|
-|12|181.78.15.105|999|Colombia|Medellín|IFX Networks Argentina S.R.L|
-|13|103.114.219.115|3128|United States|Lenoir|Centrilogic, Inc.|
+|8|154.209.253.83|8443|United States|Los Angeles|Shanghai Ruisu Network Technology|
+|9|101.109.176.139|8080|Thailand|Bangkok|TOT Public Company Limited|
+|10|173.176.14.246|3128|Canada|Vaudreuil-Dorion|Le Groupe Videotron Ltee|
+|11|51.79.50.31|9300|Canada|Beauharnois|OVH SAS|
+|12|179.127.159.235|9090|Brazil|Conceicao das Alagoas|TCF Telecomunicações Campo Florido Ltda|
+|13|43.130.122.190|80|United States|Ashburn|Shenzhen Tencent Computer Systems Company Limited|
 |14|139.144.24.46|8080|United States|Atlanta|Akamai Technologies, Inc.|
-|15|190.2.212.20|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|16|189.201.164.91|999|Mexico|San Luis Potosí City|ATC HOLDING FIBRA MEXICO, S. DE R.L. DE C.V.|
-|17|158.69.53.98|9300|Canada|Montreal|OVH SAS|
-|18|35.240.156.235|8080|Singapore|Singapore|Google LLC|
-|19|51.79.50.22|9300|Canada|Beauharnois|OVH SAS|
-|20|34.87.55.162|8080|Singapore|Singapore|Google LLC|
+|15|64.225.8.82|9994|United States|Clifton|DigitalOcean, LLC|
+|16|35.213.91.45|80|Japan|Tokyo|Google LLC|
+|17|119.8.120.4|80|Hong Kong|Hong Kong|Huawei International Pte. LTD|
+|18|64.225.8.82|9994|United States|Clifton|DigitalOcean, LLC|
+|19|78.142.234.35|8080|Russia|Makhachkala|LTD "Erline"|
+|20|109.194.101.128|3128|Russia|Yoshkar-Ola|CJSC "ER-Telecom Holding" Yoshkar-Ola branch|
 
 
 
