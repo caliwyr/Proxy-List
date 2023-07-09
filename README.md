@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **8054** proxies at the latest update. Usable proxies are below.
+> Scraper found **8016** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|377|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|377|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|377|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|315|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|315|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|315|
 
 ## Sources
 
@@ -37,7 +37,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1169|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1131|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|442|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5360|✅|
@@ -48,25 +48,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|129.153.157.63|3128|United States|Ashburn|Oracle Corporation|
-|2|144.86.187.35|3128|United States|Malden|Charles River Operation|
-|3|107.148.94.92|80|United States|Los Angeles|PEG TECH INC|
-|4|34.36.96.83|3128|United States|Kansas City|Google LLC|
-|5|142.4.123.41|80|United States|San Jose|PEG TECH INC|
-|6|51.68.220.201|8080|United Kingdom|London|OVH SAS|
-|7|186.97.102.70|999|Colombia|Medellín|Colombia Móvil|
-|8|35.240.156.235|8080|Singapore|Singapore|Google LLC|
-|9|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
-|10|112.217.162.5|3128|South Korea|Gyeyang-gu|LG DACOM Corporation|
-|11|116.99.12.9|5002|Vietnam|Hanoi|Viettel Corporation|
-|12|103.92.26.190|4002|Vietnam|Quận Phú Nhuận|TLSOFT|
-|13|38.49.128.152|999|Mexico|Granadillas|Ientc S De RL De CV|
+|2|43.130.156.214|80|United States|Ashburn|Shenzhen Tencent Computer Systems Company Limited|
+|3|122.211.138.2|53128|Japan|Otemae|SUGOKURA|
+|4|51.254.115.58|3128|France|Strasbourg|OVH SAS|
+|5|144.86.187.35|3128|United States|Malden|Charles River Operation|
+|6|129.153.157.63|3128|United States|Ashburn|Oracle Corporation|
+|7|212.80.212.11|8080|Thailand|Nonthaburi|CAT Telecom Public Company Limited|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|45.174.249.45|999|Mexico|Morelia|Wifmax S.A de C.V.|
+|10|34.87.55.162|8080|Singapore|Singapore|Google LLC|
+|11|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
+|12|117.251.103.186|8080|India|Hazratpur|BSNL Internet|
+|13|45.166.16.228|8080|Venezuela|San Antonio de Los Altos|Servicios Catelca C.A|
 |14|200.105.215.22|33630|Bolivia|La Paz|AXS Bolivia S. A.|
-|15|20.44.206.138|80|Singapore|Singapore|Microsoft Corporation|
-|16|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|17|45.235.123.26|999|Paraguay|Ciudad del Este|Cenmont S.A|
-|18|117.251.103.186|8080|India|Hazratpur|BSNL Internet|
-|19|45.173.12.142|1994|Colombia|San Gil|Atenea Telecomunicaciones S.A.S|
-|20|178.62.254.6|3128|Netherlands|Amsterdam|DigitalOcean, LLC|
+|15|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|16|115.144.101.201|10001|South Korea|Mapo-gu|Korea Telecom|
+|17|34.133.176.86|3128|United States|Council Bluffs|Google LLC|
+|18|43.130.150.222|80|United States|Ashburn|Shenzhen Tencent Computer Systems Company Limited|
+|19|163.172.31.44|80|France|Paris|Online S.A.S.|
+|20|139.144.24.46|8080|United States|Atlanta|Akamai Technologies, Inc.|
 
 
 
