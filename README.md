@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **8032** proxies at the latest update. Usable proxies are below.
+> Scraper found **8052** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|299|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|299|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|299|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|370|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|370|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|370|
 
 ## Sources
 
@@ -37,9 +37,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1149|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1181|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|440|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|428|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5360|✅|
 
 
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
-|2|213.171.44.134|3128|Russia|Moscow|JSC Comcor|
-|3|136.243.55.199|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|4|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|5|110.34.3.229|3128|Nepal|Bharatpur|SUBISU C7|
-|6|94.206.196.1|8080|United Arab Emirates|Dubai|Emirates Integrated Telecommunications Company PJSC|
-|7|20.120.240.49|80|United States|Quincy|Microsoft Corporation|
-|8|35.213.91.45|80|Japan|Tokyo|Google LLC|
-|9|35.240.219.50|8080|Singapore|Singapore|Google LLC|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|113.53.231.133|3129|Thailand|Ban Pho|TOT Public Company Limited|
-|12|34.87.55.162|8080|Singapore|Singapore|Google LLC|
-|13|95.156.227.52|8080|Germany|Münster|combahton GmbH|
-|14|43.130.150.222|80|United States|Ashburn|Shenzhen Tencent Computer Systems Company Limited|
-|15|186.97.102.70|999|Colombia|Medellín|Colombia Móvil|
-|16|125.25.33.5|8080|Thailand|Chiang Mai|TOT Public Company Limited|
-|17|167.86.99.172|8080|Germany|Nuremberg|Contabo GmbH|
-|18|188.43.247.36|3128|Russia|Vladivostok|Joint Stock Company TransTeleCom|
-|19|146.196.54.68|80|Hong Kong|Kwun Tong|Layerstack Limited|
-|20|78.11.96.22|8080|Poland|Gora Kalwaria|Netia SA|
+|1|34.36.96.83|3128|United States|Kansas City|Google LLC|
+|2|142.4.123.41|80|United States|San Jose|PEG TECH INC|
+|3|148.251.155.126|3128|Germany|Gunzenhausen|Hetzner Online GmbH|
+|4|190.82.110.102|80|Chile|Santiago|Telefonica Empresas|
+|5|178.62.254.6|3128|Netherlands|Amsterdam|DigitalOcean, LLC|
+|6|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|7|45.173.12.142|1994|Colombia|San Gil|Atenea Telecomunicaciones S.A.S|
+|8|213.171.44.134|3128|Russia|Moscow|JSC Comcor|
+|9|50.236.203.15|8080|United States|Peru|Comcast Cable Communications, LLC|
+|10|34.36.96.83|3128|United States|Kansas City|Google LLC|
+|11|142.4.123.41|80|United States|San Jose|PEG TECH INC|
+|12|186.97.102.70|999|Colombia|Medellín|Colombia Móvil|
+|13|50.236.203.15|8080|United States|Peru|Comcast Cable Communications, LLC|
+|14|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
+|15|190.97.240.10|1994|Venezuela|Vigia|Viginet C.A|
+|16|186.201.63.83|3128|Brazil|São Paulo|Vivo|
+|17|168.227.11.17|8080|Brazil|Santa Luzia|Companhia Itabirana TelecomunicaÔÔes Ltda|
+|18|194.233.81.116|14344|Singapore|Singapore|Contabo Asia Private Limited|
+|19|136.243.55.199|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|20|125.25.33.5|8080|Thailand|Chiang Mai|TOT Public Company Limited|
 
 
 
