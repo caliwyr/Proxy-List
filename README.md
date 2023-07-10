@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **8363** proxies at the latest update. Usable proxies are below.
+> Scraper found **8356** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|207|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|207|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|207|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|229|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|229|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|229|
 
 ## Sources
 
@@ -37,7 +37,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|898|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|891|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|414|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5968|✅|
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|129.153.157.63|3128|United States|Ashburn|Oracle Corporation|
-|2|43.130.156.214|80|United States|Ashburn|Shenzhen Tencent Computer Systems Company Limited|
+|1|43.130.123.248|80|United States|Ashburn|Shenzhen Tencent Computer Systems Company Limited|
+|2|129.153.157.63|3128|United States|Ashburn|Oracle Corporation|
 |3|129.159.112.251|3128|United States|Ashburn|Oracle Corporation|
-|4|43.130.123.248|80|United States|Ashburn|Shenzhen Tencent Computer Systems Company Limited|
+|4|43.130.156.214|80|United States|Ashburn|Shenzhen Tencent Computer Systems Company Limited|
 |5|43.130.156.199|80|United States|Ashburn|Shenzhen Tencent Computer Systems Company Limited|
-|6|43.130.123.248|80|United States|Ashburn|Shenzhen Tencent Computer Systems Company Limited|
-|7|129.153.157.63|3128|United States|Ashburn|Oracle Corporation|
-|8|35.213.91.45|80|Japan|Tokyo|Google LLC|
+|6|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|7|43.130.123.248|80|United States|Ashburn|Shenzhen Tencent Computer Systems Company Limited|
+|8|129.153.157.63|3128|United States|Ashburn|Oracle Corporation|
 |9|129.159.112.251|3128|United States|Ashburn|Oracle Corporation|
-|10|157.245.27.9|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|34.154.161.152|80|Italy|Milan|Google LLC|
-|12|20.44.206.138|80|Singapore|Singapore|Microsoft Corporation|
-|13|200.37.203.123|999|Peru|Cajamarca|Telefonica del Peru S.A.A.|
-|14|144.86.187.35|3128|United States|Malden|Charles River Operation|
-|15|190.26.201.194|8080|Colombia|Bogotá|ETB - Colombia|
-|16|200.25.254.193|54240|Colombia|Neiva|Andinet ON Line|
-|17|43.130.123.248|80|United States|Ashburn|Shenzhen Tencent Computer Systems Company Limited|
-|18|190.2.212.20|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|19|129.153.157.63|3128|United States|Ashburn|Oracle Corporation|
-|20|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
+|10|35.213.91.45|80|Japan|Tokyo|Google LLC|
+|11|190.82.110.102|80|Chile|Santiago|Telefonica Empresas|
+|12|8.209.114.72|3129|Germany|Frankfurt am Main|Alibaba.com Singapore E-Commerce Private Limited|
+|13|144.86.187.35|3128|United States|Malden|Charles River Operation|
+|14|198.199.70.20|31028|United States|North Bergen|DigitalOcean, LLC|
+|15|129.159.112.251|3128|United States|Ashburn|Oracle Corporation|
+|16|139.144.24.46|8080|United States|Atlanta|Akamai Technologies, Inc.|
+|17|190.26.201.194|8080|Colombia|Bogotá|ETB - Colombia|
+|18|151.22.181.229|8080|Italy|Strongoli|INFOSTRADA|
+|19|43.130.156.214|80|United States|Ashburn|Shenzhen Tencent Computer Systems Company Limited|
+|20|190.82.110.102|80|Chile|Santiago|Telefonica Empresas|
 
 
 
