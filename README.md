@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **7785** proxies at the latest update. Usable proxies are below.
+> Scraper found **7817** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|304|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|304|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|304|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|307|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|307|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|307|
 
 ## Sources
 
@@ -36,8 +36,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|42|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|872|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|49|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|897|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|327|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5461|✅|
@@ -50,23 +50,23 @@ Click the file format that you want and copy the URL.
 |1|43.130.156.214|80|United States|Ashburn|Shenzhen Tencent Computer Systems Company Limited|
 |2|129.153.157.63|3128|United States|Ashburn|Oracle Corporation|
 |3|43.130.156.199|80|United States|Ashburn|Shenzhen Tencent Computer Systems Company Limited|
-|4|144.86.187.35|3128|United States|Malden|Charles River Operation|
-|5|144.86.187.38|3128|United States|Malden|Charles River Operation|
-|6|35.213.91.45|80|Japan|Tokyo|Google LLC|
-|7|128.199.98.232|3128|Singapore|Singapore|DigitalOcean, LLC|
-|8|117.251.103.186|8080|India|Hazratpur|BSNL Internet|
-|9|203.122.11.42|8080|India|Shāhpur|Shyam Spectra PVT LTD|
-|10|144.86.187.38|3128|United States|Malden|Charles River Operation|
-|11|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|12|129.153.157.63|3128|United States|Ashburn|Oracle Corporation|
-|13|185.103.128.138|8080|Iran|Tehran|Pishgaman Toseeh Ertebatat Company (Private Joint Stock)|
-|14|200.105.215.22|33630|Bolivia|La Paz|AXS Bolivia S. A.|
-|15|176.9.238.155|16379|Germany|Falkenstein|Hetzner|
-|16|139.144.24.46|8080|United States|Atlanta|Akamai Technologies, Inc.|
+|4|35.213.91.45|80|Japan|Tokyo|Google LLC|
+|5|144.86.187.35|3128|United States|Malden|Charles River Operation|
+|6|129.153.157.63|3128|United States|Ashburn|Oracle Corporation|
+|7|103.1.50.243|3125|Indonesia|Pasuruan|CPCNet Hong Kong Ltd. - IP Administrator|
+|8|164.92.105.75|2083|United States|Santa Clara|DigitalOcean, LLC|
+|9|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|10|43.130.156.199|80|United States|Ashburn|Shenzhen Tencent Computer Systems Company Limited|
+|11|103.169.254.186|8061|Indonesia|Curahjati|PT Master Star Network|
+|12|203.142.78.239|8080|Indonesia|Jakarta|BIZNET|
+|13|144.86.187.40|3128|United States|Malden|Charles River Operation|
+|14|144.86.187.44|3128|United States|Malden|Charles River Operation|
+|15|115.144.102.39|10080|South Korea|Mapo-gu|Korea Telecom|
+|16|144.86.187.47|3128|United States|Malden|Charles River Operation|
 |17|43.130.156.199|80|United States|Ashburn|Shenzhen Tencent Computer Systems Company Limited|
-|18|35.213.91.45|80|Japan|Tokyo|Google LLC|
-|19|164.92.105.75|2083|United States|Santa Clara|DigitalOcean, LLC|
-|20|144.86.187.40|3128|United States|Malden|Charles River Operation|
+|18|194.233.81.116|14344|Singapore|Singapore|Contabo Asia Private Limited|
+|19|194.233.81.116|14344|Singapore|Singapore|Contabo Asia Private Limited|
+|20|131.153.48.254|8080|Singapore|Singapore|Secured Servers LLC|
 
 
 
