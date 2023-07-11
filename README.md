@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **8149** proxies at the latest update. Usable proxies are below.
+> Scraper found **8297** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|390|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|390|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|390|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|362|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|362|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|362|
 
 ## Sources
 
@@ -37,7 +37,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|32|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1055|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1203|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|414|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5565|✅|
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.213.91.45|80|Japan|Tokyo|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|34.143.228.238|8080|Singapore|Singapore|Google LLC|
-|4|173.176.14.246|3128|Canada|Vaudreuil-Dorion|Le Groupe Videotron Ltee|
-|5|8.209.114.72|3129|Germany|Frankfurt am Main|Alibaba.com Singapore E-Commerce Private Limited|
-|6|85.113.55.123|8080|Russia|Samara|CJSC "ER-Telecom Holding" Samara branch|
-|7|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|8|202.40.177.69|80|Bangladesh|Azimpur|Ranks ITT|
-|9|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|10|38.51.234.106|999|Colombia|Bugalagrande|SP SISTEMAS PALACIOS LTDA|
-|11|82.165.184.53|80|Poland|Warsaw|IONOS SE|
-|12|129.159.112.251|3128|United States|Ashburn|Oracle Corporation|
-|13|200.82.238.153|999|Venezuela|San Carlos del Zulia|Corporación Telemic C.A.|
-|14|43.130.156.214|80|United States|Ashburn|Shenzhen Tencent Computer Systems Company Limited|
-|15|20.44.206.138|80|Singapore|Singapore|Microsoft Corporation|
-|16|158.69.185.37|3129|Canada|Montreal|OVH SAS|
-|17|41.76.145.136|3128|Mozambique|Maputo|VM  S.A|
-|18|148.251.155.179|3128|Germany|Gunzenhausen|Hetzner Online GmbH|
-|19|148.251.155.126|3128|Germany|Gunzenhausen|Hetzner Online GmbH|
-|20|103.74.121.88|3128|Vietnam|Đống Đa District|Branch of BachKim Network solutions jsc|
+|1|43.130.156.214|80|United States|Ashburn|Shenzhen Tencent Computer Systems Company Limited|
+|2|129.159.112.251|3128|United States|Ashburn|Oracle Corporation|
+|3|144.86.187.38|3128|United States|Malden|Charles River Operation|
+|4|69.30.215.230|3128|United States|Kansas City|WholeSale Internet, Inc.|
+|5|157.245.27.9|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|6|35.213.91.45|80|Japan|Tokyo|Google LLC|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|186.96.56.9|999|Mexico|Culiacán|Total Play Telecomunicaciones SA De CV|
+|9|200.105.215.22|33630|Bolivia|La Paz|AXS Bolivia S. A.|
+|10|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|11|69.30.215.230|3128|United States|Kansas City|WholeSale Internet, Inc.|
+|12|119.82.242.214|8080|Indonesia|Embongkaliasin|Indonesia Network Information Center|
+|13|109.167.134.253|30710|Russia|St Petersburg|JSC "ER-Telecom Holding"|
+|14|154.209.253.83|8443|United States|Los Angeles|Shanghai Ruisu Network Technology|
+|15|8.209.114.72|3129|Germany|Frankfurt am Main|Alibaba.com Singapore E-Commerce Private Limited|
+|16|95.137.240.30|60030|Georgia||EGRISI|
+|17|189.232.95.184|999|Mexico|Atitalaquia|Uninet S.A. de C.V.|
+|18|129.159.112.251|3128|United States|Ashburn|Oracle Corporation|
+|19|144.86.187.38|3128|United States|Malden|Charles River Operation|
+|20|124.198.40.131|11883|South Korea|Gwangmyeong|Korea Telecom|
 
 
 
