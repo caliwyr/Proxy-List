@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **8087** proxies at the latest update. Usable proxies are below.
+> Scraper found **7953** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|294|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|294|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|294|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|310|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|310|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|310|
 
 ## Sources
 
@@ -37,7 +37,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1172|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1038|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|404|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5428|✅|
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|129.153.157.63|3128|United States|Ashburn|Oracle Corporation|
-|2|68.183.53.101|9990|United States|Clifton|DigitalOcean, LLC|
-|3|195.133.45.149|7788|Russia|Moscow|VDS|
-|4|65.21.242.89|4444|Finland|Helsinki|Hetzner Online GmbH|
-|5|129.153.157.63|3128|United States|Ashburn|Oracle Corporation|
-|6|117.251.103.186|8080|India|Hazratpur|BSNL Internet|
-|7|129.159.112.251|3128|United States|Ashburn|Oracle Corporation|
-|8|8.209.114.72|3129|Germany|Frankfurt am Main|Alibaba.com Singapore E-Commerce Private Limited|
-|9|129.159.112.251|3128|United States|Ashburn|Oracle Corporation|
-|10|68.183.53.101|9990|United States|Clifton|DigitalOcean, LLC|
+|1|129.159.112.251|3128|United States|Ashburn|Oracle Corporation|
+|2|129.153.157.63|3128|United States|Ashburn|Oracle Corporation|
+|3|8.209.114.72|3129|Germany|Frankfurt am Main|Alibaba.com Singapore E-Commerce Private Limited|
+|4|129.159.112.251|3128|United States|Ashburn|Oracle Corporation|
+|5|65.21.242.89|4444|Finland|Helsinki|Hetzner Online GmbH|
+|6|129.153.157.63|3128|United States|Ashburn|Oracle Corporation|
+|7|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|8|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|9|36.90.172.233|8080|Indonesia|Kediri|PT. Telekomunikasi Indonesia|
+|10|173.176.14.246|3128|Canada|Vaudreuil-Dorion|Le Groupe Videotron Ltee|
 |11|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|12|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|13|14.207.145.32|8080|Thailand|Nakhon Pathom|Triple T Broadband Public Company Limited|
-|14|36.90.172.233|8080|Indonesia|Kediri|PT. Telekomunikasi Indonesia|
-|15|185.103.128.138|8080|Iran|Tehran|Pishgaman Toseeh Ertebatat Company (Private Joint Stock)|
-|16|142.93.223.219|8080|India|Bengaluru|DigitalOcean, LLC|
-|17|173.176.14.246|3128|Canada|Vaudreuil-Dorion|Le Groupe Videotron Ltee|
-|18|119.76.142.189|8080|Thailand|Nakhon Ratchasima|True Internet Co., Ltd.|
-|19|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|20|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
+|12|37.120.192.154|8080|Netherlands|Amsterdam|M247 Europe SRL|
+|13|68.183.53.101|9998|United States|Clifton|DigitalOcean, LLC|
+|14|185.252.29.234|8090|Iran|Tehran|Shabakeh Ertebatat Artak Towseeh LTD|
+|15|68.183.53.101|9998|United States|Clifton|DigitalOcean, LLC|
+|16|119.76.142.189|8080|Thailand|Nakhon Ratchasima|True Internet Co., Ltd.|
+|17|185.103.128.138|8080|Iran|Tehran|Pishgaman Toseeh Ertebatat Company (Private Joint Stock)|
+|18|95.216.114.142|80|Finland|Helsinki|Hetzner Online GmbH|
+|19|18.190.21.166|80|United States|Dublin|Amazon.com, Inc.|
+|20|35.213.91.45|80|Japan|Tokyo|Google LLC|
 
 
 
