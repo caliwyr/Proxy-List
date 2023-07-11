@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **8063** proxies at the latest update. Usable proxies are below.
+> Scraper found **8055** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|409|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|409|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|409|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|332|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|332|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|332|
 
 ## Sources
 
@@ -37,7 +37,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1148|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1140|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|470|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5362|✅|
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|129.159.112.251|3128|United States|Ashburn|Oracle Corporation|
-|2|129.159.112.251|3128|United States|Ashburn|Oracle Corporation|
-|3|35.213.91.45|80|Japan|Tokyo|Google LLC|
-|4|185.98.23.229|3128|France|Valence|ITMETRIX|
-|5|20.44.206.138|80|Singapore|Singapore|Microsoft Corporation|
-|6|178.234.31.40|3128|Russia|Lipetsk|Address point-to-point Lipetsk Regional Public Network BBN-3/1/1 General|
-|7|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|8|116.99.12.9|5002|Vietnam|Hanoi|Viettel Corporation|
-|9|217.61.247.50|3128|Sweden|Stockholm|Elastx AB|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|201.48.210.21|80|Brazil|São Paulo|ALGAR TELECOM S/A|
-|12|109.75.159.30|23607|Czechia|Prague|T-Mobile Czech Republic|
-|13|103.81.194.213|88|Indonesia|Bogor|PT Rtiga Global Media|
-|14|110.34.3.229|3128|Nepal|Bharatpur|SUBISU C7|
-|15|146.196.54.75|80|Hong Kong|Kwun Tong|Layerstack Limited|
-|16|50.116.41.119|3128|United States|Atlanta|Akamai Technologies, Inc.|
-|17|139.144.24.46|8080|United States|Atlanta|Akamai Technologies, Inc.|
-|18|51.159.115.233|3128|France|Paris|SCALEWAY|
-|19|103.144.146.40|34343|Indonesia|Tulungagung|Lexxa Data|
-|20|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|1|51.159.115.233|3128|France|Paris|SCALEWAY|
+|2|183.180.183.47|53128|Japan|Tottori-shi|ARTERIA Networks Corporation|
+|3|140.238.245.116|8100|India|Mumbai|Oracle Corporation|
+|4|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|6|183.82.100.253|3128|India|Hyderabad|Beam Telecom Pvt Ltd|
+|7|173.176.14.246|3128|Canada|Vaudreuil-Dorion|Le Groupe Videotron Ltee|
+|8|201.48.210.21|80|Brazil|São Paulo|ALGAR TELECOM S/A|
+|9|8.209.114.72|3129|Germany|Frankfurt am Main|Alibaba.com Singapore E-Commerce Private Limited|
+|10|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|11|192.99.182.243|3128|United States|New York|OVH Hosting|
+|12|129.159.112.251|3128|United States|Ashburn|Oracle Corporation|
+|13|139.144.24.46|8080|United States|Atlanta|Akamai Technologies, Inc.|
+|14|51.159.115.233|3128|France|Paris|SCALEWAY|
+|15|47.242.3.214|8081|Hong Kong|Hong Kong|Alibaba.com LLC|
+|16|103.3.246.215|3128|Vietnam|Tinh Binh Duong|VDATA|
+|17|183.221.242.107|8443|China|Mianyang|China Mobile|
+|18|180.184.91.187|443|China|Beijing|China Internet Network Information Center|
+|19|41.76.145.136|443|Mozambique|Maputo|VM  S.A|
+|20|8.209.114.72|3129|Germany|Frankfurt am Main|Alibaba.com Singapore E-Commerce Private Limited|
 
 
 
