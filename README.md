@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **7981** proxies at the latest update. Usable proxies are below.
+> Scraper found **7898** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|378|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|378|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|378|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|296|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|296|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|296|
 
 ## Sources
 
@@ -37,7 +37,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|980|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|897|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|457|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5461|✅|
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.130.156.199|80|United States|Ashburn|Shenzhen Tencent Computer Systems Company Limited|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|201.168.8.74|999|Mexico|Monterrey|Marcatel Com, S.A. de C.V.|
-|4|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
-|5|167.71.225.180|3128|India|Bengaluru|DigitalOcean, LLC|
-|6|71.14.23.121|8080|United States|Birmingham|Spectrum|
-|7|34.124.225.130|8080|Singapore|Singapore|Google LLC|
-|8|129.153.157.63|3128|United States|Ashburn|Oracle Corporation|
-|9|201.184.24.12|999|Colombia|Bogotá|EPM Telecomunicaciones S.A. E.S.P.|
-|10|45.169.145.247|999|Ecuador|Santo Domingo de los Colorados|Telealfacom Cia. Ltda.|
-|11|181.129.94.59|999|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
-|12|117.251.103.186|8080|India|Hazratpur|BSNL Internet|
+|1|129.153.157.63|3128|United States|Ashburn|Oracle Corporation|
+|2|43.130.156.199|80|United States|Ashburn|Shenzhen Tencent Computer Systems Company Limited|
+|3|167.71.225.180|3128|India|Bengaluru|DigitalOcean, LLC|
+|4|38.156.238.28|999|Dominican Republic|Santo Domingo|BITNET DOMINICANA, S.R.L.|
+|5|117.251.103.186|8080|India|Hazratpur|BSNL Internet|
+|6|201.184.24.12|999|Colombia|Bogotá|EPM Telecomunicaciones S.A. E.S.P.|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|20.44.206.138|80|Singapore|Singapore|Microsoft Corporation|
+|9|116.197.130.71|80|Indonesia|South Tangerang|PT. Fiber Networks Indonesia|
+|10|41.76.145.136|3128|Mozambique|Maputo|VM  S.A|
+|11|200.30.138.54|3128|El Salvador|San Salvador|Amnet Datos El Salvador|
+|12|115.144.99.220|11116|South Korea|Mapo-gu|HAIonNet|
 |13|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|14|103.179.138.255|8080|Indonesia|Ketos Dua|PT. Fiber Networks Indonesia|
-|15|112.217.162.5|3128|South Korea|Gyeyang-gu|LG DACOM Corporation|
-|16|186.121.214.210|32650|Bolivia|La Paz|AXS Bolivia S. A.|
-|17|129.153.157.63|3128|United States|Ashburn|Oracle Corporation|
-|18|200.46.65.66|8080|Panama|Panama City|Cable Onda|
-|19|93.123.16.188|3128|Bulgaria|Sofia|Ohost LLC|
-|20|185.103.128.138|8080|Iran|Tehran|Pishgaman Toseeh Ertebatat Company (Private Joint Stock)|
+|14|80.194.38.106|3333|United Kingdom|East Hyde|Virgin Media Limited|
+|15|129.153.157.63|3128|United States|Ashburn|Oracle Corporation|
+|16|38.56.70.75|999|Dominican Republic|Washington|Orbitek SRL|
+|17|203.150.128.224|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|18|103.168.123.2|8080|Indonesia|Jakarta|LINTASARTA|
+|19|147.139.168.187|3128|Indonesia|Jakarta|Alibaba.com LLC|
+|20|35.213.91.45|80|Japan|Tokyo|Google LLC|
 
 
 
