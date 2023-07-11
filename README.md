@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **7828** proxies at the latest update. Usable proxies are below.
+> Scraper found **7859** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|274|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|274|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|274|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|323|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|323|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|323|
 
 ## Sources
 
@@ -37,7 +37,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|973|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1004|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|410|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5362|✅|
@@ -49,24 +49,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|129.159.112.251|3128|United States|Ashburn|Oracle Corporation|
 |2|129.153.157.63|3128|United States|Ashburn|Oracle Corporation|
-|3|173.176.14.246|3128|Canada|Vaudreuil-Dorion|Le Groupe Videotron Ltee|
-|4|185.98.23.229|3128|France|Valence|ITMETRIX|
-|5|51.159.115.233|3128|France|Paris|SCALEWAY|
-|6|117.251.103.186|8080|India|Hazratpur|BSNL Internet|
-|7|35.213.91.45|80|Japan|Tokyo|Google LLC|
-|8|110.34.3.229|3128|Nepal|Bharatpur|SUBISU C7|
-|9|129.159.112.251|3128|United States|Ashburn|Oracle Corporation|
-|10|190.2.212.20|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|11|192.241.205.151|3129|United States|San Francisco|DigitalOcean, LLC|
-|12|190.2.212.20|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|13|35.213.91.45|80|Japan|Tokyo|Google LLC|
-|14|35.213.91.45|80|Japan|Tokyo|Google LLC|
-|15|154.70.107.81|3128|Cameroon|Douala|MTN Network Solutions (Cameroon)|
-|16|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|17|109.194.101.128|3128|Russia|Yoshkar-Ola|CJSC "ER-Telecom Holding" Yoshkar-Ola branch|
-|18|123.182.59.235|8089|China|Zhangjiakou|Chinanet|
-|19|183.221.242.103|9443|China|Mianyang|China Mobile|
-|20|124.198.40.131|11883|South Korea|Gwangmyeong|Korea Telecom|
+|3|20.151.176.41|3128|Canada|Toronto|Microsoft Corporation|
+|4|129.159.112.251|3128|United States|Ashburn|Oracle Corporation|
+|5|35.213.91.45|80|Japan|Tokyo|Google LLC|
+|6|104.251.222.111|3126|United States|Dallas|Nodisto IT, LLC|
+|7|217.61.247.50|3128|Sweden|Stockholm|Elastx AB|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|20.44.206.138|80|Singapore|Singapore|Microsoft Corporation|
+|10|129.153.157.63|3128|United States|Ashburn|Oracle Corporation|
+|11|154.209.253.83|8443|United States|Los Angeles|Shanghai Ruisu Network Technology|
+|12|173.176.14.246|3128|Canada|Vaudreuil-Dorion|Le Groupe Videotron Ltee|
+|13|154.73.28.89|8080|Libya|Tripoli|LTT Autonomous System|
+|14|118.70.12.171|53281|Vietnam|Hanoi|FPT Telecom Company|
+|15|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|16|176.9.104.196|5601|Germany|Falkenstein|Hetzner Online GmbH|
+|17|113.160.154.23|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|18|201.158.48.74|8080|Honduras|Tegucigalpa|Cablecolor S.A.|
+|19|96.95.164.43|3128|United States|Unionville|Comcast Cable Communications, LLC|
+|20|217.73.177.180|33077|Poland|Orzesze|PIRXNET|
 
 
 
