@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **7929** proxies at the latest update. Usable proxies are below.
+> Scraper found **7898** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|301|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|301|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|301|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|311|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|311|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|311|
 
 ## Sources
 
@@ -37,7 +37,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1022|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|991|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|396|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5428|✅|
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|213.171.44.134|3128|Russia|Moscow|JSC Comcor|
-|2|157.245.27.9|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|3|65.109.27.100|3128|Finland|Helsinki|Hetzner Online GmbH|
-|4|35.213.91.45|80|Japan|Tokyo|Google LLC|
-|5|158.69.27.94|9300|Canada|Montreal|OVH SAS|
-|6|117.251.103.186|8080|India|Hazratpur|BSNL Internet|
+|1|104.248.50.192|7771|United States|North Bergen|DigitalOcean, LLC|
+|2|192.241.238.167|31028|United States|San Francisco|DigitalOcean, LLC|
+|3|35.213.91.45|80|Japan|Tokyo|Google LLC|
+|4|65.109.27.100|3128|Finland|Helsinki|Hetzner Online GmbH|
+|5|117.251.103.186|8080|India|Hazratpur|BSNL Internet|
+|6|140.238.245.116|8100|India|Mumbai|Oracle Corporation|
 |7|20.44.206.138|80|Singapore|Singapore|Microsoft Corporation|
-|8|176.99.2.43|1081|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
-|9|35.240.156.235|8080|Singapore|Singapore|Google LLC|
-|10|146.196.54.75|80|Hong Kong|Kwun Tong|Layerstack Limited|
-|11|136.243.55.199|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|12|51.79.50.31|9300|Canada|Beauharnois|OVH SAS|
-|13|89.219.21.141|3128|Kazakhstan|Astana|CTC ASTANA LTD|
-|14|158.69.53.98|9300|Canada|Montreal|OVH SAS|
-|15|140.238.245.116|8100|India|Mumbai|Oracle Corporation|
-|16|144.217.131.61|3148|Canada|Beauharnois|OVH Hosting|
-|17|192.241.238.167|31028|United States|San Francisco|DigitalOcean, LLC|
-|18|158.69.185.37|3129|Canada|Montreal|OVH SAS|
-|19|112.217.162.5|3128|South Korea|Gyeyang-gu|LG DACOM Corporation|
-|20|87.238.253.68|80|Denmark|Galten|AZERO 2016 ApS|
+|8|14.194.101.221|3128|India|Ghaziabad|Tata Tele Services GSM|
+|9|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|10|46.246.4.17|8118|Sweden|Stockholm|Portlane Network|
+|11|158.69.53.132|9300|Canada|Montreal|OVH SAS|
+|12|185.252.29.234|8090|Iran|Tehran|Shabakeh Ertebatat Artak Towseeh LTD|
+|13|185.183.131.93|8080|Bulgaria|Sofia|G-Core Labs S.A.|
+|14|195.182.152.238|38178|Russia|St Petersburg|JSC "Severen-Telecom"|
+|15|112.217.162.5|3128|South Korea|Gyeyang-gu|LG DACOM Corporation|
+|16|129.159.112.251|3128|United States|Ashburn|Oracle Corporation|
+|17|139.144.24.46|8080|United States|Atlanta|Akamai Technologies, Inc.|
+|18|8.209.114.72|3129|Germany|Frankfurt am Main|Alibaba.com Singapore E-Commerce Private Limited|
+|19|95.56.254.139|3128|Kazakhstan|Almaty|JSC Kazakhtelecom|
+|20|117.251.103.186|8080|India|Hazratpur|BSNL Internet|
 
 
 
