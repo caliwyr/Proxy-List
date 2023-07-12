@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **8162** proxies at the latest update. Usable proxies are below.
+> Scraper found **8184** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|273|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|273|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|273|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|261|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|261|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|261|
 
 ## Sources
 
@@ -36,8 +36,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|937|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|16|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|943|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|378|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5764|✅|
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|129.159.112.251|3128|United States|Ashburn|Oracle Corporation|
-|2|129.153.157.63|3128|United States|Ashburn|Oracle Corporation|
-|3|51.159.115.233|3128|France|Paris|SCALEWAY|
-|4|129.153.157.63|3128|United States|Ashburn|Oracle Corporation|
+|1|129.153.157.63|3128|United States|Ashburn|Oracle Corporation|
+|2|129.159.112.251|3128|United States|Ashburn|Oracle Corporation|
+|3|47.243.178.61|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|35.213.91.45|80|Japan|Tokyo|Google LLC|
 |5|129.159.112.251|3128|United States|Ashburn|Oracle Corporation|
-|6|35.213.91.45|80|Japan|Tokyo|Google LLC|
-|7|117.251.103.186|8080|India|Hazratpur|BSNL Internet|
-|8|159.69.245.208|49905|Germany|Nuremberg|Hetzner Online GmbH|
-|9|177.234.209.128|999|Ecuador|Guayaquil|Nedetel S.A.|
-|10|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|11|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|12|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|13|186.0.237.108|999|Argentina|Buenos Aires|Silica Networks Argentina S.A.|
-|14|171.240.14.234|5000|Vietnam|Chờ|Viettel Corporation|
-|15|61.7.157.51|8080|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|16|139.144.24.46|8080|United States|Atlanta|Akamai Technologies, Inc.|
-|17|129.153.157.63|3128|United States|Ashburn|Oracle Corporation|
-|18|198.200.51.172|80|United States|San Jose|PEG TECH INC|
-|19|95.217.167.241|8080|Finland|Helsinki|Hetzner Online GmbH|
-|20|117.251.103.186|8080|India|Hazratpur|BSNL Internet|
+|6|129.153.157.63|3128|United States|Ashburn|Oracle Corporation|
+|7|157.245.27.9|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|8.209.114.72|3129|Germany|Frankfurt am Main|Alibaba.com Singapore E-Commerce Private Limited|
+|9|203.109.19.137|12241|South Korea|Mapo-gu|HAIonNet|
+|10|159.69.245.208|49905|Germany|Nuremberg|Hetzner Online GmbH|
+|11|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|12|117.251.103.186|8080|India|Hazratpur|BSNL Internet|
+|13|183.89.122.80|8081|Thailand|Nakhon Sawan|Triple T Broadband Public Company Limited|
+|14|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|15|186.0.237.108|999|Argentina|Buenos Aires|Silica Networks Argentina S.A.|
+|16|112.217.162.5|3128|South Korea|Gyeyang-gu|LG DACOM Corporation|
+|17|61.29.96.146|80|Australia|Melbourne|AAPT Limited|
+|18|164.152.47.99|9000|Brazil|São Paulo|Oracle Corporation|
+|19|180.183.128.233|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|20|45.175.252.18|999|Mexico|Chihuahua City|Alma Jessica Gallegos Gutierrez|
 
 
 
