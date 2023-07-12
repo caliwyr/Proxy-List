@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **7402** proxies at the latest update. Usable proxies are below.
+> Scraper found **8010** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -37,36 +37,36 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|865|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|917|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|346|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5108|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5664|✅|
 
 
 ## Sample Proxies With Geolocation Info
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.87.171.1|32650|India|Jaipur|Tejays|
-|2|140.238.245.116|8100|India|Mumbai|Oracle Corporation|
-|3|45.189.116.159|999|Peru|Lima|Fiber Digital S.R.L|
-|4|129.153.157.63|3128|United States|Ashburn|Oracle Corporation|
-|5|18.190.21.166|80|United States|Dublin|Amazon.com, Inc.|
-|6|34.70.74.78|3128|United States|Council Bluffs|Google LLC|
-|7|129.159.112.251|3128|United States|Ashburn|Oracle Corporation|
-|8|117.251.103.186|8080|India|Hazratpur|BSNL Internet|
-|9|24.192.227.234|8080|United States|Albion|WideOpenWest Finance LLC|
-|10|20.44.206.138|80|Singapore|Singapore|Microsoft Corporation|
-|11|34.70.74.78|3128|United States|Council Bluffs|Google LLC|
-|12|183.221.242.102|9443|China|Mianyang|China Mobile|
-|13|183.221.242.111|8443|China|Mianyang|China Mobile|
-|14|41.76.145.18|8080|Mozambique|Maputo|VM  S.A|
-|15|41.76.145.136|3128|Mozambique|Maputo|VM  S.A|
-|16|139.59.63.147|3128|India|Bengaluru|DigitalOcean|
-|17|41.76.145.18|8080|Mozambique|Maputo|VM  S.A|
-|18|183.221.242.103|9443|China|Mianyang|China Mobile|
-|19|123.126.158.50|80|China|Beijing|China Unicom Beijing Province Network|
-|20|35.213.91.45|80|Japan|Tokyo|Google LLC|
+|1|140.238.245.116|8100|India|Mumbai|Oracle Corporation|
+|2|18.190.21.166|80|United States|Dublin|Amazon.com, Inc.|
+|3|34.70.74.78|3128|United States|Council Bluffs|Google LLC|
+|4|35.213.91.45|80|Japan|Tokyo|Google LLC|
+|5|34.70.74.78|3128|United States|Council Bluffs|Google LLC|
+|6|34.154.161.152|80|Italy|Milan|Google LLC|
+|7|123.126.158.50|80|China|Beijing|China Unicom Beijing Province Network|
+|8|47.242.3.214|8081|Hong Kong|Hong Kong|Alibaba.com LLC|
+|9|117.251.103.186|8080|India|Hazratpur|BSNL Internet|
+|10|124.70.78.157|8000|China|Beijing|Huawei Cloud Service data center|
+|11|103.168.44.167|9191|Indonesia|Brebes|PT CYB Media Group|
+|12|190.121.207.183|999|Guatemala|Guatemala City|CENTRAL DE REDES Y COMUNICACIONES DE GUATEMALA, SOCIEDAD ANONIMA|
+|13|123.182.59.238|8089|China|Zhangjiakou|Chinanet|
+|14|183.221.242.102|9443|China|Mianyang|China Mobile|
+|15|202.154.18.132|8080|Indonesia|Lamongan|DIGITNET|
+|16|8.209.114.72|3129|Germany|Frankfurt am Main|Alibaba.com Singapore E-Commerce Private Limited|
+|17|35.213.91.45|80|Japan|Tokyo|Google LLC|
+|18|45.169.92.147|999|Peru|Lima|Wigo S.A.|
+|19|18.190.21.166|80|United States|Dublin|Amazon.com, Inc.|
+|20|45.70.236.137|999|Ecuador|Quevedo|Nedetel S.A.|
 
 
 
