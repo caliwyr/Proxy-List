@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|373|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|373|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|373|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|320|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|320|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|320|
 
 ## Sources
 
@@ -48,25 +48,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.84.106.205|8214|United States|Boydton|Microsoft Corporation|
-|2|129.159.112.251|3128|United States|Ashburn|Oracle Corporation|
-|3|129.153.157.63|3128|United States|Ashburn|Oracle Corporation|
-|4|186.97.102.67|999|Colombia|Medellín|Colombia Móvil|
-|5|122.211.138.2|53128|Japan|Otemae|SUGOKURA|
-|6|35.213.91.45|80|Japan|Tokyo|Google LLC|
-|7|158.69.53.98|9300|Canada|Montreal|OVH SAS|
-|8|20.44.206.138|80|Singapore|Singapore|Microsoft Corporation|
-|9|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|10|217.61.247.50|3128|Sweden|Stockholm|Elastx AB|
-|11|146.196.54.75|80|Hong Kong|Kwun Tong|Layerstack Limited|
-|12|185.200.37.11|8080|Turkey|Reyhanli|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|13|198.200.51.172|80|United States|San Jose|PEG TECH INC|
-|14|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
-|15|179.48.191.2|8088|Brazil|Goiânia|Libre Telecom Eireli|
-|16|136.243.55.199|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|17|20.84.106.205|8214|United States|Boydton|Microsoft Corporation|
-|18|95.216.72.139|8088|Finland|Helsinki|Hetzner Online GmbH|
-|19|124.121.99.137|8080|Thailand|Bangkok|TRUEBB|
-|20|129.159.112.251|3128|United States|Ashburn|Oracle Corporation|
+|2|18.190.21.166|80|United States|Dublin|Amazon.com, Inc.|
+|3|118.67.133.75|3128|South Korea|Seongnam-si|Naver Business Platform Asia Pacific Pte. Ltd.|
+|4|129.153.157.63|3128|United States|Ashburn|Oracle Corporation|
+|5|129.159.112.251|3128|United States|Ashburn|Oracle Corporation|
+|6|186.97.102.67|999|Colombia|Medellín|Colombia Móvil|
+|7|122.211.138.2|53128|Japan|Otemae|SUGOKURA|
+|8|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
+|9|180.183.228.217|8080|Thailand|Chiang Mai|Triple T Broadband Public Company Limited|
+|10|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
+|11|185.15.172.212|3128|Russia|Moscow|SafeData LLC|
+|12|158.69.53.98|9300|Canada|Montreal|OVH SAS|
+|13|20.84.106.205|8214|United States|Boydton|Microsoft Corporation|
+|14|129.159.112.251|3128|United States|Ashburn|Oracle Corporation|
+|15|129.153.157.63|3128|United States|Ashburn|Oracle Corporation|
+|16|18.190.21.166|80|United States|Dublin|Amazon.com, Inc.|
+|17|139.144.24.46|8080|United States|Atlanta|Akamai Technologies, Inc.|
+|18|139.144.24.46|8080|United States|Atlanta|Akamai Technologies, Inc.|
+|19|129.159.112.251|3128|United States|Ashburn|Oracle Corporation|
+|20|193.233.202.75|8080|United States|Ashburn|Alexhost SRL|
 
 
 
