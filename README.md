@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **8494** proxies at the latest update. Usable proxies are below.
+> Scraper found **8424** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|320|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|320|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|320|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|373|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|373|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|373|
 
 ## Sources
 
@@ -37,9 +37,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1000|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1008|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|435|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|357|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5976|✅|
 
 
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|129.159.112.251|3128|United States|Ashburn|Oracle Corporation|
-|2|129.153.157.63|3128|United States|Ashburn|Oracle Corporation|
-|3|157.245.27.9|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|4|129.159.112.251|3128|United States|Ashburn|Oracle Corporation|
-|5|35.213.91.45|80|Japan|Tokyo|Google LLC|
-|6|51.159.115.233|3128|France|Paris|SCALEWAY|
-|7|69.75.140.157|8080|United States|San Luis|Spectrum|
+|1|20.84.106.205|8214|United States|Boydton|Microsoft Corporation|
+|2|129.159.112.251|3128|United States|Ashburn|Oracle Corporation|
+|3|129.153.157.63|3128|United States|Ashburn|Oracle Corporation|
+|4|186.97.102.67|999|Colombia|Medellín|Colombia Móvil|
+|5|122.211.138.2|53128|Japan|Otemae|SUGOKURA|
+|6|35.213.91.45|80|Japan|Tokyo|Google LLC|
+|7|158.69.53.98|9300|Canada|Montreal|OVH SAS|
 |8|20.44.206.138|80|Singapore|Singapore|Microsoft Corporation|
-|9|103.114.219.186|3128|United States|Lenoir|Centrilogic, Inc.|
-|10|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|11|117.251.103.186|8080|India|Hazratpur|BSNL Internet|
-|12|167.114.96.13|9300|Canada|Montreal|OVH SAS|
-|13|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|14|82.165.184.53|80|Poland|Warsaw|IONOS SE|
-|15|136.243.55.199|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|16|129.153.157.63|3128|United States|Ashburn|Oracle Corporation|
-|17|128.199.6.201|10086|United States|Santa Clara|DigitalOcean, LLC|
-|18|103.169.254.186|8061|Indonesia|Curahjati|PT Master Star Network|
-|19|146.196.54.75|80|Hong Kong|Kwun Tong|Layerstack Limited|
-|20|36.88.170.170|8080|Indonesia|Bogor|PT. Telekomunikasi Indonesia|
+|9|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|10|217.61.247.50|3128|Sweden|Stockholm|Elastx AB|
+|11|146.196.54.75|80|Hong Kong|Kwun Tong|Layerstack Limited|
+|12|185.200.37.11|8080|Turkey|Reyhanli|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|13|198.200.51.172|80|United States|San Jose|PEG TECH INC|
+|14|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
+|15|179.48.191.2|8088|Brazil|Goiânia|Libre Telecom Eireli|
+|16|136.243.55.199|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|17|20.84.106.205|8214|United States|Boydton|Microsoft Corporation|
+|18|95.216.72.139|8088|Finland|Helsinki|Hetzner Online GmbH|
+|19|124.121.99.137|8080|Thailand|Bangkok|TRUEBB|
+|20|129.159.112.251|3128|United States|Ashburn|Oracle Corporation|
 
 
 
