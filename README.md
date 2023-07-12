@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|337|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|337|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|337|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|270|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|270|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|270|
 
 ## Sources
 
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|129.159.112.251|3128|United States|Ashburn|Oracle Corporation|
-|2|129.153.157.63|3128|United States|Ashburn|Oracle Corporation|
-|3|51.159.115.233|3128|France|Paris|SCALEWAY|
-|4|129.159.112.251|3128|United States|Ashburn|Oracle Corporation|
-|5|117.251.103.186|8080|India|Hazratpur|BSNL Internet|
-|6|113.53.60.226|8080|Thailand|Lat Krabang|TOT Public Company Limited|
-|7|158.69.185.37|3129|Canada|Montreal|OVH SAS|
-|8|157.245.27.9|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|201.244.127.210|8080|Colombia|Bogotá|ETB - Colombia|
-|12|144.217.119.85|3207|Canada|Beauharnois|OVH Hosting|
-|13|185.15.172.212|3128|Russia|Moscow|SafeData LLC|
-|14|46.29.165.166|8123|Russia|Kazan'|BNET|
-|15|200.105.215.22|33630|Bolivia|La Paz|AXS Bolivia S. A.|
-|16|110.74.221.48|8080|Cambodia|Phnom Penh|EZECOM limited|
-|17|129.153.157.63|3128|United States|Ashburn|Oracle Corporation|
-|18|35.213.91.45|80|Japan|Tokyo|Google LLC|
-|19|154.70.107.81|3128|Cameroon|Douala|MTN Network Solutions (Cameroon)|
-|20|129.159.112.251|3128|United States|Ashburn|Oracle Corporation|
+|1|66.29.156.100|80|United States|Phoenix|Namecheap, Inc.|
+|2|51.159.115.233|3128|France|Paris|SCALEWAY|
+|3|177.53.214.21|8080|Ecuador|Manta|Eliana Vanessa Morocho Oña|
+|4|203.142.86.234|8080|Indonesia|Tangerang|BIZNET|
+|5|103.114.219.170|3128|United States|Lenoir|Centrilogic, Inc.|
+|6|117.251.103.186|8080|India|Hazratpur|BSNL Internet|
+|7|113.53.60.226|8080|Thailand|Lat Krabang|TOT Public Company Limited|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|66.29.156.100|80|United States|Phoenix|Namecheap, Inc.|
+|10|20.151.176.41|3128|Canada|Toronto|Microsoft Corporation|
+|11|108.61.191.222|1994|United States|Piscataway|The Constant Company|
+|12|154.70.107.81|3128|Cameroon|Douala|MTN Network Solutions (Cameroon)|
+|13|66.29.156.100|80|United States|Phoenix|Namecheap, Inc.|
+|14|35.213.91.45|80|Japan|Tokyo|Google LLC|
+|15|41.76.145.18|443|Mozambique|Maputo|VM  S.A|
+|16|96.75.48.93|8080|United States|Highland|Comcast Cable Communications, LLC|
+|17|131.153.48.254|8080|Singapore|Singapore|Secured Servers LLC|
+|18|94.232.11.178|46449|Russia|Moscow|PJSC MegaFon|
+|19|217.61.247.50|3128|Sweden|Stockholm|Elastx AB|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 
 
 
