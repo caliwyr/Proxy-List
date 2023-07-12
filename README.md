@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **7369** proxies at the latest update. Usable proxies are below.
+> Scraper found **7327** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|158|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|158|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|158|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|170|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|170|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|170|
 
 ## Sources
 
@@ -37,7 +37,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|870|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|828|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|362|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5054|✅|
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.172.19.155|999|Argentina|Buenos Aires|Wireless Provider|
-|2|8.209.114.72|3129|Germany|Frankfurt am Main|Alibaba.com Singapore E-Commerce Private Limited|
-|3|50.225.202.9|3128|United States|Brooklyn Park|Comcast Cable Communications, LLC|
-|4|154.209.253.83|8443|United States|Los Angeles|Shanghai Ruisu Network Technology|
-|5|200.25.254.193|54240|Colombia|Neiva|Andinet ON Line|
-|6|129.153.157.63|3128|United States|Ashburn|Oracle Corporation|
-|7|190.26.201.194|8080|Colombia|Bogotá|ETB - Colombia|
-|8|20.44.206.138|80|Singapore|Singapore|Microsoft Corporation|
-|9|139.144.24.46|8080|United States|Atlanta|Akamai Technologies, Inc.|
-|10|129.153.157.63|3128|United States|Ashburn|Oracle Corporation|
-|11|123.126.158.50|80|China|Beijing|China Unicom Beijing Province Network|
-|12|129.159.112.251|3128|United States|Ashburn|Oracle Corporation|
-|13|129.159.112.251|3128|United States|Ashburn|Oracle Corporation|
-|14|183.221.242.103|9443|China|Mianyang|China Mobile|
-|15|61.29.96.146|8000|Australia|Melbourne|AAPT Limited|
-|16|103.6.177.174|8002|Hong Kong|Kowloon|HKBN Enterprise Solutions HK Limited|
-|17|154.209.253.83|8443|United States|Los Angeles|Shanghai Ruisu Network Technology|
+|1|23.152.40.21|3128|United States|North Miami|Host-Engine.com|
+|2|89.58.60.238|8080|Austria|Vienna|netcup GmbH|
+|3|23.152.40.21|3128|United States|North Miami|Host-Engine.com|
+|4|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|45.172.19.155|999|Argentina|Buenos Aires|Wireless Provider|
+|6|154.209.253.83|8443|United States|Los Angeles|Shanghai Ruisu Network Technology|
+|7|200.25.254.193|54240|Colombia|Neiva|Andinet ON Line|
+|8|129.153.157.63|3128|United States|Ashburn|Oracle Corporation|
+|9|23.152.40.21|3128|United States|North Miami|Host-Engine.com|
+|10|129.159.112.251|3128|United States|Ashburn|Oracle Corporation|
+|11|131.153.48.254|8080|Singapore|Singapore|Secured Servers LLC|
+|12|8.209.114.72|3129|Germany|Frankfurt am Main|Alibaba.com Singapore E-Commerce Private Limited|
+|13|41.76.145.18|443|Mozambique|Maputo|VM  S.A|
+|14|167.86.99.172|8080|Germany|Nuremberg|Contabo GmbH|
+|15|123.182.58.177|8089|China|Zhangjiakou|Chinanet|
+|16|194.233.81.116|14344|Singapore|Singapore|Contabo Asia Private Limited|
+|17|223.215.176.19|8089|China|Hefei|Chinanet|
 |18|41.76.145.18|443|Mozambique|Maputo|VM  S.A|
-|19|123.126.158.50|80|China|Beijing|China Unicom Beijing Province Network|
-|20|103.168.44.167|9191|Indonesia|Brebes|PT CYB Media Group|
+|19|154.209.253.83|8443|United States|Los Angeles|Shanghai Ruisu Network Technology|
+|20|117.157.197.18|3128|China|Shenzhen|China Mobile communications corporation|
 
 
 
