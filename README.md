@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **8274** proxies at the latest update. Usable proxies are below.
+> Scraper found **8329** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|322|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|322|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|322|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|317|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|317|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|317|
 
 ## Sources
 
@@ -36,8 +36,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|2|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|966|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1023|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|392|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5831|✅|
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.209.114.72|3129|Germany|Frankfurt am Main|Alibaba.com Singapore E-Commerce Private Limited|
-|2|20.44.206.138|80|Singapore|Singapore|Microsoft Corporation|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|1|129.159.112.251|3128|United States|Ashburn|Oracle Corporation|
+|2|129.159.112.251|3128|United States|Ashburn|Oracle Corporation|
+|3|8.209.114.72|3129|Germany|Frankfurt am Main|Alibaba.com Singapore E-Commerce Private Limited|
 |4|117.251.103.186|8080|India|Hazratpur|BSNL Internet|
-|5|112.217.162.5|3128|South Korea|Gyeyang-gu|LG DACOM Corporation|
-|6|182.253.94.104|8080|Indonesia|Depok|BIZNET|
-|7|217.61.247.50|3128|Sweden|Stockholm|Elastx AB|
-|8|202.12.80.7|83|India|Mangalore|Prisac Aviation Technologies Private Limited|
-|9|129.159.112.251|3128|United States|Ashburn|Oracle Corporation|
-|10|182.253.28.124|8080|Indonesia|Jakarta|Biznet Networks|
-|11|51.158.234.200|3128|France|Paris|SCALEWAY|
-|12|144.160.240.71|80|United States|Indianapolis|AT&T Services, Inc.|
-|13|129.153.157.63|3128|United States|Ashburn|Oracle Corporation|
-|14|51.158.239.75|3128|France|Paris|SCALEWAY|
-|15|23.152.40.21|3128|United States|North Miami|Host-Engine.com|
-|16|51.158.233.183|3128|France|Paris|SCALEWAY|
-|17|51.158.242.6|3128|France|Paris|SCALEWAY|
-|18|114.232.122.30|7890|China|Qinnan|Chinanet|
-|19|136.243.92.30|26541|Germany|Falkenstein|Hetzner Online GmbH|
-|20|51.158.234.200|3128|France|Paris|SCALEWAY|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|116.111.217.47|14050|Vietnam|Tan Tien|Viettel Corporation|
+|7|196.1.182.46|8080|Nigeria|Onipanu|eStream Networks|
+|8|103.20.184.162|8080|Indonesia|Bogor|PT 3D Tech|
+|9|118.173.230.246|8080|Thailand|Bang Kruai|TOT Public Company Limited|
+|10|112.217.162.5|3128|South Korea|Gyeyang-gu|LG DACOM Corporation|
+|11|202.138.239.184|1212|Indonesia|Bandung|PT Melvar Lintasnusa|
+|12|185.15.172.212|3128|Russia|Moscow|SafeData LLC|
+|13|5.78.105.97|8080|United States|Portland|Hetzner Online GmbH|
+|14|51.158.239.247|3128|France|Paris|SCALEWAY|
+|15|135.181.85.92|8080|Finland|Helsinki|Hetzner Online GmbH|
+|16|103.129.92.95|9995|Indonesia|Malang|PT. Eka Mas Republik|
+|17|23.152.40.21|3128|United States|North Miami|Host-Engine.com|
+|18|18.190.21.166|80|United States|Dublin|Amazon.com, Inc.|
+|19|20.120.240.49|80|United States|Quincy|Microsoft Corporation|
+|20|51.158.242.6|3128|France|Paris|SCALEWAY|
 
 
 
