@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **8293** proxies at the latest update. Usable proxies are below.
+> Scraper found **8308** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|305|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|305|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|305|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|310|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|310|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|310|
 
 ## Sources
 
@@ -37,7 +37,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|982|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|997|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|397|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5831|✅|
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|51.159.82.48|3128|France|Paris|SCALEWAY|
-|2|95.217.167.241|8080|Finland|Helsinki|Hetzner Online GmbH|
-|3|51.159.82.29|3128|France|Paris|SCALEWAY|
-|4|51.158.240.175|3128|France|Paris|SCALEWAY|
-|5|34.70.74.78|3128|United States|Council Bluffs|Google LLC|
-|6|51.158.242.37|3128|France|Paris|SCALEWAY|
+|1|129.159.112.251|3128|United States|Ashburn|Oracle Corporation|
+|2|51.159.82.48|3128|France|Paris|SCALEWAY|
+|3|51.159.82.108|3128|France|Paris|SCALEWAY|
+|4|51.158.242.37|3128|France|Paris|SCALEWAY|
+|5|51.159.82.29|3128|France|Paris|SCALEWAY|
+|6|51.158.239.75|3128|France|Paris|SCALEWAY|
 |7|51.158.242.6|3128|France|Paris|SCALEWAY|
-|8|51.158.239.75|3128|France|Paris|SCALEWAY|
-|9|129.159.112.251|3128|United States|Ashburn|Oracle Corporation|
-|10|51.159.82.108|3128|France|Paris|SCALEWAY|
-|11|198.200.51.172|80|United States|San Jose|PEG TECH INC|
-|12|178.154.212.6|3128|Russia|Moscow|Yandex enterprise network|
-|13|131.153.48.254|8080|Singapore|Singapore|Secured Servers LLC|
-|14|34.70.74.78|3128|United States|Council Bluffs|Google LLC|
-|15|94.110.148.115|3128|Belgium|Lauwe|Mobistar Cable|
-|16|129.159.112.251|3128|United States|Ashburn|Oracle Corporation|
-|17|198.200.51.172|80|United States|San Jose|PEG TECH INC|
-|18|117.251.103.186|8080|India|Hazratpur|BSNL Internet|
-|19|146.70.71.212|3128|Switzerland|Zurich|M247 Europe Infra|
-|20|194.233.81.116|14344|Singapore|Singapore|Contabo Asia Private Limited|
+|8|51.158.240.175|3128|France|Paris|SCALEWAY|
+|9|65.109.27.100|3128|Finland|Helsinki|Hetzner Online GmbH|
+|10|34.70.74.78|3128|United States|Council Bluffs|Google LLC|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|129.159.112.251|3128|United States|Ashburn|Oracle Corporation|
+|13|157.230.34.219|3128|Singapore|Singapore|DigitalOcean, LLC|
+|14|131.153.48.254|8080|Singapore|Singapore|Secured Servers LLC|
+|15|95.217.167.241|8080|Finland|Helsinki|Hetzner Online GmbH|
+|16|116.111.217.47|14050|Vietnam|Tan Tien|Viettel Corporation|
+|17|34.70.74.78|3128|United States|Council Bluffs|Google LLC|
+|18|96.95.164.43|3128|United States|Unionville|Comcast Cable Communications, LLC|
+|19|117.251.103.186|8080|India|Hazratpur|BSNL Internet|
+|20|201.184.24.12|999|Colombia|Bogotá|EPM Telecomunicaciones S.A. E.S.P.|
 
 
 
