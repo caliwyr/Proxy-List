@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|264|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|264|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|264|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|292|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|292|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|292|
 
 ## Sources
 
@@ -36,10 +36,10 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1047|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|24|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|981|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|363|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|405|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5787|✅|
 
 
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|20.44.206.138|80|Singapore|Singapore|Microsoft Corporation|
-|3|140.238.245.116|8100|India|Mumbai|Oracle Corporation|
+|1|129.153.157.63|3128|United States|Ashburn|Oracle Corporation|
+|2|103.170.115.180|8080|Indonesia|Bengkalis|PT Mega Data Akses|
+|3|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
 |4|117.251.103.186|8080|India|Hazratpur|BSNL Internet|
-|5|129.154.225.163|8100|India|Mumbai|Oracle Corporation|
-|6|185.103.128.138|8080|Iran|Tehran|Pishgaman Toseeh Ertebatat Company (Private Joint Stock)|
-|7|113.203.246.42|8080|Pakistan|Multan|Getlinks (SMC-Private) Limited|
-|8|129.159.112.251|3128|United States|Ashburn|Oracle Corporation|
-|9|129.153.157.63|3128|United States|Ashburn|Oracle Corporation|
-|10|201.91.248.67|20183|Brazil|São Paulo|Vivo|
-|11|125.25.82.146|8080|Thailand|Huai Thap Than|TOT Public Company Limited|
-|12|23.152.40.21|3128|United States|North Miami|Host-Engine.com|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|103.184.66.30|8181|Indonesia|Tarogong|PT Siber Tech Indonesia|
+|7|8.209.114.72|3129|Germany|Frankfurt am Main|Alibaba.com Singapore E-Commerce Private Limited|
+|8|185.103.128.138|8080|Iran|Tehran|Pishgaman Toseeh Ertebatat Company (Private Joint Stock)|
+|9|78.30.252.215|50932|Ukraine|Sevastopol|Lancom Ltd.|
+|10|36.92.70.209|8080|Indonesia|Jakarta Pusat|Telekomunikasi Indonesia|
+|11|129.153.157.63|3128|United States|Ashburn|Oracle Corporation|
+|12|103.74.121.88|3128|Vietnam|Đống Đa District|Branch of BachKim Network solutions jsc|
 |13|136.243.92.30|26541|Germany|Falkenstein|Hetzner Online GmbH|
-|14|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|16|183.221.242.107|8443|China|Mianyang|China Mobile|
-|17|202.86.138.18|8080|Macao|Macao|Companhia de Telecomunicacoes de Macau|
-|18|36.138.120.73|3128|China|Shenzhen|China Mobile|
-|19|129.159.112.251|3128|United States|Ashburn|Oracle Corporation|
-|20|195.140.146.228|3128|Russia|Khimki|JSC IOT|
+|14|40.127.181.25|33500|Ireland|Dublin|Microsoft Corporation|
+|15|129.159.112.251|3128|United States|Ashburn|Oracle Corporation|
+|16|148.251.155.126|3128|Germany|Gunzenhausen|Hetzner Online GmbH|
+|17|116.111.217.47|14050|Vietnam|Tan Tien|Viettel Corporation|
+|18|35.240.156.235|8080|Singapore|Singapore|Google LLC|
+|19|117.251.103.186|8080|India|Hazratpur|BSNL Internet|
+|20|180.184.91.187|443|China|Beijing|China Internet Network Information Center|
 
 
 
