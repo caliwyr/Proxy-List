@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **8404** proxies at the latest update. Usable proxies are below.
+> Scraper found **8569** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -36,8 +36,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|86|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|991|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|125|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1117|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|334|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5910|✅|
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|122.211.138.2|53128|Japan|Otemae|SUGOKURA|
-|2|47.243.178.61|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|35.240.156.235|8080|Singapore|Singapore|Google LLC|
-|4|117.251.103.186|8080|India|Hazratpur|BSNL Internet|
-|5|8.209.114.72|3129|Germany|Frankfurt am Main|Alibaba.com Singapore E-Commerce Private Limited|
-|6|51.159.115.233|3128|France|Paris|SCALEWAY|
-|7|154.209.253.83|8443|United States|Los Angeles|Shanghai Ruisu Network Technology|
-|8|112.217.162.5|3128|South Korea|Gyeyang-gu|LG DACOM Corporation|
-|9|45.7.24.102|3128|Brazil|Parauapebas|MBG TECNOLOGIA LTDA EPP|
-|10|125.229.149.168|65110|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|11|94.232.11.178|46449|Russia|Moscow|PJSC MegaFon|
-|12|14.161.24.81|2022|Vietnam|Di An|VNPT|
-|13|129.159.112.251|3128|United States|Ashburn|Oracle Corporation|
-|14|51.158.234.200|3128|France|Paris|SCALEWAY|
-|15|51.158.240.175|3128|France|Paris|SCALEWAY|
-|16|68.183.53.101|9986|United States|Clifton|DigitalOcean, LLC|
-|17|201.184.24.12|999|Colombia|Bogotá|EPM Telecomunicaciones S.A. E.S.P.|
-|18|34.70.74.78|3128|United States|Council Bluffs|Google LLC|
-|19|166.111.34.113|9300|China|Haidian|China Education and Research Network Center|
-|20|103.74.121.88|3128|Vietnam|Đống Đa District|Branch of BachKim Network solutions jsc|
+|1|129.159.112.251|3128|United States|Ashburn|Oracle Corporation|
+|2|129.153.157.63|3128|United States|Ashburn|Oracle Corporation|
+|3|192.241.238.167|31028|United States|San Francisco|DigitalOcean, LLC|
+|4|157.245.27.9|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|5|51.159.115.233|3128|France|Paris|SCALEWAY|
+|6|173.255.252.139|7890|United States|Fremont|Akamai Technologies, Inc.|
+|7|122.211.138.2|53128|Japan|Otemae|SUGOKURA|
+|8|35.213.91.45|80|Japan|Tokyo|Google LLC|
+|9|47.243.178.61|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|10|20.44.206.138|80|Singapore|Singapore|Microsoft Corporation|
+|11|116.111.217.47|14050|Vietnam|Tan Tien|Viettel Corporation|
+|12|200.25.254.193|54240|Colombia|Neiva|Andinet ON Line|
+|13|45.115.217.152|8080|Nepal|Kathmandu|Data Hub Pvt. Ltd.|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|15|129.153.157.63|3128|United States|Ashburn|Oracle Corporation|
+|16|185.15.172.212|3128|Russia|Moscow|SafeData LLC|
+|17|129.159.112.251|3128|United States|Ashburn|Oracle Corporation|
+|18|173.255.252.139|7890|United States|Fremont|Akamai Technologies, Inc.|
+|19|157.100.55.103|999|Ecuador|Guayaquil|Nedetel S.A.|
+|20|103.92.26.190|4002|Vietnam|Quận Phú Nhuận|TLSOFT|
 
 
 
