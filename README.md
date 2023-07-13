@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **8210** proxies at the latest update. Usable proxies are below.
+> Scraper found **8153** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|260|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|260|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|260|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|298|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|298|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|298|
 
 ## Sources
 
@@ -37,7 +37,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|981|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|924|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|359|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5787|✅|
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.199.98.232|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|129.153.157.63|3128|United States|Ashburn|Oracle Corporation|
-|3|117.251.103.186|8080|India|Hazratpur|BSNL Internet|
-|4|20.44.206.138|80|Singapore|Singapore|Microsoft Corporation|
+|1|129.153.157.63|3128|United States|Ashburn|Oracle Corporation|
+|2|117.251.103.186|8080|India|Hazratpur|BSNL Internet|
+|3|128.199.98.232|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|47.243.178.61|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |5|5.234.189.33|8080|Iran|Urmia|Iran Telecommunication Company PJS|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|103.169.254.186|8061|Indonesia|Curahjati|PT Master Star Network|
-|8|47.243.178.61|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|9|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|10|129.153.157.63|3128|United States|Ashburn|Oracle Corporation|
-|11|129.213.29.179|80|United States|Ashburn|Oracle Corporation|
-|12|201.184.24.12|999|Colombia|Bogotá|EPM Telecomunicaciones S.A. E.S.P.|
-|13|123.249.47.88|7890|China|Beijing|HWCSNET|
-|14|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
-|15|51.158.239.75|3128|France|Paris|SCALEWAY|
-|16|20.44.206.138|80|Singapore|Singapore|Microsoft Corporation|
-|17|51.158.239.247|3128|France|Paris|SCALEWAY|
-|18|129.153.157.63|3128|United States|Ashburn|Oracle Corporation|
-|19|183.221.242.103|9443|China|Mianyang|China Mobile|
-|20|157.230.241.133|34243|Singapore|Singapore|DigitalOcean, LLC|
+|6|20.44.206.138|80|Singapore|Singapore|Microsoft Corporation|
+|7|202.154.180.53|46717|Indonesia|Jakarta|PT Indonesia Comnets Plus|
+|8|129.159.112.251|3128|United States|Ashburn|Oracle Corporation|
+|9|129.159.112.251|3128|United States|Ashburn|Oracle Corporation|
+|10|139.144.24.46|8080|United States|Atlanta|Akamai Technologies, Inc.|
+|11|129.153.157.63|3128|United States|Ashburn|Oracle Corporation|
+|12|51.159.82.48|3128|France|Paris|SCALEWAY|
+|13|136.243.92.30|26541|Germany|Falkenstein|Hetzner Online GmbH|
+|14|91.185.236.135|8080|Russia|Yakutsk|Sakhatelecom|
+|15|117.103.168.70|8080|Indonesia|Yogyakarta|PT Pika Media Komunika|
+|16|139.144.24.46|8080|United States|Atlanta|Akamai Technologies, Inc.|
+|17|51.159.83.98|3128|France|Paris|SCALEWAY|
+|18|201.184.24.12|999|Colombia|Bogotá|EPM Telecomunicaciones S.A. E.S.P.|
+|19|117.251.103.186|8080|India|Hazratpur|BSNL Internet|
+|20|51.158.240.175|3128|France|Paris|SCALEWAY|
 
 
 
