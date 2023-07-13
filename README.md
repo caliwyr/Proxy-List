@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **8148** proxies at the latest update. Usable proxies are below.
+> Scraper found **8103** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|343|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|343|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|343|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|360|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|360|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|360|
 
 ## Sources
 
@@ -36,8 +36,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|14|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1031|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|15|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|985|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|345|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5675|✅|
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|158.160.56.149|8080|Russia|Moscow|Yandex.Cloud LLC|
-|2|157.245.27.9|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|3|8.209.114.72|3129|Germany|Frankfurt am Main|Alibaba.com Singapore E-Commerce Private Limited|
-|4|129.153.157.63|3128|United States|Ashburn|Oracle Corporation|
-|5|129.153.157.63|3128|United States|Ashburn|Oracle Corporation|
-|6|47.243.178.61|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|7|20.44.206.138|80|Singapore|Singapore|Microsoft Corporation|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|1|167.114.96.27|9300|Canada|Montreal|OVH SAS|
+|2|129.153.157.63|3128|United States|Ashburn|Oracle Corporation|
+|3|82.139.136.182|8080|Poland|Bialystok|Politechnika Bialostocka|
+|4|129.159.112.251|3128|United States|Ashburn|Oracle Corporation|
+|5|79.36.139.107|8080|Italy|Naples|INTERBUSINESS|
+|6|20.219.177.85|3129|India|Pune|Microsoft Corporation|
+|7|47.243.178.61|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|8|20.204.214.23|3129|India|Pune|Microsoft Corporation|
 |9|20.219.182.59|3129|India|Pune|Microsoft Corporation|
 |10|20.219.180.105|3129|India|Pune|Microsoft Corporation|
-|11|129.159.112.251|3128|United States|Ashburn|Oracle Corporation|
-|12|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|13|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|14|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|15|20.219.177.85|3129|India|Pune|Microsoft Corporation|
-|16|46.225.237.212|3128|Iran|Tehran|Dadeh Gostar Asr Novin P.J.S. Co.|
-|17|20.169.162.36|3128|United States|Boydton|Microsoft Corporation|
-|18|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|11|20.44.206.138|80|Singapore|Singapore|Microsoft Corporation|
+|12|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|13|8.209.114.72|3129|Germany|Frankfurt am Main|Alibaba.com Singapore E-Commerce Private Limited|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|15|146.196.54.75|80|Hong Kong|Kwun Tong|Layerstack Limited|
+|16|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|17|129.153.157.63|3128|United States|Ashburn|Oracle Corporation|
+|18|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
 |19|51.158.233.183|3128|France|Paris|SCALEWAY|
-|20|144.160.240.71|80|United States|Indianapolis|AT&T Services, Inc.|
+|20|64.225.8.121|9996|United States|Clifton|DigitalOcean, LLC|
 
 
 
