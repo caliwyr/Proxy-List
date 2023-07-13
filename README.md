@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **7531** proxies at the latest update. Usable proxies are below.
+> Scraper found **7559** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|329|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|329|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|329|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|234|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|234|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|234|
 
 ## Sources
 
@@ -36,10 +36,10 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|976|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|973|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|406|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|437|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5066|✅|
 
 
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|129.153.157.63|3128|United States|Ashburn|Oracle Corporation|
-|2|129.159.112.251|3128|United States|Ashburn|Oracle Corporation|
-|3|92.249.183.171|8080|Hungary|Kecskemét|DIGI Tavkozlesi es Szolgaltato Kft.|
-|4|8.209.114.72|3129|Germany|Frankfurt am Main|Alibaba.com Singapore E-Commerce Private Limited|
-|5|189.232.97.211|8080|Mexico|Tula de Allende|Uninet S.A. de C.V.|
-|6|20.44.206.138|80|Singapore|Singapore|Microsoft Corporation|
-|7|89.211.108.141|8080|Qatar|Doha|BRAS|
-|8|51.159.115.233|3128|France|Paris|SCALEWAY|
-|9|223.205.203.248|8080|Thailand|Kanchanadit|Triple T Broadband Public Company Limited|
-|10|129.159.112.251|3128|United States|Ashburn|Oracle Corporation|
-|11|180.246.55.45|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
-|12|187.157.243.254|8080|Mexico|Santa Ana Chiautempan|Uninet S.A. de C.V.|
-|13|129.153.157.63|3128|United States|Ashburn|Oracle Corporation|
-|14|157.245.27.9|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|15|101.109.61.16|8080|Thailand|Pattaya|TOT Public Company Limited|
-|16|2.187.186.67|8080|Iran|Qom|Iran Telecommunication Company PJS|
-|17|186.121.235.66|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|18|45.136.238.58|8080|Thailand|Nonthaburi|Siamdata Communication Co., ltd.|
-|19|114.4.226.251|8080|Indonesia|Jakarta Pusat|PT. INDOSAT Tbk|
-|20|116.206.124.222|8080|Thailand|Pak Phli|Bangmod Enterprise Co., Ltd.|
+|1|186.96.154.88|8080|Mexico|Techoh|Total Play Telecomunicaciones SA De CV|
+|2|34.154.161.152|80|Italy|Milan|Google LLC|
+|3|137.184.17.2|8080|United States|North Bergen|DigitalOcean, LLC|
+|4|117.251.103.186|8080|India|Hazratpur|BSNL Internet|
+|5|129.153.157.63|3128|United States|Ashburn|Oracle Corporation|
+|6|116.99.12.9|5002|Vietnam|Hanoi|Viettel Corporation|
+|7|209.141.62.12|5555|United States|Las Vegas|FranTech Solutions|
+|8|8.209.114.72|3129|Germany|Frankfurt am Main|Alibaba.com Singapore E-Commerce Private Limited|
+|9|20.44.206.138|80|Singapore|Singapore|Microsoft Corporation|
+|10|103.77.48.122|8080|Indonesia|Bandung|STARNET|
+|11|217.61.247.50|3128|Sweden|Stockholm|Elastx AB|
+|12|116.111.217.47|14050|Vietnam|Tan Tien|Viettel Corporation|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|14|89.211.108.141|8080|Qatar|Doha|BRAS|
+|15|185.103.128.138|8080|Iran|Tehran|Pishgaman Toseeh Ertebatat Company (Private Joint Stock)|
+|16|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|17|81.91.136.18|8080|Iran|Tehran|Datak Company LLC|
+|18|2.187.186.67|8080|Iran|Qom|Iran Telecommunication Company PJS|
+|19|149.50.255.215|8080|Turkey|Antakya|Veganet Teknolojileri ve Hizmetleri LTD STI|
+|20|79.129.68.0|8080|Greece|Athens|OTEnet|
 
 
 
