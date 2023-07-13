@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **8388** proxies at the latest update. Usable proxies are below.
+> Scraper found **8387** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|365|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|365|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|365|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|382|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|382|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|382|
 
 ## Sources
 
@@ -37,7 +37,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|35|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1096|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1095|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|343|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5831|✅|
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|129.153.157.63|3128|United States|Ashburn|Oracle Corporation|
+|1|129.159.112.251|3128|United States|Ashburn|Oracle Corporation|
 |2|129.159.112.251|3128|United States|Ashburn|Oracle Corporation|
-|3|8.209.114.72|3129|Germany|Frankfurt am Main|Alibaba.com Singapore E-Commerce Private Limited|
-|4|129.159.112.251|3128|United States|Ashburn|Oracle Corporation|
-|5|129.153.157.63|3128|United States|Ashburn|Oracle Corporation|
-|6|82.139.136.182|8080|Poland|Bialystok|Politechnika Bialostocka|
-|7|178.238.236.233|3128|Germany|Munich|Contabo GmbH|
-|8|51.159.115.233|3128|France|Paris|SCALEWAY|
-|9|135.181.156.140|8080|Finland|Helsinki|Hetzner Online GmbH|
-|10|117.251.103.186|8080|India|Hazratpur|BSNL Internet|
+|3|217.61.247.50|3128|Sweden|Stockholm|Elastx AB|
+|4|129.153.157.63|3128|United States|Ashburn|Oracle Corporation|
+|5|178.238.236.233|3128|Germany|Munich|Contabo GmbH|
+|6|135.181.156.140|8080|Finland|Helsinki|Hetzner Online GmbH|
+|7|82.139.136.182|8080|Poland|Bialystok|Politechnika Bialostocka|
+|8|116.111.217.47|14050|Vietnam|Tan Tien|Viettel Corporation|
+|9|117.251.103.186|8080|India|Hazratpur|BSNL Internet|
+|10|157.100.55.102|999|Ecuador|Guayaquil|Nedetel S.A.|
 |11|193.233.202.75|8080|United States|Ashburn|Alexhost SRL|
-|12|116.111.217.47|14050|Vietnam|Tan Tien|Viettel Corporation|
-|13|79.111.13.155|50625|Russia|Moscow|PJSC MegaFon|
-|14|140.238.245.116|8100|India|Mumbai|Oracle Corporation|
-|15|103.191.240.180|3128|Bangladesh|Dhaka|Wolast Technologies|
-|16|112.217.162.5|3128|South Korea|Gyeyang-gu|LG DACOM Corporation|
-|17|51.159.82.108|3128|France|Paris|SCALEWAY|
-|18|201.184.24.12|999|Colombia|Bogotá|EPM Telecomunicaciones S.A. E.S.P.|
-|19|138.219.129.141|8080|Brazil|Boa Vista|InfoRR Solucoes em Tecnologia|
-|20|217.61.247.50|3128|Sweden|Stockholm|Elastx AB|
+|12|112.217.162.5|3128|South Korea|Gyeyang-gu|LG DACOM Corporation|
+|13|110.78.164.224|8888|Thailand|Bangkok|CAT-BB|
+|14|51.159.115.233|3128|France|Paris|SCALEWAY|
+|15|193.233.202.75|8080|United States|Ashburn|Alexhost SRL|
+|16|140.238.245.116|8100|India|Mumbai|Oracle Corporation|
+|17|129.153.157.63|3128|United States|Ashburn|Oracle Corporation|
+|18|103.167.69.242|8080|Indonesia|Bandung|PT Kataji Nukami Indonesia|
+|19|103.191.240.180|3128|Bangladesh|Dhaka|Wolast Technologies|
+|20|200.127.68.144|8080|Argentina|Mar del Plata|Telecom Argentina S.A.|
 
 
 
