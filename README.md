@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **8337** proxies at the latest update. Usable proxies are below.
+> Scraper found **8338** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|316|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|316|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|316|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|325|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|325|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|325|
 
 ## Sources
 
@@ -37,7 +37,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|2|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1029|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1030|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|392|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5831|✅|
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.44.206.138|80|Singapore|Singapore|Microsoft Corporation|
-|2|129.159.112.251|3128|United States|Ashburn|Oracle Corporation|
-|3|129.153.157.63|3128|United States|Ashburn|Oracle Corporation|
-|4|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|117.251.103.186|8080|India|Hazratpur|BSNL Internet|
+|1|34.154.161.152|80|Italy|Milan|Google LLC|
+|2|117.251.103.186|8080|India|Hazratpur|BSNL Internet|
+|3|8.209.114.72|3129|Germany|Frankfurt am Main|Alibaba.com Singapore E-Commerce Private Limited|
+|4|112.217.162.5|3128|South Korea|Gyeyang-gu|LG DACOM Corporation|
+|5|185.15.172.212|3128|Russia|Moscow|SafeData LLC|
 |6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|112.217.162.5|3128|South Korea|Gyeyang-gu|LG DACOM Corporation|
-|8|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|9|217.61.247.50|3128|Sweden|Stockholm|Elastx AB|
-|10|8.209.114.72|3129|Germany|Frankfurt am Main|Alibaba.com Singapore E-Commerce Private Limited|
-|11|190.92.208.146|7890|Singapore|Singapore|Huawei International Pte. LTD|
-|12|167.249.29.218|999|Chile|Santiago|Grupo Metrowan Telecom SPA|
-|13|190.152.182.150|41890|Ecuador|Quito|Corporacion Nacional De Telecomunicaciones - CNT EP|
-|14|185.15.172.212|3128|Russia|Moscow|SafeData LLC|
-|15|129.159.112.251|3128|United States|Ashburn|Oracle Corporation|
-|16|129.153.157.63|3128|United States|Ashburn|Oracle Corporation|
-|17|200.25.254.193|54240|Colombia|Neiva|Andinet ON Line|
-|18|144.160.240.71|80|United States|Indianapolis|AT&T Services, Inc.|
-|19|51.158.234.200|3128|France|Paris|SCALEWAY|
-|20|38.51.234.106|999|Colombia|Bugalagrande|SP SISTEMAS PALACIOS LTDA|
+|7|103.17.213.102|8080|Cambodia|Phnom Penh|WiCAM Corporation Ltd|
+|8|129.153.157.63|3128|United States|Ashburn|Oracle Corporation|
+|9|139.144.24.46|8080|United States|Atlanta|Akamai Technologies, Inc.|
+|10|51.158.234.200|3128|France|Paris|SCALEWAY|
+|11|51.158.239.75|3128|France|Paris|SCALEWAY|
+|12|23.152.40.21|3128|United States|North Miami|Host-Engine.com|
+|13|51.15.49.234|3128|Netherlands|Amsterdam|Online SAS NL|
+|14|51.158.240.59|3128|France|Paris|SCALEWAY|
+|15|62.210.135.99|80|France|Paris|Online S.A.S.|
+|16|136.243.92.30|26541|Germany|Falkenstein|Hetzner Online GmbH|
+|17|198.200.51.172|80|United States|San Jose|PEG TECH INC|
+|18|114.232.122.30|7890|China|Qinnan|Chinanet|
+|19|182.253.94.104|8080|Indonesia|Depok|BIZNET|
+|20|114.132.168.187|8080|China|Langfang|CNC Group CHINA169 Hebei Province network|
 
 
 
