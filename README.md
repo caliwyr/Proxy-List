@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **8252** proxies at the latest update. Usable proxies are below.
+> Scraper found **8388** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|353|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|353|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|353|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|365|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|365|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|365|
 
 ## Sources
 
@@ -36,8 +36,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|31|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|964|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|35|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1096|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|343|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5831|✅|
@@ -47,26 +47,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|129.159.112.251|3128|United States|Ashburn|Oracle Corporation|
-|2|129.153.157.63|3128|United States|Ashburn|Oracle Corporation|
-|3|82.139.136.182|8080|Poland|Bialystok|Politechnika Bialostocka|
+|1|129.153.157.63|3128|United States|Ashburn|Oracle Corporation|
+|2|129.159.112.251|3128|United States|Ashburn|Oracle Corporation|
+|3|8.209.114.72|3129|Germany|Frankfurt am Main|Alibaba.com Singapore E-Commerce Private Limited|
 |4|129.159.112.251|3128|United States|Ashburn|Oracle Corporation|
-|5|135.181.156.140|8080|Finland|Helsinki|Hetzner Online GmbH|
-|6|129.153.157.63|3128|United States|Ashburn|Oracle Corporation|
+|5|129.153.157.63|3128|United States|Ashburn|Oracle Corporation|
+|6|82.139.136.182|8080|Poland|Bialystok|Politechnika Bialostocka|
 |7|178.238.236.233|3128|Germany|Munich|Contabo GmbH|
-|8|164.152.47.99|9000|Brazil|São Paulo|Oracle Corporation|
-|9|117.251.103.186|8080|India|Hazratpur|BSNL Internet|
-|10|116.111.217.47|14050|Vietnam|Tan Tien|Viettel Corporation|
-|11|167.114.96.27|9300|Canada|Montreal|OVH SAS|
-|12|144.217.131.61|3148|Canada|Beauharnois|OVH Hosting|
-|13|115.144.101.201|10001|South Korea|Mapo-gu|Korea Telecom|
-|14|89.219.21.141|3128|Kazakhstan|Astana|CTC ASTANA LTD|
-|15|95.0.90.243|8080|Turkey|Istanbul|Turk Telekomunikasyon Anonim Sirketi|
-|16|8.209.114.72|3129|Germany|Frankfurt am Main|Alibaba.com Singapore E-Commerce Private Limited|
-|17|103.191.240.180|3128|Bangladesh|Dhaka|Wolast Technologies|
-|18|112.217.162.5|3128|South Korea|Gyeyang-gu|LG DACOM Corporation|
-|19|186.121.235.222|8080|Bolivia|La Paz|AXS Bolivia S. A.|
-|20|45.182.176.38|9947|Brazil|São Paulo|Evolucao Telecom Ltda|
+|8|51.159.115.233|3128|France|Paris|SCALEWAY|
+|9|135.181.156.140|8080|Finland|Helsinki|Hetzner Online GmbH|
+|10|117.251.103.186|8080|India|Hazratpur|BSNL Internet|
+|11|193.233.202.75|8080|United States|Ashburn|Alexhost SRL|
+|12|116.111.217.47|14050|Vietnam|Tan Tien|Viettel Corporation|
+|13|79.111.13.155|50625|Russia|Moscow|PJSC MegaFon|
+|14|140.238.245.116|8100|India|Mumbai|Oracle Corporation|
+|15|103.191.240.180|3128|Bangladesh|Dhaka|Wolast Technologies|
+|16|112.217.162.5|3128|South Korea|Gyeyang-gu|LG DACOM Corporation|
+|17|51.159.82.108|3128|France|Paris|SCALEWAY|
+|18|201.184.24.12|999|Colombia|Bogotá|EPM Telecomunicaciones S.A. E.S.P.|
+|19|138.219.129.141|8080|Brazil|Boa Vista|InfoRR Solucoes em Tecnologia|
+|20|217.61.247.50|3128|Sweden|Stockholm|Elastx AB|
 
 
 
