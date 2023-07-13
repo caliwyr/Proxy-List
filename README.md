@@ -13,7 +13,7 @@
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **8063** proxies at the latest update. Usable proxies are below.
+> Scraper found **8014** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -21,9 +21,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|249|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|249|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|249|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|258|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|258|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|258|
 
 ## Sources
 
@@ -37,7 +37,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|4|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|916|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|867|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|385|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|5675|✅|
@@ -48,25 +48,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|129.153.157.63|3128|United States|Ashburn|Oracle Corporation|
-|2|116.111.217.47|14050|Vietnam|Tan Tien|Viettel Corporation|
-|3|117.251.103.186|8080|India|Hazratpur|BSNL Internet|
-|4|217.61.247.50|3128|Sweden|Stockholm|Elastx AB|
-|5|181.10.204.85|999|Argentina|Catamarca|Telecom Argentina S.A.|
-|6|20.44.206.138|80|Singapore|Singapore|Microsoft Corporation|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|129.159.112.251|3128|United States|Ashburn|Oracle Corporation|
-|9|47.243.178.61|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|10|129.153.157.63|3128|United States|Ashburn|Oracle Corporation|
-|11|129.153.157.63|3128|United States|Ashburn|Oracle Corporation|
+|2|47.243.178.61|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|4|117.251.103.186|8080|India|Hazratpur|BSNL Internet|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|129.159.112.251|3128|United States|Ashburn|Oracle Corporation|
+|7|116.111.217.47|14050|Vietnam|Tan Tien|Viettel Corporation|
+|8|129.153.157.63|3128|United States|Ashburn|Oracle Corporation|
+|9|129.153.157.63|3128|United States|Ashburn|Oracle Corporation|
+|10|129.159.112.251|3128|United States|Ashburn|Oracle Corporation|
+|11|217.61.247.50|3128|Sweden|Stockholm|Elastx AB|
 |12|144.160.240.71|80|United States|Indianapolis|AT&T Services, Inc.|
-|13|51.158.242.37|3128|France|Paris|SCALEWAY|
-|14|51.158.239.247|3128|France|Paris|SCALEWAY|
-|15|192.241.205.151|3129|United States|San Francisco|DigitalOcean, LLC|
-|16|129.159.112.251|3128|United States|Ashburn|Oracle Corporation|
-|17|18.190.21.166|80|United States|Dublin|Amazon.com, Inc.|
-|18|129.153.157.63|3128|United States|Ashburn|Oracle Corporation|
-|19|116.111.217.47|14050|Vietnam|Tan Tien|Viettel Corporation|
-|20|213.74.163.181|8080|Turkey|Ankara|Superonline Iletisim Hizmetleri A.S.|
+|13|23.152.40.15|3128|United States|North Miami|Host-Engine.com|
+|14|201.184.24.12|999|Colombia|Bogotá|EPM Telecomunicaciones S.A. E.S.P.|
+|15|185.172.212.233|8080|Iran|Tehran|Lesun|
+|16|51.158.240.175|3128|France|Paris|SCALEWAY|
+|17|128.199.170.182|31280|Singapore|Singapore|DigitalOcean, LLC|
+|18|47.243.178.61|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|19|51.158.242.37|3128|France|Paris|SCALEWAY|
+|20|51.159.82.69|3128|France|Paris|SCALEWAY|
 
 
 
